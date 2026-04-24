@@ -1,0 +1,51 @@
+name: Internship Job Alert
+
+on:
+  schedule:
+    # Runs every 10 minutes
+    # GitHub Actions minimum is 5 min, but 10 min is more reliable
+    - cron: "*/10 * * * *"
+
+  # Allow manual trigger from GitHub UI for testing
+  workflow_dispatch:
+
+jobs:
+  check-jobs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit seen_jobs.json back
+
+    steps:
+      # 1. Checkout repo
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Set up Node.js
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      # 3. Install dependencies
+      - name: Install dependencies
+        run: npm install
+
+      # 4. Run the alert checker
+      - name: Run job checker
+        env:
+          GMAIL_USER:         ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          ALERT_EMAIL:        ${{ secrets.ALERT_EMAIL }}
+        run: node checker.js
+
+      # 5. Commit updated seen_jobs.json so next run knows what was already seen
+      - name: Commit seen_jobs.json
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add seen_jobs.json
+          git diff --staged --quiet || git commit -m "chore: update seen_jobs [skip ci]"
+          git push

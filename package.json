@@ -1,0 +1,16 @@
+{
+  "name": "internship-alert",
+  "version": "1.0.0",
+  "description": "Automated internship job alert system",
+  "main": "checker.js",
+  "scripts": {
+    "start": "node checker.js",
+    "test": "node checker.js --dry-run"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0",
+    "dotenv": "^17.4.2",
+    "nodemailer": "^8.0.5"
+  }
+}
