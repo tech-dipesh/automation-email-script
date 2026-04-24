@@ -9,7 +9,7 @@
 import "dotenv/config"
 
 import { createTransport } from "nodemailer";
-import { create } from "axios";
+import axios from "axios";
 import { load } from "cheerio";
 import { readFileSync, writeFileSync } from "fs";
 
@@ -94,7 +94,7 @@ function htmlToText(html, maxLen = 600) {
   return text.length > maxLen ? text.substring(0, maxLen) + "…" : text;
 }
 
-const HTTP = create({
+const HTTP = axios.create({
   timeout: 15000,
   headers: { "User-Agent": "InternshipAlertBot/1.0 (github-actions)" },
 });

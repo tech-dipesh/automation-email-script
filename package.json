@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Automated internship job alert system",
   "main": "checker.js",
+  "type": "module",
   "scripts": {
     "start": "node checker.js",
     "test": "node checker.js --dry-run"
