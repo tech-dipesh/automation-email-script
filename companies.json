@@ -14,5 +14,45 @@
     "name": "Xapo Bank",
     "source": "greenhouse",
     "link": "https://job-boards.greenhouse.io/xapo61"
+  },
+  {
+    "name": "Vercel",
+    "source": "careers_page",
+    "link": "https://vercel.com/careers"
+  },
+  {
+    "name": "Airbnb",
+    "source": "careers_page",
+    "link": "https://careers.airbnb.com/"
+  },
+  {
+    "name": "Dropbox",
+    "source": "careers_page",
+    "link": "https://www.dropbox.jobs/en/jobs/"
+  },
+  {
+    "name": "Airbnb",
+    "source": "careers_page",
+    "link": "https://careers.airbnb.com/"
+  },
+  {
+    "name": "Netlify",
+    "source": "careers_page",
+    "link": "https://www.netlify.com/careers/"
+  },
+  {
+    "name": "Pinterest",
+    "source": "careers_page",
+    "link": "https://www.pinterestcareers.com/jobs/"
+  },
+  {
+    "name": "Zillow",
+    "source": "careers_page",
+    "link": "https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External"
+  },
+  {
+    "name": "",
+    "source": "careers_page",
+    "link": ""
   }
 ]
