@@ -130,5 +130,647 @@
     "location": "United Kingdom (Remote)",
     "seenAt": "2026-04-24T05:09:33.737Z",
     "matched": false
+  },
+  "Vercel::https://vercel.com/solutions/platform-engineering": {
+    "title": "Platform EngineersAutomate away repetition",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.898Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/solutions/design-engineering": {
+    "title": "Design EngineersDeploy for every idea",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.898Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers#positions": {
+    "title": "Open Positions",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.898Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/account-executive-startups-greenfield-5624231004": {
+    "title": "Account Executive- Startups, GreenfieldAustin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.898Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/account-executive-startups-greenfield-emea-5752956004": {
+    "title": "Account Executive-Startups, Greenfield (EMEA)LondonRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.898Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/account-executive-startups-install-base-5789770004": {
+    "title": "Account Executive- Startups, Install BaseAustin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.898Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/anti-abuse-automation-engineer-us-5843010004": {
+    "title": "Anti-Abuse Automation EngineerUnited StatesRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.898Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/commercial-counsel-emea-5846178004": {
+    "title": "Commercial Counsel, EMEALondonRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.898Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/content-engineer-5820658004": {
+    "title": "Content EngineerAustin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.898Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/corporate-events-manager-5980496004": {
+    "title": "Corporate Events Manager New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.898Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/customer-success-manager-5968713004": {
+    "title": "Customer Success ManagerAustin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/customer-success-manager-emea-5968725004": {
+    "title": "Customer Success Manager, EMEALondonRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/design-engineer-us-5709080004": {
+    "title": "Design EngineerUnited StatesRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/developer-success-engineer-uk-5530586004": {
+    "title": "Developer Success Engineer Germany, United KingdomRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/director-commercial-sales-emea-5974107004": {
+    "title": "Director, Commercial Sales, EMEALondonRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/director-of-legal-product-foundations-5781036004": {
+    "title": "Director of Legal, Product FoundationsSan FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/director-sales-development-5972804004": {
+    "title": "Director, Sales Development LondonRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/director-technical-accounting-and-financial-reporting-5676402004": {
+    "title": "Director, Technical Accounting & Financial ReportingAustin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/engineering-manager-ai-gateway-5829980004": {
+    "title": "Engineering Manager, AI GatewaySan FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/engineering-manager-cdn-5701765004": {
+    "title": "Engineering Manager, CDNSan FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/enterprise-account-executive-5042174004": {
+    "title": "Enterprise Account ExecutiveAustin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/field-marketing-manager-startups-5815467004": {
+    "title": "Field Marketing Manager, StartupsSan FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/fmm-startups-international-5980244004": {
+    "title": "FMM, Startups International LondonRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/forward-deployed-engineer-5778418004": {
+    "title": "Forward-Deployed EngineerBerlin, LondonRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/forward-deployed-engineer-v0-us-5872425004": {
+    "title": "Forward Deployed Engineer, v0United StatesRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/forward-deployed-engineer-5752684004": {
+    "title": "Forward-Deployed Engineer Austin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/fp-and-a-manager-r-and-d-and-g-and-a-5833515004": {
+    "title": "FP&A Manager, R&D & G&ASan FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/global-benefits-lead-5830604004": {
+    "title": "Global Benefits LeadNew York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/gsi-and-consultancies-partner-lead-5501424004": {
+    "title": "GSI & Consultancies, Partner LeadAustin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/gtm-engineer-5777645004": {
+    "title": "GTM Engineer Austin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/head-of-field-engineering-operations-5979111004": {
+    "title": "Head of Field Engineering OperationsSan FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/head-of-northern-europe-enterprise-majors-5972861004": {
+    "title": "Head of Northern Europe, Enterprise / Majors LondonRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/head-of-product-marketing-5199830004": {
+    "title": "Head of Product Marketing New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/head-of-southern-europe-enterprise-majors-5974111004": {
+    "title": "Head of Southern Europe, Enterprise / MajorsLondonRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.899Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/majors-account-executive-berlin-5848322004": {
+    "title": "Majors Account Executive, BerlinBerlinRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/manager-solutions-architecture-5806456004": {
+    "title": "Manager, Solutions ArchitectureAustin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/media-engineer-social-5980197004": {
+    "title": "Media Engineer, SocialNew York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/mobile-engineer-5719796004": {
+    "title": "Mobile EngineerNew York CityRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/partner-lead-apac-5808902004": {
+    "title": "Partner Lead, APACAustraliaRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/partner-lead-emea-5844601004": {
+    "title": "Partner Lead, EMEABerlin, LondonRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/partner-manager-growth-5832337004": {
+    "title": "Partner Manager, GrowthAustin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/pricing-product-manager-5979660004": {
+    "title": "Pricing Product ManagerSan FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/product-marketing-security-5969347004": {
+    "title": "Product Marketing, SecurityAustin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/product-marketing-v0-5722132004": {
+    "title": "Product Marketing, v0Austin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/recruiting-coordinator-contract-5686511004": {
+    "title": "Recruiting Coordinator (Contract)New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/sales-development-representative-enterprise-uk-and-i-5557835004": {
+    "title": "Sales Development Representative, Enterprise, UK&ILondonRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/sales-engineer-startups-5735116004": {
+    "title": "Sales Engineer, Startups Austin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/senior-communications-manager-5814159004": {
+    "title": "Senior Communications Manager San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/senior-customer-support-engineer-uk-5818258004": {
+    "title": "Senior Customer Support EngineerGermany, United KingdomRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/senior-customer-support-engineer-japan-5858553004": {
+    "title": "Senior Customer Support EngineerJapanRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/senior-customer-support-engineer-5817808004": {
+    "title": "Senior Customer Support EngineerAustraliaRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/senior-developer-ecosystem-manager-5832366004": {
+    "title": "Senior Developer Ecosystem ManagerNew York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/senior-hrbp-epd-5735397004": {
+    "title": "Senior HRBP - EPD San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/senior-legal-counsel-corporate-5843910004": {
+    "title": "Senior Legal Counsel, Corporate San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/senior-manager-accounting-5810285004": {
+    "title": "Senior Manager, AccountingSan FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/senior-partner-manager-5825462004": {
+    "title": "Senior Partner ManagerAustin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/senior-partner-manager-aws-5825469004": {
+    "title": "Senior Partner Manager, AWSAustin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/senior-partner-solutions-engineer-5553789004": {
+    "title": "Senior Partner Solutions EngineerAustin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/senior-product-designer-us-5735407004": {
+    "title": "Senior Product DesignerUnited StatesRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/senior-product-partnerships-manager-5843333004": {
+    "title": "Senior Product Partnerships ManagerAustin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/senior-product-security-engineer-us-5787232004": {
+    "title": "Senior Product Security EngineerUnited StatesRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/senior-software-engineer-trust-and-safety-us-5788954004": {
+    "title": "Senior Software Engineer, Trust & SafetyUnited StatesRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/senior-workplace-manager-5841295004": {
+    "title": "Senior Workplace ManagerLondonRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/site-engineer-us-5732855004": {
+    "title": "Site EngineerUnited StatesRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/software-engineer-agent-5704320004": {
+    "title": "Software Engineer, AgentSan FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/software-engineer-ai-gateway-5798406004": {
+    "title": "Software Engineer, AI GatewayNew York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/software-engineer-ai-sdk-5474915004": {
+    "title": "Software Engineer, AI SDKNew York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/software-engineer-backend-us-5431123004": {
+    "title": "Software Engineer, BackendUnited StatesRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/software-engineer-backend-us-5430088004": {
+    "title": "Software Engineer, BackendUnited StatesRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/software-engineer-cdn-5179639004": {
+    "title": "Software Engineer, CDNNew York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/software-engineer-cdn-security-us-5473266004": {
+    "title": "Software Engineer, CDN SecurityUnited StatesRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/software-engineer-compute-us-5551619004": {
+    "title": "Software Engineer, ComputeUnited StatesRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/software-engineer-dashboard-5808568004": {
+    "title": "Software Engineer, DashboardNew York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/software-engineer-deployment-infrastructure-5633880004": {
+    "title": "Software Engineer, Deployment InfrastructureNew York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/software-engineer-domains-us-5813134004": {
+    "title": "Software Engineer, DomainsUnited StatesRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.900Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/software-engineer-growth-5613601004": {
+    "title": "Software Engineer, GrowthNew York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.901Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/software-engineer-lua-us-5661583004": {
+    "title": "Software Engineer, LuaUnited StatesRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.901Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/software-engineer-workflows-5798416004": {
+    "title": "Software Engineer, WorkflowsNew York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.901Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/solutions-architect-uk-5796302004": {
+    "title": "Solutions ArchitectGermany, United KingdomRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.901Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/solutions-architect-5804110004": {
+    "title": "Solutions ArchitectAustraliaRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.901Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/solutions-architect-5806749004": {
+    "title": "Solutions Architect Austin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.901Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/sr-engineering-manager-platform-5461002004": {
+    "title": "Sr. Engineering Manager, PlatformNew York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.901Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/staff-accountant-5972966004": {
+    "title": "Staff AccountantSan FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.901Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/staff-grc-analyst-us-5836016004": {
+    "title": "Staff GRC AnalystUnited StatesRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.901Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/startups-accelerator-manager-5818274004": {
+    "title": "Startups Accelerator Manager San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.901Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/startups-program-lead-5971203004": {
+    "title": "Startups Program Lead San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.901Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/strategic-account-executive-5800328004": {
+    "title": "Strategic Account ExecutiveAustin, New York City, San FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.901Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/vercel-development-representative-apac-5850263004": {
+    "title": "Vercel Development Representative - APACAustraliaRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.901Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/vercel-development-representative-startups-5815357004": {
+    "title": "Vercel Development Representative, StartupsSan FranciscoRead more",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.901Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers": {
+    "title": "Careers",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:27.901Z",
+    "matched": false
+  },
+  "Airbnb::https://careers.airbnb.com/": {
+    "title": "Careers",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:28.137Z",
+    "matched": false
+  },
+  "Airbnb::https://careers.airbnb.com/life-at-airbnb/": {
+    "title": "Life at Airbnb",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:28.138Z",
+    "matched": false
+  },
+  "Airbnb::https://careers.airbnb.com/positions": {
+    "title": "Job Search",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:28.138Z",
+    "matched": false
+  },
+  "Airbnb::https://careers.airbnb.com/connect-engineering-apprenticeship/": {
+    "title": "Connect Engineering Apprenticeship",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:28.138Z",
+    "matched": false
+  },
+  "Airbnb::https://careers.airbnb.com/internship-programs/": {
+    "title": "Internship Programs",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:28.138Z",
+    "matched": false
+  },
+  "Airbnb::https://careers.airbnb.com/positions/#non-permanent-contractor": {
+    "title": "Contractor Roles",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:28.138Z",
+    "matched": false
+  },
+  "Airbnb::https://careers.airbnb.com/customer-supporting-roles/": {
+    "title": "Airbnb Customer-Supporting Roles",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:28.138Z",
+    "matched": false
+  },
+  "Airbnb::https://careers.airbnb.com/candidate-privacy/": {
+    "title": "Candidate Privacy",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:28.138Z",
+    "matched": false
+  },
+  "Airbnb::https://careers.airbnb.com/fr/": {
+    "title": "Français",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:28.138Z",
+    "matched": false
+  },
+  "Netlify::https://www.netlify.com/solutions/internal-apps/": {
+    "title": "Internal apps",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:28.595Z",
+    "matched": false
+  },
+  "Netlify::https://www.netlify.com/careers/#perfect-job": {
+    "title": "Find a job",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:28.595Z",
+    "matched": false
+  },
+  "Netlify::https://www.netlify.com/blog/hrishikesh-kokate-support-engineering/": {
+    "title": "Hrishikesh Kokate Staff Support Engineer",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:28.595Z",
+    "matched": false
+  },
+  "Netlify::https://job-boards.greenhouse.io/netlify/jobs/8441719002": {
+    "title": "Senior UX Engineer (Marketing)",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:28.595Z",
+    "matched": false
+  },
+  "Netlify::https://job-boards.greenhouse.io/netlify/jobs/4224129002": {
+    "title": "Your Chance to Join Our Talent Community!",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:28.595Z",
+    "matched": false
+  },
+  "Netlify::https://boards.greenhouse.io/netlify/jobs/4224129002": {
+    "title": "Apply now",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:28.595Z",
+    "matched": false
+  },
+  "Netlify::https://www.netlify.com/careers/": {
+    "title": "Careers",
+    "location": "",
+    "seenAt": "2026-04-28T18:07:28.595Z",
+    "matched": false
+  },
+  "Vercel::https://vercel.com/careers/fmm-startups-emea-5980244004": {
+    "title": "FMM, Startups (EMEA)LondonRead more",
+    "location": "",
+    "seenAt": "2026-04-28T22:15:22.529Z",
+    "matched": false
   }
 }
