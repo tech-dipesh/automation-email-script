@@ -51,8 +51,63 @@
     "link": "https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External"
   },
   {
+    "name": "Quest",
+    "source": "careers_page",
+    "link": "https://careers-quest.icims.com/"
+  },
+  {
+    "name": "Celigo",
+    "source": "careers_page",
+    "link": "https://www.celigo.com/careers/"
+  },
+  {
+    "name": "Upstart",
+    "source": "careers_page",
+    "link": "https://careers.upstart.com/jobs/search"
+  },
+  {
+    "name": "Faire",
+    "source": "careers_page",
+    "link": "https://www.faire.com/careers/openings"
+  },
+  {
+    "name": "Logicgate",
+    "source": "careers_page",
+    "link": "https://www.logicgate.com/company/careers/#positions"
+  },
+  {
+    "name": "Docker",
+    "source": "careers_page",
+    "link": "https://www.docker.com/career-openings/"
+  },
+  {
     "name": "",
     "source": "careers_page",
     "link": ""
-  }
+  },
+  {
+    "name": "",
+    "source": "careers_page",
+    "link": ""
+  },
+  {
+    "name": "",
+    "source": "careers_page",
+    "link": ""
+  },
+  {
+    "name": "",
+    "source": "careers_page",
+    "link": ""
+  },
+  {
+    "name": "",
+    "source": "careers_page",
+    "link": ""
+  },
+  {
+    "name": "",
+    "source": "careers_page",
+    "link": ""
+  },
 ]
