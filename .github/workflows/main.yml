@@ -1,15 +1,15 @@
-name: Internship Job Alert
+name: Internship Job Alert v2
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes
-  workflow_dispatch:           # also allows manual trigger from GitHub UI
+    - cron: "0 * * * *"    # Every hour at :00
+  workflow_dispatch:        # Manual trigger from GitHub UI anytime
 
 jobs:
   check-jobs:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # needed to commit seen_jobs.json back to repo
+      contents: write       # needed to commit seen_jobs.json back
 
     steps:
       - name: Checkout repository
@@ -33,7 +33,6 @@ jobs:
           ALERT_EMAIL:        ${{ secrets.ALERT_EMAIL }}
         run: node checker.js
 
-      # Commit updated seen_jobs.json so the next run knows what was already seen
       - name: Save seen_jobs.json
         run: |
           git config --local user.email "action@github.com"

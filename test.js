@@ -1,33 +1,14 @@
 /**
- * test.js — Quick sanity check for your filter logic
+ * test.js — Filter sanity check (no network, no email)
  * Run: node test.js
- *
- * No emails sent. No network calls. Just shows you exactly
- * which mock jobs pass/fail and why — so you can verify
- * the filters are working before the real run.
  */
 
-// ─── Copy filter constants inline (no import needed) ──────────────────────
-
-const INTERN_KEYWORDS = ["intern", "internship", "trainee", "apprentice"];
-const SENIOR_KEYWORDS = [
-  "senior", "sr.", " sr ", "staff", "lead", "principal",
-  "manager", "director", "head of", "vp ", "vice president",
-];
-const INDIA_CITIES = [
-  "bangalore", "bengaluru",
-  "delhi", "new delhi", "ncr", "noida", "gurgaon", "gurugram", "faridabad",
-  "hyderabad", "secunderabad",
-  "mumbai", "bombay", "navi mumbai",
-  "india",
-];
-const BLOCKED_LOCATION_PHRASES = [
-  "us only", "usa only", "united states only",
-  "uk only", "europe only", "eu only",
-  "remote (us", "remote - us", "remote, us",
-  "north america only", "americas only",
-];
-const EXPERIENCE_PATTERNS = [
+const INTERN_RE      = /\b(intern|internship|trainee|apprentice|graduate\s+trainee|grad\s+trainee)\b/i;
+const SWE_DOMAIN_RE  = /\b(software|engineer|developer|full[\s-]?stack|frontend|front[\s-]end|backend|back[\s-]end|devops|dev[\s-]ops|swe|sde|web[\s-]?dev|mobile|android|ios|react|node|java|python|cloud|platform|infrastructure|infra|site[\s-]?reliab|data[\s-]?engin|ml|machine[\s-]?learn|deep[\s-]?learn|ai|computer[\s-]?vision|nlp|embedded|firmware|systems)\b/i;
+const SENIOR_RE      = /\b(senior|sr\b|lead|leader|staff|principal|manager|director|head\s+of|vp\b|vice\s+president)\b/i;
+const INDIA_CITIES   = ["bangalore","bengaluru","delhi","new delhi","ncr","noida","gurgaon","gurugram","faridabad","hyderabad","secunderabad","mumbai","bombay","navi mumbai","india"];
+const BLOCKED_LOCS   = ["us only","usa only","united states only","uk only","europe only","eu only","north america only","americas only","canada only","australia only","us-only","uk-only","remote (us","remote - us","remote, us","remote / us","remote (united states","remote (canada"];
+const EXP_RE         = [
   /\b[1-9]\+?\s*(?:year|yr)s?\s+(?:of\s+)?(?:experience|exp)\b/i,
   /\b(?:minimum|min\.?|at\s+least)\s+[1-9]\s+(?:year|yr)/i,
   /\b[1-9]\s*[-–to]+\s*[2-9]\s+years?\s+(?:of\s+)?(?:experience|exp)\b/i,
@@ -37,127 +18,110 @@ const EXPERIENCE_PATTERNS = [
 
 function classifyJob(location, companyType) {
   const loc = (location || "").toLowerCase();
-  if (BLOCKED_LOCATION_PHRASES.some(b => loc.includes(b))) return null;
-  if (INDIA_CITIES.some(c => loc.includes(c))) return "onsite";
-  if (["remote","anywhere","global","worldwide","apac","wfh","distributed"]
-    .some(k => loc.includes(k))) return "remote";
-  if (!loc.trim()) {
-    if (companyType === "remote") return "remote";
-    return null;
-  }
+  if (BLOCKED_LOCS.some(b => loc.includes(b)))    return null;
+  if (INDIA_CITIES.some(c => loc.includes(c)))    return "onsite";
+  if (["remote","anywhere","global","worldwide","apac","wfh","distributed"].some(k => loc.includes(k))) return "remote";
+  if (!loc.trim() && companyType === "remote")    return "remote";
   return null;
 }
 
-function applyFilters(job, mode) {
+function applyFilters(title, location, desc, mode) {
   const reasons = [];
   let passed = true;
-  const t = job.title.toLowerCase();
 
-  if (!INTERN_KEYWORDS.some(k => t.includes(k))) {
-    reasons.push("❌ Title missing: intern / trainee / apprentice"); passed = false;
-  } else reasons.push("✔ Entry-level keyword confirmed");
+  if (!INTERN_RE.test(title)) { reasons.push("❌ Not intern/trainee/apprentice"); passed = false; }
+  else reasons.push(`✔ Entry-level: "${title.match(INTERN_RE)?.[0]}"`);
 
-  if (SENIOR_KEYWORDS.some(k => t.includes(k))) {
-    reasons.push("❌ Seniority keyword found in title"); passed = false;
-  } else reasons.push("✔ No seniority conflict");
+  if (!SWE_DOMAIN_RE.test(title)) { reasons.push("❌ Not SWE domain"); passed = false; }
+  else reasons.push(`✔ SWE domain: "${title.match(SWE_DOMAIN_RE)?.[0]}"`);
+
+  if (SENIOR_RE.test(title)) { reasons.push("❌ Seniority keyword"); passed = false; }
+  else reasons.push("✔ No seniority");
 
   if (mode === "onsite") {
-    const cityMatch = INDIA_CITIES.find(c => (job.location||"").toLowerCase().includes(c));
-    if (cityMatch) reasons.push(`✔ India metro: "${cityMatch}"`);
-    else { reasons.push(`❌ Not in India metros: "${job.location}"`); passed = false; }
+    const city = INDIA_CITIES.find(c => (location||"").toLowerCase().includes(c));
+    if (city) reasons.push(`✔ India metro: "${city}"`);
+    else { reasons.push(`❌ Not India metro: "${location}"`); passed = false; }
   } else {
-    const blocked = BLOCKED_LOCATION_PHRASES.find(b => (job.location||"").toLowerCase().includes(b));
+    const blocked = BLOCKED_LOCS.find(b => (location||"").toLowerCase().includes(b));
     if (blocked) { reasons.push(`❌ Geo-restricted: "${blocked}"`); passed = false; }
-    else reasons.push("✔ No geo-restriction");
+    else reasons.push("✔ Open to Asian applicants");
   }
 
-  const combined = `${job.title} ${job.description}`;
-  if (EXPERIENCE_PATTERNS.some(p => p.test(combined))) {
-    reasons.push("❌ Experience requirement detected"); passed = false;
-  } else reasons.push("✔ No experience requirement");
+  if (EXP_RE.some(p => p.test(`${title} ${desc}`))) { reasons.push("❌ Experience required"); passed = false; }
+  else reasons.push("✔ No experience requirement");
 
-  return { passed, reasons, mode };
+  return { passed, reasons };
 }
 
-// ─── Mock Jobs ─────────────────────────────────────────────────────────────
-// These represent the kinds of jobs that will be fetched live.
-// Add your own test cases below!
-
-const MOCK_JOBS = [
-  // ── Should PASS: Onsite India ──────────────────────────────────────────
-  { title: "Software Engineer Intern",        location: "Bangalore, India",  desc: "Join our team.",                      companyType: "onsite", expect: "PASS 🇮🇳" },
-  { title: "Backend Intern",                  location: "Hyderabad, India",  desc: "Work on backend systems.",            companyType: "onsite", expect: "PASS 🇮🇳" },
-  { title: "Frontend Trainee",                location: "Mumbai, India",     desc: "Build React apps.",                   companyType: "onsite", expect: "PASS 🇮🇳" },
-  { title: "Full Stack Apprentice",           location: "Delhi NCR",         desc: "Full stack development role.",        companyType: "onsite", expect: "PASS 🇮🇳" },
-  { title: "Graduate Trainee Engineer",       location: "Gurgaon, India",    desc: "Fresher welcome.",                    companyType: "onsite", expect: "PASS 🇮🇳" },
-
-  // ── Should PASS: Remote ────────────────────────────────────────────────
-  { title: "Software Engineering Intern",     location: "Remote",            desc: "Work from anywhere.",                 companyType: "remote", expect: "PASS 🌐" },
-  { title: "Backend Internship",              location: "Remote - APAC",     desc: "Open to Asia.",                      companyType: "remote", expect: "PASS 🌐" },
-  { title: "Trainee Developer",               location: "Global / Remote",   desc: "Worldwide applications welcome.",    companyType: "remote", expect: "PASS 🌐" },
-  { title: "Frontend Intern",                 location: "",                  desc: "Distributed team.",                   companyType: "remote", expect: "PASS 🌐" },
-
-  // ── Should FAIL: Experience required ──────────────────────────────────
-  { title: "Software Engineer Intern",        location: "Bangalore, India",  desc: "Requires 1+ years of experience.",   companyType: "onsite", expect: "FAIL ❌" },
-  { title: "Backend Internship",              location: "Remote",            desc: "2 years of experience required.",    companyType: "remote", expect: "FAIL ❌" },
-
-  // ── Should FAIL: Senior role ───────────────────────────────────────────
-  { title: "Senior Software Engineer Intern", location: "Bangalore, India",  desc: "Leadership required.",               companyType: "onsite", expect: "FAIL ❌" },
-  { title: "Lead Trainee",                    location: "Remote",            desc: "Manage team.",                       companyType: "remote", expect: "FAIL ❌" },
-
-  // ── Should FAIL: Not an intern role ───────────────────────────────────
-  { title: "Software Engineer II",            location: "Hyderabad, India",  desc: "3 years exp needed.",                companyType: "onsite", expect: "FAIL ❌" },
-  { title: "Backend Engineer",                location: "Remote",            desc: "Full time hire.",                    companyType: "remote", expect: "FAIL ❌" },
-
-  // ── Should FAIL: Geo-restricted remote ────────────────────────────────
-  { title: "Frontend Intern",                 location: "Remote (US only)",  desc: "US citizens only.",                  companyType: "remote", expect: "FAIL ❌" },
-  { title: "Backend Internship",              location: "Remote - US only",  desc: "Must be in USA.",                    companyType: "remote", expect: "FAIL ❌" },
-  { title: "SWE Intern",                      location: "Europe only",       desc: "EU residents.",                      companyType: "remote", expect: "FAIL ❌" },
-
-  // ── Should FAIL: Onsite but outside India ─────────────────────────────
-  { title: "Software Intern",                 location: "San Francisco, CA", desc: "US-based role.",                     companyType: "onsite", expect: "FAIL ❌" },
-  { title: "Trainee Engineer",                location: "London, UK",        desc: "UK office.",                         companyType: "onsite", expect: "FAIL ❌" },
+const TESTS = [
+  // ✅ Should PASS — Onsite India SWE
+  { title: "Software Engineer Intern",          loc: "Bangalore, India",  desc: "",                             ct: "onsite", want: "PASS 🇮🇳" },
+  { title: "Backend Intern",                    loc: "Hyderabad, India",  desc: "Build APIs with Node.js.",     ct: "onsite", want: "PASS 🇮🇳" },
+  { title: "Frontend Trainee",                  loc: "Mumbai, India",     desc: "Build React UIs.",             ct: "onsite", want: "PASS 🇮🇳" },
+  { title: "Full Stack Apprentice",             loc: "Delhi NCR",         desc: "Web development.",             ct: "onsite", want: "PASS 🇮🇳" },
+  { title: "Graduate Trainee Engineer",         loc: "Gurgaon, India",    desc: "Freshers welcome.",            ct: "onsite", want: "PASS 🇮🇳" },
+  { title: "DevOps Intern",                     loc: "Noida, India",      desc: "CI/CD and cloud infra.",       ct: "onsite", want: "PASS 🇮🇳" },
+  { title: "Mobile Developer Intern",           loc: "Bangalore, India",  desc: "Android/iOS dev.",             ct: "onsite", want: "PASS 🇮🇳" },
+  { title: "SDE Intern",                        loc: "Bangalore, India",  desc: "Systems engineering.",        ct: "onsite", want: "PASS 🇮🇳" },
+  // ✅ Should PASS — Remote SWE
+  { title: "Software Engineering Intern",       loc: "Remote",            desc: "Work from anywhere.",          ct: "remote", want: "PASS 🌐" },
+  { title: "Backend Internship",                loc: "Remote - APAC",     desc: "Open to Asia.",                ct: "remote", want: "PASS 🌐" },
+  { title: "Frontend Developer Intern",         loc: "Global / Remote",   desc: "React, TypeScript.",           ct: "remote", want: "PASS 🌐" },
+  { title: "Full Stack Trainee",                loc: "",                  desc: "Distributed team.",            ct: "remote", want: "PASS 🌐" },
+  // ❌ Should FAIL — Wrong role (HR/Finance/Audit)
+  { title: "Internal Auditor Intern",           loc: "Bangalore, India",  desc: "",                             ct: "onsite", want: "FAIL ❌ (not SWE)" },
+  { title: "HR Intern",                         loc: "Bangalore, India",  desc: "Talent acquisition.",          ct: "onsite", want: "FAIL ❌ (not SWE)" },
+  { title: "Finance Intern",                    loc: "Mumbai, India",     desc: "Accounts and audit.",          ct: "onsite", want: "FAIL ❌ (not SWE)" },
+  { title: "Marketing Intern",                  loc: "Delhi NCR",         desc: "Digital campaigns.",           ct: "onsite", want: "FAIL ❌ (not SWE)" },
+  // ❌ Should FAIL — "internal" must NOT match "intern" (THE BUG)
+  { title: "Internal AuditorInternal AuditBangaloreFull-timeClick to view", loc: "Bangalore, India", desc: "", ct: "onsite", want: "FAIL ❌ (internal≠intern)" },
+  // ❌ Should FAIL — Senior/Lead
+  { title: "Senior Software Engineer Intern",   loc: "Bangalore, India",  desc: "",                             ct: "onsite", want: "FAIL ❌ (senior)" },
+  { title: "Lead Backend Trainee",              loc: "Remote",            desc: "Manage the team.",             ct: "remote", want: "FAIL ❌ (lead)" },
+  // ❌ Should FAIL — Experience required
+  { title: "Software Engineer Intern",          loc: "Bangalore, India",  desc: "Requires 1+ years experience.",ct: "onsite", want: "FAIL ❌ (exp)" },
+  { title: "Frontend Intern",                   loc: "Remote",            desc: "2 years experience needed.",   ct: "remote", want: "FAIL ❌ (exp)" },
+  // ❌ Should FAIL — Geo-restricted remote
+  { title: "Backend Intern",                    loc: "Remote (US only)",  desc: "",                             ct: "remote", want: "FAIL ❌ (geo)" },
+  { title: "Software Intern",                   loc: "Remote, US",        desc: "",                             ct: "remote", want: "FAIL ❌ (geo)" },
+  { title: "Frontend Internship",               loc: "Europe only",       desc: "",                             ct: "remote", want: "FAIL ❌ (geo)" },
+  // ❌ Should FAIL — Onsite outside India
+  { title: "Software Intern",                   loc: "San Francisco, CA", desc: "",                             ct: "onsite", want: "FAIL ❌ (not India)" },
+  { title: "Trainee Engineer",                  loc: "London, UK",        desc: "",                             ct: "onsite", want: "FAIL ❌ (not India)" },
 ];
 
-// ─── Run Tests ─────────────────────────────────────────────────────────────
-
-const W = 66;
+const W = 64;
 console.log("\n" + "═".repeat(W));
-console.log("🧪  Internship Alert Filter Test");
-console.log("    Testing " + MOCK_JOBS.length + " mock job scenarios");
+console.log("🧪  Internship Alert v3 — Filter Test");
+console.log(`    ${TESTS.length} test cases`);
 console.log("═".repeat(W));
 
-let passed = 0, failed = 0, unexpected = 0;
+let pass = 0, fail = 0, unexpected = 0;
 
-for (const job of MOCK_JOBS) {
-  const mode = classifyJob(job.location, job.companyType);
-  const modeStr = mode ? (mode === "onsite" ? "🇮🇳 onsite" : "🌐 remote") : "⚪ unclassified";
+for (const t of TESTS) {
+  const mode    = classifyJob(t.loc, t.ct);
+  const modeStr = mode === "onsite" ? "🇮🇳" : mode === "remote" ? "🌐" : "⚪";
 
   let result;
   if (!mode) {
-    result = { passed: false, reasons: ["⏭ Skipped — could not classify as onsite or remote"], mode: "none" };
+    result = { passed: false, reasons: ["⏭ Unclassified location"] };
   } else {
-    result = applyFilters({ title: job.title, location: job.location, description: job.desc }, mode);
+    result = applyFilters(t.title, t.loc, t.desc, mode);
   }
 
-  const actualPass = result.passed;
-  const expectedPass = job.expect.startsWith("PASS");
-  const matchExpect = actualPass === expectedPass;
-  if (matchExpect) { if (actualPass) passed++; else failed++; }
+  const expectedPass = t.want.startsWith("PASS");
+  const ok           = result.passed === expectedPass;
+  if (ok) { if (result.passed) pass++; else fail++; }
   else unexpected++;
 
-  const icon = matchExpect ? (actualPass ? "✅" : "⏭ ") : "🚨";
-  console.log(`\n${icon} [${modeStr}] "${job.title}"`);
-  console.log(`   Location : ${job.location || "(no location)"}`);
-  console.log(`   Expected : ${job.expect}   |   Got : ${actualPass ? "PASS ✅" : "FAIL ❌"} ${matchExpect ? "" : "<< UNEXPECTED!"}`);
-  for (const r of result.reasons) console.log(`     ${r}`);
+  const icon = ok ? (result.passed ? "✅" : "⏭ ") : "🚨";
+  console.log(`\n${icon} ${modeStr} "${t.title}"`);
+  if (!ok) console.log(`   🚨 UNEXPECTED! Expected: ${t.want} | Got: ${result.passed ? "PASS" : "FAIL"}`);
+  result.reasons.forEach(r => console.log(`     ${r}`));
 }
 
 console.log("\n" + "─".repeat(W));
-console.log(`✅  ${passed} correctly MATCHED  |  ⏭  ${failed} correctly FILTERED  |  🚨 ${unexpected} UNEXPECTED`);
-if (unexpected === 0) {
-  console.log("🎉  All filters working correctly!");
-} else {
-  console.log("⚠   Fix the unexpected results above before deploying.");
-}
+console.log(`✅ ${pass} matched correctly  |  ⏭  ${fail} filtered correctly  |  🚨 ${unexpected} unexpected`);
+console.log(unexpected === 0 ? "🎉 All filters working correctly!" : "⚠  Fix unexpected results before deploying!");
 console.log("─".repeat(W) + "\n");

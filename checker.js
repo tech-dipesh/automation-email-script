@@ -1,21 +1,24 @@
 /**
- * Internship Job Alert System v2
- * ════════════════════════════════════════════════════════════
- * Sources : Ashby API · Greenhouse API · Aspire API · HTML fallback
- * Alerts  : Gmail via Nodemailer
- * Runs    : GitHub Actions every hour  |  locally: npm test
+ * Internship Job Alert System v3
+ * ════════════════════════════════════════════════════════════════
+ * Sources  : Ashby · Greenhouse · Lever · Aspire API · HTML fallback
+ * Alerts   : Gmail via Nodemailer  |  Runs: GitHub Actions every hour
  *
- * TWO MODES — classified per job:
+ * TWO MODES:
  *   🇮🇳 ONSITE  — India metros (Bangalore · Delhi NCR · Hyderabad · Mumbai)
- *                 Roles: Intern / Trainee / Apprentice in SWE
- *   🌐 REMOTE   — Global, must be Asian-applicant-friendly
- *                 Roles: Intern / Trainee / Apprentice in SWE
- *                 Excluded: USA-only, Europe-only, geo-restricted
+ *   🌐 REMOTE   — Global, Asian-applicant-friendly
  *
- * EXCLUDED (both modes):
- *   – Any role needing 1+ year experience (title + description scan)
- *   – Senior / Lead / Staff / Manager / Director in title
- * ════════════════════════════════════════════════════════════
+ * WHAT MATCHES:
+ *   Must be an intern/trainee/apprentice (word-boundary check, NOT "internal")
+ *   AND must be in a SWE domain (engineer/developer/frontend/backend/etc.)
+ *
+ * WHAT IS EXCLUDED:
+ *   – HR, Finance, Marketing, Audit, Operations interns
+ *   – Roles needing 1+ year experience (title + description)
+ *   – Senior / Lead / Staff / Manager in title
+ *   – Remote geo-restricted to USA/Europe only
+ *   – Onsite roles outside India
+ * ════════════════════════════════════════════════════════════════
  */
 
 import "dotenv/config";
@@ -24,7 +27,7 @@ import axios                           from "axios";
 import { load }                        from "cheerio";
 import { readFileSync, writeFileSync }  from "fs";
 
-// ─── Config ─────────────────────────────────────────────────────────────────
+// ─── Config ──────────────────────────────────────────────────────────────────
 
 const COMPANIES_FILE = "companies.json";
 const SEEN_FILE      = "seen_jobs.json";
@@ -32,9 +35,9 @@ const DRY_RUN        = process.argv.includes("--dry-run");
 const TEST_MODE      = process.argv.includes("--test");
 
 const COMPANIES = JSON.parse(readFileSync(COMPANIES_FILE, "utf8"))
-  .filter(c => c.name && c.link);   // skip any blank/incomplete entries
+  .filter(c => c.name && c.link);
 
-// ─── Seen Jobs ──────────────────────────────────────────────────────────────
+// ─── Seen Jobs ────────────────────────────────────────────────────────────────
 
 function loadSeen() {
   try { return JSON.parse(readFileSync(SEEN_FILE, "utf8")); }
@@ -44,17 +47,21 @@ function saveSeen(seen) {
   writeFileSync(SEEN_FILE, JSON.stringify(seen, null, 2));
 }
 
-// ─── Filter Constants ────────────────────────────────────────────────────────
+// ─── Filter Constants ─────────────────────────────────────────────────────────
 
-const INTERN_KEYWORDS = [
-  "intern", "internship", "trainee", "apprentice",
-];
+/**
+ * ⚠ WORD BOUNDARY — "intern" will NOT match "internal"
+ * This was the bug that caused "Internal Auditor" to pass
+ */
+const INTERN_RE = /\b(intern|internship|trainee|apprentice|graduate\s+trainee|grad\s+trainee)\b/i;
 
-const SENIOR_KEYWORDS = [
-  "senior", "sr.", " sr ", "staff", "lead", "principal",
-  "manager", "director", "head of", "vp ", "vice president",
-  "associate professor", "consultant",
-];
+/**
+ * SWE domain check — at least one must appear in the title.
+ * This blocks HR / Finance / Marketing / Audit interns.
+ */
+const SWE_DOMAIN_RE = /\b(software|engineer|developer|full[\s-]?stack|frontend|front[\s-]end|backend|back[\s-]end|devops|dev[\s-]ops|swe|sde|web[\s-]?dev|mobile|android|ios|react|node|java|python|cloud|platform|infrastructure|infra|site[\s-]?reliab|data[\s-]?engin|ml|machine[\s-]?learn|deep[\s-]?learn|ai|computer[\s-]?vision|nlp|embedded|firmware|systems)\b/i;
+
+const SENIOR_RE = /\b(senior|sr\b|lead|leader|staff|principal|manager|director|head\s+of|vp\b|vice\s+president)\b/i;
 
 const INDIA_CITIES = [
   "bangalore", "bengaluru",
@@ -65,17 +72,15 @@ const INDIA_CITIES = [
 ];
 
 const REMOTE_KEYWORDS = [
-  "remote", "anywhere", "global", "worldwide", "apac",
-  "work from home", "wfh", "distributed",
+  "remote", "anywhere", "global", "worldwide", "apac", "wfh", "distributed",
 ];
 
 const BLOCKED_LOCATION_PHRASES = [
   "us only", "usa only", "united states only",
-  "uk only", "europe only", "eu only", "germany only",
-  "london only", "france only", "spain only",
-  "canada only", "australia only", "new zealand only",
+  "uk only", "europe only", "eu only",
   "north america only", "americas only",
-  "us-only", "uk-only", "ca-only",
+  "canada only", "australia only",
+  "us-only", "uk-only",
   "remote (us", "remote - us", "remote – us",
   "remote, us", "remote / us",
   "remote (united states", "remote (canada",
@@ -84,84 +89,66 @@ const BLOCKED_LOCATION_PHRASES = [
 const EXPERIENCE_PATTERNS = [
   /\b[1-9]\+?\s*(?:year|yr)s?\s+(?:of\s+)?(?:experience|exp)\b/i,
   /\b(?:minimum|min\.?|at\s+least)\s+[1-9]\s+(?:year|yr)/i,
-  /\b[1-9]\s*[-\u2013to]+\s*[2-9]\s+years?\s+(?:of\s+)?(?:experience|exp)\b/i,
+  /\b[1-9]\s*[-–to]+\s*[2-9]\s+years?\s+(?:of\s+)?(?:experience|exp)\b/i,
   /\brequires?\s+[1-9]\+?\s+years?\b/i,
   /\b[1-9]\+\s*yrs?\b/i,
-  /\bwith\s+[1-9]\+?\s+(?:years?|yrs?)\s+(?:of\s+)?experience\b/i,
 ];
 
-// ─── Job Classification ──────────────────────────────────────────────────────
+// ─── Classification ───────────────────────────────────────────────────────────
 
-/**
- * Returns "onsite" | "remote" | null (skip)
- */
 function classifyJob(job, companyType, defaultLoc) {
-  const rawLoc = (job.location || defaultLoc || "").toLowerCase();
-
-  // Hard-blocked geo-restricted locations
-  if (BLOCKED_LOCATION_PHRASES.some(b => rawLoc.includes(b))) return null;
-
-  // India city → onsite
-  if (INDIA_CITIES.some(c => rawLoc.includes(c))) return "onsite";
-
-  // Remote keywords → remote
-  if (REMOTE_KEYWORDS.some(k => rawLoc.includes(k))) return "remote";
-
-  // No location → use company type hint
-  if (!rawLoc || rawLoc.trim() === "") {
+  const loc = (job.location || defaultLoc || "").toLowerCase();
+  if (BLOCKED_LOCATION_PHRASES.some(b => loc.includes(b))) return null;
+  if (INDIA_CITIES.some(c => loc.includes(c)))             return "onsite";
+  if (REMOTE_KEYWORDS.some(k => loc.includes(k)))          return "remote";
+  if (!loc.trim()) {
     if (companyType === "remote") return "remote";
-    return null;  // can't confidently classify
+    return null;
   }
-
-  // Location present but doesn't match either → skip
   return null;
 }
 
-// ─── Filters ─────────────────────────────────────────────────────────────────
-
-function isInternRole(title) {
-  const t = title.toLowerCase();
-  return INTERN_KEYWORDS.some(k => t.includes(k));
-}
-
-function isSeniorRole(title) {
-  const t = title.toLowerCase();
-  return SENIOR_KEYWORDS.some(k => t.includes(k));
-}
-
-function hasExperienceReq(title, description) {
-  const combined = `${title} ${description}`;
-  return EXPERIENCE_PATTERNS.some(p => p.test(combined));
-}
+// ─── Filters ──────────────────────────────────────────────────────────────────
 
 function applyFilters(job, mode) {
   const reasons = [];
   let passed    = true;
+  const title   = job.title;
 
-  // 1. Must have intern/trainee/apprentice in title
-  if (!isInternRole(job.title)) {
-    reasons.push("❌ Title missing: intern / trainee / apprentice");
+  // 1. Word-boundary intern/trainee/apprentice check
+  if (!INTERN_RE.test(title)) {
+    reasons.push("❌ Not an intern/trainee/apprentice role");
     passed = false;
   } else {
-    reasons.push("✔ Entry-level keyword confirmed in title");
+    const match = title.match(INTERN_RE)?.[0] || "intern";
+    reasons.push(`✔ Entry-level keyword: "${match}"`);
   }
 
-  // 2. Must NOT have senior/lead/manager in title
-  if (isSeniorRole(job.title)) {
-    reasons.push("❌ Seniority keyword in title (Senior/Lead/Manager/etc.)");
+  // 2. Must be SWE domain — blocks HR/Finance/Audit/Marketing interns
+  if (!SWE_DOMAIN_RE.test(title)) {
+    reasons.push("❌ Not SWE domain (no engineer/developer/frontend/backend/etc.)");
+    passed = false;
+  } else {
+    const match = title.match(SWE_DOMAIN_RE)?.[0] || "swe";
+    reasons.push(`✔ SWE domain confirmed: "${match}"`);
+  }
+
+  // 3. No seniority keywords
+  if (SENIOR_RE.test(title)) {
+    reasons.push("❌ Seniority keyword in title");
     passed = false;
   } else {
     reasons.push("✔ No seniority conflict");
   }
 
-  // 3. Location check (mode-specific)
+  // 4. Location check
   if (mode === "onsite") {
     const loc       = (job.location || "").toLowerCase();
     const cityMatch = INDIA_CITIES.find(c => loc.includes(c));
     if (cityMatch) {
-      reasons.push(`✔ India metro confirmed: "${cityMatch}"`);
+      reasons.push(`✔ India metro: "${cityMatch}"`);
     } else {
-      reasons.push(`❌ Not in India metros: "${job.location || "no location"}"`);
+      reasons.push(`❌ Not in India metro: "${job.location || "no location"}"`);
       passed = false;
     }
   } else {
@@ -171,32 +158,31 @@ function applyFilters(job, mode) {
       reasons.push(`❌ Geo-restricted: "${blocked}"`);
       passed = false;
     } else {
-      reasons.push("✔ No geo-restriction — open to Asian applicants");
+      reasons.push("✔ Open to Asian applicants");
     }
   }
 
-  // 4. Must NOT require experience (title + description)
-  if (hasExperienceReq(job.title, job.description)) {
+  // 5. Experience check (title + description)
+  const combined = `${title} ${job.description}`;
+  if (EXPERIENCE_PATTERNS.some(p => p.test(combined))) {
     reasons.push("❌ Experience requirement detected (1+ years)");
     passed = false;
   } else {
-    reasons.push("✔ No experience requirement found");
+    reasons.push("✔ No experience requirement");
   }
 
   return { passed, reasons, mode };
 }
 
-// ─── HTTP Client ─────────────────────────────────────────────────────────────
+// ─── HTTP ─────────────────────────────────────────────────────────────────────
 
 const HTTP = axios.create({
   timeout: 20000,
-  headers: { "User-Agent": "InternshipAlertBot/2.0 (github-actions)" },
+  headers: { "User-Agent": "InternshipAlertBot/3.0 (github-actions)" },
 });
 
-// ─── Helpers ─────────────────────────────────────────────────────────────────
-
 function htmlToText(html, maxLen = 900) {
-  if (!html) return "No description available.";
+  if (!html) return "";
   const text = load(html).text().replace(/\s+/g, " ").trim();
   return text.length > maxLen ? text.substring(0, maxLen) + "…" : text;
 }
@@ -206,7 +192,7 @@ function safeUrl(href, base) {
   catch { return href; }
 }
 
-// ─── Fetchers ────────────────────────────────────────────────────────────────
+// ─── Fetchers ─────────────────────────────────────────────────────────────────
 
 async function fetchAshby(company) {
   const slug = new URL(company.link).pathname.replace(/^\//, "").split("/")[0];
@@ -238,28 +224,51 @@ async function fetchGreenhouse(company) {
   }));
 }
 
+/**
+ * Lever API — returns individual job postings with direct links, titles, descriptions.
+ * Fixes the Paytm "Intern" generic link bug.
+ * API: https://api.lever.co/v0/postings/{slug}?mode=json
+ */
+async function fetchLever(company) {
+  const slug = company.leverSlug
+    || new URL(company.link).pathname.replace(/^\//, "").split("/")[0];
+  const res  = await HTTP.get(
+    `https://api.lever.co/v0/postings/${slug}?mode=json`
+  );
+  const jobs = Array.isArray(res.data) ? res.data : [];
+  return jobs.map(j => {
+    const descText = j.descriptionPlain
+      || htmlToText(j.description || "");
+    const listText = (j.lists || [])
+      .map(l => `${l.text}: ${l.content}`)
+      .join(" | ");
+    return {
+      id:          j.id,
+      title:       j.text || "",
+      location:    j.categories?.location || j.categories?.allLocations?.[0] || "",
+      link:        j.hostedUrl || j.applyUrl,
+      description: `${descText} ${listText}`.trim().substring(0, 900),
+      company:     company.name,
+    };
+  });
+}
+
 async function fetchAspireApi(company) {
   const jobs = [];
   let   page = 1;
-
   while (true) {
     const res  = await HTTP.get(`${company.apiUrl}?page=${page}`);
     const body = res.data;
     const raw  = Array.isArray(body)
       ? body
       : body.data || body.jobs || body.postings || body.results || [];
-
     if (!raw.length) break;
-
     for (const j of raw) {
       const title    = j.title || j.name || j.job_title || "";
       const location = j.location?.name || j.location || j.office?.location
                      || j.office?.name  || j.city || "";
-      const link     = j.url || j.applyUrl || j.apply_url
-                     || j.absoluteUrl || company.link;
-      const desc     = j.descriptionPlain
-                     || htmlToText(j.description || j.content || j.body || "");
-
+      const link     = j.url || j.applyUrl || j.apply_url || j.absoluteUrl || company.link;
+      const desc     = j.descriptionPlain || htmlToText(j.description || j.content || j.body || "");
       jobs.push({
         id:          String(j.id || j.uuid || link),
         title,
@@ -269,11 +278,9 @@ async function fetchAspireApi(company) {
         company:     company.name,
       });
     }
-
     if (raw.length < 10) break;
     page++;
   }
-
   return jobs;
 }
 
@@ -285,9 +292,16 @@ async function fetchCareersPage(company) {
 
   $("a[href]").each((_, el) => {
     const href = $(el).attr("href") || "";
-    const text = $(el).text().replace(/\s+/g, " ").trim();
+    const raw  = $(el).text().replace(/\s+/g, " ").trim();
 
-    if (!text || text.length < 5 || text.length > 140) return;
+    // Remove common navigation/junk suffixes scraped from career portals
+    const text = raw
+      .replace(/\s*(Full[- ]?time|Part[- ]?time|Contract|Click to view→?|Apply Now|View Job|Apply)\s*/gi, "")
+      .replace(/\s*(Bangalore|Bengaluru|Mumbai|Delhi|Hyderabad|Noida|Remote|India)\s*/gi, "")
+      .replace(/\s*→\s*/g, "")
+      .trim();
+
+    if (!text || text.length < 5 || text.length > 120) return;
 
     const lhref = href.toLowerCase();
     const ltext = text.toLowerCase();
@@ -297,8 +311,8 @@ async function fetchCareersPage(company) {
       lhref.includes("position")  || lhref.includes("role")     ||
       lhref.includes("opening")   || lhref.includes("vacancy")  ||
       ltext.includes("intern")    || ltext.includes("trainee")  ||
-      ltext.includes("engineer")  || ltext.includes("apprentice") ||
-      ltext.includes("developer") || ltext.includes("analyst");
+      ltext.includes("engineer")  || ltext.includes("developer") ||
+      ltext.includes("apprentice");
 
     if (!looksLikeJob) return;
 
@@ -311,7 +325,7 @@ async function fetchCareersPage(company) {
       title:       text,
       location:    company.defaultLocation || "",
       link:        fullUrl,
-      description: "Visit the job link for the full description.",
+      description: "",
       company:     company.name,
     });
   });
@@ -323,13 +337,14 @@ async function fetchJobs(company) {
   switch (company.source) {
     case "ashby":        return fetchAshby(company);
     case "greenhouse":   return fetchGreenhouse(company);
+    case "lever":        return fetchLever(company);
     case "aspire_api":   return fetchAspireApi(company);
     case "careers_page": return fetchCareersPage(company);
-    default: throw new Error(`Unknown source type: "${company.source}"`);
+    default: throw new Error(`Unknown source: "${company.source}"`);
   }
 }
 
-// ─── Email ───────────────────────────────────────────────────────────────────
+// ─── Email ────────────────────────────────────────────────────────────────────
 
 const transporter = createTransport({
   service: "gmail",
@@ -340,12 +355,16 @@ const transporter = createTransport({
 });
 
 function buildEmailBody(job, filterResult) {
-  const isOnsite   = filterResult.mode === "onsite";
-  const modeBadge  = isOnsite ? "🇮🇳 ONSITE — India" : "🌐 REMOTE — Global";
-  const modeEmoji  = isOnsite ? "🇮🇳" : "🌐";
+  const isOnsite  = filterResult.mode === "onsite";
+  const modeBadge = isOnsite ? "🇮🇳 ONSITE — India" : "🌐 REMOTE — Global";
+  const modeEmoji = isOnsite ? "🇮🇳" : "🌐";
   const matchLines = filterResult.reasons
     .filter(r => r.startsWith("✔"))
     .join("\n   ");
+
+  const description = job.description?.trim()
+    ? job.description
+    : "Visit the job link for the full description.";
 
   return `
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -361,16 +380,13 @@ ${modeEmoji}  NEW INTERNSHIP ALERT  [${modeBadge}]
 📋  ROLE OVERVIEW
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-${job.description}
+${description}
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ✅  WHY THIS MATCHED YOUR FILTERS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
    ${matchLines}
-
-📌  Full filter log:
-${filterResult.reasons.map(r => "   " + r).join("\n")}
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ⏰  Detected : ${new Date().toUTCString()}
@@ -396,81 +412,80 @@ async function sendAlert(job, filterResult) {
     subject,
     text:    body,
   });
-
-  console.log(`   📧 Alert sent → "${job.title}" @ ${job.company} [${modeTag}]`);
 }
 
-// ─── Main ────────────────────────────────────────────────────────────────────
+// ─── Main ─────────────────────────────────────────────────────────────────────
 
 async function main() {
-  const W = 64;
+  const W = 60;
+  const now = new Date().toUTCString();
   console.log(`\n${"═".repeat(W)}`);
-  console.log(`🔍  Internship Alert v2  —  ${new Date().toUTCString()}`);
-  if (DRY_RUN || TEST_MODE) console.log("⚠   DRY RUN — no emails will be sent");
+  console.log(`🔍  Internship Alert v3  |  ${now}`);
+  if (DRY_RUN || TEST_MODE) console.log("⚠   DRY RUN — no emails sent");
   console.log(`    Watching ${COMPANIES.length} companies`);
   console.log("═".repeat(W));
 
-  const seen = loadSeen();
-  let newCount = 0, matchCount = 0;
+  const seen       = loadSeen();
+  let totalNew     = 0;
+  let totalMatched = 0;
 
   for (const company of COMPANIES) {
-    console.log(`\n📌  ${company.name}  [${company.source}][${company.type || "both"}]`);
-
     let jobs = [];
     try {
       jobs = await fetchJobs(company);
-      console.log(`    📂 ${jobs.length} job(s) fetched`);
     } catch (err) {
-      console.error(`    ❌ Fetch error: ${err.message}`);
+      console.log(`  ❌  ${company.name}: ${err.message}`);
       continue;
     }
 
-    for (const job of jobs) {
-      const uid = `${company.name}::${job.id}`;
-      if (seen[uid]) continue;
-      newCount++;
+    // Count only unseen jobs
+    const newJobs    = jobs.filter(j => !seen[`${company.name}::${j.id}`]);
+    const matchedJobs = [];
 
+    for (const job of newJobs) {
+      const uid  = `${company.name}::${job.id}`;
       const mode = classifyJob(job, company.type, company.defaultLocation);
 
       if (!mode) {
-        const loc = job.location || "no location";
-        console.log(`    ⏭  Skip [unclassified]: "${job.title}" (${loc})`);
-        seen[uid] = {
-          title: job.title, location: job.location,
-          mode: "unclassified", seenAt: new Date().toISOString(), matched: false,
-        };
+        seen[uid] = { title: job.title, mode: "skip", seenAt: new Date().toISOString(), matched: false };
         continue;
       }
 
       const result = applyFilters(job, mode);
-      const tag    = mode === "onsite" ? "🇮🇳" : "🌐";
 
       if (result.passed) {
-        matchCount++;
-        console.log(`    ✅ MATCH ${tag}: "${job.title}" (${job.location || "n/a"})`);
-        try {
-          await sendAlert(job, result);
-        } catch (err) {
-          console.error(`    ❌ Email error: ${err.message}`);
-        }
-      } else {
-        const why = result.reasons.find(r => r.startsWith("❌")) || "filtered";
-        console.log(`    ⏭  Skip  ${tag}: "${job.title}" → ${why}`);
+        matchedJobs.push({ job, result });
+        totalMatched++;
+        try { await sendAlert(job, result); }
+        catch (err) { console.log(`    ❌ Email error: ${err.message}`); }
       }
 
       seen[uid] = {
-        title:    job.title,
+        title:   job.title,
         location: job.location,
         mode,
-        seenAt:   new Date().toISOString(),
-        matched:  result.passed,
+        seenAt:  new Date().toISOString(),
+        matched: result.passed,
       };
+    }
+
+    totalNew += newJobs.length;
+
+    // ── Concise company output ──
+    if (newJobs.length > 0) {
+      console.log(`\n📌  ${company.name}  [${jobs.length} total | ${newJobs.length} new | ${matchedJobs.length} matched]`);
+      for (const { job, result } of matchedJobs) {
+        const tag = result.mode === "onsite" ? "🇮🇳" : "🌐";
+        console.log(`    ✅ ${tag} "${job.title}" — ${job.location || "n/a"}`);
+        console.log(`       ${job.link}`);
+      }
     }
   }
 
   saveSeen(seen);
+
   console.log(`\n${"─".repeat(W)}`);
-  console.log(`✅  Done. ${newCount} new job(s) scanned  |  ${matchCount} alert(s) sent.`);
+  console.log(`✅  Done  |  ${totalNew} new jobs scanned  |  ${totalMatched} alert(s) sent`);
   console.log("─".repeat(W) + "\n");
 }
 
