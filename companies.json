@@ -1,113 +1,111 @@
 [
-  {
-    "name": "Replit",
-    "source": "ashby",
-    "link": "https://jobs.ashbyhq.com/replit"
-  },
-  {
-    "name": "Aspire",
-    "source": "aspire_api",
-    "apiUrl": "https://revolutpeople.com/api/aspire/external/v3/postings",
-    "link": "https://aspireapp.com/careers"
-  },
-  {
-    "name": "Xapo Bank",
-    "source": "greenhouse",
-    "link": "https://job-boards.greenhouse.io/xapo61"
-  },
-  {
-    "name": "Vercel",
-    "source": "careers_page",
-    "link": "https://vercel.com/careers"
-  },
-  {
-    "name": "Airbnb",
-    "source": "careers_page",
-    "link": "https://careers.airbnb.com/"
-  },
-  {
-    "name": "Dropbox",
-    "source": "careers_page",
-    "link": "https://www.dropbox.jobs/en/jobs/"
-  },
-  {
-    "name": "Airbnb",
-    "source": "careers_page",
-    "link": "https://careers.airbnb.com/"
-  },
-  {
-    "name": "Netlify",
-    "source": "careers_page",
-    "link": "https://www.netlify.com/careers/"
-  },
-  {
-    "name": "Pinterest",
-    "source": "careers_page",
-    "link": "https://www.pinterestcareers.com/jobs/"
-  },
-  {
-    "name": "Zillow",
-    "source": "careers_page",
-    "link": "https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External"
-  },
-  {
-    "name": "Quest",
-    "source": "careers_page",
-    "link": "https://careers-quest.icims.com/"
-  },
-  {
-    "name": "Celigo",
-    "source": "careers_page",
-    "link": "https://www.celigo.com/careers/"
-  },
-  {
-    "name": "Upstart",
-    "source": "careers_page",
-    "link": "https://careers.upstart.com/jobs/search"
-  },
-  {
-    "name": "Faire",
-    "source": "careers_page",
-    "link": "https://www.faire.com/careers/openings"
-  },
-  {
-    "name": "Logicgate",
-    "source": "careers_page",
-    "link": "https://www.logicgate.com/company/careers/#positions"
-  },
-  {
-    "name": "Docker",
-    "source": "careers_page",
-    "link": "https://www.docker.com/career-openings/"
-  },
-  {
-    "name": "",
-    "source": "careers_page",
-    "link": ""
-  },
-  {
-    "name": "",
-    "source": "careers_page",
-    "link": ""
-  },
-  {
-    "name": "",
-    "source": "careers_page",
-    "link": ""
-  },
-  {
-    "name": "",
-    "source": "careers_page",
-    "link": ""
-  },
-  {
-    "name": "",
-    "source": "careers_page",
-    "link": ""
-  },
-  {
-    "name": "",
-    "source": "careers_page",
-    "link": ""
-  },
+  { "name": "Razorpay",          "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://razorpay.com/jobs/jobs-all/?location=all&department=" },
+  { "name": "CRED",              "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://careers.cred.club/openings" },
+  { "name": "PhonePe",           "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://www.phonepe.com/careers/openings/" },
+  { "name": "Swiggy",            "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://careers.swiggy.com/" },
+  { "name": "Meesho",            "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://www.meesho.io/jobs?d=engineering" },
+  { "name": "Groww",             "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://groww.in/careers" },
+  { "name": "Zerodha",           "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://zerodha.com/careers/" },
+  { "name": "Slice",             "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://slice.bank.in/careers/open-positions/" },
+  { "name": "Juspay",            "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://juspay.in/careers" },
+  { "name": "Myntra",            "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://www.myntra.com/careers" },
+  { "name": "Smallcase",         "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://www.smallcase.com/careers" },
+  { "name": "ShareChat",         "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://sharechat.com/careers" },
+  { "name": "InMobi",            "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://www.inmobi.com/company/careers" },
+  { "name": "Skit.ai",           "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://skit.ai/careers" },
+  { "name": "Flipkart",          "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://www.flipkartcareers.com/#!/joblist" },
+  { "name": "Ola",               "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://www.olacabs.com/careers" },
+  { "name": "Udaan",             "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://udaan.com/careers" },
+  { "name": "Lenskart",          "source": "careers_page", "type": "onsite", "defaultLocation": "Gurgaon, India",    "link": "https://www.lenskart.com/careers" },
+  { "name": "Gojek",             "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://www.gojek.io/careers" },
+  { "name": "Hasura",            "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://hasura.io/careers" },
+  { "name": "BigBasket",         "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://bigbasket.darwinbox.in/ms/candidatev2/main/careers/allJobs" },
+  { "name": "Unacademy",         "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://unacademy.darwinbox.in/ms/candidatev2/main/careers/home" },
+  { "name": "Vedantu",           "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://vedantu.zohorecruit.in/jobs/Careers" },
+  { "name": "Pine Labs",         "source": "careers_page", "type": "onsite", "defaultLocation": "Noida, India",      "link": "https://www.pinelabs.com/careers/open-jobs" },
+  { "name": "Zoho",              "source": "careers_page", "type": "onsite", "defaultLocation": "Chennai, India",    "link": "https://careers.zohocorp.com/jobs/Careers" },
+  { "name": "Paytm",             "source": "careers_page", "type": "onsite", "defaultLocation": "Noida, India",      "link": "https://jobs.lever.co/paytm" },
+  { "name": "Zepto",             "source": "careers_page", "type": "onsite", "defaultLocation": "Mumbai, India",     "link": "https://zepto.talentrecruit.com/career-page" },
+  { "name": "Jupiter Money",     "source": "careers_page", "type": "onsite", "defaultLocation": "Mumbai, India",     "link": "https://jupiter.money/careers/" },
+  { "name": "Media.net",         "source": "careers_page", "type": "onsite", "defaultLocation": "Mumbai, India",     "link": "https://careers.media.net/" },
+  { "name": "Tower Research",    "source": "careers_page", "type": "onsite", "defaultLocation": "Gurgaon, India",    "link": "https://www.tower-research.com/open-positions/" },
+  { "name": "DE Shaw India",     "source": "careers_page", "type": "onsite", "defaultLocation": "Hyderabad, India",  "link": "https://www.deshawindia.com/careers" },
+  { "name": "Arcesium",          "source": "careers_page", "type": "onsite", "defaultLocation": "Hyderabad, India",  "link": "https://www.arcesium.com/careers" },
+  { "name": "Mphasis",           "source": "careers_page", "type": "onsite", "defaultLocation": "Bangalore, India",  "link": "https://www.mphasis.com/careers.html" },
+  { "name": "Freshworks",        "source": "greenhouse",   "type": "onsite", "link": "https://job-boards.greenhouse.io/freshworks" },
+  { "name": "Chargebee",         "source": "greenhouse",   "type": "onsite", "link": "https://job-boards.greenhouse.io/chargebee" },
+  { "name": "Postman",           "source": "greenhouse",   "type": "onsite", "link": "https://job-boards.greenhouse.io/postman" },
+  { "name": "BrowserStack",      "source": "greenhouse",   "type": "onsite", "link": "https://job-boards.greenhouse.io/browserstack" },
+  { "name": "Harness",           "source": "greenhouse",   "type": "onsite", "link": "https://job-boards.greenhouse.io/harness" },
+  { "name": "CleverTap",         "source": "greenhouse",   "type": "onsite", "link": "https://job-boards.greenhouse.io/clevertap" },
+  { "name": "Google",            "source": "careers_page", "type": "both",   "link": "https://careers.google.com/" },
+  { "name": "Microsoft",         "source": "careers_page", "type": "both",   "link": "https://careers.microsoft.com/" },
+  { "name": "Amazon",            "source": "careers_page", "type": "both",   "link": "https://www.amazon.jobs/" },
+  { "name": "Atlassian",         "source": "careers_page", "type": "both",   "link": "https://www.atlassian.com/company/careers" },
+  { "name": "Oracle",            "source": "careers_page", "type": "both",   "link": "https://careers.oracle.com/" },
+  { "name": "SAP",               "source": "careers_page", "type": "both",   "link": "https://jobs.sap.com/" },
+  { "name": "Adobe",             "source": "careers_page", "type": "both",   "link": "https://careers.adobe.com/" },
+  { "name": "Samsung India",     "source": "careers_page", "type": "both",   "link": "https://www.samsung.com/in/aboutsamsung/careers/" },
+  { "name": "Qualcomm",          "source": "careers_page", "type": "both",   "link": "https://www.qualcomm.com/company/careers" },
+  { "name": "Cisco",             "source": "careers_page", "type": "both",   "link": "https://jobs.cisco.com/" },
+  { "name": "Intuit",            "source": "careers_page", "type": "both",   "link": "https://jobs.intuit.com/" },
+  { "name": "Goldman Sachs",     "source": "careers_page", "type": "both",   "link": "https://www.goldmansachs.com/careers/" },
+  { "name": "JPMorgan",          "source": "careers_page", "type": "both",   "link": "https://careers.jpmorgan.com/" },
+  { "name": "Walmart Global",    "source": "careers_page", "type": "both",   "link": "https://careers.walmart.com/technology" },
+  { "name": "Uber",              "source": "careers_page", "type": "both",   "link": "https://www.uber.com/in/en/careers/" },
+  { "name": "Salesforce",        "source": "careers_page", "type": "both",   "link": "https://careers.salesforce.com/en/" },
+  { "name": "ServiceNow",        "source": "careers_page", "type": "both",   "link": "https://careers.servicenow.com/" },
+  { "name": "Nvidia",            "source": "careers_page", "type": "both",   "link": "https://www.nvidia.com/en-in/about-nvidia/careers/" },
+  { "name": "Apple",             "source": "careers_page", "type": "both",   "link": "https://jobs.apple.com/en-in/search" },
+  { "name": "Stripe",            "source": "careers_page", "type": "both",   "link": "https://stripe.com/jobs" },
+  { "name": "LinkedIn",          "source": "careers_page", "type": "both",   "link": "https://careers.linkedin.com/" },
+  { "name": "PayPal",            "source": "careers_page", "type": "both",   "link": "https://careers.pypl.com/home/" },
+  { "name": "Visa",              "source": "careers_page", "type": "both",   "link": "https://visa.wd5.myworkdayjobs.com/Visa" },
+  { "name": "American Express",  "source": "careers_page", "type": "both",   "link": "https://aexp.eightfold.ai/careers" },
+  { "name": "Rubrik",            "source": "careers_page", "type": "both",   "link": "https://www.rubrik.com/company/careers" },
+  { "name": "Palo Alto Networks","source": "careers_page", "type": "both",   "link": "https://jobs.paloaltonetworks.com/" },
+  { "name": "Nutanix",           "source": "careers_page", "type": "both",   "link": "https://www.nutanix.com/company/careers" },
+  { "name": "Databricks",        "source": "careers_page", "type": "both",   "link": "https://www.databricks.com/company/careers" },
+  { "name": "Snowflake",         "source": "careers_page", "type": "both",   "link": "https://careers.snowflake.com/" },
+  { "name": "Sprinklr",          "source": "careers_page", "type": "both",   "link": "https://www.sprinklr.com/careers/" },
+  { "name": "CrowdStrike",       "source": "careers_page", "type": "both",   "link": "https://www.crowdstrike.com/careers/" },
+  { "name": "Twilio",            "source": "careers_page", "type": "both",   "link": "https://www.twilio.com/company/jobs" },
+  { "name": "Coinbase",          "source": "careers_page", "type": "both",   "link": "https://www.coinbase.com/careers" },
+  { "name": "Agoda",             "source": "careers_page", "type": "both",   "link": "https://careersatagoda.com/" },
+  { "name": "VMware",            "source": "careers_page", "type": "both",   "link": "https://www.vmware.com/careers.html" },
+  { "name": "MoEngage",          "source": "careers_page", "type": "both",   "link": "https://www.moengage.com/careers/" },
+  { "name": "LeadSquared",       "source": "careers_page", "type": "both",   "link": "https://www.leadsquared.com/careers/" },
+  { "name": "Observe.AI",        "source": "careers_page", "type": "both",   "link": "https://www.observe.ai/careers" },
+  { "name": "Cohesity",          "source": "careers_page", "type": "both",   "link": "https://www.cohesity.com/company/careers/" },
+  { "name": "Pure Storage",      "source": "careers_page", "type": "both",   "link": "https://www.purestorage.com/company/careers.html" },
+  { "name": "YugabyteDB",        "source": "careers_page", "type": "both",   "link": "https://www.yugabyte.com/careers/" },
+  { "name": "Redis",             "source": "careers_page", "type": "both",   "link": "https://redis.com/company/careers/" },
+  { "name": "Cloudflare",        "source": "greenhouse",   "type": "both",   "link": "https://job-boards.greenhouse.io/cloudflare" },
+  { "name": "GitLab",            "source": "greenhouse",   "type": "both",   "link": "https://job-boards.greenhouse.io/gitlab" },
+  { "name": "Replit",            "source": "ashby",        "type": "remote", "link": "https://jobs.ashbyhq.com/replit" },
+  { "name": "Linear",            "source": "ashby",        "type": "remote", "link": "https://jobs.ashbyhq.com/linear" },
+  { "name": "Aspire",            "source": "aspire_api",   "type": "remote", "apiUrl": "https://revolutpeople.com/api/aspire/external/v3/postings", "link": "https://aspireapp.com/careers" },
+  { "name": "Xapo Bank",         "source": "greenhouse",   "type": "remote", "link": "https://job-boards.greenhouse.io/xapo61" },
+  { "name": "Canonical",         "source": "greenhouse",   "type": "remote", "link": "https://job-boards.greenhouse.io/canonical" },
+  { "name": "Automattic",        "source": "greenhouse",   "type": "remote", "link": "https://job-boards.greenhouse.io/automattic" },
+  { "name": "Miro",              "source": "greenhouse",   "type": "remote", "link": "https://job-boards.greenhouse.io/miro" },
+  { "name": "1Password",         "source": "greenhouse",   "type": "remote", "link": "https://job-boards.greenhouse.io/1password" },
+  { "name": "Zapier",            "source": "greenhouse",   "type": "remote", "link": "https://job-boards.greenhouse.io/zapier" },
+  { "name": "Loom",              "source": "greenhouse",   "type": "remote", "link": "https://job-boards.greenhouse.io/loom" },
+  { "name": "Figma",             "source": "greenhouse",   "type": "remote", "link": "https://job-boards.greenhouse.io/figma" },
+  { "name": "Notion",            "source": "greenhouse",   "type": "remote", "link": "https://job-boards.greenhouse.io/notion" },
+  { "name": "Vercel",            "source": "careers_page", "type": "remote", "link": "https://vercel.com/careers" },
+  { "name": "Airbnb",            "source": "careers_page", "type": "remote", "link": "https://careers.airbnb.com/" },
+  { "name": "Dropbox",           "source": "careers_page", "type": "remote", "link": "https://www.dropbox.jobs/en/jobs/" },
+  { "name": "Netlify",           "source": "careers_page", "type": "remote", "link": "https://www.netlify.com/careers/" },
+  { "name": "Pinterest",         "source": "careers_page", "type": "remote", "link": "https://www.pinterestcareers.com/jobs/" },
+  { "name": "Roblox",            "source": "careers_page", "type": "remote", "link": "https://careers.roblox.com/" },
+  { "name": "Toptal",            "source": "careers_page", "type": "remote", "link": "https://www.toptal.com/careers" },
+  { "name": "Turing",            "source": "careers_page", "type": "remote", "link": "https://www.turing.com/careers" },
+  { "name": "EPAM",              "source": "careers_page", "type": "remote", "link": "https://www.epam.com/careers" },
+  { "name": "Thoughtworks",      "source": "careers_page", "type": "remote", "link": "https://www.thoughtworks.com/careers" },
+  { "name": "Motive",            "source": "careers_page", "type": "remote", "link": "https://www.gomotive.com/careers" },
+  { "name": "Docker",            "source": "careers_page", "type": "remote", "link": "https://www.docker.com/company/careers/" },
+  { "name": "Faire",             "source": "careers_page", "type": "remote", "link": "https://www.faire.com/careers/openings" },
+  { "name": "Upstart",           "source": "careers_page", "type": "remote", "link": "https://careers.upstart.com/jobs/search" }
 ]

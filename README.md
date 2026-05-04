@@ -1,152 +1,92 @@
-# 🎯 Internship Job Alert System
+# Internship Alert System v2
 
-Monitors Replit (Ashby), Aspire (careers page), and Xapo Bank (Greenhouse)
-for new internship roles that are accessible from India/Nepal/Remote.
-Sends instant Gmail alerts when a match is found.
+Automated job scanner that emails you every hour when a new internship appears that matches your exact criteria.
 
----
+## Two Alert Modes
 
-## 📁 File Structure
+| Mode | Badge | Criteria |
+|------|-------|----------|
+| 🇮🇳 **ONSITE India** | `ONSITE` | Bangalore · Delhi NCR · Hyderabad · Mumbai |
+| 🌐 **REMOTE Global** | `REMOTE` | Worldwide, Asian-applicant-friendly |
+
+## What Gets Filtered Out (both modes)
+
+- Roles needing **1+ year of experience** (checked in title AND description)
+- **Senior / Lead / Staff / Manager / Director / Principal** in title
+- **Remote: geo-restricted** listings (USA only, Europe only, UK only, North America only, etc.)
+- **Onsite: outside India** — only Indian metro cities pass
+
+## Target Roles
+
+Software Engineer Intern · Frontend Intern · Backend Intern · Full Stack Intern · Trainee Engineer · Graduate Trainee · Apprentice
+
+## Companies Watched: 109 total
+
+- **39 Onsite-only** — Indian startups and companies (Razorpay, CRED, Swiggy, Zerodha, Paytm, Groww, Flipkart, etc.)
+- **44 Both** — Big tech with India offices that also post remote (Google, Microsoft, Amazon, Adobe, Cisco, etc.)
+- **26 Remote-only** — Global remote-first companies (GitLab, Canonical, Automattic, Figma, Notion, Zapier, etc.)
+
+## Sources Used
+
+| Source | How it works |
+|--------|-------------|
+| **Ashby API** | Direct JSON from `api.ashbyhq.com` |
+| **Greenhouse API** | Direct JSON from `boards-api.greenhouse.io` |
+| **Aspire API** | Paginated REST API |
+| **careers_page** | HTML scraping via cheerio |
+
+## Setup
+
+### 1. GitHub Secrets (Settings → Secrets → Actions)
+
+| Secret | Value |
+|--------|-------|
+| `GMAIL_USER` | your Gmail address |
+| `GMAIL_APP_PASSWORD` | [App Password](https://myaccount.google.com/apppasswords) (not your real password) |
+| `ALERT_EMAIL` | email to receive alerts (can be the same Gmail) |
+
+### 2. Enable GitHub Actions
+
+Push this repo and the workflow runs automatically every hour.
+You can also trigger it manually: **Actions → Internship Job Alert v2 → Run workflow**
+
+### 3. Local `.env` (for dry runs)
 
 ```
-internship-alert/
-├── .github/workflows/job-check.yml  ← GitHub Actions (runs every 10 min)
-├── checker.js                        ← Main logic
-├── companies.json                    ← Company list (edit to add more)
-├── seen_jobs.json                    ← Auto-updated; tracks seen jobs
-├── package.json
-└── README.md
+GMAIL_USER=you@gmail.com
+GMAIL_APP_PASSWORD=xxxx xxxx xxxx xxxx
+ALERT_EMAIL=you@gmail.com
 ```
 
----
-
-## 🚀 Setup (One-time)
-
-### Step 1 — Fork or create a GitHub repo
-
-Upload all these files to a new GitHub repository.
-
----
-
-### Step 2 — Get a Gmail App Password
-
-> This is NOT your regular Gmail password.
-> It's a special 16-character password for apps.
-
-1. Go to: https://myaccount.google.com/apppasswords
-2. Sign in as `dipesh77gautam@gmail.com`
-3. App name: `InternshipBot` (anything)
-4. Click **Create**
-5. Copy the 16-character password shown (e.g. `abcd efgh ijkl mnop`)
-   → Remove the spaces → `abcdefghijklmnop`
-
----
-
-### Step 3 — Add GitHub Secrets
-
-Go to your repo → **Settings** → **Secrets and variables** → **Actions** → **New repository secret**
-
-Add these 3 secrets:
-
-| Secret Name         | Value                              |
-|---------------------|------------------------------------|
-| `GMAIL_USER`        | `dipesh77gautam@gmail.com`         |
-| `GMAIL_APP_PASSWORD`| Your 16-char app password          |
-| `ALERT_EMAIL`       | `dipesh77gautam@gmail.com`         |
-
----
-
-### Step 4 — Enable GitHub Actions
-
-Go to repo → **Actions** tab → Click **"I understand my workflows, go ahead and enable them"**
-
-That's it. The workflow runs every 10 minutes automatically.
-
----
-
-## 🧪 Test Locally
+## Commands
 
 ```bash
-npm install
-GMAIL_USER=dipesh77gautam@gmail.com \
-GMAIL_APP_PASSWORD=your_app_password \
-node checker.js --dry-run
+npm test       # Run filter tests — no network, no email (do this anytime)
+npm run dry    # Dry run — fetches real jobs, prints email previews, no email sent
+npm start      # Full live run — fetches + sends real email alerts
 ```
 
-`--dry-run` prints what would be emailed without actually sending.
-
----
-
-## ✅ Filter Rules
-
-### Role must contain:
-- `intern` or `internship`
-
-### Role must NOT contain:
-- `senior`, `staff`, `lead`, `principal`, `manager`, `director`
-- `graduate`, `early career`, `entry level`, `trainee`, `junior`
-
-### Location must match (any of):
-- India, Nepal, Remote, Anywhere, Global, APAC, Worldwide, Hybrid
-
-### Location is rejected if it contains:
-- `US only`, `UK only`, `Europe only`, `Germany only`, `London only`
-- `Remote (US`, `Remote - US`, `North America only`
-
-### Missing location → **Rejected** (safe, less noise)
-
----
-
-## ➕ Adding More Companies
-
-Edit `companies.json`:
-
-```json
-[
-  { "name": "NewCo", "source": "ashby",      "link": "https://jobs.ashbyhq.com/newco" },
-  { "name": "NewCo", "source": "greenhouse", "link": "https://job-boards.greenhouse.io/newco" },
-  { "name": "NewCo", "source": "lever",      "link": "https://jobs.lever.co/newco" }
-]
-```
-
-Supported sources: `ashby`, `greenhouse`, `careers_page`
-
----
-
-## 📧 Email Format Example
+## Email Format
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🎯  NEW INTERNSHIP ALERT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🇮🇳 ONSITE | Software Engineer Intern @ Razorpay     ← subject
+🌐 REMOTE  | Backend Internship @ GitLab               ← subject
 
-🏢  Company   : Replit
-💼  Role      : Software Engineer Intern
-📍  Location  : Remote (Global)
-🔗  Apply Now : https://...
+🏢 Company   : Razorpay
+💼 Role      : Software Engineer Intern
+📍 Location  : Bangalore, India
+🔗 Apply Now : https://...
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📋  ROLE OVERVIEW
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-We're looking for a Software Engineer Intern to join...
+📋 ROLE OVERVIEW
+...
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✅  WHY THIS MATCHED YOUR FILTERS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✔ Internship role — no seniority conflict
-✔ Location accessible — matched "remote"
+✅ WHY THIS MATCHED YOUR FILTERS
+   ✔ Entry-level keyword confirmed in title
+   ✔ No seniority conflict
+   ✔ India metro confirmed: "bangalore"
+   ✔ No experience requirement found
 ```
 
----
+## How seen_jobs.json Works
 
-## ⚠️ Notes
-
-- **Aspire** uses a careers page (not API). If Aspire uses JavaScript rendering,
-  the scraper may miss some jobs. In that case, switch to a manual API check
-  by inspecting network requests on aspireapp.com/careers.
-
-- `seen_jobs.json` is committed back after every run by the Action.
-  Do not manually edit it unless you want to reset the seen state.
-
-- GitHub Actions scheduled workflows can sometimes be delayed by a few minutes
-  during high-traffic periods — this is normal.
+Every job that has been seen (pass or fail) is saved with a timestamp. On each hourly run, already-seen jobs are skipped — so you only ever get notified once per new job. GitHub Actions commits this file back to the repo after every run.
