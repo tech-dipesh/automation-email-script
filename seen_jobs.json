@@ -35252,5 +35252,453 @@
     "mode": "onsite",
     "seenAt": "2026-05-05T10:00:27.095Z",
     "matched": false
+  },
+  "Paytm::0613ed07-d566-4789-8d23-c08b67140432": {
+    "title": "IT Audit-Manager",
+    "location": "Noida, Uttar Pradesh",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:08:15.899Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/noida/staff-rtl-design-engineer/44408/94725587488": {
+    "title": "Staff RTL Design Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:11:03.934Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/yerevan/analog-design-staff-engineer/44408/94725587424": {
+    "title": "Analog Design, Staff Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:11:03.934Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/noida/r-and-d-engineering-sr-engineer/44408/94725587392": {
+    "title": "R&D Engineering, Sr Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:11:03.934Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/noida/senior-verification-manager-ip-development/44408/88686757904": {
+    "title": "Senior Verification Manager - IP Development",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:11:03.934Z",
+    "matched": false
+  },
+  "HackerEarth::https://www.hackerearth.com/recruit/resources/insights/drs2023/": {
+    "title": "State of the Developer Ecosystem 2022-23",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:11.272Z",
+    "matched": false
+  },
+  "HackerEarth::https://www.hackerearth.com/recruit/hackathons/": {
+    "title": "Internal Hackathons",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:11.272Z",
+    "matched": false
+  },
+  "HackerEarth::https://www.linkedin.com/company/hackerearth/jobs/": {
+    "title": "Follow us on LinkedIn",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:11.272Z",
+    "matched": false
+  },
+  "HackerEarth::https://hackerearth.applytojob.com/apply": {
+    "title": "Careers",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:11.272Z",
+    "matched": false
+  },
+  "IndiaMART::https://careers.indiamart.com/leadership-product-tech-corporate-roles.html": {
+    "title": "Know More",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:14.502Z",
+    "matched": false
+  },
+  "MindTickle::https://www.mindtickle.com/careers/?department=Engineering": {
+    "title": "Engineering",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.623Z",
+    "matched": false
+  },
+  "MindTickle::https://www.mindtickle.com/careers/?department=Engineering&team=Engineering": {
+    "title": "Engineering",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.623Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/97d08931-526e-420a-afd9-dd203984dabc": {
+    "title": "Instructional DesignerHybrid —Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/6e3c22a5-1539-4512-8bdd-12b4f0e05c58": {
+    "title": "Sr. Graphic designerHybrid —Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/477ff38c-f0d4-4655-b714-ed6205975c11": {
+    "title": "Software Development Engineer - II (Tech Solution)Hybrid —Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/f8ef5095-a8db-4279-98b4-94dbca9c717e": {
+    "title": "Professional Services ConsultantHybrid —, US",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/3b7c0b4c-2ca8-4aab-8b55-be71bb3300e2": {
+    "title": "Professional Services Consultant—, Costa Rica",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/439945f2-b639-44d5-8dce-89bdd939a085": {
+    "title": "Senior Manager, Services DeliveryHybrid —Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/9110aadd-49b0-4d10-9518-254d3d14ce1e": {
+    "title": "Senior Program ManagerHybrid —Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/37dd13ed-f6f2-42a1-887c-f251bd82720e": {
+    "title": "Senior Solutions Architect (NAMER)Hybrid —Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/b07a60a1-2859-47e9-a65d-b5d6e8a3d273": {
+    "title": "Senior Manager, Customer Success EngineeringOn-site —Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/8b726b19-56ac-4243-ba67-117f12dbfb8e": {
+    "title": "SDE II (AI/ML)On-site —Pune, Maharashtra /, Karnataka",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/da71709f-88c1-435e-8da6-8126dedc81cc": {
+    "title": "SDE III BackendOn-site — Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/59f53c64-fd11-4e08-a60d-9f72e5eb6649": {
+    "title": "Senior Technical Program ManagerOn-site —, Karnataka",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/5a1e9cb0-cf46-4b74-b3cd-c735e760a18e": {
+    "title": "Software Development Engineer - IIHybrid —, Karnataka / Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/df3c6429-8f14-4821-8672-1139b573dd4d": {
+    "title": "Software Development Engineer - IIIHybrid —, Karnataka",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/e3b6c7c4-4374-458a-a60e-3f7659e222af": {
+    "title": "Staff EngineerOn-site — Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/37ce31ba-9a5b-4890-a06a-8d0edacee7cc": {
+    "title": "Technical Product Owner - IIOn-site —Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/a09d5193-d0ba-480c-980d-418c205d185f": {
+    "title": "SME Engineer ITHybrid —Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/26868ae4-5d58-4374-92cf-40cc7ec68946": {
+    "title": "Specialist, Information Security & PrivacyHybrid —Pune, Maharashtra /, Karnataka",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/5910c50f-e488-4a20-bdeb-08bc3fae9dc7": {
+    "title": "Senior Analyst, Revenue OperationsHybrid —, Karnataka / Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/67dd2c08-025c-4071-a00e-89bd6826dc5e": {
+    "title": "Sr Analyst - GTM Strategy & AnalyticsHybrid —, Karnataka / Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/8c8700a4-5020-4c8a-a324-ac7cac0ab804": {
+    "title": "Business Development Representative - IIHybrid —, Karnataka",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/14b46128-f7cc-4586-98df-3f285b0b0c6a": {
+    "title": "Senior Manager - Business Development (AI Offerings)Hybrid —, Karnataka",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/dd65e840-9ff0-492f-879d-0e4dc65be2ad": {
+    "title": "Senior Manager, Business Development - EnterpriseHybrid —, Karnataka",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/700434da-3753-40b6-a381-fe2c7b3ab18d": {
+    "title": "Lead, Content Marketer—,/ Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/1538441d-fb7c-45b6-855d-d9328b3e7a46": {
+    "title": "Principal Product Marketing Manager – Field (Expansion & Retention)Hybrid —, US",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/059d83fe-6ad4-48da-ac4f-a3ddc446a80e": {
+    "title": "Senior Field Marketing Associate—, US",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/a2bc1371-eade-465a-a017-46c746742baa": {
+    "title": "Lead Design EngineerOn-site —Pune, Maharashtra /, Karnataka",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/4be1984c-0c02-462c-bd8d-3ffb645a09c1": {
+    "title": "Senior Product DesignerOn-site —, Karnataka / Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/3e7cc935-18d5-431f-ac94-dbcf0e819ccc": {
+    "title": "UX Research ManagerOn-site —, Karnataka",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/b96342a2-a4a5-4281-8ccf-324b28a2e962": {
+    "title": "Group Product ManagerOn-site —, Karnataka / Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/e55245fd-983c-4564-9b3f-491b7d16b8e8": {
+    "title": "Senior Product ManagerOn-site —, Karnataka",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/efead581-0fc4-4056-8320-4c1816d18732": {
+    "title": "Senior Instructional DesignerHybrid —Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/885113ea-1bf0-4283-91d0-950c36f71394": {
+    "title": "Account Executive, Expansions [NAMER]Hybrid —, Karnataka",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/04f16bd4-097b-4cde-bd1e-5ae443617b34": {
+    "title": "Enterprise Account Executive, New Logo—, US",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/f9dec087-3a45-466c-a192-86a2f87bed4f": {
+    "title": "Principal Solutions Consultant—, US",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "MindTickle::https://www.lever.co/job-seeker-support/": {
+    "title": "Jobs powered by",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:20.624Z",
+    "matched": false
+  },
+  "OneCard::https://www.getonecard.app/careers/": {
+    "title": "Careers",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:22.530Z",
+    "matched": false
+  },
+  "OneCard::https://www.fplabs.tech/careers/": {
+    "title": "Work With Us",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:13:22.530Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-software-engineer-cloud-infrastructure-observability-cambridge-england-united-kingdom": {
+    "title": "Senior Software Engineer - Cloud Infrastructure & Observability",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-05T11:13:25.969Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/design-lead-at-treebo-hospitality-ventures-4408385107?refId=a0o3g0Z%2B7mXx9kvqpYLTog%3D%3D&trackingId=bPNYYcSvxNWloeR9bPzlXg%3D%3D": {
+    "title": "Design Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:15:34.835Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/talent-acquisition-specialist-at-treebo-hospitality-ventures-4408652584?refId=a0o3g0Z%2B7mXx9kvqpYLTog%3D%3D&trackingId=GSaGEOFPwn91sqy%2B%2FTjzwQ%3D%3D": {
+    "title": "Talent Acquisition Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:15:34.835Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-pan-india-at-treebo-hospitality-ventures-4408652198?refId=a0o3g0Z%2B7mXx9kvqpYLTog%3D%3D&trackingId=XdJ11fjFu58U3PcdjHBshw%3D%3D": {
+    "title": "Corporate Sales Manager ( PAN)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:15:34.835Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/business-development-manager-multiple-locations-at-treebo-hospitality-ventures-4407333364?refId=a0o3g0Z%2B7mXx9kvqpYLTog%3D%3D&trackingId=m8x1ltPQieJKENlrm%2FzGcQ%3D%3D": {
+    "title": "Business Development Manager (Multiple Locations)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:15:34.835Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/junior-copy-writer-at-treebo-hospitality-ventures-4401841570?refId=a0o3g0Z%2B7mXx9kvqpYLTog%3D%3D&trackingId=vRMOxzFkoZsABWM2M0DcIw%3D%3D": {
+    "title": "Junior Copy writer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:15:34.835Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-bhubaneshwar-at-treebo-hospitality-ventures-4401434454?refId=a0o3g0Z%2B7mXx9kvqpYLTog%3D%3D&trackingId=3pfK9uXPXJu0cAiVJEycRQ%3D%3D": {
+    "title": "Manager - Operations - Bhubaneshwar",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:15:34.835Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/search-engine-optimization-team-lead-at-treebo-hospitality-ventures-4401174805?refId=a0o3g0Z%2B7mXx9kvqpYLTog%3D%3D&trackingId=7tB%2B1EGdUa%2FfIMPIXUZXBw%3D%3D": {
+    "title": "Search Engine Optimization Team Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:15:34.835Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-noida-at-treebo-hospitality-ventures-4399602526?refId=a0o3g0Z%2B7mXx9kvqpYLTog%3D%3D&trackingId=VSigjr2QCtaDCcyUq1I0TQ%3D%3D": {
+    "title": "Manager - National Sales -",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:15:34.835Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/field-sales-internship-in-bangalore-at-treebo-hospitality-ventures-4399804031?refId=a0o3g0Z%2B7mXx9kvqpYLTog%3D%3D&trackingId=ms7mmQ97BmAGOR6SDDJIwg%3D%3D": {
+    "title": "Field Sales Internship in",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:15:34.835Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAAzAAAAMgAAADQAAAA=-hsvnOt3MmZU=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:15:45.473Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAAzAAAAMgAAADAAAAA=-aAQRWTg0sDY=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:15:45.473Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAAzAAAAMQAAADYAAAA=-ZbYIpoh+1Vw=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:15:45.473Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAAzAAAAMQAAADIAAAA=-3hoQsiLcLoI=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-05T11:15:45.473Z",
+    "matched": false
   }
 }
