@@ -6,7 +6,7 @@
 const INTERN_RE      = /\b(intern|internship|trainee|apprentice|graduate\s+trainee|grad\s+trainee)\b/i;
 const SWE_DOMAIN_RE  = /\b(software|engineer|developer|full[\s-]?stack|frontend|front[\s-]end|backend|back[\s-]end|devops|dev[\s-]ops|swe|sde|web[\s-]?dev|mobile|android|ios|react|node|java|python|cloud|platform|infrastructure|infra|site[\s-]?reliab|data[\s-]?engin|ml|machine[\s-]?learn|deep[\s-]?learn|ai|computer[\s-]?vision|nlp|embedded|firmware|systems)\b/i;
 const SENIOR_RE      = /\b(senior|sr\b|lead|leader|staff|principal|manager|director|head\s+of|vp\b|vice\s+president)\b/i;
-const INDIA_CITIES   = ["bangalore","bengaluru","delhi","new delhi","ncr","noida","gurgaon","gurugram","faridabad","hyderabad","secunderabad","mumbai","bombay","navi mumbai","india"];
+const INDIA_CITIES = ["bangalore","bengaluru","delhi","new delhi","ncr","noida","gurgaon","gurugram","faridabad","hyderabad","secunderabad","mumbai","bombay","navi mumbai","chandigarh","mohali","panchkula","pune","hinjewadi","chennai","coimbatore","kolkata","ahmedabad","india"];
 const BLOCKED_LOCS   = ["us only","usa only","united states only","uk only","europe only","eu only","north america only","americas only","canada only","australia only","us-only","uk-only","remote (us","remote - us","remote, us","remote / us","remote (united states","remote (canada"];
 const EXP_RE         = [
   /\b[1-9]\+?\s*(?:year|yr)s?\s+(?:of\s+)?(?:experience|exp)\b/i,

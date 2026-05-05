@@ -68,6 +68,11 @@ const INDIA_CITIES = [
   "delhi", "new delhi", "ncr", "noida", "gurgaon", "gurugram", "faridabad",
   "hyderabad", "secunderabad",
   "mumbai", "bombay", "navi mumbai",
+  "chandigarh", "mohali", "panchkula",
+  "pune", "hinjewadi",
+  "chennai", "coimbatore",
+  "kolkata",
+  "ahmedabad",
   "india",
 ];
 
