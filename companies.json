@@ -67,14 +67,14 @@
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Bangalore, India",
-    "link": "https://www.myntra.com/careers"
+    "link":"https://jobs.myntra.com/home" 
   },
   {
     "name": "Smallcase",
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Bangalore, India",
-    "link": "https://www.smallcase.com/careers"
+    "link": "https://app.pyjamahr.com/careers?company=smallcase&company_uuid=2615584222"
   },
   {
     "name": "ShareChat",
@@ -109,7 +109,7 @@
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Bangalore, India",
-    "link": "https://www.olacabs.com/careers"
+    "link": "https://olacareers.turbohire.co/careerpage/e0c1eb37-eb7a-4ca4-bcc5-d59ce4ce9212"
   },
   {
     "name": "Udaan",
@@ -123,14 +123,14 @@
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Gurgaon, India",
-    "link": "https://www.lenskart.com/careers"
+    "link": "https://ainterviews.com/job_board/lenskart_ho/#open-positions"
   },
   {
     "name": "Gojek",
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Bangalore, India",
-    "link": "https://www.gojek.io/careers"
+    "link":"https://www.gojek.io/careers/all" 
   },
   {
     "name": "Hasura",
@@ -229,7 +229,7 @@
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Bangalore, India",
-    "link": "https://www.mphasis.com/careers.html"
+    "link": "https://mphasis.ripplehire.com/candidate/?token=ty4DfyWddnOrtpclQeia&source=CAREERSITE#list/location=Bangalore%2BHyderabad%2BMumbai%2BPune"
   },
   {
     "name": "Dunzo",
@@ -250,7 +250,7 @@
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Bangalore, India",
-    "link": "https://www.glance.com/careers"
+    "link": "https://glance.com/careers#open-positions"
   },
   {
     "name": "Koo App",
@@ -271,7 +271,7 @@
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Bangalore, India",
-    "link": "https://careers.rakuten.com/"
+    "link":"https://rakuten.openings.co/rakuten/jobslist" 
   },
   {
     "name": "Itilite",
@@ -291,7 +291,7 @@
     "name": "Freshworks",
     "source": "greenhouse",
     "type": "onsite",
-    "link": "https://job-boards.greenhouse.io/freshworks"
+    "link": "https://careers.smartrecruiters.com/Freshworks"
   },
   {
     "name": "Chargebee",
@@ -309,19 +309,19 @@
     "name": "BrowserStack",
     "source": "greenhouse",
     "type": "onsite",
-    "link": "https://job-boards.greenhouse.io/browserstack"
+    "link": "https://browserstack.wd3.myworkdayjobs.com/External"
   },
   {
     "name": "Harness",
     "source": "greenhouse",
     "type": "onsite",
-    "link": "https://job-boards.greenhouse.io/harness"
+    "link": "https://www.harness.io/company/jobs"
   },
   {
     "name": "CleverTap",
     "source": "greenhouse",
     "type": "onsite",
-    "link": "https://job-boards.greenhouse.io/clevertap"
+    "link": "https://clevertap.com/current-openings/"
   },
   {
     "name": "Accenture India",
@@ -367,9 +367,9 @@
   },
   {
     "name": "LTIMindtree",
-    "source": "greenhouse",
+    "source": "careers_page",
     "type": "both",
-    "link": "https://job-boards.greenhouse.io/ltimindtree"
+    "link": "https://careers.ltimindtree.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_location"
   },
   {
     "name": "Capgemini India",
@@ -483,7 +483,7 @@
     "name": "Uber",
     "source": "careers_page",
     "type": "both",
-    "link": "https://www.uber.com/in/en/careers/"
+    "link": "https://www.uber.com/in/en/careers/list/?department=Engineering"
   },
   {
     "name": "Salesforce",
@@ -586,7 +586,7 @@
     "name": "Rubrik",
     "source": "careers_page",
     "type": "both",
-    "link": "https://www.rubrik.com/company/careers"
+    "link":"https://www.rubrik.com/company/careers/departments/engineering" 
   },
   {
     "name": "Palo Alto Networks",
@@ -598,13 +598,13 @@
     "name": "Nutanix",
     "source": "careers_page",
     "type": "both",
-    "link": "https://www.nutanix.com/company/careers"
+    "link": "https://careers.nutanix.com/en/jobs/?orderby=0&pagesize=20&page=1&radius=100&country=India"
   },
   {
     "name": "Agoda",
     "source": "careers_page",
     "type": "both",
-    "link": "https://careersatagoda.com/"
+    "link": "https://careersatagoda.com/vacancies/?search&teams&locations=Gurugram"
   },
   {
     "name": "Cohesity",
@@ -677,25 +677,25 @@
     "name": "Automattic",
     "source": "greenhouse",
     "type": "remote",
-    "link": "https://job-boards.greenhouse.io/automattic"
+    "link": "https://automattic.com/jobs/"
   },
   {
     "name": "Miro",
     "source": "greenhouse",
     "type": "remote",
-    "link": "https://job-boards.greenhouse.io/miro"
+    "link": "https://miro.com/careers/open-positions/?location=remote-emea"
   },
   {
     "name": "1Password",
-    "source": "greenhouse",
+    "source": "ashby",
     "type": "remote",
-    "link": "https://job-boards.greenhouse.io/1password"
+    "link": "https://jobs.ashbyhq.com/1password"
   },
   {
     "name": "Zapier",
-    "source": "greenhouse",
+    "source": "careers_page",
     "type": "remote",
-    "link": "https://job-boards.greenhouse.io/zapier"
+    "link": "https://zapier.com/jobs#job-openings"
   },
   {
     "name": "Figma",
@@ -743,7 +743,7 @@
     "name": "Toptal",
     "source": "careers_page",
     "type": "remote",
-    "link": "https://www.toptal.com/careers"
+    "link": "https://www.toptal.com/careers#positions"
   },
   {
     "name": "Turing",
@@ -755,7 +755,7 @@
     "name": "EPAM",
     "source": "careers_page",
     "type": "remote",
-    "link": "https://www.epam.com/careers"
+    "link": "https://careers.epam.com/en/jobs/india"
   },
   {
     "name": "Thoughtworks",
@@ -767,7 +767,7 @@
     "name": "Docker",
     "source": "careers_page",
     "type": "remote",
-    "link": "https://www.docker.com/company/careers/"
+    "link": "https://www.docker.com/career-openings/"
   },
   {
     "name": "Faire",
@@ -794,14 +794,14 @@
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Gurgaon, India",
-    "link": "https://careers.airtel.com/"
+    "link": "https://bhartifoundation.darwinbox.in/ms/candidatev2/main/careers/allJobs"
   },
   {
     "name": "Ajio",
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Bangalore, India",
-    "link": "https://www.ajio.com/ajio-careers"
+    "link": "https://rcareers.ril.com/sap/bc/bsp/sap/zerec_home_page/home_page.do"
   },
   {
     "name": "Amadeus Labs",
@@ -815,7 +815,7 @@
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Delhi, India",
-    "link": "https://bharatpe.com/career"
+    "link": "https://bharatpe.darwinbox.in/ms/candidatev2/main/careers/allJobs"
   },
   {
     "name": "BMC Software India",
@@ -836,28 +836,28 @@
     "source": "careers_page",
     "type": "both",
     "defaultLocation": "Bangalore, India",
-    "link": "https://www.cadence.com/en_US/home/company/careers.html"
+    "link": "https://careers.cloud.com/jobs/search?page=1&country_codes%5B%5D=IN"
   },
   {
     "name": "Citrix India",
     "source": "careers_page",
     "type": "both",
     "defaultLocation": "Bangalore, India",
-    "link": "https://jobs.citrix.com/"
+    "link": "https://careers.cloud.com/jobs/search?page=1&country_codes%5B%5D=IN&query="
   },
   {
     "name": "Codenation Innovation Labs",
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Bangalore, India",
-    "link": "http://codenation.co.in/hiringprocess.html"
+    "link":"https://cadence.wd1.myworkdayjobs.com/External_Careers" 
   },
   {
     "name": "CoinDCX",
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Mumbai, India",
-    "link": "https://coindcx.com/careers/"
+    "link": "https://careers.coindcx.com/opportunities/openings?career_page_category=Intern"
   },
   {
     "name": "CoinSwitch Kuber",
@@ -948,7 +948,7 @@
     "source": "careers_page",
     "type": "both",
     "defaultLocation": "Bangalore, India",
-    "link": "https://jobs.fidelity.com/"
+    "link": "https://jobs.fidelity.com/in/jobs/?location=Bangalore&search=&origin=global&lat=&lng="
   },
   {
     "name": "FreeCharge",
@@ -968,7 +968,7 @@
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Gurgaon, India",
-    "link": "https://blinkit.com/careers"
+    "link":"https://blinkit.com/careers/jobs" 
   },
   {
     "name": "HealthifyMe",
@@ -1010,14 +1010,14 @@
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Bangalore, India",
-    "link": "https://www.careers.in/"
+    "link": "https://licious.darwinbox.in/ms/candidatev2/main/careers/allJobs"
   },
   {
     "name": "Mastercard India",
     "source": "careers_page",
     "type": "both",
     "defaultLocation": "Pune, India",
-    "link": "https://www.mastercard.us/en-us/vision/who-we-are/careers.html"
+    "link":"https://careers.mastercard.com/us/en/search-results" 
   },
   {
     "name": "Morgan Stanley India",
@@ -1059,28 +1059,28 @@
     "source": "careers_page",
     "type": "both",
     "defaultLocation": "Bangalore, India",
-    "link": "https://www.nokia.com/about-us/careers/"
+    "link": "https://jobs.nokia.com/en/sites/CX_1/jobs?mode=location"
   },
   {
     "name": "nurture.farm",
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Bangalore, India",
-    "link": "https://nurture.skillate.com/"
+    "link": "https://www.instahyre.com/jobs-at-nurture/"
   },
   {
     "name": "Park+",
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Gurgaon, India",
-    "link": "https://parkplus.io/we-are-hiring#hiring"
+    "link": "https://parkplus.io/careers#see-jobs"
   },
   {
     "name": "Persistent Systems",
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Pune, India",
-    "link": "https://www.persistent.com/careers/"
+    "link": "https://careers.persistent.com/explore-opportunities"
   },
   {
     "name": "PharmEasy",
@@ -1108,7 +1108,7 @@
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Mumbai, India",
-    "link": "https://www.shaadi.com/careers"
+    "link": "https://openroles.peopleinteractive.in/"
   },
   {
     "name": "Shell India",
@@ -1160,10 +1160,10 @@
   },
   {
     "name": "Upstox",
-    "source": "lever",
+    "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Mumbai, India",
-    "link": "https://jobs.lever.co/upstox",
+    "link": "https://upstox.com/careers/",
     "leverSlug": "upstox"
   },
   {
@@ -1206,14 +1206,14 @@
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Bangalore, India",
-    "link": "https://careers.zeta.tech/work-with-us/"
+    "link": "https://www.zeta.tech/in/careers/work-with-us/?department=engineering"
   },
   {
     "name": "Zomato",
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Gurgaon, India",
-    "link": "https://www.zomato.com/careers"
+    "link": "https://www.eternal.com/careers/"
   },
   {
     "name": "Spinny",
@@ -1241,7 +1241,7 @@
     "source": "careers_page",
     "type": "both",
     "defaultLocation": "Mumbai, India",
-    "link": "https://jobs.bankofamerica.com/"
+    "link": "https://careers.bankofamerica.com/en-us/job-search/india?ref=search&start=0&rows=10&search=jobsByLocation&searchstring=India"
   },
   {
     "name": "Chegg India",
@@ -1252,9 +1252,9 @@
   },
   {
     "name": "Coinbase India",
-    "source": "careers_page",
+    "source": "greenhouse",
     "type": "both",
-    "link": "https://www.coinbase.com/careers"
+    "link": "https://www.glassdoor.co.in/Jobs/Coinbase-Jobs-E779622.htm"
   },
   {
     "name": "Cvent India",
@@ -1268,7 +1268,7 @@
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Gurgaon, India",
-    "link": "https://jobs.makemytrip.com/"
+    "link": "https://www.hirist.tech/goibibo-careers"
   },
   {
     "name": "GreyOrange",
@@ -1282,7 +1282,7 @@
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Mumbai, India",
-    "link": "https://www.fynd.com/jobs"
+    "link": "https://www.fynd.com/careers"
   },
   {
     "name": "Housing.com",
@@ -1359,7 +1359,7 @@
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Gurgaon, India",
-    "link": "https://www.ixigo.com/careers"
+    "link": ""
   },
   {
     "name": "KPMG India",
@@ -1380,49 +1380,49 @@
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Gurgaon, India",
-    "link": "https://www.yatra.com/jobs"
+    "link": "https://tech.yatra.com/jobs?location=gurgaon"
   },
   {
     "name": "SBI Card",
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Gurgaon, India",
-    "link": "https://www.sbicard.com/en/personal/about-sbi-card/careers.page"
+    "link": "https://edox.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001"
   },
   {
     "name": "Times Internet",
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Noida, India",
-    "link": "https://timesjobs.com/"
+    "link": "https://timesinternet.in/careers/job-list?_search=&filter_location=&filter_category=Technology"
   },
   {
     "name": "Snapdeal",
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Gurgaon, India",
-    "link": "https://www.snapdeal.com/info/careers"
+    "link": "https://blog.snapdeal.com/index.php/careers/"
   },
   {
     "name": "WinZo",
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Delhi, India",
-    "link": "https://www.winzogames.com/careers"
+    "link": "https://consider.com/boards/vc/griffin-gaming/jobs/winzo?locations=India"
   },
   {
     "name": "Simpl",
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Bangalore, India",
-    "link": "https://getsimpl.com/careers"
+    "link": "https://www.naukri.com/simpl-jobs-careers-2977332"
   },
   {
     "name": "McKinsey India",
     "source": "careers_page",
     "type": "both",
     "defaultLocation": "Gurgaon, India",
-    "link": "https://www.mckinsey.com/in/careers-in-india"
+    "link": "https://www.mckinsey.com/careers/search-jobs?cities=Bengaluru&cities=Delhi&cities=Gurugram&cities=Mumbai"
   },
   {
     "name": "Sumo Logic India",
@@ -1485,7 +1485,7 @@
     "source": "careers_page",
     "type": "both",
     "defaultLocation": "Pune, India",
-    "link": "https://jobs.bnymellon.com/"
+    "link": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/jobs?location=India&locationId=300000000378365&locationLevel=country&mode=location"
   },
   {
     "name": "Block Inc India",
@@ -1498,19 +1498,19 @@
     "source": "careers_page",
     "type": "both",
     "defaultLocation": "Mumbai, India",
-    "link": "https://careers.bloomberg.com/job/search"
+    "link": "https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162478%2C162575%2C162477%5D&1845_format=3996&listFilterMode=1&jobRecordsPerPage=12#"
   },
   {
     "name": "Booking.com India",
     "source": "greenhouse",
     "type": "both",
-    "link": "https://job-boards.greenhouse.io/bookingcom"
+    "link": "https://jobs.booking.com/booking/jobs?page=1"
   },
   {
     "name": "Box India",
     "source": "careers_page",
     "type": "both",
-    "link": "https://www.box.com/en-in/careers"
+    "link": "https://careers.box.com/en/jobs/?search=&location=US+Remote+-+Massachusetts+-+Boston+Area&origin=global"
   },
   {
     "name": "ByteDance India",
@@ -1537,7 +1537,7 @@
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Bangalore, India",
-    "link": "https://careers.dailyhunt.com/#!/"
+    "link": "https://www.naukri.com/dailyhunt-jobs-careers-264249"
   },
   {
     "name": "DBS Bank India",
@@ -1551,13 +1551,13 @@
     "source": "careers_page",
     "type": "onsite",
     "defaultLocation": "Bangalore, India",
-    "link": "https://www.dealshare.in/careers#home"
+    "link": "https://www.jobhai.com/dealshare-jobs-cmp"
   },
   {
     "name": "DigitalOcean",
     "source": "greenhouse",
     "type": "remote",
-    "link": "https://job-boards.greenhouse.io/digitalocean"
+    "link": "https://www.digitalocean.com/careers"
   },
   {
     "name": "Discord India",
