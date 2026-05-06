@@ -40297,5 +40297,208 @@
     "mode": "onsite",
     "seenAt": "2026-05-05T23:45:06.646Z",
     "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Power-and-Utilities-OT-Operational-Technology-Manager/341086": {
+    "title": "Power and Utilities OT Operational Technology-Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:23:32.777Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Power-and-Utilities-OT-Operational-Technology-Senior-Consultant/341084": {
+    "title": "Power and Utilities OT Operational Technology-Senior Consultant",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:23:32.777Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/bingen/us-domestic-regional-growth-director-remote/185/94754004448": {
+    "title": "US Domestic Regional Growth Director -",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:24:10.996Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/bingen/traffic-coordinator-2-contract/185/94754002688": {
+    "title": "Traffic Coordinator 2 -",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:24:10.996Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/washington-d-c/international-business-development-specialist-middle-east-and-north-africa-remote/185/94754002624": {
+    "title": "International Business Development Specialist – Middle East and North Africa -",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:24:10.996Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/sr-operations-analyst-accounts-receivable/springfield-mo/R-105844/": {
+    "title": "Sr. Operations Analyst, Accounts Receivable United States - Missouri - Springfield Finance",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:24:21.702Z",
+    "matched": false
+  },
+  "Expedia Group India::https://careers.expediagroup.com/?blackhole=fd1ff4b741": {
+    "title": "Expedia Group | Careers",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:24:21.702Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/canonsburg/technical-writing-internship/44408/94574445920": {
+    "title": "Technical Writing Internship",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:25:05.080Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/nepean/principal-engineer-ddr-lpddr-phy-systems-15193/44408/91882458064": {
+    "title": "Principal Engineer, DDR/LPDDR/PHY Systems- 15193",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:25:05.080Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/markham/staff-analog-mixed-signal-layout-design-and-methodology-engineer-16944/44408/94719427568": {
+    "title": "Staff, Analog Mixed Signal Layout Design and Methodology Engineer-16944",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:25:05.080Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/bengaluru/revenue-recognition-staff/44408/92463617168": {
+    "title": "Revenue Recognition Staff",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:25:05.080Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-technical-program-manager-san-jose-california-united-states": {
+    "title": "Senior Technical Program Manager",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-06T01:28:31.542Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/software-engineer-in-test-ai-focus-cambridge-england-united-kingdom": {
+    "title": "Software Engineer in Test (AI focus)",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-06T01:28:31.542Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/sr-analyst-ad-forecasting-inventory-yield-new-york-united-states": {
+    "title": "Sr. Analyst, Ad Forecasting & Inventory Yield",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-06T01:28:31.542Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/software-engineer-intern-advanced-development-cambridge-england-united-kingdom-ac96780a-2b28-4559-921b-eb226a442597": {
+    "title": "Software Engineer Intern, Advanced Development",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-06T01:28:32.698Z",
+    "matched": true
+  },
+  "Roku India::https://www.weareroku.com/jobs/sr-data-engineer-bengaluru-karnataka-india-66a08698-e033-4cc1-98d6-877219908bb6": {
+    "title": "Sr. Data Engineer",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-06T01:28:32.698Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-software-engineer-cloud-infrastructure-observability-bengaluru-karnataka-india": {
+    "title": "Senior Software Engineer - Cloud Infrastructure & Observability",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-06T01:28:32.698Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-software-engineer-test-bengaluru-karnataka-india": {
+    "title": "Senior Software Engineer, Test",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-06T01:28:32.698Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr340729/product-security-engineer-infrastructure/": {
+    "title": "Product Security Engineer, Infrastructure",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:29:38.852Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr340655/enterprise-architect/": {
+    "title": "Enterprise Architect",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:29:38.852Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/design-lead-at-treebo-hospitality-ventures-4408385107?refId=n%2Bgd0NP317ngYS%2Bnv0ha5w%3D%3D&trackingId=cA34uCdgSX5iLLb6wcJxag%3D%3D": {
+    "title": "Design Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:29:53.003Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/talent-acquisition-specialist-at-treebo-hospitality-ventures-4408652584?refId=n%2Bgd0NP317ngYS%2Bnv0ha5w%3D%3D&trackingId=WVswvo%2FfsOyECTot9WpCLw%3D%3D": {
+    "title": "Talent Acquisition Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:29:53.003Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-pan-india-at-treebo-hospitality-ventures-4408652198?refId=n%2Bgd0NP317ngYS%2Bnv0ha5w%3D%3D&trackingId=EogVPpnB44rsFkyu8WxZPA%3D%3D": {
+    "title": "Corporate Sales Manager ( PAN)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:29:53.003Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/business-development-manager-multiple-locations-at-treebo-hospitality-ventures-4407333364?refId=n%2Bgd0NP317ngYS%2Bnv0ha5w%3D%3D&trackingId=ROF62Tfuk5oIIodGzGJOLg%3D%3D": {
+    "title": "Business Development Manager (Multiple Locations)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:29:53.003Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/junior-copy-writer-at-treebo-hospitality-ventures-4401841570?refId=n%2Bgd0NP317ngYS%2Bnv0ha5w%3D%3D&trackingId=oIUL8uXtUASjwTKufOqZ1g%3D%3D": {
+    "title": "Junior Copy writer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:29:53.003Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-bhubaneshwar-at-treebo-hospitality-ventures-4401434454?refId=n%2Bgd0NP317ngYS%2Bnv0ha5w%3D%3D&trackingId=DWYSRb0DUKJjE8vrDbQFdQ%3D%3D": {
+    "title": "Manager - Operations - Bhubaneshwar",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:29:53.003Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/search-engine-optimization-team-lead-at-treebo-hospitality-ventures-4401174805?refId=n%2Bgd0NP317ngYS%2Bnv0ha5w%3D%3D&trackingId=oTxDEZxlfLA2finXxPHVdg%3D%3D": {
+    "title": "Search Engine Optimization Team Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:29:53.003Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-noida-at-treebo-hospitality-ventures-4399602526?refId=n%2Bgd0NP317ngYS%2Bnv0ha5w%3D%3D&trackingId=TBMKREf7mwlBY51xiYJkTA%3D%3D": {
+    "title": "Manager - National Sales -",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:29:53.003Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-dehradun-at-treebo-hospitality-ventures-4394789246?refId=n%2Bgd0NP317ngYS%2Bnv0ha5w%3D%3D&trackingId=Jv6uD%2FlbwQxkE6fAgIxINA%3D%3D": {
+    "title": "Associate Director - Development - Dehradun",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-06T01:29:53.003Z",
+    "matched": false
   }
 }
