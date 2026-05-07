@@ -43053,5 +43053,262 @@
     "mode": "onsite",
     "seenAt": "2026-05-07T05:28:31.747Z",
     "matched": false
+  },
+  "Paytm::7376adfe-14dc-48f0-926d-e00c427992e3": {
+    "title": "Area Collection Manager - Manager - Lending Collections (EM Recovery)",
+    "mode": "skip",
+    "seenAt": "2026-05-07T08:09:01.932Z",
+    "matched": false
+  },
+  "Paytm::c17ab038-162f-49b4-9fd9-ef129793b6d7": {
+    "title": "Area Collection Manager - Manager - Lending Collections (EM Recovery)",
+    "mode": "skip",
+    "seenAt": "2026-05-07T08:09:01.932Z",
+    "matched": false
+  },
+  "Paytm::04e53946-323c-4916-ac78-197f11dd66ea": {
+    "title": "Area Collection Manager - Manager - Lending Collections (Frontend)",
+    "mode": "skip",
+    "seenAt": "2026-05-07T08:09:01.932Z",
+    "matched": false
+  },
+  "Paytm::1c0f5139-44b2-4777-acc3-80faaf0e2f99": {
+    "title": "Area Collection Manager - Manager - Lending Collections (Frontend)",
+    "mode": "skip",
+    "seenAt": "2026-05-07T08:09:01.932Z",
+    "matched": false
+  },
+  "Paytm::7c317d05-b1ff-443f-975a-5b96e2728ac5": {
+    "title": "Area Collection Manager - Manager - Lending Collections (Frontend)",
+    "mode": "skip",
+    "seenAt": "2026-05-07T08:09:01.932Z",
+    "matched": false
+  },
+  "Paytm::cf8e7e47-2871-405f-8e19-aa95fa5e6996": {
+    "title": "Area Collection Manager - Manager - Lending Collections (Frontend)",
+    "location": "Hyderabad, Telangana",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:09:01.934Z",
+    "matched": false
+  },
+  "Paytm::2482f4b1-847c-4930-9da2-224494b4c4c5": {
+    "title": "Collection Manager - TL - Lending Collections (EM Recovery)",
+    "mode": "skip",
+    "seenAt": "2026-05-07T08:09:01.934Z",
+    "matched": false
+  },
+  "Paytm::82c7a74d-b77d-437c-be9a-622246d125fd": {
+    "title": "Collection Manager - TL - Lending Collections (EM Recovery)",
+    "mode": "skip",
+    "seenAt": "2026-05-07T08:09:01.934Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/brisbane/senior-systems-engineer-autonomy/185/94801183568": {
+    "title": "Senior Systems Engineer (Autonomy)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:10:37.677Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/brisbane/e7-international-mpd-subject-matter-expert/185/94801183520": {
+    "title": "E7 International MPD Subject Matter Expert",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:10:37.677Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/brisbane/quality-and-administrative-specialist/185/94801183456": {
+    "title": "Quality and Administrative Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:10:37.677Z",
+    "matched": false
+  },
+  "Quadeye::https://www.quadeye.com/careers/": {
+    "title": "Careers",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:11:53.833Z",
+    "matched": false
+  },
+  "Quadeye::mailto:career@quadeye.com": {
+    "title": "career@quadeye.com",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:11:53.833Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-software-engineer-backend-and-data-bengaluru-karnataka-india": {
+    "title": "Senior Software Engineer - Backend and Data",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-07T08:14:22.430Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-gurgaon-at-treebo-hospitality-ventures-4410464004?refId=eYPQOtx2%2FgC5KriQ9jYXjA%3D%3D&trackingId=SEiLjzdfSW77%2BFUe51Th3Q%3D%3D": {
+    "title": "Manager - National Sales - Gurgaon",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:16:01.627Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/general-ledger-manager-at-treebo-hospitality-ventures-4410456273?refId=eYPQOtx2%2FgC5KriQ9jYXjA%3D%3D&trackingId=%2BYZBcY6hdM0X%2BVlu6vuFFw%3D%3D": {
+    "title": "General Ledger Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:16:01.627Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/brand-marketing-manager-at-treebo-hospitality-ventures-4409905101?refId=eYPQOtx2%2FgC5KriQ9jYXjA%3D%3D&trackingId=vjZZqmUGDXUek20H%2BbE%2BTg%3D%3D": {
+    "title": "Brand Marketing Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:16:01.627Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/design-lead-at-treebo-hospitality-ventures-4408385107?refId=eYPQOtx2%2FgC5KriQ9jYXjA%3D%3D&trackingId=ZjuGEV0RAPHJTnu9sQ7HFA%3D%3D": {
+    "title": "Design Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:16:01.627Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/business-development-manager-multiple-locations-at-treebo-hospitality-ventures-4407333364?refId=eYPQOtx2%2FgC5KriQ9jYXjA%3D%3D&trackingId=NjVnCgzcg7Et5Xr2Fy3ygg%3D%3D": {
+    "title": "Business Development Manager (Multiple Locations)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:16:01.627Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/junior-copy-writer-at-treebo-hospitality-ventures-4401841570?refId=eYPQOtx2%2FgC5KriQ9jYXjA%3D%3D&trackingId=WbyIuc%2BQ%2BaGuLfiAhtl7PQ%3D%3D": {
+    "title": "Junior Copy writer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:16:01.627Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-bhubaneshwar-at-treebo-hospitality-ventures-4401434454?refId=eYPQOtx2%2FgC5KriQ9jYXjA%3D%3D&trackingId=TfNcPj2QeMXOM8h0itkxjw%3D%3D": {
+    "title": "Manager - Operations - Bhubaneshwar",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:16:01.627Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/search-engine-optimization-team-lead-at-treebo-hospitality-ventures-4401174805?refId=eYPQOtx2%2FgC5KriQ9jYXjA%3D%3D&trackingId=RlrGkD%2BxZwWkWgmKca7l%2BQ%3D%3D": {
+    "title": "Search Engine Optimization Team Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:16:01.627Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-noida-at-treebo-hospitality-ventures-4399602526?refId=eYPQOtx2%2FgC5KriQ9jYXjA%3D%3D&trackingId=gdZoAIHs4OqF4YBV6tMA3w%3D%3D": {
+    "title": "Manager - National Sales -",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:16:01.627Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA1AAAAMwAAADAAAAA=-0K9AzmvtSpo=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:16:09.315Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA1AAAAMgAAADYAAAA=-MStKvpgOiBs=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:16:09.315Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA1AAAAMgAAADIAAAA=-U17J5N/7mYo=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:16:09.315Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA1AAAAMQAAADgAAAA=-+KzTI+cnxmo=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:16:09.315Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA1AAAAMQAAADQAAAA=-dJYEWrYZBiU=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:16:09.315Z",
+    "matched": false
+  },
+  "PayU India::https://payu.in/PayU/job/Bengaluru-Associate-UX-Designer-UX/53467880/": {
+    "title": "Associate UX Designer - UX",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:16:14.948Z",
+    "matched": false
+  },
+  "Elastic India::7843348": {
+    "title": "Principal Software Engineer - Search Relevance - Elasticsearch",
+    "mode": "skip",
+    "seenAt": "2026-05-07T08:17:31.695Z",
+    "matched": false
+  },
+  "Elastic India::7903238": {
+    "title": "Principal Software Engineer - Vector Search - Elasticsearch",
+    "mode": "skip",
+    "seenAt": "2026-05-07T08:17:31.695Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/operations-analyst-bernstein-india-260007TQ-en": {
+    "title": "Operations Analyst (Bernstein –)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:17:39.063Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/senior-analyst-kyc-25000QL7-en": {
+    "title": "Senior Analyst - KYC",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:17:39.063Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/senior-analyst-26000803-en": {
+    "title": "Senior Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:17:39.063Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/pcm-senior-specialist-sales-260008PQ-en": {
+    "title": "PCM Senior Specialist Sales",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:17:39.064Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/specialist-software-engineer-devops-260002EY-en": {
+    "title": "Specialist Software Engineer - Devops",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:17:39.064Z",
+    "matched": false
+  },
+  "Sarvam AI::https://www.sarvam.ai/careers/jobs/fdf3a5c1-64b6-4c55-b3ed-a940f3835b29": {
+    "title": "Principal Solution ArchitectOn-Site",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:20:02.564Z",
+    "matched": false
+  },
+  "Sarvam AI::https://www.sarvam.ai/careers/jobs/0632eb6b-e99c-4e31-9a6a-c3bd36fc8512": {
+    "title": "Solution ArchitectOn-Site",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-07T08:20:02.564Z",
+    "matched": false
   }
 }
