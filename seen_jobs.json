@@ -46875,5 +46875,256 @@
     "mode": "onsite",
     "seenAt": "2026-05-08T16:15:37.559Z",
     "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/S%C3%A3o-Paulo-Specialist-System-Management-SP/1391960633/": {
+    "title": "Specialist - System Management",
+    "mode": "skip",
+    "seenAt": "2026-05-08T18:03:17.508Z",
+    "matched": false
+  },
+  "Salesforce::https://www.salesforce.com/company/careers/jobs/": {
+    "title": "today",
+    "mode": "skip",
+    "seenAt": "2026-05-08T18:03:31.403Z",
+    "matched": false
+  },
+  "Cloudflare::7428695": {
+    "title": "Director, Developer GTM",
+    "mode": "skip",
+    "seenAt": "2026-05-08T18:03:40.086Z",
+    "matched": false
+  },
+  "Cloudflare::7424189": {
+    "title": "Director, Developer Partner Strategy ",
+    "mode": "skip",
+    "seenAt": "2026-05-08T18:03:40.086Z",
+    "matched": false
+  },
+  "Cloudflare::7416879": {
+    "title": "Senior Director, Developer Product Marketing",
+    "mode": "skip",
+    "seenAt": "2026-05-08T18:03:40.086Z",
+    "matched": false
+  },
+  "Cloudflare::7428796": {
+    "title": "Senior Partner Strategy Manager, Developer Platform",
+    "mode": "skip",
+    "seenAt": "2026-05-08T18:03:40.086Z",
+    "matched": false
+  },
+  "Cloudflare::7430251": {
+    "title": "Senior Solutions Architect, Hebrew speaker",
+    "mode": "skip",
+    "seenAt": "2026-05-08T18:03:40.086Z",
+    "matched": false
+  },
+  "Cloudflare::7000469": {
+    "title": "Solutions Architect, AI/Cloudflare Developer Platform ",
+    "mode": "skip",
+    "seenAt": "2026-05-08T18:03:40.086Z",
+    "matched": false
+  },
+  "GitLab::8539980002": {
+    "title": "Business Development Representative",
+    "location": "Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+    "mode": "remote",
+    "seenAt": "2026-05-08T18:03:40.364Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/lisbon/benefits-specialist/44408/94856769968": {
+    "title": "Benefits Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:04:43.491Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/canonsburg/hpc-software-engineer/44408/87085299616": {
+    "title": "HPC Software Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:04:43.491Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/florianopolis/senior-software-engineer-r-and-d-simulation-physics/44408/94856769936": {
+    "title": "Senior Software Engineer, R&D (Simulation/Physics)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:04:43.491Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/austin/asic-digital-design-architect/44408/91458064976": {
+    "title": "ASIC Digital Design Architect",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:04:43.491Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-software-engineer-content-platform-san-jose-california-united-states": {
+    "title": "Senior Software Engineer, Content Platform",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-08T18:07:26.205Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/ad-operations-associate-santa-monica-california-united-states-bf04e82b-a929-423a-ba9c-8e6e2d9b236a": {
+    "title": "Ad Operations Associate",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-08T18:07:26.205Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr340927/senior-designer-cso-office/": {
+    "title": "Senior Designer, CSO Office",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:08:50.015Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr341182/named-account-executive-gb-sports/": {
+    "title": "Named Account Executive - GB Sports",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:08:50.015Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr334796/lead-user-experience-designer/": {
+    "title": "Lead User Experience Designer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:08:50.015Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr330698/client-architect-automotive-volkswagen/": {
+    "title": "Client Architect Automotive (Volkswagen)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:08:50.015Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr341609/account-executive-growth/": {
+    "title": "Account Executive, Growth",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:08:50.015Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr341380/senior-director-solution-engineering/": {
+    "title": "Senior Director, Solution Engineering",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:08:50.015Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr336679/senior-manager-success-plans-portfolio-strategy/": {
+    "title": "Senior Manager, Success Plans Portfolio Strategy",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:08:50.015Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/business-development-manager-multiple-locations-at-treebo-hospitality-ventures-4411366157?refId=nvJmqA510jZauH4HObYTQg%3D%3D&trackingId=hJ0VagcLaGgGOTeLVmDQXQ%3D%3D": {
+    "title": "Business Development Manager (Multiple Locations)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:09:05.025Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=nvJmqA510jZauH4HObYTQg%3D%3D&trackingId=v%2FGfgdRX2MpLLaC5CA%2FJtg%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:09:05.025Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/software-engineer-backend-at-treebo-hospitality-ventures-4410475385?refId=nvJmqA510jZauH4HObYTQg%3D%3D&trackingId=J4NW%2FgAM0MzuRRxIgegjXg%3D%3D": {
+    "title": "Software Engineer - Backend",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:09:05.025Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-gurgaon-at-treebo-hospitality-ventures-4410464004?refId=nvJmqA510jZauH4HObYTQg%3D%3D&trackingId=fAevd0yKPyZOpoLZpi5PIA%3D%3D": {
+    "title": "Manager - National Sales - Gurgaon",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:09:05.025Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/design-lead-at-treebo-hospitality-ventures-4408385107?refId=nvJmqA510jZauH4HObYTQg%3D%3D&trackingId=cRVDrZI%2BkHBB2D73BExAaA%3D%3D": {
+    "title": "Design Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:09:05.025Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/junior-copy-writer-at-treebo-hospitality-ventures-4401841570?refId=nvJmqA510jZauH4HObYTQg%3D%3D&trackingId=jSIURxTvC3Dfl445P53PDA%3D%3D": {
+    "title": "Junior Copy writer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:09:05.025Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-bhubaneshwar-at-treebo-hospitality-ventures-4401434454?refId=nvJmqA510jZauH4HObYTQg%3D%3D&trackingId=sSo5dSnf3VWnUC4fmj3z1Q%3D%3D": {
+    "title": "Manager - Operations - Bhubaneshwar",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:09:05.025Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/search-engine-optimization-team-lead-at-treebo-hospitality-ventures-4401174805?refId=nvJmqA510jZauH4HObYTQg%3D%3D&trackingId=ymd4%2FNTEvrihpMSWx8kk1Q%3D%3D": {
+    "title": "Search Engine Optimization Team Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:09:05.025Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-noida-at-treebo-hospitality-ventures-4399602526?refId=nvJmqA510jZauH4HObYTQg%3D%3D&trackingId=Auh7qDN6w0Ce1QWWKgvmRw%3D%3D": {
+    "title": "Manager - National Sales -",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:09:05.025Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA3AAAAMQAAADkAAAA=-ur+QjrlN2PA=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:09:12.679Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA3AAAAMQAAADUAAAA=-zkK1gMgMym4=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:09:12.679Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA3AAAAMQAAADEAAAA=-+9pCwdzBJIM=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:09:12.679Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA3AAAAMAAAADkAAAA=-HT7KPL0ZXtQ=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:09:12.679Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA3AAAAMAAAADUAAAA=-kVJ7Ecm/nuw=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:09:12.679Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/new-york/avp-product-management/49841/94833621680": {
+    "title": "AVP- Product Management",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-08T18:11:28.967Z",
+    "matched": false
   }
 }
