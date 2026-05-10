@@ -50174,5 +50174,110 @@
     "mode": "onsite",
     "seenAt": "2026-05-10T21:43:20.088Z",
     "matched": false
+  },
+  "Uber::https://www.uber.com/in/bn/careers/list/?_gl=1%2A1r7dxha%2A_ga%2AMTQ1MDQxNDk2My4xNzc2MTg4NTAw%2A_ga_EYK44YLJMQ%2AczE3Nzg0NDMwMTckbzMkZzAkdDE3Nzg0NDMwMTckajYwJGwwJGgw&department=Engineering": {
+    "title": "বাংলা",
+    "mode": "skip",
+    "seenAt": "2026-05-10T22:35:19.042Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/en/careers/list/?_gl=1%2A1r7dxha%2A_ga%2AMTQ1MDQxNDk2My4xNzc2MTg4NTAw%2A_ga_EYK44YLJMQ%2AczE3Nzg0NDMwMTckbzMkZzAkdDE3Nzg0NDMwMTckajYwJGwwJGgw&department=Engineering": {
+    "title": "English",
+    "mode": "skip",
+    "seenAt": "2026-05-10T22:35:19.042Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/hi/careers/list/?_gl=1%2A1r7dxha%2A_ga%2AMTQ1MDQxNDk2My4xNzc2MTg4NTAw%2A_ga_EYK44YLJMQ%2AczE3Nzg0NDMwMTckbzMkZzAkdDE3Nzg0NDMwMTckajYwJGwwJGgw&department=Engineering": {
+    "title": "हिन्दी",
+    "mode": "skip",
+    "seenAt": "2026-05-10T22:35:19.042Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/kn/careers/list/?_gl=1%2A1r7dxha%2A_ga%2AMTQ1MDQxNDk2My4xNzc2MTg4NTAw%2A_ga_EYK44YLJMQ%2AczE3Nzg0NDMwMTckbzMkZzAkdDE3Nzg0NDMwMTckajYwJGwwJGgw&department=Engineering": {
+    "title": "ಕನ್ನಡ",
+    "mode": "skip",
+    "seenAt": "2026-05-10T22:35:19.042Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/mr/careers/list/?_gl=1%2A1r7dxha%2A_ga%2AMTQ1MDQxNDk2My4xNzc2MTg4NTAw%2A_ga_EYK44YLJMQ%2AczE3Nzg0NDMwMTckbzMkZzAkdDE3Nzg0NDMwMTckajYwJGwwJGgw&department=Engineering": {
+    "title": "मराठी",
+    "mode": "skip",
+    "seenAt": "2026-05-10T22:35:19.042Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/ta/careers/list/?_gl=1%2A1r7dxha%2A_ga%2AMTQ1MDQxNDk2My4xNzc2MTg4NTAw%2A_ga_EYK44YLJMQ%2AczE3Nzg0NDMwMTckbzMkZzAkdDE3Nzg0NDMwMTckajYwJGwwJGgw&department=Engineering": {
+    "title": "தமிழ்",
+    "mode": "skip",
+    "seenAt": "2026-05-10T22:35:19.042Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/te/careers/list/?_gl=1%2A1r7dxha%2A_ga%2AMTQ1MDQxNDk2My4xNzc2MTg4NTAw%2A_ga_EYK44YLJMQ%2AczE3Nzg0NDMwMTckbzMkZzAkdDE3Nzg0NDMwMTckajYwJGwwJGgw&department=Engineering": {
+    "title": "తెలుగు",
+    "mode": "skip",
+    "seenAt": "2026-05-10T22:35:19.042Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/business-development-manager-multiple-locations-at-treebo-hospitality-ventures-4411366157?refId=8ZvKah0Gex7gkUQ2ivOR3g%3D%3D&trackingId=Rx0FciJUnqWSkal1r9E5iw%3D%3D": {
+    "title": "Business Development Manager (Multiple Locations)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T22:41:07.839Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=8ZvKah0Gex7gkUQ2ivOR3g%3D%3D&trackingId=166Q4UT4jvdi6W185X49HA%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T22:41:07.839Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/software-engineer-backend-at-treebo-hospitality-ventures-4410475385?refId=8ZvKah0Gex7gkUQ2ivOR3g%3D%3D&trackingId=kQNt8UDpxIyxXGq3FKQbCA%3D%3D": {
+    "title": "Software Engineer - Backend",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T22:41:07.839Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-gurgaon-at-treebo-hospitality-ventures-4410464004?refId=8ZvKah0Gex7gkUQ2ivOR3g%3D%3D&trackingId=MjAYO%2BWhxH9yHUfLA2OIVw%3D%3D": {
+    "title": "Manager - National Sales - Gurgaon",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T22:41:07.839Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/design-lead-at-treebo-hospitality-ventures-4408385107?refId=8ZvKah0Gex7gkUQ2ivOR3g%3D%3D&trackingId=E%2F1WYFSOxMZRyUsmy%2FDUAA%3D%3D": {
+    "title": "Design Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T22:41:07.839Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/junior-copy-writer-at-treebo-hospitality-ventures-4401841570?refId=8ZvKah0Gex7gkUQ2ivOR3g%3D%3D&trackingId=XGOVGpBpFdHrb1HWCQKKHw%3D%3D": {
+    "title": "Junior Copy writer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T22:41:07.839Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-bhubaneshwar-at-treebo-hospitality-ventures-4401434454?refId=8ZvKah0Gex7gkUQ2ivOR3g%3D%3D&trackingId=K7yUIcK7pZkcQeSyFRFVoA%3D%3D": {
+    "title": "Manager - Operations - Bhubaneshwar",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T22:41:07.839Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/search-engine-optimization-team-lead-at-treebo-hospitality-ventures-4401174805?refId=8ZvKah0Gex7gkUQ2ivOR3g%3D%3D&trackingId=YSOA9r2hzF2kTLLKogwtTA%3D%3D": {
+    "title": "Search Engine Optimization Team Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T22:41:07.839Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-noida-at-treebo-hospitality-ventures-4399602526?refId=8ZvKah0Gex7gkUQ2ivOR3g%3D%3D&trackingId=XRZrcm8Q%2BFJZ3XIvR%2Fy3Tw%3D%3D": {
+    "title": "Manager - National Sales -",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T22:41:07.839Z",
+    "matched": false
   }
 }
