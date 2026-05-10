@@ -49509,5 +49509,124 @@
     "mode": "onsite",
     "seenAt": "2026-05-10T11:46:07.578Z",
     "matched": false
+  },
+  "Uber::https://www.uber.com/in/bn/careers/list/?_gl=1%2A15zh5n7%2A_ga%2AMTQ1MDQxNDk2My4xNzc2MTg4NTAw%2A_ga_EYK44YLJMQ%2AczE3Nzg0MTI3OTIkbzIkZzAkdDE3Nzg0MTI3OTIkajYwJGwwJGgw&department=Engineering": {
+    "title": "বাংলা",
+    "mode": "skip",
+    "seenAt": "2026-05-10T12:46:40.987Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/en/careers/list/?_gl=1%2A15zh5n7%2A_ga%2AMTQ1MDQxNDk2My4xNzc2MTg4NTAw%2A_ga_EYK44YLJMQ%2AczE3Nzg0MTI3OTIkbzIkZzAkdDE3Nzg0MTI3OTIkajYwJGwwJGgw&department=Engineering": {
+    "title": "English",
+    "mode": "skip",
+    "seenAt": "2026-05-10T12:46:40.987Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/hi/careers/list/?_gl=1%2A15zh5n7%2A_ga%2AMTQ1MDQxNDk2My4xNzc2MTg4NTAw%2A_ga_EYK44YLJMQ%2AczE3Nzg0MTI3OTIkbzIkZzAkdDE3Nzg0MTI3OTIkajYwJGwwJGgw&department=Engineering": {
+    "title": "हिन्दी",
+    "mode": "skip",
+    "seenAt": "2026-05-10T12:46:40.987Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/kn/careers/list/?_gl=1%2A15zh5n7%2A_ga%2AMTQ1MDQxNDk2My4xNzc2MTg4NTAw%2A_ga_EYK44YLJMQ%2AczE3Nzg0MTI3OTIkbzIkZzAkdDE3Nzg0MTI3OTIkajYwJGwwJGgw&department=Engineering": {
+    "title": "ಕನ್ನಡ",
+    "mode": "skip",
+    "seenAt": "2026-05-10T12:46:40.987Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/mr/careers/list/?_gl=1%2A15zh5n7%2A_ga%2AMTQ1MDQxNDk2My4xNzc2MTg4NTAw%2A_ga_EYK44YLJMQ%2AczE3Nzg0MTI3OTIkbzIkZzAkdDE3Nzg0MTI3OTIkajYwJGwwJGgw&department=Engineering": {
+    "title": "मराठी",
+    "mode": "skip",
+    "seenAt": "2026-05-10T12:46:40.987Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/ta/careers/list/?_gl=1%2A15zh5n7%2A_ga%2AMTQ1MDQxNDk2My4xNzc2MTg4NTAw%2A_ga_EYK44YLJMQ%2AczE3Nzg0MTI3OTIkbzIkZzAkdDE3Nzg0MTI3OTIkajYwJGwwJGgw&department=Engineering": {
+    "title": "தமிழ்",
+    "mode": "skip",
+    "seenAt": "2026-05-10T12:46:40.987Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/te/careers/list/?_gl=1%2A15zh5n7%2A_ga%2AMTQ1MDQxNDk2My4xNzc2MTg4NTAw%2A_ga_EYK44YLJMQ%2AczE3Nzg0MTI3OTIkbzIkZzAkdDE3Nzg0MTI3OTIkajYwJGwwJGgw&department=Engineering": {
+    "title": "తెలుగు",
+    "mode": "skip",
+    "seenAt": "2026-05-10T12:46:40.987Z",
+    "matched": false
+  },
+  "Expedia Group India::https://careers.expediagroup.com/?blackhole=cf66810d49": {
+    "title": "Expedia Group | Careers",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T12:47:12.370Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/business-development-manager-multiple-locations-at-treebo-hospitality-ventures-4411366157?refId=J8GhiVXwl8COC0LIDeM0tg%3D%3D&trackingId=WnHbcEYv6Qn31%2Fwh%2Fr1VVA%3D%3D": {
+    "title": "Business Development Manager (Multiple Locations)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T12:52:44.991Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=J8GhiVXwl8COC0LIDeM0tg%3D%3D&trackingId=zNcU4VOfFSDXJJuLJ4Q51A%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T12:52:44.991Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/software-engineer-backend-at-treebo-hospitality-ventures-4410475385?refId=J8GhiVXwl8COC0LIDeM0tg%3D%3D&trackingId=c7lu5MJtNROMP14W3FaIYg%3D%3D": {
+    "title": "Software Engineer - Backend",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T12:52:44.991Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-gurgaon-at-treebo-hospitality-ventures-4410464004?refId=J8GhiVXwl8COC0LIDeM0tg%3D%3D&trackingId=sNaZTMUKzv2DySbWrr1hQQ%3D%3D": {
+    "title": "Manager - National Sales - Gurgaon",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T12:52:44.991Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/design-lead-at-treebo-hospitality-ventures-4408385107?refId=J8GhiVXwl8COC0LIDeM0tg%3D%3D&trackingId=iLlm2jRl6B9GOU8UeAB7vQ%3D%3D": {
+    "title": "Design Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T12:52:44.991Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/junior-copy-writer-at-treebo-hospitality-ventures-4401841570?refId=J8GhiVXwl8COC0LIDeM0tg%3D%3D&trackingId=oVoqFEITCWjZ0JvF3c1UEg%3D%3D": {
+    "title": "Junior Copy writer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T12:52:44.991Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-bhubaneshwar-at-treebo-hospitality-ventures-4401434454?refId=J8GhiVXwl8COC0LIDeM0tg%3D%3D&trackingId=tfqPLemErLSLuQLhN2knvg%3D%3D": {
+    "title": "Manager - Operations - Bhubaneshwar",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T12:52:44.991Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/search-engine-optimization-team-lead-at-treebo-hospitality-ventures-4401174805?refId=J8GhiVXwl8COC0LIDeM0tg%3D%3D&trackingId=kXsnHRmOODOzaomLt7XOBQ%3D%3D": {
+    "title": "Search Engine Optimization Team Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T12:52:44.991Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-noida-at-treebo-hospitality-ventures-4399602526?refId=J8GhiVXwl8COC0LIDeM0tg%3D%3D&trackingId=9IChJvidNHoGg5UHztw2UQ%3D%3D": {
+    "title": "Manager - National Sales -",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T12:52:44.991Z",
+    "matched": false
+  },
+  "Elastic India::7889677": {
+    "title": "Cloud/GenAI Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-10T12:54:10.741Z",
+    "matched": false
   }
 }
