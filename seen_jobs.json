@@ -52201,5 +52201,167 @@
     "mode": "onsite",
     "seenAt": "2026-05-11T21:15:36.055Z",
     "matched": false
+  },
+  "Databricks::https://www.databricks.com/blog/category/databricks-ai": {
+    "title": "AI BlogExplore our AI research and engineering work",
+    "mode": "skip",
+    "seenAt": "2026-05-11T22:45:00.345Z",
+    "matched": false
+  },
+  "CrowdStrike::https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers?Job_Family=1408861ee6e2017e954d08f7b000f40b&Job_Family=1408861ee6e20177a63efbf6b000ec0b": {
+    "title": "View openings",
+    "mode": "skip",
+    "seenAt": "2026-05-11T22:45:01.223Z",
+    "matched": false
+  },
+  "CrowdStrike::https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers?Job_Family=cb19f044639b1001f6a02595bc920000&Job_Family=1408861ee6e201641be2c2f6b000c00b&Job_Family=1408861ee6e201b287b816f7b000020c&Job_Family=1408861ee6e20197f95adbf6b000d20b": {
+    "title": "View openings",
+    "mode": "skip",
+    "seenAt": "2026-05-11T22:45:01.223Z",
+    "matched": false
+  },
+  "CrowdStrike::https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers?Job_Family=1408861ee6e201d67af3e0f6b000d60b": {
+    "title": "View openings",
+    "mode": "skip",
+    "seenAt": "2026-05-11T22:45:01.223Z",
+    "matched": false
+  },
+  "CrowdStrike::https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers?Job_Family=1408861ee6e201dd8f7601f7b000f00b&Job_Family=1408861ee6e201739a99bbf6b000bc0b&Job_Family=1408861ee6e201df327f0ff7b000fa0b": {
+    "title": "View openings",
+    "mode": "skip",
+    "seenAt": "2026-05-11T22:45:01.223Z",
+    "matched": false
+  },
+  "CrowdStrike::https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers?Job_Family=1408861ee6e201d8b5decef6b000ca0b&Job_Family=1408861ee6e20164b2b5d4f6b000ce0b&Job_Family=1408861ee6e201ed65abf4f6b000e60b&Job_Family=1408861ee6e201e6d8ddc8f6b000c60b&Job_Family=1408861ee6e201d4db6ea7f6b000ae0b": {
+    "title": "View openings",
+    "mode": "skip",
+    "seenAt": "2026-05-11T22:45:01.223Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/manager-anaplan-coe-bengaluru-karnataka-india": {
+    "title": "Manager, Anaplan COE",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-11T22:49:12.863Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23228427/endpoint-protection-engineering-s-o-bernardo-do-campo-br/": {
+    "title": "Endpoint Protection Engineering",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T22:50:20.056Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23251875/ot-engineer-cana-dos-caraj-s-br/": {
+    "title": "OT Engineer",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T22:50:20.056Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-pan-india-at-treebo-hospitality-ventures-4412657957?refId=D6YyUqeRedk6rKe83aa4gg%3D%3D&trackingId=3GcWwx%2B2M8R2usiKqZ3Hiw%3D%3D": {
+    "title": "Corporate Sales Manager ( PAN)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T22:51:17.069Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/business-development-manager-multiple-locations-at-treebo-hospitality-ventures-4411366157?refId=D6YyUqeRedk6rKe83aa4gg%3D%3D&trackingId=1AQ4yxNHY1jzVbcSlHO4kA%3D%3D": {
+    "title": "Business Development Manager (Multiple Locations)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T22:51:17.069Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=D6YyUqeRedk6rKe83aa4gg%3D%3D&trackingId=HvTfx6s4lzI35uA3WwBKtg%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T22:51:17.069Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-gurgaon-at-treebo-hospitality-ventures-4410464004?refId=D6YyUqeRedk6rKe83aa4gg%3D%3D&trackingId=xZQcEUVF1iJZQOR8BdOWsQ%3D%3D": {
+    "title": "Manager - National Sales - Gurgaon",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T22:51:17.069Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/design-lead-at-treebo-hospitality-ventures-4408385107?refId=D6YyUqeRedk6rKe83aa4gg%3D%3D&trackingId=0VQ%2Fg6pE97HuOLnB7uHDjw%3D%3D": {
+    "title": "Design Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T22:51:17.069Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/junior-copy-writer-at-treebo-hospitality-ventures-4401841570?refId=D6YyUqeRedk6rKe83aa4gg%3D%3D&trackingId=nARmM%2Bh9j0iSdpgE6fr6WQ%3D%3D": {
+    "title": "Junior Copy writer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T22:51:17.069Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-bhubaneshwar-at-treebo-hospitality-ventures-4401434454?refId=D6YyUqeRedk6rKe83aa4gg%3D%3D&trackingId=TLDD%2FiSUu513mYZiqzom2g%3D%3D": {
+    "title": "Manager - Operations - Bhubaneshwar",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T22:51:17.069Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/search-engine-optimization-team-lead-at-treebo-hospitality-ventures-4401174805?refId=D6YyUqeRedk6rKe83aa4gg%3D%3D&trackingId=JSFVqrhDMJ6sSkWqqOk4cg%3D%3D": {
+    "title": "Search Engine Optimization Team Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T22:51:17.069Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-noida-at-treebo-hospitality-ventures-4399602526?refId=D6YyUqeRedk6rKe83aa4gg%3D%3D&trackingId=PUCUlZeUbD8WLIaGQqtoVQ%3D%3D": {
+    "title": "Manager - National Sales -",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T22:51:17.069Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/working-capital-solutions-manager-26000BPE-en": {
+    "title": "Working Capital Solutions Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T22:52:46.406Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/consultant-software-engineer-java-260000A4-en": {
+    "title": "Consultant Software Engineer - Java",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T22:52:46.407Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/software-engineer-java-26000AEP-en": {
+    "title": "Software Engineer Java",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T22:52:46.407Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/software-engineer-java-26000AEN-en": {
+    "title": "Software Engineer Java",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T22:52:46.407Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/software-engineer-java-26000AEO-en": {
+    "title": "Software Engineer Java",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T22:52:46.407Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/heredia/client-service-specialist/49841/94980525504": {
+    "title": "Client Service Specialist",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T22:53:43.528Z",
+    "matched": false
   }
 }
