@@ -50663,5 +50663,261 @@
     "mode": "onsite",
     "seenAt": "2026-05-11T05:56:13.708Z",
     "matched": false
+  },
+  "Postman::7729900003": {
+    "title": "Manager, Account Development",
+    "mode": "skip",
+    "seenAt": "2026-05-11T08:52:23.044Z",
+    "matched": false
+  },
+  "Postman::7729921003": {
+    "title": "Senior Product Marketing Manager",
+    "mode": "skip",
+    "seenAt": "2026-05-11T08:52:23.044Z",
+    "matched": false
+  },
+  "Apple::https://jobs.apple.com/en-in/details/200633507-3541/manufacturing-quality-engineer-chennai?team=OPMFG": {
+    "title": "Manufacturing Quality Engineer - Chennai",
+    "mode": "skip",
+    "seenAt": "2026-05-11T08:53:13.284Z",
+    "matched": false
+  },
+  "GitLab::8522408002": {
+    "title": "Forward Deployed Engineer - UK",
+    "location": "Remote",
+    "mode": "remote",
+    "seenAt": "2026-05-11T08:53:22.868Z",
+    "matched": false
+  },
+  "GitLab::8522265002": {
+    "title": "Forward Deployed Engineer - UK",
+    "location": "Remote",
+    "mode": "remote",
+    "seenAt": "2026-05-11T08:53:22.868Z",
+    "matched": false
+  },
+  "GitLab::8524783002": {
+    "title": "Forward Deployed Engnieer - META",
+    "location": "Remote",
+    "mode": "remote",
+    "seenAt": "2026-05-11T08:53:22.868Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/brisbane/senior-manager-mq-28-quality-and-safety/185/94954743328": {
+    "title": "Senior Manager - MQ-28 Quality and Safety",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:53:32.520Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/brisbane/aviation-operations-and-sms-specialist/185/94954743312": {
+    "title": "Aviation Operations & SMS Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:53:32.520Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr339653/informatica-solution-engineer-pre-sales-seoul/": {
+    "title": "Informatica Solution Engineer (Pre-Sales), Seoul",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:58:52.860Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr336023/enterprise-named-account-executive/": {
+    "title": "Enterprise Named Account Executive",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:58:52.860Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr334876/social-experience-analyst/": {
+    "title": "Social Experience Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:58:52.860Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr327144/senior-account-partner-services-sales/": {
+    "title": "Senior Account Partner (Services Sales)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:58:52.860Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr338046/account-solution-engineer/": {
+    "title": "Account Solution Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:58:52.860Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr340338/senior-specialist-employee-communications-for-japan-korea-taiwan/": {
+    "title": "Senior Specialist, Employee Communications for Japan, Korea, Taiwan",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:58:52.860Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr338696/product-manager-senior-specialist-salesforcecpq/": {
+    "title": "Product Manager Senior Specialist (Salesforce/CPQ)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:58:52.860Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr309010/forward-deployed-engineer-multiple-levels/": {
+    "title": "Forward Deployed Engineer (Multiple Levels)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:58:52.860Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr341400/associate-renewals-manager-grt/": {
+    "title": "Associate Renewals Manager, GRT",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:58:52.860Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr338241/director-sales-recruiting-uk-ireland/": {
+    "title": "Director, Sales Recruiting | UK & Ireland",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:58:52.860Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr340610/practices-data-strategy-gtm-specialist-director/": {
+    "title": "Practices Data Strategy GTM Specialist - Director",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:58:52.860Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr264377/business-development-representative/": {
+    "title": "Business Development Representative",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:58:52.860Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr340827/account-solution-engineer/": {
+    "title": "Account Solution Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:58:52.860Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-pan-india-at-treebo-hospitality-ventures-4412657957?refId=luNnGlXEusZb%2F1qpw1DXoA%3D%3D&trackingId=n5ZJ9y%2F2fire6IY3Ds3o%2Bg%3D%3D": {
+    "title": "Corporate Sales Manager ( PAN)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:59:08.802Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/business-development-manager-multiple-locations-at-treebo-hospitality-ventures-4411366157?refId=luNnGlXEusZb%2F1qpw1DXoA%3D%3D&trackingId=n3RFxK7JZxRHAKiJzOm00A%3D%3D": {
+    "title": "Business Development Manager (Multiple Locations)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:59:08.802Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=luNnGlXEusZb%2F1qpw1DXoA%3D%3D&trackingId=8q8hut0Nyk%2B1pjvpDW1zfQ%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:59:08.802Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-gurgaon-at-treebo-hospitality-ventures-4410464004?refId=luNnGlXEusZb%2F1qpw1DXoA%3D%3D&trackingId=nA%2BV24Ng2vgiWrLH7x9Gqw%3D%3D": {
+    "title": "Manager - National Sales - Gurgaon",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:59:08.802Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/design-lead-at-treebo-hospitality-ventures-4408385107?refId=luNnGlXEusZb%2F1qpw1DXoA%3D%3D&trackingId=REIf5TZNPaNAB8qsQyOcXA%3D%3D": {
+    "title": "Design Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:59:08.802Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/junior-copy-writer-at-treebo-hospitality-ventures-4401841570?refId=luNnGlXEusZb%2F1qpw1DXoA%3D%3D&trackingId=IAK6%2BAPvu5I%2BHgMy2wZzWg%3D%3D": {
+    "title": "Junior Copy writer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:59:08.802Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-bhubaneshwar-at-treebo-hospitality-ventures-4401434454?refId=luNnGlXEusZb%2F1qpw1DXoA%3D%3D&trackingId=drygM00m50CRO9FqDi%2Bs6A%3D%3D": {
+    "title": "Manager - Operations - Bhubaneshwar",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:59:08.802Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/search-engine-optimization-team-lead-at-treebo-hospitality-ventures-4401174805?refId=luNnGlXEusZb%2F1qpw1DXoA%3D%3D&trackingId=iVppY9xcBDjjVoaM4OEESw%3D%3D": {
+    "title": "Search Engine Optimization Team Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:59:08.802Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-noida-at-treebo-hospitality-ventures-4399602526?refId=luNnGlXEusZb%2F1qpw1DXoA%3D%3D&trackingId=iUPovQcs%2FfgWNzzFhVCkcg%3D%3D": {
+    "title": "Manager - National Sales -",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:59:08.802Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA3AAAANgAAADEAAAA=-EETXvbC9Qqk=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:59:22.249Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA3AAAANQAAADgAAAA=-IuneHGr1KA8=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:59:22.249Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA3AAAANQAAADMAAAA=-nzywZNULCwo=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:59:22.249Z",
+    "matched": false
+  },
+  "PayU India::https://payu.in/PayU/job/Gurgaon-Associate-Business-Analyst/53480280/": {
+    "title": "Associate Business Analyst",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T08:59:29.626Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/technical-lead-25000NBM-en": {
+    "title": "Technical Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T09:01:00.069Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/business-analyst-2600003X-en": {
+    "title": "Business Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T09:01:00.069Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/administrator-operatiuni-curente-theodor-pallady-26000C1D-en": {
+    "title": "Administrator Operatiuni Curente - Theodor Pallady",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T09:01:00.069Z",
+    "matched": false
   }
 }
