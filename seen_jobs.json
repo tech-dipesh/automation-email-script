@@ -50919,5 +50919,254 @@
     "mode": "onsite",
     "seenAt": "2026-05-11T09:01:00.069Z",
     "matched": false
+  },
+  "Paytm::0cfa1302-383d-40e4-ae89-3b205a7fe24e": {
+    "title": "Ad Sales (KAM) - M/DGM - Paytm Ads",
+    "location": "Gurugram, Haryana",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T11:53:43.324Z",
+    "matched": false
+  },
+  "Paytm::ff43cc83-61c3-4a86-9847-06dd74de501d": {
+    "title": "Ad Sales (KAM) - M/DGM - Paytm Ads - Bangalore",
+    "location": "Bangalore, Karnataka",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T11:53:43.325Z",
+    "matched": false
+  },
+  "Paytm::5d1c4e46-deff-486a-8756-2cab228dcfaf": {
+    "title": "Ads Monetization - Sr. Manager/ DGM - Paytm Ads",
+    "location": "Bangalore, Karnataka",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T11:53:43.325Z",
+    "matched": false
+  },
+  "Arcesium::https://job-boards.greenhouse.io/arcesiumllc/jobs/5117283007": {
+    "title": "Senior Specialist, Human CapitalCorporate",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T11:53:50.488Z",
+    "matched": false
+  },
+  "Apple::https://jobs.apple.com/en-in/details/200662573-0321/backend-software-engineer-manufacturing-design?team=OPMFG": {
+    "title": "Backend Software Engineer - Manufacturing Design",
+    "mode": "skip",
+    "seenAt": "2026-05-11T11:55:11.635Z",
+    "matched": false
+  },
+  "Cloudflare::7899062": {
+    "title": "Sales Project Manager Summer Intern - 3 months",
+    "mode": "skip",
+    "seenAt": "2026-05-11T11:55:19.991Z",
+    "matched": false
+  },
+  "GitLab::8468149002": {
+    "title": "Solutions Architect,  AI + Security & Compliance, EMEA",
+    "location": "Remote, EMEA",
+    "mode": "remote",
+    "seenAt": "2026-05-11T11:55:20.295Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/gdansk/summer-internship-2026-software-developer-boeing-defense-space-and-security/185/94958790736": {
+    "title": "Summer Internship 2026 - Software Developer - Boeing Defense, Space, and Security",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T11:55:33.007Z",
+    "matched": true
+  },
+  "Boeing India::https://jobs.boeing.com/job/point-mugu-naval-air-warfare-center/lead-support-equipment-tech/185/94958790560": {
+    "title": "Lead Support Equipment Tech",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T11:55:33.007Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/point-mugu-naval-air-warfare-center/mid-level-support-equipment-technician/185/94958790528": {
+    "title": "Mid -Level Support Equipment Technician",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T11:55:33.007Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/hsinchu/zebu-backend-floorplanning-internship/44408/94956864032": {
+    "title": "ZeBu Backend Floorplanning Internship",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T11:56:26.831Z",
+    "matched": true
+  },
+  "Synopsys India::https://www.synopsys.com/job/ho-chi-minh-city/memory-circuit-design-engineer-hcmc/44408/94956863984": {
+    "title": "Memory Circuit Design Engineer, HCMC",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T11:56:26.831Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23270917/endpoint-network-ips-security-subject-matter-expert-petaling-jaya-my/": {
+    "title": "Endpoint, Network & IPS Security Subject Matter Expert",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:00:09.603Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23330047/endpoint-security-subject-matter-expert-petaling-jaya-my/": {
+    "title": "EndPoint Security Subject Matter Expert",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:00:09.603Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-pan-india-at-treebo-hospitality-ventures-4412657957?refId=zEQQsCDV4AjXg3EqcfLKAw%3D%3D&trackingId=y%2B5R92pUhEQeXerQLv148g%3D%3D": {
+    "title": "Corporate Sales Manager ( PAN)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:01:03.772Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/business-development-manager-multiple-locations-at-treebo-hospitality-ventures-4411366157?refId=zEQQsCDV4AjXg3EqcfLKAw%3D%3D&trackingId=uvrxTZessJfHGhzkPP35iA%3D%3D": {
+    "title": "Business Development Manager (Multiple Locations)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:01:03.772Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=zEQQsCDV4AjXg3EqcfLKAw%3D%3D&trackingId=%2Fid%2BgHC%2FuDYFKSXN3kbdAQ%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:01:03.772Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-gurgaon-at-treebo-hospitality-ventures-4410464004?refId=zEQQsCDV4AjXg3EqcfLKAw%3D%3D&trackingId=EdHYhD7iunt8D8KkvcI5EA%3D%3D": {
+    "title": "Manager - National Sales - Gurgaon",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:01:03.772Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/design-lead-at-treebo-hospitality-ventures-4408385107?refId=zEQQsCDV4AjXg3EqcfLKAw%3D%3D&trackingId=jO97ByDVkkyEwZprGkb7xQ%3D%3D": {
+    "title": "Design Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:01:03.772Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/junior-copy-writer-at-treebo-hospitality-ventures-4401841570?refId=zEQQsCDV4AjXg3EqcfLKAw%3D%3D&trackingId=JVlTNouBI2%2FfzD%2FGi3o%2FbQ%3D%3D": {
+    "title": "Junior Copy writer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:01:03.772Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-bhubaneshwar-at-treebo-hospitality-ventures-4401434454?refId=zEQQsCDV4AjXg3EqcfLKAw%3D%3D&trackingId=chi9jDTkzlsLqV0hAeQKZA%3D%3D": {
+    "title": "Manager - Operations - Bhubaneshwar",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:01:03.772Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/search-engine-optimization-team-lead-at-treebo-hospitality-ventures-4401174805?refId=zEQQsCDV4AjXg3EqcfLKAw%3D%3D&trackingId=wpK176dnUXk2sJpM3Yl2Tw%3D%3D": {
+    "title": "Search Engine Optimization Team Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:01:03.772Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-noida-at-treebo-hospitality-ventures-4399602526?refId=zEQQsCDV4AjXg3EqcfLKAw%3D%3D&trackingId=rXjvU6RoqGxSr5cG21UVSw%3D%3D": {
+    "title": "Manager - National Sales -",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:01:03.772Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA3AAAANwAAADQAAAA=-S3K+udh40LQ=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:01:11.611Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA3AAAANwAAADAAAAA=-Iz60vn3sw8E=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:01:11.611Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA3AAAANgAAADMAAAA=-PMaPCWmRxpE=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:01:11.611Z",
+    "matched": false
+  },
+  "Elastic India::7874677": {
+    "title": "Regional Vice President",
+    "mode": "skip",
+    "seenAt": "2026-05-11T12:02:18.676Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/auditor-senior-auditor-m-f-d-26000BI3-en": {
+    "title": "Auditor/Senior Auditor -M/F/D",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:03:02.077Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/trainee-intern-legal-sg-bank-india-mumbai-260001XR-en": {
+    "title": "Trainee / Intern - Legal, SG Bank()",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:03:02.077Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/lohchap/systems-engineer/49841/94956023824": {
+    "title": "Systems Engineer",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:04:00.382Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/tokyo/vp-relationship-management-moody-s-ratings-japan/49841/94956023792": {
+    "title": "VP - Relationship Management (Moody's Ratings Japan)",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:04:00.382Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/bengaluru/data-governance-analyst/49841/94956023776": {
+    "title": "Data Governance Analyst",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:04:00.382Z",
+    "matched": false
+  },
+  "GlobalLogic India::https://www.globallogic.com/in/careers/avp-sales-ae-hunter-medtech-accounts-irc294753/": {
+    "title": "United States AVP Sales (AE / Hunter – MedTech accounts) IRC294753",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:04:12.332Z",
+    "matched": false
+  },
+  "GlobalLogic India::https://www.globallogic.com/in/careers/senior-database-engineer-consultant-contract-irc294933/": {
+    "title": "United States Senior Database Engineer (Consultant/) IRC294933",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:04:12.332Z",
+    "matched": false
+  },
+  "GlobalLogic India::https://www.globallogic.com/in/careers/senior-perception-engineer-computer-vision-3d-deep-learning-irc295016/": {
+    "title": "United States Senior Perception Engineer – Computer Vision & 3D Deep Learning IRC295016",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:04:12.332Z",
+    "matched": false
+  },
+  "GlobalLogic India::https://www.globallogic.com/in/careers/sr-firmware-engineer-i-irc294482/": {
+    "title": "United States Sr Firmware Engineer I IRC294482",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-11T12:04:12.332Z",
+    "matched": false
   }
 }
