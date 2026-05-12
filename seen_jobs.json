@@ -53899,5 +53899,310 @@
     "mode": "onsite",
     "seenAt": "2026-05-12T13:42:31.719Z",
     "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Barueri-Senior-Engineer-Cloud-&-Infra-Management-SP/1392991733/": {
+    "title": "Senior Engineer - Cloud & Infra Management",
+    "mode": "skip",
+    "seenAt": "2026-05-12T16:11:55.219Z",
+    "matched": false
+  },
+  "Cloudflare::7782141": {
+    "title": "Senior Named Account Executive (NY)",
+    "mode": "skip",
+    "seenAt": "2026-05-12T16:12:23.368Z",
+    "matched": false
+  },
+  "Cloudflare::7807913": {
+    "title": "Senior Named Account Executive, SoCal",
+    "location": "Distributed",
+    "mode": "remote",
+    "seenAt": "2026-05-12T16:12:23.369Z",
+    "matched": false
+  },
+  "Cloudflare::7481407": {
+    "title": "Senior Territory Account Executive, Egypt",
+    "mode": "skip",
+    "seenAt": "2026-05-12T16:12:23.369Z",
+    "matched": false
+  },
+  "GitLab::8536477002": {
+    "title": "Customer Success Architect",
+    "location": "Remote, North America",
+    "mode": "remote",
+    "seenAt": "2026-05-12T16:12:23.672Z",
+    "matched": false
+  },
+  "Xapo Bank::7723117003": {
+    "title": "AFC Operations Manager (Remote - Work from Anywhere)",
+    "location": "Gibraltar - Remote",
+    "mode": "remote",
+    "seenAt": "2026-05-12T16:12:27.721Z",
+    "matched": false
+  },
+  "Xapo Bank::7730672003": {
+    "title": "Customer Success Advisor - APAC (Remote - Work from Anywhere)",
+    "location": "Asia - Remote",
+    "mode": "remote",
+    "seenAt": "2026-05-12T16:12:27.721Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/oakey/senior-technical-officer-structural-mechanical/185/95006934528": {
+    "title": "Senior Technical Officer - Structural/Mechanical",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:12:33.045Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/amberley/ehs-execution-lead/185/95006934512": {
+    "title": "EHS Execution Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:12:33.045Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/wichita/cleaner/185/92353345712": {
+    "title": "Cleaner",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:12:33.045Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/senior-economist-advertising-technology/seattle-wa/R-101292/": {
+    "title": "Senior Economist - Advertising Technology United States - Washington - Seattle Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:12:44.851Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/26016531/team-leader-multiple-locations": {
+    "title": "Team Leader",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:13:35.614Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/26016541/team-leader-mumbai-india": {
+    "title": "Team Leader",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:13:35.614Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/26016379/team-leader-r-hyderabad-india": {
+    "title": "Team Leader - R",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:13:35.614Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/sr-security-engineer-cambridge-england-united-kingdom": {
+    "title": "Sr Security Engineer",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-12T16:16:25.079Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-software-engineer-infrastructure-efficiency-productivity-cambridge-england-united-kingdom": {
+    "title": "Senior Software Engineer, Infrastructure / Efficiency / Productivity",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-12T16:16:25.079Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/lead-systems-software-architect-san-jose-california-united-states": {
+    "title": "Lead Systems Software Architect",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-12T16:16:25.079Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/director-corporate-development-san-jose-california-united-states": {
+    "title": "Director, Corporate Development",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-12T16:16:25.079Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/director-corporate-development-santa-monica-california-united-states": {
+    "title": "Director, Corporate Development",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-12T16:16:25.079Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-product-manager-consumer-payments-and-retention-san-jose-california-united-states": {
+    "title": "Senior Product Manager, Consumer Payments and Retention",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-12T16:16:25.079Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-product-manager-howdy-san-jose-california-united-states": {
+    "title": "Senior Product Manager, Howdy",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-12T16:16:25.079Z",
+    "matched": false
+  },
+  "Shopify India::https://www.shopify.com/careers/lead-hardware-supply-chain_2c1b4ae5-a090-422d-88fa-c539667c60f9": {
+    "title": "Lead, Hardware Supply Chain- Canada",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-12T16:16:25.226Z",
+    "matched": false
+  },
+  "Shopify India::https://www.shopify.com/careers/lead-benefits-leave-accommodation_b00a5d11-d118-4272-b513-8924860d1a3e": {
+    "title": "Lead, Benefits (Leave & Accommodation)- Canada",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-12T16:16:25.226Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr340256/engagement-director-strategic-transformation-customer-success-leader/": {
+    "title": "Engagement Director — Strategic Transformation & Customer Success Leader",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:17:53.440Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr325990/lead-backend-software-engineer/": {
+    "title": "Lead Backend Software Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:17:53.440Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr342030/sales-strategy-analyst/": {
+    "title": "Sales Strategy Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:17:53.440Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr331111/business-development-representative-spanish-or-or-catalan-speakers/": {
+    "title": "Business Development Representative - Spanish or or Catalán speakers",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:17:53.440Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-corporate-sales-manager-at-treebo-hospitality-ventures-4413525602?refId=zt9kXHIWX3VYXiUD9GmlzQ%3D%3D&trackingId=gxI9mdWuD5tHSCnDhkR5%2FA%3D%3D": {
+    "title": "Senior Corporate Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:18:11.555Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-dehradun-at-treebo-hospitality-ventures-4394789246?refId=zt9kXHIWX3VYXiUD9GmlzQ%3D%3D&trackingId=ceeijOfXCA%2BI8tunAQV7UQ%3D%3D": {
+    "title": "Associate Director - Development - Dehradun",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:18:11.555Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-pan-india-at-treebo-hospitality-ventures-4412657957?refId=zt9kXHIWX3VYXiUD9GmlzQ%3D%3D&trackingId=znUBnat4pXAudmWzkLgWXQ%3D%3D": {
+    "title": "Corporate Sales Manager ( PAN)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:18:11.555Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/franchise-development-manager-multiple-locations-at-treebo-hospitality-ventures-4411366157?refId=zt9kXHIWX3VYXiUD9GmlzQ%3D%3D&trackingId=AtObHPdvf9v5AysgMCuA4g%3D%3D": {
+    "title": "Franchise Development Manager (Multiple Locations)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:18:11.555Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=zt9kXHIWX3VYXiUD9GmlzQ%3D%3D&trackingId=2IgY6RKonwwbQbzFfj0Xvw%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:18:11.555Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/search-engine-optimization-team-lead-at-treebo-hospitality-ventures-4401174805?refId=zt9kXHIWX3VYXiUD9GmlzQ%3D%3D&trackingId=QJfFWWa7Ho19NW52M2Ku2g%3D%3D": {
+    "title": "Search Engine Optimization Team Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:18:11.555Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=zt9kXHIWX3VYXiUD9GmlzQ%3D%3D&trackingId=zMpsrJXaKX5cgcD2DPloyA%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:18:11.555Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-cluster-sales-goa-at-treebo-hospitality-ventures-4389897056?refId=zt9kXHIWX3VYXiUD9GmlzQ%3D%3D&trackingId=2zT2llaXX5MJgasYDg1RfA%3D%3D": {
+    "title": "Manager-Cluster Sales-Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:18:11.555Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-director-lead-at-treebo-hospitality-ventures-4388904353?refId=zt9kXHIWX3VYXiUD9GmlzQ%3D%3D&trackingId=DdVuE7Ri1W%2F7b%2BODBcTZBg%3D%3D": {
+    "title": "Senior Director & Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:18:11.555Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA4AAAAOAAAADIAAAA=-CvEsIX9LfNU=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:18:24.136Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA4AAAAOAAAADAAAAA=-qQ/M6CseA1E=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:18:24.136Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA4AAAANwAAADgAAAA=-0a/59fd8FfE=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:18:24.136Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA4AAAANwAAADQAAAA=-ImCOfcwc5A8=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:18:24.136Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA4AAAANwAAADAAAAA=-mMH7BNwxS18=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:18:24.136Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA4AAAANgAAADYAAAA=-sFLm6mZ5yZk=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:18:24.136Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA4AAAANgAAADMAAAA=-tTqn0ZTqXuc=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:18:24.136Z",
+    "matched": false
+  },
+  "Sarvam AI::https://www.sarvam.ai/careers/jobs/10f11bb2-fe15-4743-9b3f-81da6743ea6a": {
+    "title": "Staff Engineer, Product InfrastructureOn-Site",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T16:22:30.135Z",
+    "matched": false
   }
 }
