@@ -54405,5 +54405,179 @@
     "mode": "onsite",
     "seenAt": "2026-05-12T18:37:54.591Z",
     "matched": false
+  },
+  "Uber::https://www.uber.com/in/bn/careers/list/?_gl=1%2A1rfm4yu%2A_ga%2AMjEzODYyNDkyOC4xNzc4NTczNDY2%2A_ga_EYK44YLJMQ%2AczE3Nzg1NzM2ODMkbzEkZzEkdDE3Nzg1NzM3NDkkajU5JGwwJGgw&department=Engineering": {
+    "title": "বাংলা",
+    "mode": "skip",
+    "seenAt": "2026-05-12T20:24:56.645Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/en/careers/list/?_gl=1%2A1rfm4yu%2A_ga%2AMjEzODYyNDkyOC4xNzc4NTczNDY2%2A_ga_EYK44YLJMQ%2AczE3Nzg1NzM2ODMkbzEkZzEkdDE3Nzg1NzM3NDkkajU5JGwwJGgw&department=Engineering": {
+    "title": "English",
+    "mode": "skip",
+    "seenAt": "2026-05-12T20:24:56.645Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/hi/careers/list/?_gl=1%2A1rfm4yu%2A_ga%2AMjEzODYyNDkyOC4xNzc4NTczNDY2%2A_ga_EYK44YLJMQ%2AczE3Nzg1NzM2ODMkbzEkZzEkdDE3Nzg1NzM3NDkkajU5JGwwJGgw&department=Engineering": {
+    "title": "हिन्दी",
+    "mode": "skip",
+    "seenAt": "2026-05-12T20:24:56.645Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/kn/careers/list/?_gl=1%2A1rfm4yu%2A_ga%2AMjEzODYyNDkyOC4xNzc4NTczNDY2%2A_ga_EYK44YLJMQ%2AczE3Nzg1NzM2ODMkbzEkZzEkdDE3Nzg1NzM3NDkkajU5JGwwJGgw&department=Engineering": {
+    "title": "ಕನ್ನಡ",
+    "mode": "skip",
+    "seenAt": "2026-05-12T20:24:56.645Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/mr/careers/list/?_gl=1%2A1rfm4yu%2A_ga%2AMjEzODYyNDkyOC4xNzc4NTczNDY2%2A_ga_EYK44YLJMQ%2AczE3Nzg1NzM2ODMkbzEkZzEkdDE3Nzg1NzM3NDkkajU5JGwwJGgw&department=Engineering": {
+    "title": "मराठी",
+    "mode": "skip",
+    "seenAt": "2026-05-12T20:24:56.645Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/ta/careers/list/?_gl=1%2A1rfm4yu%2A_ga%2AMjEzODYyNDkyOC4xNzc4NTczNDY2%2A_ga_EYK44YLJMQ%2AczE3Nzg1NzM2ODMkbzEkZzEkdDE3Nzg1NzM3NDkkajU5JGwwJGgw&department=Engineering": {
+    "title": "தமிழ்",
+    "mode": "skip",
+    "seenAt": "2026-05-12T20:24:56.645Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/te/careers/list/?_gl=1%2A1rfm4yu%2A_ga%2AMjEzODYyNDkyOC4xNzc4NTczNDY2%2A_ga_EYK44YLJMQ%2AczE3Nzg1NzM2ODMkbzEkZzEkdDE3Nzg1NzM3NDkkajU5JGwwJGgw&department=Engineering": {
+    "title": "తెలుగు",
+    "mode": "skip",
+    "seenAt": "2026-05-12T20:24:56.645Z",
+    "matched": false
+  },
+  "Figma::5990353004": {
+    "title": "Technical Quality Specialist - Figma Weave (San Francisco, United States)",
+    "mode": "skip",
+    "seenAt": "2026-05-12T20:25:07.613Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/wichita/defense-sheet-metal-mechanic/185/91594303136": {
+    "title": "Defense - Sheet Metal Mechanic",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T20:25:15.664Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/wichita/senior-material-review-engineer/185/91952723792": {
+    "title": "Senior Material Review Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T20:25:15.665Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr334809/lead-account-se-higher-education/": {
+    "title": "Lead, Account SE - Higher Education",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T20:30:27.590Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr338243/chief-customer-officer-global-life-sciences/": {
+    "title": "Chief Customer Officer, Global Life Sciences",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T20:30:27.590Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr340791/software-engineering-smts/": {
+    "title": "Software Engineering SMTS",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T20:30:27.590Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr342191/business-development-rep/": {
+    "title": "Business Development Rep",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T20:30:27.590Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr341126/director-technical-program-management/": {
+    "title": "Director, Technical Program Management",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T20:30:27.590Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-corporate-sales-manager-at-treebo-hospitality-ventures-4413525602?refId=Yjouq6B6TJ9LL4TIONnxwA%3D%3D&trackingId=OBp32NWs9U3ptPOOT0OtUQ%3D%3D": {
+    "title": "Senior Corporate Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T20:30:44.428Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-dehradun-at-treebo-hospitality-ventures-4394789246?refId=Yjouq6B6TJ9LL4TIONnxwA%3D%3D&trackingId=Zna8ZL47HsvWOt6YACP5vQ%3D%3D": {
+    "title": "Associate Director - Development - Dehradun",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T20:30:44.428Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-pan-india-at-treebo-hospitality-ventures-4412657957?refId=Yjouq6B6TJ9LL4TIONnxwA%3D%3D&trackingId=7vGUi8gcjDO0lN0TLiQ6yw%3D%3D": {
+    "title": "Corporate Sales Manager ( PAN)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T20:30:44.428Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/franchise-development-manager-multiple-locations-at-treebo-hospitality-ventures-4411366157?refId=Yjouq6B6TJ9LL4TIONnxwA%3D%3D&trackingId=EIibE%2BCwHX8AMXdWK62ZdA%3D%3D": {
+    "title": "Franchise Development Manager (Multiple Locations)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T20:30:44.428Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=Yjouq6B6TJ9LL4TIONnxwA%3D%3D&trackingId=Y0mqoK8agqOVV2AVvHcFpw%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T20:30:44.428Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/search-engine-optimization-team-lead-at-treebo-hospitality-ventures-4401174805?refId=Yjouq6B6TJ9LL4TIONnxwA%3D%3D&trackingId=zYnyl9RD1Sendu6eUdBGlg%3D%3D": {
+    "title": "Search Engine Optimization Team Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T20:30:44.428Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=Yjouq6B6TJ9LL4TIONnxwA%3D%3D&trackingId=PQEKxYtibWuLPuneDPXc0w%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T20:30:44.428Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-cluster-sales-goa-at-treebo-hospitality-ventures-4389897056?refId=Yjouq6B6TJ9LL4TIONnxwA%3D%3D&trackingId=%2BacKvKChOQX%2Bk1PiYbVl1w%3D%3D": {
+    "title": "Manager-Cluster Sales-Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T20:30:44.428Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-director-lead-at-treebo-hospitality-ventures-4388904353?refId=Yjouq6B6TJ9LL4TIONnxwA%3D%3D&trackingId=nWB1urWX%2BQ7n13xxm91OXg%3D%3D": {
+    "title": "Senior Director & Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T20:30:44.428Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA4AAAAOQAAADcAAAA=-2UcQs40kcvw=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T20:30:50.974Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA4AAAAOQAAADMAAAA=-XByycgafd84=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-12T20:30:50.974Z",
+    "matched": false
   }
 }
