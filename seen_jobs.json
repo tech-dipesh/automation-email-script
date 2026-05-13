@@ -56160,5 +56160,267 @@
     "mode": "onsite",
     "seenAt": "2026-05-13T16:26:02.891Z",
     "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Overseas-Contractor/1393497033/": {
+    "title": "Overseasor",
+    "mode": "skip",
+    "seenAt": "2026-05-13T18:52:37.190Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Barueri-Senior-Engineer-Cloud-&-Infra-Management-SP/1392008833/": {
+    "title": "Senior Engineer - Cloud & Infra Management",
+    "mode": "skip",
+    "seenAt": "2026-05-13T18:52:37.190Z",
+    "matched": false
+  },
+  "Figma::5991176004": {
+    "title": "Sales AI Engineer",
+    "mode": "skip",
+    "seenAt": "2026-05-13T18:53:04.710Z",
+    "matched": false
+  },
+  "EPAM::https://careers.epam.com/en/vacancy/senior-technical-delivery-manager-java-net-blt1e34ac3d19140099_en": {
+    "title": "Senior Technical Delivery Manager - Java/.NET",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-13T18:53:05.969Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/sunnyvale/applications-engineering-sr-architect-rtl2gds/44408/95049838768": {
+    "title": "Applications Engineering, Sr Architect- RTL2GDS",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:54:02.944Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/yerevan/asic-physical-design-senior-engineer/44408/95049838752": {
+    "title": "ASIC Physical Design Senior Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:54:02.944Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/pune/staff-application-engineer/44408/95049838704": {
+    "title": "Staff Application Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:54:02.944Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/ottawa/analog-ic-design-engineer-14913/44408/91106519536": {
+    "title": "Analog IC Design Engineer - 14913",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:54:02.944Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/ad-product-marketing-manager-commerce-media-new-york-united-states": {
+    "title": "Ad Product Marketing Manager, Commerce Media",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-13T18:56:44.145Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-software-engineering-manager-ads-auction-marketplace-optimization-san-jose-california-united-states": {
+    "title": "Senior Software Engineering Manager, Ads Auction & Marketplace Optimization",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-13T18:56:44.145Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-quality-assurance-engineer-shenzhen-guangdong-china": {
+    "title": "Senior Quality Assurance Engineer",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-13T18:56:44.145Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/paid-search-manager-denver-colorado-united-states": {
+    "title": "Paid Search Manager",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-13T18:56:44.145Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/account-executive-ads-manager-new-york-united-states": {
+    "title": "Account Executive, Ads Manager",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-13T18:56:44.145Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/account-executive-ads-manager-chicago-illinois-united-states": {
+    "title": "Account Executive, Ads Manager",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-13T18:56:44.145Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/account-executive-ads-manager-santa-monica-california-united-states": {
+    "title": "Account Executive, Ads Manager",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-13T18:56:44.145Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/account-executive-ads-manager-chicago-illinois-united-states-ee4aae3c-680c-448d-9c89-24e1e6db649d": {
+    "title": "Account Executive, Ads Manager",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-13T18:56:44.145Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/account-executive-ads-manager-austin-texas-united-states": {
+    "title": "Account Executive, Ads Manager",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-13T18:56:44.145Z",
+    "matched": false
+  },
+  "Shopify India::https://www.shopify.com/careers/manager-iam-security-operations-trust-safety_a547ae99-1811-479b-9901-df0eedf661bb": {
+    "title": "Manager, IAM Security Operations, Trust & Safety- Canada , Americas",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-13T18:56:44.293Z",
+    "matched": false
+  },
+  "Shopify India::https://www.shopify.com/careers/technician-technical-services-identity-and-access-management-iam_b4f0f323-1ede-4350-a4af-bd48190f350a": {
+    "title": "Technician, Technical Services, Identity and Access Management (IAM)- Canada , Americas",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-13T18:56:44.293Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=ByoZMGGZkI%2FeqoR7j5PgzA%3D%3D&trackingId=OvDp%2B5St1srYkYvY8E1C2g%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:58:22.078Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-corporate-sales-manager-at-treebo-hospitality-ventures-4413525602?refId=ByoZMGGZkI%2FeqoR7j5PgzA%3D%3D&trackingId=Y1Uui1kIeppXwX3gumKDmA%3D%3D": {
+    "title": "Senior Corporate Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:58:22.078Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-dehradun-at-treebo-hospitality-ventures-4394789246?refId=ByoZMGGZkI%2FeqoR7j5PgzA%3D%3D&trackingId=aGwWx3KqAImhIye7a1b7Pw%3D%3D": {
+    "title": "Associate Director - Development - Dehradun",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:58:22.078Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-pan-india-at-treebo-hospitality-ventures-4412657957?refId=ByoZMGGZkI%2FeqoR7j5PgzA%3D%3D&trackingId=fXnMJ%2Bf%2BbfQZvbkMPnfFOQ%3D%3D": {
+    "title": "Corporate Sales Manager ( PAN)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:58:22.078Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=ByoZMGGZkI%2FeqoR7j5PgzA%3D%3D&trackingId=FOaO%2FJIkwrqfuXha1%2BBJ6g%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:58:22.078Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/search-engine-optimization-team-lead-at-treebo-hospitality-ventures-4401174805?refId=ByoZMGGZkI%2FeqoR7j5PgzA%3D%3D&trackingId=kXmpAi4qAlhq3IeG%2FnEPqg%3D%3D": {
+    "title": "Search Engine Optimization Team Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:58:22.078Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=ByoZMGGZkI%2FeqoR7j5PgzA%3D%3D&trackingId=O6HweHqvMsV0Qvq6Ch%2BbFg%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:58:22.078Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-cluster-sales-goa-at-treebo-hospitality-ventures-4389897056?refId=ByoZMGGZkI%2FeqoR7j5PgzA%3D%3D&trackingId=fxvhT6zoStlbloS%2B3Vd5tg%3D%3D": {
+    "title": "Manager-Cluster Sales-Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:58:22.078Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-director-lead-at-treebo-hospitality-ventures-4388904353?refId=ByoZMGGZkI%2FeqoR7j5PgzA%3D%3D&trackingId=bWVMcq5MCWyD1jUNX9NdyQ%3D%3D": {
+    "title": "Senior Director & Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:58:22.078Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA5AAAANQAAADMAAAA=-DoA1TbBzTws=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:58:26.655Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA5AAAANQAAADEAAAA=-/NsOSMdCifQ=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:58:26.655Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA5AAAANAAAADkAAAA=-wCAOQ3btEsQ=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:58:26.655Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA5AAAANAAAADQAAAA=-s7T0Jfc2tEw=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:58:26.655Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA5AAAANAAAADEAAAA=-Qy95FY4VVhY=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:58:26.655Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA5AAAAMwAAADgAAAA=-JhtrK4EDfpI=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T18:58:26.655Z",
+    "matched": false
+  },
+  "Elastic India::7909307": {
+    "title": "Enterprise Account Executive - Expand - Bay Area",
+    "mode": "skip",
+    "seenAt": "2026-05-13T18:59:26.869Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/united-states/director-sales-enablement/49841/95050482576": {
+    "title": "Director-Sales Enablement",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T19:00:35.105Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/new-york/senior-vice-president-third-party-risk-management-office-leader/49841/95050482544": {
+    "title": "Senior Vice President, Third-Party Risk Management Office Leader",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T19:00:35.106Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/brussels/assistant-director-devops-engineer/49841/95050482512": {
+    "title": "Assistant Director - DevOps Engineer",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T19:00:35.106Z",
+    "matched": false
   }
 }
