@@ -56572,5 +56572,142 @@
     "mode": "onsite",
     "seenAt": "2026-05-13T20:32:54.446Z",
     "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Mexico-City-Specialist-Consulting-MEX/1393579633/": {
+    "title": "Specialist - Consulting",
+    "mode": "skip",
+    "seenAt": "2026-05-13T22:03:29.060Z",
+    "matched": false
+  },
+  "Cloudflare::7896462": {
+    "title": "Senior Software Engineer, Distributed Databases",
+    "mode": "skip",
+    "seenAt": "2026-05-13T22:03:48.627Z",
+    "matched": false
+  },
+  "GitLab::8543383002": {
+    "title": "Commercial Account Executive - Named, US West",
+    "mode": "skip",
+    "seenAt": "2026-05-13T22:03:48.901Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/wichita/production-and-industrial-engineering-senior-manager/185/91618408048": {
+    "title": "Production & Industrial Engineering Senior Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T22:03:55.641Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/wichita/manager-logistics/185/91665532144": {
+    "title": "Manager - Logistics",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T22:03:55.642Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/technical-program-manager-voice-san-jose-california-united-states": {
+    "title": "Technical Program Manager, Voice",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-13T22:07:49.570Z",
+    "matched": false
+  },
+  "LogicMonitor India::https://www.logicmonitor.com/career/?gh_jid=7899058": {
+    "title": "Sr. Customer Technical Architect Customer Technical Architects London, UK",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T22:09:19.364Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=neR7McmoLI%2BfPoY8MmK2xg%3D%3D&trackingId=MoNWs3rohApU%2BG0QUobGyg%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T22:09:27.604Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-corporate-sales-manager-at-treebo-hospitality-ventures-4413525602?refId=neR7McmoLI%2BfPoY8MmK2xg%3D%3D&trackingId=%2FPo0iuXWpVoTIguJzW5YmA%3D%3D": {
+    "title": "Senior Corporate Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T22:09:27.604Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-dehradun-at-treebo-hospitality-ventures-4394789246?refId=neR7McmoLI%2BfPoY8MmK2xg%3D%3D&trackingId=RmMrRpbqAogLpgumBTvFBw%3D%3D": {
+    "title": "Associate Director - Development - Dehradun",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T22:09:27.604Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-pan-india-at-treebo-hospitality-ventures-4412657957?refId=neR7McmoLI%2BfPoY8MmK2xg%3D%3D&trackingId=aPUR30NwCvBNMt7VGsblJw%3D%3D": {
+    "title": "Corporate Sales Manager ( PAN)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T22:09:27.604Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=neR7McmoLI%2BfPoY8MmK2xg%3D%3D&trackingId=KSSMW9oxatqJThJg3eHrdw%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T22:09:27.604Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/search-engine-optimization-team-lead-at-treebo-hospitality-ventures-4401174805?refId=neR7McmoLI%2BfPoY8MmK2xg%3D%3D&trackingId=qfWiolHBTEPUNiXayWtgqA%3D%3D": {
+    "title": "Search Engine Optimization Team Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T22:09:27.604Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=neR7McmoLI%2BfPoY8MmK2xg%3D%3D&trackingId=i3TAH0kBPIk0gXcG7YItfQ%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T22:09:27.604Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-cluster-sales-goa-at-treebo-hospitality-ventures-4389897056?refId=neR7McmoLI%2BfPoY8MmK2xg%3D%3D&trackingId=YwZdcgksneCnB7hdADIq7w%3D%3D": {
+    "title": "Manager-Cluster Sales-Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T22:09:27.604Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-director-lead-at-treebo-hospitality-ventures-4388904353?refId=neR7McmoLI%2BfPoY8MmK2xg%3D%3D&trackingId=dfCxQziE4MNpezKuiW8VyA%3D%3D": {
+    "title": "Senior Director & Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T22:09:27.604Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/new-york/senior-social-media-strategist/49841/95059058304": {
+    "title": "Senior Social Media Strategist",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T22:11:41.492Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/brussels/staff-software-engineer/49841/95059058288": {
+    "title": "Staff Software Engineer",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T22:11:41.492Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/united-states/customer-success-manager-assoc/49841/95059058272": {
+    "title": "Customer Success Manager Assoc",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T22:11:41.492Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/new-york/avp-analyst-clo-sfg/49841/95059058256": {
+    "title": "AVP-Analyst (CLO SFG)",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-13T22:11:41.492Z",
+    "matched": false
   }
 }
