@@ -58392,5 +58392,136 @@
     "mode": "onsite",
     "seenAt": "2026-05-14T18:37:00.565Z",
     "matched": false
+  },
+  "Cloudflare::7921646": {
+    "title": "Senior Commercial Account Executive (San Francisco or Austin)",
+    "mode": "skip",
+    "seenAt": "2026-05-14T20:23:03.738Z",
+    "matched": false
+  },
+  "GitLab::8535048002": {
+    "title": "Manager, Security Incident Response Team (USA)",
+    "mode": "skip",
+    "seenAt": "2026-05-14T20:23:03.984Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/sr-counsel-legal-business-affairs-ad-tech-media-transactions-new-york-united-states": {
+    "title": "Sr. Counsel, Legal & Business Affairs - Ad Tech & Media Transactions",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-14T20:26:41.888Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr340193/operations-manager-data-solutions/": {
+    "title": "Operations Manager, Data Solutions",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T20:28:03.348Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr332802/full-stack-engineer-staff-platform-devxp/": {
+    "title": "Full Stack Engineer, Staff Platform DevXP",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T20:28:03.348Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr341844/research-lead-customer-insights/": {
+    "title": "Research Lead, Customer Insights",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T20:28:03.348Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr342223/manager-technical-accounting-sec-reporting/": {
+    "title": "Manager - Technical Accounting & SEC Reporting",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T20:28:03.348Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr341853/lead-specialist-slack-se/": {
+    "title": "Lead, Specialist Slack SE",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T20:28:03.348Z",
+    "matched": false
+  },
+  "LogicMonitor India::https://www.logicmonitor.com/career/?gh_jid=7926739": {
+    "title": "Lead Revenue Analyst Finance Austin, TX",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T20:28:10.403Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/general-ledger-manager-at-treebo-hospitality-ventures-4414467134?refId=j98FjNuSh%2BBpzANUzhQw%2BQ%3D%3D&trackingId=1NfHiupbxcXmsAxKWISEHA%3D%3D": {
+    "title": "General Ledger Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T20:28:17.416Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=j98FjNuSh%2BBpzANUzhQw%2BQ%3D%3D&trackingId=atxr2Shf1MLvoaqTErq1Pg%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T20:28:17.416Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-corporate-sales-manager-at-treebo-hospitality-ventures-4413525602?refId=j98FjNuSh%2BBpzANUzhQw%2BQ%3D%3D&trackingId=KM2y6Py3ztVASIL1XV1ErA%3D%3D": {
+    "title": "Senior Corporate Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T20:28:17.416Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-dehradun-at-treebo-hospitality-ventures-4394789246?refId=j98FjNuSh%2BBpzANUzhQw%2BQ%3D%3D&trackingId=YC%2F4KRJsbRk4%2FEDA%2FOMhLg%3D%3D": {
+    "title": "Associate Director - Development - Dehradun",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T20:28:17.416Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=j98FjNuSh%2BBpzANUzhQw%2BQ%3D%3D&trackingId=HZZc2kHE851kGytDZ35MFw%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T20:28:17.416Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/search-engine-optimization-team-lead-at-treebo-hospitality-ventures-4401174805?refId=j98FjNuSh%2BBpzANUzhQw%2BQ%3D%3D&trackingId=tc%2BJUlMsQ4DPvSx6GIGYYg%3D%3D": {
+    "title": "Search Engine Optimization Team Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T20:28:17.416Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=j98FjNuSh%2BBpzANUzhQw%2BQ%3D%3D&trackingId=IehAHsbIUveXqHtk%2FJLf6w%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T20:28:17.416Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-cluster-sales-goa-at-treebo-hospitality-ventures-4389897056?refId=j98FjNuSh%2BBpzANUzhQw%2BQ%3D%3D&trackingId=Kyyw19VosnUyfzzXSmEHnQ%3D%3D": {
+    "title": "Manager-Cluster Sales-Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T20:28:17.416Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-director-lead-at-treebo-hospitality-ventures-4388904353?refId=j98FjNuSh%2BBpzANUzhQw%2BQ%3D%3D&trackingId=i75It%2F0b%2BKWGFNc3j0FN3g%3D%3D": {
+    "title": "Senior Director & Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T20:28:17.416Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAAwAAAAMwAAADAAAAA=-8GllsmpUNPU=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T20:28:21.816Z",
+    "matched": false
   }
 }
