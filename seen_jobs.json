@@ -58635,5 +58635,94 @@
     "mode": "onsite",
     "seenAt": "2026-05-14T22:07:45.847Z",
     "matched": false
+  },
+  "Postman::7735012003": {
+    "title": "Senior Technical Writer",
+    "mode": "skip",
+    "seenAt": "2026-05-14T22:52:28.604Z",
+    "matched": false
+  },
+  "GitLab::8550268002": {
+    "title": "Customer Success Engineer - PST / MST ",
+    "mode": "skip",
+    "seenAt": "2026-05-14T22:53:19.370Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-software-engineer-ad-serving-boston-massachusetts-united-states": {
+    "title": "Senior Software Engineer, Ad Serving",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-14T22:57:18.784Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/general-ledger-manager-at-treebo-hospitality-ventures-4414467134?refId=JMh1FeLEFnIqhIgMmeSFNw%3D%3D&trackingId=k5dc6G6eGiO6vGjJ4FQVrg%3D%3D": {
+    "title": "General Ledger Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T22:59:19.759Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=JMh1FeLEFnIqhIgMmeSFNw%3D%3D&trackingId=h7omk%2BsgrnOCOTJH4iehbg%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T22:59:19.759Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-corporate-sales-manager-at-treebo-hospitality-ventures-4413525602?refId=JMh1FeLEFnIqhIgMmeSFNw%3D%3D&trackingId=aVoiD9CwRUdmzfWe07jHNA%3D%3D": {
+    "title": "Senior Corporate Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T22:59:19.759Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-dehradun-at-treebo-hospitality-ventures-4394789246?refId=JMh1FeLEFnIqhIgMmeSFNw%3D%3D&trackingId=8RBttPue0XwzyjsfX6Xtow%3D%3D": {
+    "title": "Associate Director - Development - Dehradun",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T22:59:19.759Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=JMh1FeLEFnIqhIgMmeSFNw%3D%3D&trackingId=iwnXeF23FGlq3qT4ilJVxQ%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T22:59:19.759Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/search-engine-optimization-team-lead-at-treebo-hospitality-ventures-4401174805?refId=JMh1FeLEFnIqhIgMmeSFNw%3D%3D&trackingId=1ntnGJgnSnXV%2Bu8UqNtQHA%3D%3D": {
+    "title": "Search Engine Optimization Team Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T22:59:19.759Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=JMh1FeLEFnIqhIgMmeSFNw%3D%3D&trackingId=1qIhaakobxYzhhJ8whAymg%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T22:59:19.759Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-cluster-sales-goa-at-treebo-hospitality-ventures-4389897056?refId=JMh1FeLEFnIqhIgMmeSFNw%3D%3D&trackingId=IlQCm4bzRwUcB5GiD6UHKg%3D%3D": {
+    "title": "Manager-Cluster Sales-Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T22:59:19.759Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/software-engineer-python-26000CGM-en": {
+    "title": "Software Engineer Python",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T23:00:34.976Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/trainee-global-loan-sales-global-syndicates-26000CGH-en": {
+    "title": "Trainee - Global Loan Sales / Global Syndicates",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T23:00:34.976Z",
+    "matched": false
   }
 }
