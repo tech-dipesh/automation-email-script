@@ -57534,5 +57534,198 @@
     "mode": "onsite",
     "seenAt": "2026-05-14T08:30:00.165Z",
     "matched": false
+  },
+  "Paytm::59e2040a-bcf5-4d89-90ad-7ac3c0c8ff0f": {
+    "title": "Area Sales Manager - Manager - EDC Retail",
+    "mode": "skip",
+    "seenAt": "2026-05-14T11:06:44.559Z",
+    "matched": false
+  },
+  "Paytm::1731cf7d-083a-4b58-93f7-6a1262135fb2": {
+    "title": "Area Sales Manager - Qr Soundbox & EDC Retail Sales - Hyderabad",
+    "location": "Hyderabad, Telangana",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:06:44.561Z",
+    "matched": false
+  },
+  "Apple::https://jobs.apple.com/en-in/details/200645280-0321/network-engineer-enterprise-operations-network-quality-infrastructure-services?team=SFTWR": {
+    "title": "Network Engineer, Enterprise Operations – Network Quality Infrastructure Services",
+    "mode": "skip",
+    "seenAt": "2026-05-14T11:10:24.221Z",
+    "matched": false
+  },
+  "Apple::https://jobs.apple.com/en-in/details/200658531-1052/application-support-engineer?team=SFTWR": {
+    "title": "Application support engineer",
+    "mode": "skip",
+    "seenAt": "2026-05-14T11:10:24.221Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/el-segundo/manufacturing-engineer-harness-1st-shift-millennium-space-systems/185/95073667664": {
+    "title": "Manufacturing Engineer - Harness - 1st Shift - Millennium Space Systems",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:10:41.916Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/bengaluru/experienced-structural-analysis-engineer/185/95073667072": {
+    "title": "Experienced Structural Analysis Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:10:41.917Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/oklahoma-city/experienced-trade-control-specialist/185/94535800224": {
+    "title": "Experienced Trade Control Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:10:41.917Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/bengaluru/staff-application-engineer-physical-implementation/44408/95074967248": {
+    "title": "Staff Application Engineer – Physical Implementation",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:11:34.595Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/ho-chi-minh-city/asic-physical-design-staff-engineer/44408/95074967232": {
+    "title": "ASIC Physical Design, Staff Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:11:34.595Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/hsinchu/3dic-interface-eco-optimization-internship/44408/95074967216": {
+    "title": "3DIC Interface ECO Optimization Internship",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:11:34.595Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/da-nang/asic-physical-design-staff-engineer-in-da-nang/44408/95074967200": {
+    "title": "ASIC Physical Design, Staff Engineer in Da Nang",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:11:34.595Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-data-engineer-python-spark-manchester-england-united-kingdom": {
+    "title": "Senior Data Engineer, Python, Spark",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-14T11:14:27.700Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-data-engineer-python-spark-cambridge-england-united-kingdom": {
+    "title": "Senior Data Engineer, Python, Spark",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-14T11:14:27.700Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/general-ledger-manager-at-treebo-hospitality-ventures-4414467134?refId=lhksMv8ZMAkgu1qFM38dJw%3D%3D&trackingId=XZ50PyndVPo4bBgGVoqZXA%3D%3D": {
+    "title": "General Ledger Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:16:11.044Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=lhksMv8ZMAkgu1qFM38dJw%3D%3D&trackingId=Ryehm1UfBYAxBLtWj4JTlg%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:16:11.044Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-corporate-sales-manager-at-treebo-hospitality-ventures-4413525602?refId=lhksMv8ZMAkgu1qFM38dJw%3D%3D&trackingId=NHZWHU5527%2Fnt5PbfrK6Kg%3D%3D": {
+    "title": "Senior Corporate Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:16:11.044Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-dehradun-at-treebo-hospitality-ventures-4394789246?refId=lhksMv8ZMAkgu1qFM38dJw%3D%3D&trackingId=BI1LLSO1TItEF4FSOn1zHg%3D%3D": {
+    "title": "Associate Director - Development - Dehradun",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:16:11.044Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=lhksMv8ZMAkgu1qFM38dJw%3D%3D&trackingId=fWiGgpTVsxsSs1apqLza6Q%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:16:11.044Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/search-engine-optimization-team-lead-at-treebo-hospitality-ventures-4401174805?refId=lhksMv8ZMAkgu1qFM38dJw%3D%3D&trackingId=qEKqMSOKVUNJMZmqOiJ6qg%3D%3D": {
+    "title": "Search Engine Optimization Team Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:16:11.044Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=lhksMv8ZMAkgu1qFM38dJw%3D%3D&trackingId=kehZEoRR3nbwv2qsuUa4sw%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:16:11.044Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-cluster-sales-goa-at-treebo-hospitality-ventures-4389897056?refId=lhksMv8ZMAkgu1qFM38dJw%3D%3D&trackingId=Hg%2BQTYAcXpm0o013YYximw%3D%3D": {
+    "title": "Manager-Cluster Sales-Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:16:11.044Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-director-lead-at-treebo-hospitality-ventures-4388904353?refId=lhksMv8ZMAkgu1qFM38dJw%3D%3D&trackingId=Re3XQIc4hV3qFTgqp9qtsw%3D%3D": {
+    "title": "Senior Director & Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:16:11.044Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA5AAAAOAAAADEAAAA=-vGJQX/CBaeU=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:16:17.318Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADcAAAA5AAAANwAAADgAAAA=-DPdhZ8/U8qM=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:16:17.318Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/hong-kong-sar/ratings-associate-project-infrastructure-finance/49841/95074064288": {
+    "title": "Ratings Associate, Project Infrastructure Finance",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:18:34.257Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/lohchap/sr-fin-rptg-and-acct-policy-accountant/49841/95074064272": {
+    "title": "Sr Fin Rptg & Acct Policy Accountant",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:18:34.257Z",
+    "matched": false
+  },
+  "GlobalLogic India::https://www.globallogic.com/in/careers/c-engineer-irc295560/": {
+    "title": "United States C++ Engineer IRC295560",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:18:40.496Z",
+    "matched": false
+  },
+  "GlobalLogic India::https://www.globallogic.com/in/careers/site-reliability-engineer-irc294570/": {
+    "title": "United States Site Reliability Engineer IRC294570",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-14T11:18:40.496Z",
+    "matched": false
   }
 }
