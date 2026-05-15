@@ -60742,5 +60742,172 @@
     "mode": "onsite",
     "seenAt": "2026-05-15T20:53:35.414Z",
     "matched": false
+  },
+  "Uber::https://www.uber.com/in/bn/careers/list/?department=Engineering&valueOf=472326": {
+    "title": "বাংলা",
+    "mode": "skip",
+    "seenAt": "2026-05-15T21:46:38.271Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/en/careers/list/?department=Engineering&valueOf=472326": {
+    "title": "English",
+    "mode": "skip",
+    "seenAt": "2026-05-15T21:46:38.271Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/hi/careers/list/?department=Engineering&valueOf=472326": {
+    "title": "हिन्दी",
+    "mode": "skip",
+    "seenAt": "2026-05-15T21:46:38.271Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/kn/careers/list/?department=Engineering&valueOf=472326": {
+    "title": "ಕನ್ನಡ",
+    "mode": "skip",
+    "seenAt": "2026-05-15T21:46:38.271Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/mr/careers/list/?department=Engineering&valueOf=472326": {
+    "title": "मराठी",
+    "mode": "skip",
+    "seenAt": "2026-05-15T21:46:38.271Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/ta/careers/list/?department=Engineering&valueOf=472326": {
+    "title": "தமிழ்",
+    "mode": "skip",
+    "seenAt": "2026-05-15T21:46:38.271Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/te/careers/list/?department=Engineering&valueOf=472326": {
+    "title": "తెలుగు",
+    "mode": "skip",
+    "seenAt": "2026-05-15T21:46:38.271Z",
+    "matched": false
+  },
+  "Apple::https://jobs.apple.com/en-in/details/200662797-1052/aem-developer?team=SFTWR": {
+    "title": "AEM Developer",
+    "mode": "skip",
+    "seenAt": "2026-05-15T21:46:39.512Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/hazelwood/software-engineer-experienced-senior/185/95141380928": {
+    "title": "Software Engineer (Experienced, Senior)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T21:46:53.652Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/everett/business-operations-specialist/185/95141380880": {
+    "title": "Business Operations Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T21:46:53.653Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-machine-learning-engineer-san-jose-california-united-states": {
+    "title": "Senior Machine Learning Engineer",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-15T21:50:34.070Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-machine-learning-engineer-austin-texas-united-states": {
+    "title": "Senior Machine Learning Engineer",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-15T21:50:34.070Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/growth-lead-roku-data-cloud-santa-monica-california-united-states": {
+    "title": "Growth Lead — Roku Data Cloud",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-15T21:50:34.071Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/growth-lead-roku-data-cloud-new-york-united-states": {
+    "title": "Growth Lead — Roku Data Cloud",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-15T21:50:34.071Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/software-engineer-backend-at-treebo-hospitality-ventures-4415010648?refId=oBo0h7UUodcFQAREcUjq5g%3D%3D&trackingId=HYCWUEnROhanVDbKK0xgFQ%3D%3D": {
+    "title": "Software Engineer - Backend",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T21:52:06.241Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/general-ledger-manager-at-treebo-hospitality-ventures-4414467134?refId=oBo0h7UUodcFQAREcUjq5g%3D%3D&trackingId=1PRlXuwC6Xz9Ua6qo8CcUA%3D%3D": {
+    "title": "General Ledger Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T21:52:06.241Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=oBo0h7UUodcFQAREcUjq5g%3D%3D&trackingId=312hyfcMP0Oaf2M49ZVfIg%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T21:52:06.241Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-dehradun-at-treebo-hospitality-ventures-4394789246?refId=oBo0h7UUodcFQAREcUjq5g%3D%3D&trackingId=4xBIW%2FQbsCsT6imJM51%2BZQ%3D%3D": {
+    "title": "Associate Director - Development - Dehradun",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T21:52:06.241Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=oBo0h7UUodcFQAREcUjq5g%3D%3D&trackingId=gFjHGChHRuWBc779aDajnw%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T21:52:06.241Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=oBo0h7UUodcFQAREcUjq5g%3D%3D&trackingId=I%2BhHXwUYjKIq%2B5q%2FcmagVg%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T21:52:06.241Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-cluster-sales-goa-at-treebo-hospitality-ventures-4389897056?refId=oBo0h7UUodcFQAREcUjq5g%3D%3D&trackingId=nt6eFmbz4GGvNB8jmMZcHw%3D%3D": {
+    "title": "Manager-Cluster Sales-Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T21:52:06.241Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-director-lead-at-treebo-hospitality-ventures-4388904353?refId=oBo0h7UUodcFQAREcUjq5g%3D%3D&trackingId=45qnSbqr4hi3TCnFUeModQ%3D%3D": {
+    "title": "Senior Director & Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T21:52:06.241Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/new-york/vp-senior-analyst-fund-finance/49841/94478109600": {
+    "title": "VP-Senior Analyst (Fund Finance)",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T21:54:57.952Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/new-york/sr-contracts-manager/49841/94478109920": {
+    "title": "Srs Manager",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T21:54:57.952Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/united-states/staff-software-engineer/49841/95143268320": {
+    "title": "Staff Software Engineer",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T21:54:57.952Z",
+    "matched": false
   }
 }
