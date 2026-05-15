@@ -58821,5 +58821,184 @@
     "mode": "onsite",
     "seenAt": "2026-05-14T23:50:29.163Z",
     "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Mexico-Specialist-Quality-Engineering-MEX/1393850733/": {
+    "title": "Specialist - Quality Engineering",
+    "mode": "skip",
+    "seenAt": "2026-05-15T01:49:39.413Z",
+    "matched": false
+  },
+  "Cloudflare::7916601": {
+    "title": "Senior Strategic Solutions Engineer, Bengaluru",
+    "mode": "skip",
+    "seenAt": "2026-05-15T01:50:03.515Z",
+    "matched": false
+  },
+  "GitLab::8548980002": {
+    "title": "Customer Success Manager - APJ",
+    "location": "Remote, Australia",
+    "mode": "remote",
+    "seenAt": "2026-05-15T01:50:03.756Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/bingen/us-domestic-regional-growth-director-remote/185/95105651680": {
+    "title": "US Domestic Regional Growth Director -",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T01:50:11.681Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/washington-d-c/business-development-specialist-domestic-us-army-remote/185/95105649136": {
+    "title": "Business Development Specialist – Domestic / US Army –",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T01:50:11.682Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/bingen/it-support-technician-contract-onsite/185/95105635280": {
+    "title": "IT Support Technician -- Onsite",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T01:50:11.682Z",
+    "matched": false
+  },
+  "Cadence India::https://careers.cloud.com/jobs/principal-accounting-auditor-bangalore-karnataka-india": {
+    "title": "Principal Accounting - Auditor",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T01:50:13.185Z",
+    "matched": false
+  },
+  "Cadence India::https://careers.cloud.com/jobs/lead-accounting-auditor-bengaluru-karnataka-india": {
+    "title": "Lead Accounting Auditor",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T01:50:13.185Z",
+    "matched": false
+  },
+  "Citrix India::https://careers.cloud.com/jobs/principal-accounting-auditor-bangalore-karnataka-india": {
+    "title": "Principal Accounting - Auditor",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T01:50:14.796Z",
+    "matched": false
+  },
+  "Citrix India::https://careers.cloud.com/jobs/lead-accounting-auditor-bengaluru-karnataka-india": {
+    "title": "Lead Accounting Auditor",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T01:50:14.796Z",
+    "matched": false
+  },
+  "Expedia Group India::https://careers.expediagroup.com/?blackhole=0d74bffbcb": {
+    "title": "Expedia Group | Careers",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T01:50:24.105Z",
+    "matched": false
+  },
+  "Flexport India::5745289": {
+    "title": "Software Engineer II, Forwarding App",
+    "mode": "skip",
+    "seenAt": "2026-05-15T01:53:33.640Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/lead-ml-inference-engineer-advertising-san-jose-california-united-states": {
+    "title": "Lead ML Inference Engineer, Advertising",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-15T01:53:51.802Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-ux-product-designer-the-roku-channel-santa-monica-california-united-states": {
+    "title": "Senior UX Product Designer, The Roku Channel",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-15T01:53:51.802Z",
+    "matched": false
+  },
+  "Shopify India::https://www.shopify.com/careers/senior-product-partnerships-lead-one-shopify_730438d1-d751-42d5-a888-27a8016b7ac7": {
+    "title": "Senior Product Partnerships Lead: One Shopify- Americas",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-15T01:53:51.976Z",
+    "matched": false
+  },
+  "Shopify India::https://www.shopify.com/careers/overnight-support-manager_6da43d29-08dd-40e4-8bbc-3f094f3f6677": {
+    "title": "Overnight Support Manager- Canada",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-15T01:53:51.976Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr341318/lead-workforce-intelligence/": {
+    "title": "Lead, Workforce Intelligence",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T01:55:15.537Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/general-ledger-manager-at-treebo-hospitality-ventures-4414467134?refId=2D3GqQdo5ljeFd%2FI1UCRwg%3D%3D&trackingId=doDdbfQ%2FdDggSzjFfcwHgQ%3D%3D": {
+    "title": "General Ledger Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T01:55:29.087Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=2D3GqQdo5ljeFd%2FI1UCRwg%3D%3D&trackingId=Xb8wLX%2BD3JFzEgwl7WBPJA%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T01:55:29.087Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-corporate-sales-manager-at-treebo-hospitality-ventures-4413525602?refId=2D3GqQdo5ljeFd%2FI1UCRwg%3D%3D&trackingId=pyZBW4cFlucQCLICEIP9uA%3D%3D": {
+    "title": "Senior Corporate Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T01:55:29.087Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-dehradun-at-treebo-hospitality-ventures-4394789246?refId=2D3GqQdo5ljeFd%2FI1UCRwg%3D%3D&trackingId=7aIRMMC0IDBilsEzXyxsuA%3D%3D": {
+    "title": "Associate Director - Development - Dehradun",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T01:55:29.087Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=2D3GqQdo5ljeFd%2FI1UCRwg%3D%3D&trackingId=Jpo1G8JzydlURIZVQZt2wQ%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T01:55:29.087Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/search-engine-optimization-team-lead-at-treebo-hospitality-ventures-4401174805?refId=2D3GqQdo5ljeFd%2FI1UCRwg%3D%3D&trackingId=g5yBOII4MuAZk%2FNA4TXBiA%3D%3D": {
+    "title": "Search Engine Optimization Team Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T01:55:29.087Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=2D3GqQdo5ljeFd%2FI1UCRwg%3D%3D&trackingId=W%2FW9RV05J0OaIAM%2F%2B83ESQ%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T01:55:29.087Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-cluster-sales-goa-at-treebo-hospitality-ventures-4389897056?refId=2D3GqQdo5ljeFd%2FI1UCRwg%3D%3D&trackingId=MeTc2dKqMsTOQ67TqVsHrw%3D%3D": {
+    "title": "Manager-Cluster Sales-Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T01:55:29.087Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-director-lead-at-treebo-hospitality-ventures-4388904353?refId=2D3GqQdo5ljeFd%2FI1UCRwg%3D%3D&trackingId=cgYb%2BKfrll4gzvegDyvjeQ%3D%3D": {
+    "title": "Senior Director & Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T01:55:29.087Z",
+    "matched": false
   }
 }
