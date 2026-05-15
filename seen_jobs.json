@@ -60132,5 +60132,187 @@
     "mode": "onsite",
     "seenAt": "2026-05-15T13:29:22.183Z",
     "matched": false
+  },
+  "Uber::https://www.uber.com/in/bn/careers/list/?_gl=1%2Aay3c19%2A_ga%2ANjMwOTQxMDk4LjE3Nzg4NDE2OTU.%2A_ga_EYK44YLJMQ%2AczE3Nzg4NDE4MDEkbzEkZzEkdDE3Nzg4NDIwOTkkajM4JGwwJGgw&department=Engineering": {
+    "title": "বাংলা",
+    "mode": "skip",
+    "seenAt": "2026-05-15T15:54:41.182Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/en/careers/list/?_gl=1%2Aay3c19%2A_ga%2ANjMwOTQxMDk4LjE3Nzg4NDE2OTU.%2A_ga_EYK44YLJMQ%2AczE3Nzg4NDE4MDEkbzEkZzEkdDE3Nzg4NDIwOTkkajM4JGwwJGgw&department=Engineering": {
+    "title": "English",
+    "mode": "skip",
+    "seenAt": "2026-05-15T15:54:41.182Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/hi/careers/list/?_gl=1%2Aay3c19%2A_ga%2ANjMwOTQxMDk4LjE3Nzg4NDE2OTU.%2A_ga_EYK44YLJMQ%2AczE3Nzg4NDE4MDEkbzEkZzEkdDE3Nzg4NDIwOTkkajM4JGwwJGgw&department=Engineering": {
+    "title": "हिन्दी",
+    "mode": "skip",
+    "seenAt": "2026-05-15T15:54:41.182Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/kn/careers/list/?_gl=1%2Aay3c19%2A_ga%2ANjMwOTQxMDk4LjE3Nzg4NDE2OTU.%2A_ga_EYK44YLJMQ%2AczE3Nzg4NDE4MDEkbzEkZzEkdDE3Nzg4NDIwOTkkajM4JGwwJGgw&department=Engineering": {
+    "title": "ಕನ್ನಡ",
+    "mode": "skip",
+    "seenAt": "2026-05-15T15:54:41.182Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/mr/careers/list/?_gl=1%2Aay3c19%2A_ga%2ANjMwOTQxMDk4LjE3Nzg4NDE2OTU.%2A_ga_EYK44YLJMQ%2AczE3Nzg4NDE4MDEkbzEkZzEkdDE3Nzg4NDIwOTkkajM4JGwwJGgw&department=Engineering": {
+    "title": "मराठी",
+    "mode": "skip",
+    "seenAt": "2026-05-15T15:54:41.182Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/ta/careers/list/?_gl=1%2Aay3c19%2A_ga%2ANjMwOTQxMDk4LjE3Nzg4NDE2OTU.%2A_ga_EYK44YLJMQ%2AczE3Nzg4NDE4MDEkbzEkZzEkdDE3Nzg4NDIwOTkkajM4JGwwJGgw&department=Engineering": {
+    "title": "தமிழ்",
+    "mode": "skip",
+    "seenAt": "2026-05-15T15:54:41.182Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/te/careers/list/?_gl=1%2Aay3c19%2A_ga%2ANjMwOTQxMDk4LjE3Nzg4NDE2OTU.%2A_ga_EYK44YLJMQ%2AczE3Nzg4NDE4MDEkbzEkZzEkdDE3Nzg4NDIwOTkkajM4JGwwJGgw&department=Engineering": {
+    "title": "తెలుగు",
+    "mode": "skip",
+    "seenAt": "2026-05-15T15:54:41.182Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/wichita/construction-electrician/185/91689529200": {
+    "title": "Construction Electrician",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T15:55:01.393Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/26016539/assistant-manager-mumbai-india": {
+    "title": "Assistant Manager",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T15:56:02.328Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/26014079/principal-engineer-gbs-ind-multiple-locations": {
+    "title": "Principal Engineer - GBS IND",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T15:56:02.328Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/sr-indirect-procurement-manager-san-jose-california-united-states": {
+    "title": "Sr. Indirect Procurement Manager",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-15T15:58:35.574Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/account-manager-new-york-united-states": {
+    "title": "Account Manager",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-15T15:58:35.574Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/account-manager-santa-monica-california-united-states": {
+    "title": "Account Manager",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-15T15:58:35.574Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/security-engineer-austin-texas-united-states": {
+    "title": "Security Engineer",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-15T15:58:35.574Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23119951/sap-production-planning-pp-consultant-mexico-city-mx/": {
+    "title": "SAP Production Planning (PP) Consultant",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T15:59:17.135Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23166269/senior-ux-strategist/": {
+    "title": "Senior UX Strategist",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T15:59:17.135Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/software-engineer-backend-at-treebo-hospitality-ventures-4415010648?refId=cLEg9b3S4mx8VRjwZ8GRIw%3D%3D&trackingId=8cKNDkh9qrurZARn1qDQvg%3D%3D": {
+    "title": "Software Engineer - Backend",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T16:00:28.615Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/general-ledger-manager-at-treebo-hospitality-ventures-4414467134?refId=cLEg9b3S4mx8VRjwZ8GRIw%3D%3D&trackingId=QZABuMqFEyVvhciQK%2FEWkQ%3D%3D": {
+    "title": "General Ledger Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T16:00:28.615Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=cLEg9b3S4mx8VRjwZ8GRIw%3D%3D&trackingId=DAXbHLCFQA3NCOWkltvBYg%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T16:00:28.615Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-dehradun-at-treebo-hospitality-ventures-4394789246?refId=cLEg9b3S4mx8VRjwZ8GRIw%3D%3D&trackingId=dMFA1WUP8mXTNM39sIoJ9Q%3D%3D": {
+    "title": "Associate Director - Development - Dehradun",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T16:00:28.615Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=cLEg9b3S4mx8VRjwZ8GRIw%3D%3D&trackingId=1jYx4MLTKIdtx%2FP8e73%2BGA%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T16:00:28.615Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=cLEg9b3S4mx8VRjwZ8GRIw%3D%3D&trackingId=6H8AnAq9xMDlndZCfMPs6g%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T16:00:28.615Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-cluster-sales-goa-at-treebo-hospitality-ventures-4389897056?refId=cLEg9b3S4mx8VRjwZ8GRIw%3D%3D&trackingId=KG3WbfoImOineoKX%2B1qoZQ%3D%3D": {
+    "title": "Manager-Cluster Sales-Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T16:00:28.615Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-director-lead-at-treebo-hospitality-ventures-4388904353?refId=cLEg9b3S4mx8VRjwZ8GRIw%3D%3D&trackingId=AZ1Q39ogrq81buLB38x0Qw%3D%3D": {
+    "title": "Senior Director & Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T16:00:28.615Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-cluster-sales-delhi-at-treebo-hospitality-ventures-4387903587?refId=cLEg9b3S4mx8VRjwZ8GRIw%3D%3D&trackingId=BQQxWDjr23nVVfoNDUx6FQ%3D%3D": {
+    "title": "Manager-Cluster Sales-",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T16:00:28.615Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAAwAAAANwAAADkAAAA=-DUkSivgivbk=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T16:00:34.168Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/lohchap/contract-specialist/49841/95124477312": {
+    "title": "Specialist",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-15T16:02:49.742Z",
+    "matched": false
   }
 }
