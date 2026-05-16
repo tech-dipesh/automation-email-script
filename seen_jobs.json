@@ -62151,5 +62151,103 @@
     "mode": "onsite",
     "seenAt": "2026-05-16T17:50:49.557Z",
     "matched": false
+  },
+  "Uber::https://www.uber.com/in/bn/careers/list/?_gl=1%2Ajdqqve%2A_ga%2ANjYxNTU0NDA0LjE3Nzg5MzQ4MDE.%2A_ga_EYK44YLJMQ%2AczE3Nzg5MzQ4MDAkbzEkZzEkdDE3Nzg5MzQ4MzMkajI3JGwwJGgw&department=Engineering": {
+    "title": "বাংলা",
+    "mode": "skip",
+    "seenAt": "2026-05-16T18:45:27.979Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/en/careers/list/?_gl=1%2Ajdqqve%2A_ga%2ANjYxNTU0NDA0LjE3Nzg5MzQ4MDE.%2A_ga_EYK44YLJMQ%2AczE3Nzg5MzQ4MDAkbzEkZzEkdDE3Nzg5MzQ4MzMkajI3JGwwJGgw&department=Engineering": {
+    "title": "English",
+    "mode": "skip",
+    "seenAt": "2026-05-16T18:45:27.979Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/hi/careers/list/?_gl=1%2Ajdqqve%2A_ga%2ANjYxNTU0NDA0LjE3Nzg5MzQ4MDE.%2A_ga_EYK44YLJMQ%2AczE3Nzg5MzQ4MDAkbzEkZzEkdDE3Nzg5MzQ4MzMkajI3JGwwJGgw&department=Engineering": {
+    "title": "हिन्दी",
+    "mode": "skip",
+    "seenAt": "2026-05-16T18:45:27.979Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/kn/careers/list/?_gl=1%2Ajdqqve%2A_ga%2ANjYxNTU0NDA0LjE3Nzg5MzQ4MDE.%2A_ga_EYK44YLJMQ%2AczE3Nzg5MzQ4MDAkbzEkZzEkdDE3Nzg5MzQ4MzMkajI3JGwwJGgw&department=Engineering": {
+    "title": "ಕನ್ನಡ",
+    "mode": "skip",
+    "seenAt": "2026-05-16T18:45:27.979Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/mr/careers/list/?_gl=1%2Ajdqqve%2A_ga%2ANjYxNTU0NDA0LjE3Nzg5MzQ4MDE.%2A_ga_EYK44YLJMQ%2AczE3Nzg5MzQ4MDAkbzEkZzEkdDE3Nzg5MzQ4MzMkajI3JGwwJGgw&department=Engineering": {
+    "title": "मराठी",
+    "mode": "skip",
+    "seenAt": "2026-05-16T18:45:27.979Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/ta/careers/list/?_gl=1%2Ajdqqve%2A_ga%2ANjYxNTU0NDA0LjE3Nzg5MzQ4MDE.%2A_ga_EYK44YLJMQ%2AczE3Nzg5MzQ4MDAkbzEkZzEkdDE3Nzg5MzQ4MzMkajI3JGwwJGgw&department=Engineering": {
+    "title": "தமிழ்",
+    "mode": "skip",
+    "seenAt": "2026-05-16T18:45:27.979Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/te/careers/list/?_gl=1%2Ajdqqve%2A_ga%2ANjYxNTU0NDA0LjE3Nzg5MzQ4MDE.%2A_ga_EYK44YLJMQ%2AczE3Nzg5MzQ4MDAkbzEkZzEkdDE3Nzg5MzQ4MzMkajI3JGwwJGgw&department=Engineering": {
+    "title": "తెలుగు",
+    "mode": "skip",
+    "seenAt": "2026-05-16T18:45:27.979Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-dehradun-at-treebo-hospitality-ventures-4394789246?refId=mwmM1lmaelYgl6pHJFbkIQ%3D%3D&trackingId=TM8EnCcn5C2U82IjhiCe8g%3D%3D": {
+    "title": "Associate Director - Development - Dehradun",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T18:50:56.273Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/software-engineer-backend-at-treebo-hospitality-ventures-4415010648?refId=mwmM1lmaelYgl6pHJFbkIQ%3D%3D&trackingId=RdoGcFw2WVerQovziR9ynA%3D%3D": {
+    "title": "Software Engineer - Backend",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T18:50:56.274Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/general-ledger-manager-at-treebo-hospitality-ventures-4414467134?refId=mwmM1lmaelYgl6pHJFbkIQ%3D%3D&trackingId=th1aWF6cJZwK%2BHcO96NO%2Bg%3D%3D": {
+    "title": "General Ledger Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T18:50:56.274Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=mwmM1lmaelYgl6pHJFbkIQ%3D%3D&trackingId=3%2BIdqxcZs6FbdsYlbiK7rg%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T18:50:56.274Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=mwmM1lmaelYgl6pHJFbkIQ%3D%3D&trackingId=oAl6pjtds5%2F2MISZcKWMdg%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T18:50:56.274Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=mwmM1lmaelYgl6pHJFbkIQ%3D%3D&trackingId=Fak43KK2QX9Npj2f1Sv8dQ%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T18:50:56.274Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-cluster-sales-goa-at-treebo-hospitality-ventures-4389897056?refId=mwmM1lmaelYgl6pHJFbkIQ%3D%3D&trackingId=SFbkU6j0YvJ6bn51%2Bmi8xQ%3D%3D": {
+    "title": "Manager-Cluster Sales-Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T18:50:56.274Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-director-lead-at-treebo-hospitality-ventures-4388904353?refId=mwmM1lmaelYgl6pHJFbkIQ%3D%3D&trackingId=q%2FuFqwEhom184lUcqblPnQ%3D%3D": {
+    "title": "Senior Director & Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T18:50:56.274Z",
+    "matched": false
   }
 }
