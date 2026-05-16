@@ -61237,5 +61237,296 @@
     "mode": "onsite",
     "seenAt": "2026-05-16T01:36:18.405Z",
     "matched": false
+  },
+  "Wipro::https://www.facebook.com/wiprocareers/": {
+    "title": "Opens in a new tab.",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:16:16.833Z",
+    "matched": false
+  },
+  "Wipro::https://www.instagram.com/wiprocareers/": {
+    "title": "Opens in a new tab.",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:16:16.833Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Associate-Principal-Data-Engineering/1385189933/": {
+    "title": "Associate Principal - Data Engineering",
+    "mode": "skip",
+    "seenAt": "2026-05-16T05:16:42.709Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Sao-Paulo-Senior-Specialist-Program-&-Project-Management-SP/1385221933/": {
+    "title": "Senior Specialist - Program & Project Management",
+    "mode": "skip",
+    "seenAt": "2026-05-16T05:16:42.709Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Mexico%2C-City-Specialist-Software-Engineering-MEX/1385195833/": {
+    "title": "Specialist - Software Engineering",
+    "mode": "skip",
+    "seenAt": "2026-05-16T05:16:42.709Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Specialist-Software-Engineering/1385196333/": {
+    "title": "Specialist - Software Engineering",
+    "mode": "skip",
+    "seenAt": "2026-05-16T05:16:42.709Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Mexico-Specialist-Software-Engineering-MEX/1385171333/": {
+    "title": "Specialist - Software Engineering",
+    "mode": "skip",
+    "seenAt": "2026-05-16T05:16:42.709Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/San-Jose%2C-Costa-Rica-Senior-Specialist-Package-Implementation-SJ/1385197333/": {
+    "title": "Senior Specialist - Package Implementation",
+    "mode": "skip",
+    "seenAt": "2026-05-16T05:16:42.709Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Mexico%2C-City-Specialist-Software-Engineering-MEX/1385194633/": {
+    "title": "Specialist - Software Engineering",
+    "mode": "skip",
+    "seenAt": "2026-05-16T05:16:42.709Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Sao-Paulo-Senior-Specialist-Program-&-Project-Management-SP/1385221433/": {
+    "title": "Senior Specialist - Program & Project Management",
+    "mode": "skip",
+    "seenAt": "2026-05-16T05:16:42.709Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Specialist-Software-Engineering/1385189133/": {
+    "title": "Specialist - Software Engineering",
+    "mode": "skip",
+    "seenAt": "2026-05-16T05:16:42.709Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Mexico-Specialist-Software-Engineering-MEX/1385176133/": {
+    "title": "Specialist - Software Engineering",
+    "mode": "skip",
+    "seenAt": "2026-05-16T05:16:42.710Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/San-Jose%2C-Costa-Rica-Senior-Specialist-Package-Implementation-SJ/1385197233/": {
+    "title": "Senior Specialist - Package Implementation",
+    "mode": "skip",
+    "seenAt": "2026-05-16T05:16:42.710Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Specialist-Software-Engineering/1385188333/": {
+    "title": "Specialist - Software Engineering",
+    "mode": "skip",
+    "seenAt": "2026-05-16T05:16:42.710Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Specialist-Data-Engineering/1385189633/": {
+    "title": "Specialist - Data Engineering",
+    "mode": "skip",
+    "seenAt": "2026-05-16T05:16:42.710Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Senior-Specialist-System-Management/1385189433/": {
+    "title": "Senior Specialist - System Management",
+    "mode": "skip",
+    "seenAt": "2026-05-16T05:16:42.710Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Mexico-Specialist-Software-Engineering-MEX/1375241633/": {
+    "title": "Specialist - Software Engineering",
+    "mode": "skip",
+    "seenAt": "2026-05-16T05:16:42.710Z",
+    "matched": false
+  },
+  "EY India::https://www.facebook.com/EYCareers": {
+    "title": "Opens in a new tab.",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:16:46.317Z",
+    "matched": false
+  },
+  "SAP Labs India::https://www.linkedin.com/company/sap/careers?trk=tabs_biz_career": {
+    "title": "Opens in a new tab.",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:16:49.811Z",
+    "matched": false
+  },
+  "Apple::https://jobs.apple.com/en-in/details/200663276-1052/engineering-program-manager-customer-engagement-platforms?team=SFTWR": {
+    "title": "Engineering Program Manager - Customer Engagement Platforms",
+    "mode": "skip",
+    "seenAt": "2026-05-16T05:16:56.896Z",
+    "matched": false
+  },
+  "Apple::https://jobs.apple.com/en-in/details/200663509-1052/site-reliability-engineer?team=SFTWR": {
+    "title": "Site Reliability Engineer",
+    "mode": "skip",
+    "seenAt": "2026-05-16T05:16:56.896Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/everett/retrofit-change-board-analyst/185/95151988736": {
+    "title": "Retrofit Change Board Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:17:15.553Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/renton/manufacturing-manager/185/95151986464": {
+    "title": "Manufacturing Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:17:15.553Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/everett/project-management-specialist/185/95151985312": {
+    "title": "Project Management Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:17:15.553Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/mississauga/analog-design-senior-architect-14565/44408/91355548624": {
+    "title": "Analog Design Senior Architect - 14565",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:18:05.707Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/sunnyvale/senior-manager-of-customer-program-management-strategic-engagements/44408/93550761328": {
+    "title": "Senior Manager of Customer Program Management (Strategic Engagements)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:18:05.707Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/markham/analog-design-architect-high-speed-serdes-14576/44408/91355548784": {
+    "title": "Analog Design, Architect – High‑Speed SerDes - 14576",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:18:05.708Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/mississauga/silicon-validation-lead-principal-engineer-14511/44408/91355548544": {
+    "title": "Silicon Validation Lead – Principal Engineer - 14511",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:18:05.708Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-dehradun-at-treebo-hospitality-ventures-4394789246?refId=JC4jZzPj5Mz2nW9STEabgQ%3D%3D&trackingId=dLDtwYzC7DwhQ8sudv98dw%3D%3D": {
+    "title": "Associate Director - Development - Dehradun",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:22:36.185Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/software-engineer-backend-at-treebo-hospitality-ventures-4415010648?refId=JC4jZzPj5Mz2nW9STEabgQ%3D%3D&trackingId=js2bUyty%2F8NiGIKYwpqnFg%3D%3D": {
+    "title": "Software Engineer - Backend",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:22:36.185Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/general-ledger-manager-at-treebo-hospitality-ventures-4414467134?refId=JC4jZzPj5Mz2nW9STEabgQ%3D%3D&trackingId=kB8w79QxcXuwLACQdOE%2FQw%3D%3D": {
+    "title": "General Ledger Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:22:36.185Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=JC4jZzPj5Mz2nW9STEabgQ%3D%3D&trackingId=pJMktIkJWolH%2BOQv6w804w%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:22:36.185Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=JC4jZzPj5Mz2nW9STEabgQ%3D%3D&trackingId=u%2BHo9wR8YrYXR4swrXhUlQ%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:22:36.185Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=JC4jZzPj5Mz2nW9STEabgQ%3D%3D&trackingId=i%2FsPoL3etgW6olqbMm6v2w%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:22:36.185Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-cluster-sales-goa-at-treebo-hospitality-ventures-4389897056?refId=JC4jZzPj5Mz2nW9STEabgQ%3D%3D&trackingId=ISgThDbEXi0MerH5UOgVTQ%3D%3D": {
+    "title": "Manager-Cluster Sales-Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:22:36.185Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-director-lead-at-treebo-hospitality-ventures-4388904353?refId=JC4jZzPj5Mz2nW9STEabgQ%3D%3D&trackingId=8H56z6mq696h5vhxpyzhSQ%3D%3D": {
+    "title": "Senior Director & Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:22:36.185Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-cluster-sales-delhi-at-treebo-hospitality-ventures-4387903587?refId=JC4jZzPj5Mz2nW9STEabgQ%3D%3D&trackingId=DI%2F9flZXcS2c7B9%2BQL5alQ%3D%3D": {
+    "title": "Manager-Cluster Sales-",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:22:36.185Z",
+    "matched": false
+  },
+  "PayU India::https://payu.in/PayU/job/Mumbai-Product-Manager-Lending-Platform/53413880/": {
+    "title": "Product Manager - Lending Platform",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:22:46.863Z",
+    "matched": false
+  },
+  "PayU India::https://payu.in/PayU/job/Bengaluru-Marketing-Intern/53316580/": {
+    "title": "Marketing Intern",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:22:46.863Z",
+    "matched": false
+  },
+  "PayU India::https://payu.in/PayU/job/Gurgaon-Risk-Collection-Analytics-Strategy/3427180/": {
+    "title": "Risk Collection Analytics Strategy",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:22:46.863Z",
+    "matched": false
+  },
+  "PayU India::https://payu.in/PayU/job/Gurgaon-Business-Analyst-Risk/3427380/": {
+    "title": "Business Analyst - Risk",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:22:46.863Z",
+    "matched": false
+  },
+  "PayU India::https://payu.in/PayU/job/Mumbai-P3-P3-Video-Editor-&-Visualizer/53316780/": {
+    "title": "P3 - P3 Video Editor & Visualizer",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:22:46.863Z",
+    "matched": false
+  },
+  "PayU India::https://payu.in/PayU/job/Gurgaon-P5-Senior-Key-Account-Manager-Sales/3425580/": {
+    "title": "P5 Senior Key Account Manager - Sales",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:22:46.863Z",
+    "matched": false
+  },
+  "PayU India::https://payu.in/PayU/job/Gurgaon-AI-Engineer/53413680/": {
+    "title": "AI Engineer",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-16T05:22:46.863Z",
+    "matched": false
   }
 }
