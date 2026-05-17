@@ -62655,5 +62655,137 @@
     "mode": "onsite",
     "seenAt": "2026-05-17T01:53:19.426Z",
     "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Johannesburg-Principal-Architecture-GT/1263997801/": {
+    "title": "Principal - Architecture",
+    "mode": "skip",
+    "seenAt": "2026-05-17T05:38:17.889Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/bn/careers/list/?department=Engineering&uclick_id=a593ea1c-ac77-405a-b587-52a9d8e06003": {
+    "title": "বাংলা",
+    "mode": "skip",
+    "seenAt": "2026-05-17T05:38:30.101Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/en/careers/list/?department=Engineering&uclick_id=a593ea1c-ac77-405a-b587-52a9d8e06003": {
+    "title": "English",
+    "mode": "skip",
+    "seenAt": "2026-05-17T05:38:30.101Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/hi/careers/list/?department=Engineering&uclick_id=a593ea1c-ac77-405a-b587-52a9d8e06003": {
+    "title": "हिन्दी",
+    "mode": "skip",
+    "seenAt": "2026-05-17T05:38:30.101Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/kn/careers/list/?department=Engineering&uclick_id=a593ea1c-ac77-405a-b587-52a9d8e06003": {
+    "title": "ಕನ್ನಡ",
+    "mode": "skip",
+    "seenAt": "2026-05-17T05:38:30.101Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/mr/careers/list/?department=Engineering&uclick_id=a593ea1c-ac77-405a-b587-52a9d8e06003": {
+    "title": "मराठी",
+    "mode": "skip",
+    "seenAt": "2026-05-17T05:38:30.101Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/ta/careers/list/?department=Engineering&uclick_id=a593ea1c-ac77-405a-b587-52a9d8e06003": {
+    "title": "தமிழ்",
+    "mode": "skip",
+    "seenAt": "2026-05-17T05:38:30.101Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/te/careers/list/?department=Engineering&uclick_id=a593ea1c-ac77-405a-b587-52a9d8e06003": {
+    "title": "తెలుగు",
+    "mode": "skip",
+    "seenAt": "2026-05-17T05:38:30.101Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-dehradun-at-treebo-hospitality-ventures-4394789246?refId=stUl%2FVh%2FD7GHTh6UzLivpA%3D%3D&trackingId=Gg3ImDhMyjKaqanBtpwwFg%3D%3D": {
+    "title": "Associate Director - Development - Dehradun",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-17T05:44:25.671Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/software-engineer-backend-at-treebo-hospitality-ventures-4415010648?refId=stUl%2FVh%2FD7GHTh6UzLivpA%3D%3D&trackingId=R4Dkq3QXv0V%2FcAKP9XYMfQ%3D%3D": {
+    "title": "Software Engineer - Backend",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-17T05:44:25.672Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/general-ledger-manager-at-treebo-hospitality-ventures-4414467134?refId=stUl%2FVh%2FD7GHTh6UzLivpA%3D%3D&trackingId=uncWDnIdNolBRojudff9zg%3D%3D": {
+    "title": "General Ledger Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-17T05:44:25.672Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=stUl%2FVh%2FD7GHTh6UzLivpA%3D%3D&trackingId=fUs3UQQ55iDMDBT%2FIZYMfA%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-17T05:44:25.672Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=stUl%2FVh%2FD7GHTh6UzLivpA%3D%3D&trackingId=7VbDmrj0bAypovSOWkiKFQ%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-17T05:44:25.672Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=stUl%2FVh%2FD7GHTh6UzLivpA%3D%3D&trackingId=Y%2FD3Le3bA%2BDRobqAJYDrww%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-17T05:44:25.672Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-cluster-sales-goa-at-treebo-hospitality-ventures-4389897056?refId=stUl%2FVh%2FD7GHTh6UzLivpA%3D%3D&trackingId=j9pmDqDcp8gPKYtGUNgofA%3D%3D": {
+    "title": "Manager-Cluster Sales-Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-17T05:44:25.672Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-director-lead-at-treebo-hospitality-ventures-4388904353?refId=stUl%2FVh%2FD7GHTh6UzLivpA%3D%3D&trackingId=Zqo3R9I8aNwU7uSo4CvYCA%3D%3D": {
+    "title": "Senior Director & Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-17T05:44:25.672Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-cluster-sales-delhi-at-treebo-hospitality-ventures-4387903587?refId=stUl%2FVh%2FD7GHTh6UzLivpA%3D%3D&trackingId=4ODjAjL9u7nwqxJVCKWOog%3D%3D": {
+    "title": "Manager-Cluster Sales-",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-17T05:44:25.672Z",
+    "matched": false
+  },
+  "PayU India::https://payu.in/PayU/job/Bengaluru-Senior-Software-Engineer/3040280/": {
+    "title": "Senior Software Engineer",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-17T05:44:36.250Z",
+    "matched": false
+  },
+  "PayU India::https://payu.in/PayU/job/Mumbai-Senior-DevOps-Engineer/3906980/": {
+    "title": "Senior DevOps Engineer",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-17T05:44:36.250Z",
+    "matched": false
+  },
+  "PayU India::https://payu.in/PayU/job/Mumbai-Senior-Executive-MIS/53320380/": {
+    "title": "Senior Executive- MIS",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-17T05:44:36.250Z",
+    "matched": false
   }
 }
