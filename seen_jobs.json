@@ -64502,5 +64502,381 @@
     "mode": "onsite",
     "seenAt": "2026-05-18T11:04:19.851Z",
     "matched": false
+  },
+  "Paytm::e629e508-5674-45e8-8f04-10936dc0f45b": {
+    "title": "Business Operations - Assistant Manager - Travel",
+    "location": "Gurugram, Haryana",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:22:27.873Z",
+    "matched": false
+  },
+  "Paytm::8964e12b-1e91-4fab-8a70-aa0b55d7a74c": {
+    "title": "Campaign Operations- Deputy Manager- Inference and Agentic AI",
+    "location": "Noida, Uttar Pradesh",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:22:27.873Z",
+    "matched": false
+  },
+  "Apple::https://jobs.apple.com/en-in/details/200663838-0321/genai-software-engineer-manufacturing-systems-infrastructure?team=MLAI": {
+    "title": "GenAI Software Engineer - Manufacturing Systems & Infrastructure",
+    "mode": "skip",
+    "seenAt": "2026-05-18T14:23:56.356Z",
+    "matched": false
+  },
+  "EPAM::https://careers.epam.com/en/vacancy/lead-functional-consultant-sap-plm-blt4v9d5im3jj84gher_en": {
+    "title": "Lead Functional Consultant - SAP PLM",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-18T14:24:11.735Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/wichita/it-manufacturing-and-quality-manager/185/93800166448": {
+    "title": "IT Manufacturing & Quality Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:24:17.164Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/wichita/production-and-industrial-engineering-senior-manager/185/95247092432": {
+    "title": "Production & Industrial Engineering Senior Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:24:17.164Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/senior-product-security-architect/austin-tx/R-103555/": {
+    "title": "Senior Product Security Architect United States - Texas - Austin Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:24:30.594Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/principal-software-development-engineer/austin-tx/R-101767/": {
+    "title": "Principal Software Development Engineer United States - Texas - Austin Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:24:30.594Z",
+    "matched": false
+  },
+  "Expedia Group India::https://careers.expediagroup.com/?blackhole=6884989a5a": {
+    "title": "Expedia Group | Careers",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:24:30.594Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/25048813/analyst-gbs-r-mumbai-india": {
+    "title": "Analyst - GBS - R",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:25:30.255Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/26008575/manager-multiple-locations": {
+    "title": "Manager",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:25:30.255Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/26016893/senior-group-operations-manager-multiple-locations": {
+    "title": "Senior Group Operations Manager",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:25:30.255Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/26003750/senior-manager-multiple-locations": {
+    "title": "Senior Manager",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:25:30.255Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/26017176/senior-operations-manager-hyderabad-india": {
+    "title": "Senior Operations Manager",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:25:30.255Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/26012250/software-engineer-ii-a-gbs-ind-multiple-locations": {
+    "title": "Software Engineer II A - GBS IND",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:25:30.255Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/26003280/sr-operations-manager-multiple-locations": {
+    "title": "Sr Operations Manager",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:25:30.255Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/26017170/treasury-sales-analyst-associate-corporate-sales-global-payments-solutions-new-delhi-india-new-delhi-india": {
+    "title": "Treasury Sales Analyst/Associate (Corporate Sales), Global Payments Solutions – New,",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:25:30.255Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/director-productivity-engineering-san-jose-california-united-states": {
+    "title": "Director, Productivity Engineering",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-18T14:28:27.007Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/product-strategy-operations-lead-ad-performance-boston-massachusetts-united-states": {
+    "title": "Product Strategy & Operations Lead, Ad Performance",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-18T14:28:27.007Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/product-strategy-operations-lead-ad-performance-new-york-united-states": {
+    "title": "Product Strategy & Operations Lead, Ad Performance",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-18T14:28:27.007Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/ad-operations-associate-new-york-united-states-3291e0f5-c3d4-427c-8d85-6610513a150e": {
+    "title": "Ad Operations Associate",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-18T14:28:27.007Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/ad-operations-associate-boston-massachusetts-united-states-53c0ca68-77b8-4194-8f3e-6d243d9d72cd": {
+    "title": "Ad Operations Associate",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-18T14:28:27.007Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/ad-operations-associate-austin-texas-united-states-3f3a6b0f-9dde-4270-a034-e1bbf91827cb": {
+    "title": "Ad Operations Associate",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-18T14:28:27.007Z",
+    "matched": false
+  },
+  "Shopify India::https://www.shopify.com/careers/product-partnerships-lead_d9993b7d-d973-409c-9da3-0c8d48cff776": {
+    "title": "Product Partnerships Lead- Japan",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-18T14:28:27.198Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/22666395/transformation-delivery-lead-architect-noida-in/": {
+    "title": "Transformation Delivery Lead/Architect",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:29:16.565Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23395768/analyst-ii-business-process-transactions-rr-0273752-noida-in/": {
+    "title": "Analyst II Business Process Transactions / RR-0273752",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:29:16.565Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr332427/named-account-executive-enterprise-non-profit/": {
+    "title": "Named Account Executive, Enterprise: Non-Profit",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:00.111Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr335958/named-account-executive/": {
+    "title": "Named Account Executive",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:00.111Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr337241/account-partner/": {
+    "title": "Account Partner",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:00.111Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr337877/industry-lead-financial-services-cco-central-emea/": {
+    "title": "Industry Lead Financial Services - CCO Central EMEA",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:00.111Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr326869/enterprise-account-executive-commerce-cloud/": {
+    "title": "Enterprise Account Executive, Commerce Cloud",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:00.111Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr339362/senior-solution-engineer/": {
+    "title": "Senior Solution Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:00.111Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr326990/named-account-executive-retail-cpg/": {
+    "title": "Named Account Executive, Retail & CPG",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:00.111Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr338691/deal-strategy-and-pricing-manager/": {
+    "title": "Deal Strategy and Pricing Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:00.111Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr342322/account-partner-director/": {
+    "title": "Account Partner Director",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:00.111Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr335959/territory-account-executive/": {
+    "title": "Territory Account Executive",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:00.111Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-ludhiana-at-treebo-hospitality-ventures-4415612897?refId=A%2B5x209jDMIj%2FyZyf%2Bc78A%3D%3D&trackingId=jqHYUQvp9Xf%2F%2Bm1dRBVsLw%3D%3D": {
+    "title": "Associate Director - Development - Ludhiana",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:49.756Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-pan-india-at-treebo-hospitality-ventures-4415494632?refId=A%2B5x209jDMIj%2FyZyf%2Bc78A%3D%3D&trackingId=fm6g2pYJZrcGM2ZejfXY6g%3D%3D": {
+    "title": "Corporate Sales Manager ( PAN)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:49.756Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/brand-marketing-manager-at-treebo-hospitality-ventures-4415446023?refId=A%2B5x209jDMIj%2FyZyf%2Bc78A%3D%3D&trackingId=izTkcRMLUHaA11W3YCdWRQ%3D%3D": {
+    "title": "Brand Marketing Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:49.756Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/general-ledger-manager-at-treebo-hospitality-ventures-4414467134?refId=A%2B5x209jDMIj%2FyZyf%2Bc78A%3D%3D&trackingId=AM6DFBbLK6aehlYDmjQ%2B%2BQ%3D%3D": {
+    "title": "General Ledger Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:49.756Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=A%2B5x209jDMIj%2FyZyf%2Bc78A%3D%3D&trackingId=ZLJSIsKlffGemc5Bs3VYww%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:49.756Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=A%2B5x209jDMIj%2FyZyf%2Bc78A%3D%3D&trackingId=1zB9i04dhRW6wxoHpGmnpg%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:49.756Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=A%2B5x209jDMIj%2FyZyf%2Bc78A%3D%3D&trackingId=LD8pm11a5eWMQPiHE9%2FUag%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:49.756Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-director-lead-at-treebo-hospitality-ventures-4388904353?refId=A%2B5x209jDMIj%2FyZyf%2Bc78A%3D%3D&trackingId=TUicLqO2nl%2F2SFQfmn7dUw%3D%3D": {
+    "title": "Senior Director & Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:49.756Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-cluster-sales-delhi-at-treebo-hospitality-ventures-4387903587?refId=A%2B5x209jDMIj%2FyZyf%2Bc78A%3D%3D&trackingId=Te0uv9gZv7Sg6R7jZAaNqQ%3D%3D": {
+    "title": "Manager-Cluster Sales-",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:49.756Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAAxAAAAMwAAADkAAAA=-4KWiJJIwKds=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:30:55.928Z",
+    "matched": false
+  },
+  "Elastic India::7768040": {
+    "title": "Account Executive Public Sector",
+    "mode": "skip",
+    "seenAt": "2026-05-18T14:32:08.497Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/senior-it-project-manager-26000CM7-en": {
+    "title": "Senior IT Project Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:32:19.076Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/training-analyst-cdd-1-year-26000CM8-en": {
+    "title": "Training Analyst - CDD 1 year",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:32:19.076Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/it-business-analyst-with-french-26000CLW-en": {
+    "title": "IT Business Analyst with French",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:32:19.076Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/it-business-analyst-with-french-26000CLX-en": {
+    "title": "IT Business Analyst with French",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:32:19.076Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/lead-software-engineer-automation-dre-2600061R-en": {
+    "title": "Lead Software Engineer (Automation DRE)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:32:19.076Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/bengaluru/vp-senior-analyst-dfda/49841/95248421056": {
+    "title": "VP-Senior Analyst/DFDA",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:33:17.485Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/singapore/assistant-director-sales-representative-credit-risk/49841/94478111632": {
+    "title": "Assistant Director - Sales Representative (Credit Risk)",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-18T14:33:17.485Z",
+    "matched": false
   }
 }
