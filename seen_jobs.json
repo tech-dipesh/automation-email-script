@@ -67489,5 +67489,100 @@
     "mode": "onsite",
     "seenAt": "2026-05-19T21:17:34.871Z",
     "matched": false
+  },
+  "Cloudflare::7648618": {
+    "title": "Cloudflare One GTM Specialist",
+    "mode": "skip",
+    "seenAt": "2026-05-19T22:56:24.008Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=e1o9EElgGl08QIhzqVor6g%3D%3D&trackingId=ftfz7SLKhtdbOZ%2BJWwO2xA%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-19T23:02:28.292Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-chennai-at-treebo-hospitality-ventures-4415756575?refId=e1o9EElgGl08QIhzqVor6g%3D%3D&trackingId=ypnuymW6JsywezI%2FK9L3mA%3D%3D": {
+    "title": "Manager - National Sales - Chennai",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-19T23:02:28.293Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/design-lead-at-treebo-hospitality-ventures-4415747717?refId=e1o9EElgGl08QIhzqVor6g%3D%3D&trackingId=aIT5ZiQybiOh5yTriLF77A%3D%3D": {
+    "title": "Design Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-19T23:02:28.293Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-ludhiana-at-treebo-hospitality-ventures-4415612897?refId=e1o9EElgGl08QIhzqVor6g%3D%3D&trackingId=XBTvd%2FdCBPCtRrBRROVZDw%3D%3D": {
+    "title": "Associate Director - Development - Ludhiana",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-19T23:02:28.293Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-pan-india-at-treebo-hospitality-ventures-4415494632?refId=e1o9EElgGl08QIhzqVor6g%3D%3D&trackingId=XrkvTodc%2FKK6zM2JWl4sag%3D%3D": {
+    "title": "Corporate Sales Manager ( PAN)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-19T23:02:28.293Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/general-ledger-manager-at-treebo-hospitality-ventures-4414467134?refId=e1o9EElgGl08QIhzqVor6g%3D%3D&trackingId=L7xBVL9iMQNZ2S%2Fzg3t4dg%3D%3D": {
+    "title": "General Ledger Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-19T23:02:28.293Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=e1o9EElgGl08QIhzqVor6g%3D%3D&trackingId=6wG2IPRvMez293ZijGxq0g%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-19T23:02:28.293Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=e1o9EElgGl08QIhzqVor6g%3D%3D&trackingId=dqtekI7s255UsR%2BeUaLOdQ%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-19T23:02:28.293Z",
+    "matched": false
+  },
+  "Elastic India::7939709": {
+    "title": "Solutions Architect -  General Business, East (Presales)",
+    "mode": "skip",
+    "seenAt": "2026-05-19T23:04:20.783Z",
+    "matched": false
+  },
+  "Elastic India::7944199": {
+    "title": "Solutions Architect - General Business, East (Presales)",
+    "mode": "skip",
+    "seenAt": "2026-05-19T23:04:20.783Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/santiago/ratings-and-research-intern/49841/94478110928": {
+    "title": "Ratings and Research Intern",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-19T23:05:29.789Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/heredia/associate-software-engineer/49841/95308174368": {
+    "title": "Associate Software Engineer",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-19T23:05:29.789Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/washington/sr-contracts-manager/49841/94478109920": {
+    "title": "Srs Manager",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-19T23:05:29.789Z",
+    "matched": false
   }
 }
