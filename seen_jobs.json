@@ -69136,5 +69136,128 @@
     "mode": "onsite",
     "seenAt": "2026-05-20T17:56:34.433Z",
     "matched": false
+  },
+  "Cloudflare::6580306": {
+    "title": " Business Development Representative (BDR) ",
+    "mode": "skip",
+    "seenAt": "2026-05-20T19:59:22.462Z",
+    "matched": false
+  },
+  "GitLab::8555117002": {
+    "title": "Senior Indirect Tax Compliance Analyst",
+    "location": "Remote, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T19:59:22.705Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/sales-planner-chicago-illinois-united-states": {
+    "title": "Sales Planner",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-20T20:03:09.461Z",
+    "matched": false
+  },
+  "Upwork::7741903003": {
+    "title": "Lead AI Engineer, NLQ & Agentic Systems",
+    "mode": "skip",
+    "seenAt": "2026-05-20T20:03:20.142Z",
+    "matched": false
+  },
+  "Upwork::7741845003": {
+    "title": "Lead AI Engineer, NLQ & Agentic Systems",
+    "mode": "skip",
+    "seenAt": "2026-05-20T20:03:20.142Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/pricing-analyst-at-treebo-hospitality-ventures-4416158813?refId=N7d2f1OnNaPuKSgVbwgWTQ%3D%3D&trackingId=4CRe6SukvJWqLBRyB81C7Q%3D%3D": {
+    "title": "Pricing Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T20:05:09.134Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-at-treebo-hospitality-ventures-4416143349?refId=N7d2f1OnNaPuKSgVbwgWTQ%3D%3D&trackingId=ExicfT3Cxgz4LTyU2D9c6Q%3D%3D": {
+    "title": "Corporate Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T20:05:09.134Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=N7d2f1OnNaPuKSgVbwgWTQ%3D%3D&trackingId=tGMX%2FQCbsTMaPcCqxl0ehQ%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T20:05:09.134Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-chennai-at-treebo-hospitality-ventures-4415756575?refId=N7d2f1OnNaPuKSgVbwgWTQ%3D%3D&trackingId=i58vTpMxmNmBJJxccFNu5w%3D%3D": {
+    "title": "Manager - National Sales - Chennai",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T20:05:09.134Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-ludhiana-at-treebo-hospitality-ventures-4415612897?refId=N7d2f1OnNaPuKSgVbwgWTQ%3D%3D&trackingId=Me%2BTfRbz1C4KfX5rDbYb8A%3D%3D": {
+    "title": "Associate Director - Development - Ludhiana",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T20:05:09.134Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-pan-india-at-treebo-hospitality-ventures-4415494632?refId=N7d2f1OnNaPuKSgVbwgWTQ%3D%3D&trackingId=YaGb%2FNw59i2wRa1bITQoxg%3D%3D": {
+    "title": "Corporate Sales Manager ( PAN)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T20:05:09.134Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=N7d2f1OnNaPuKSgVbwgWTQ%3D%3D&trackingId=5XLlzQxNHEMiBT6ex7NqpA%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T20:05:09.134Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=N7d2f1OnNaPuKSgVbwgWTQ%3D%3D&trackingId=BxV9p5WkoaEg9caakUuwWA%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T20:05:09.134Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=N7d2f1OnNaPuKSgVbwgWTQ%3D%3D&trackingId=DTGNJ9%2BytcFggWpl9s1ZCA%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T20:05:09.134Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAAzAAAANAAAADAAAAA=-Mp5gItOkyvw=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T20:05:20.007Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAAzAAAAMwAAADgAAAA=-LAGTl8/O/ts=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T20:05:20.007Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAAzAAAAMwAAADYAAAA=-TkxE0bT9M7Q=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T20:05:20.008Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAAzAAAAMwAAADMAAAA=-MXonZ0u2DKE=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T20:05:20.008Z",
+    "matched": false
   }
 }
