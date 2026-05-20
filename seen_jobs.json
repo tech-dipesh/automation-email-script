@@ -68466,5 +68466,199 @@
     "mode": "onsite",
     "seenAt": "2026-05-20T08:59:05.823Z",
     "matched": false
+  },
+  "Arcesium::https://job-boards.greenhouse.io/arcesiumllc/jobs/5035942007": {
+    "title": "Product Lead - PerformAProduct",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:40:08.191Z",
+    "matched": false
+  },
+  "Apple::https://jobs.apple.com/en-in/details/200659302-1052/site-reliability-engineer?team=SFTWR": {
+    "title": "Site Reliability Engineer",
+    "mode": "skip",
+    "seenAt": "2026-05-20T11:41:20.381Z",
+    "matched": false
+  },
+  "Apple::https://jobs.apple.com/en-in/details/200664425-0321/ml-infrastructure-service-reliability-engineer-apple-services-engineering?team=MLAI": {
+    "title": "ML Infrastructure Service Reliability Engineer- Apple Services Engineering",
+    "mode": "skip",
+    "seenAt": "2026-05-20T11:41:20.381Z",
+    "matched": false
+  },
+  "Xapo Bank::7734506003": {
+    "title": "Solution Architect (Remote - Work from Anywhere)",
+    "location": "Gibraltar - Remote",
+    "mode": "remote",
+    "seenAt": "2026-05-20T11:41:28.438Z",
+    "matched": false
+  },
+  "Xapo Bank::7737280003": {
+    "title": "VP of Customer Success (Remote - Work from Anywhere)",
+    "location": "Gibraltar - Remote",
+    "mode": "remote",
+    "seenAt": "2026-05-20T11:41:28.438Z",
+    "matched": false
+  },
+  "EPAM::https://careers.epam.com/en/vacancy/senior-software-engineer-java8-spring-rest-api-microservices-blt5189e95a26db7030_en": {
+    "title": "Senior Software Engineer - Java8, Spring, Rest API, Microservices",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-20T11:41:29.344Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/belfast/hla-trainee-sla/185/95323778640": {
+    "title": "HLA - Trainee SLA",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:41:33.583Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/henstedt/shipping-and-receiving-specialist-w-m-d/185/94027209936": {
+    "title": "Shipping & Receiving Specialist (w/m/d)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:41:33.583Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/norderstedt/human-resources-generalist-w-m-d/185/91833807680": {
+    "title": "Human Resources Generalist (w/m/d)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:41:33.583Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/taipei/sales-account-representative/44408/95324696192": {
+    "title": "Sales Account Representative",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:42:29.579Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/bengaluru/applications-engineering-staff-engineer/44408/94275399664": {
+    "title": "Applications Engineering, Staff Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:42:29.579Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/taipei/sales-account-representative/44408/95324696144": {
+    "title": "Sales Account Representative",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:42:29.579Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/bengaluru/r-and-d-engineering-manager/44408/95324696128": {
+    "title": "R&D Engineering, Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:42:29.579Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/26017362/software-engineer-ii-a-gbs-ind-chennai-india": {
+    "title": "Software Engineer II A - GBS IND",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:42:38.057Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23405066/business-systems-analyst-healthcare-provider-bangalore-in/": {
+    "title": "Business Systems Analyst - Healthcare Provider",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:45:57.253Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-at-treebo-hospitality-ventures-4416143349?refId=nkTuJ%2FPo2tq5olqBDlCNXg%3D%3D&trackingId=aKjX6VuObcYe4FBFPdkkZw%3D%3D": {
+    "title": "Corporate Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:46:52.724Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=nkTuJ%2FPo2tq5olqBDlCNXg%3D%3D&trackingId=MGwO0bsLG1VHU%2FVMUao86Q%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:46:52.724Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-chennai-at-treebo-hospitality-ventures-4415756575?refId=nkTuJ%2FPo2tq5olqBDlCNXg%3D%3D&trackingId=ubuiquErbpO1i2t1R3ykVA%3D%3D": {
+    "title": "Manager - National Sales - Chennai",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:46:52.724Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-ludhiana-at-treebo-hospitality-ventures-4415612897?refId=nkTuJ%2FPo2tq5olqBDlCNXg%3D%3D&trackingId=T%2BNQPnfS8kfiOuEcasNqQw%3D%3D": {
+    "title": "Associate Director - Development - Ludhiana",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:46:52.724Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-pan-india-at-treebo-hospitality-ventures-4415494632?refId=nkTuJ%2FPo2tq5olqBDlCNXg%3D%3D&trackingId=zHjnRP%2FEd%2FJZ8W1LomFznA%3D%3D": {
+    "title": "Corporate Sales Manager ( PAN)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:46:52.724Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/general-ledger-manager-at-treebo-hospitality-ventures-4414467134?refId=nkTuJ%2FPo2tq5olqBDlCNXg%3D%3D&trackingId=J2D7OJj13qkqguz3KRAjfg%3D%3D": {
+    "title": "General Ledger Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:46:52.724Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=nkTuJ%2FPo2tq5olqBDlCNXg%3D%3D&trackingId=8pH4f4E4WlAEoDe8oLu9Qg%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:46:52.724Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=nkTuJ%2FPo2tq5olqBDlCNXg%3D%3D&trackingId=RUiE%2BdIvCx25y3GQTlQlvQ%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:46:52.724Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=nkTuJ%2FPo2tq5olqBDlCNXg%3D%3D&trackingId=QPLHfSZu9vOJRU1Jhri1Lg%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:46:52.724Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAAzAAAAMAAAADAAAAA=-tYqNyr6lJck=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:46:57.737Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAAyAAAAOQAAADYAAAA=-5+KdvxnAZ/0=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:46:57.737Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAAyAAAAOQAAADIAAAA=-WuEtRLWE0eA=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:46:57.737Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/singapore/svp-private-credit-business-development/49841/95324255152": {
+    "title": "SVP- Private Credit Business Development",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T11:49:14.300Z",
+    "matched": false
   }
 }
