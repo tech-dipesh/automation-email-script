@@ -69396,5 +69396,123 @@
     "mode": "onsite",
     "seenAt": "2026-05-20T21:54:00.651Z",
     "matched": false
+  },
+  "Uber::https://www.uber.com/in/bn/careers/list/?_gl=1%2A1matpz1%2A_ga%2AOTIwMDIxNDUuMTc3NTkzNjkxMg..%2A_ga_EYK44YLJMQ%2AczE3NzkzMTA5MDEkbzMkZzEkdDE3NzkzMTA5MTAkajUxJGwwJGgw&department=Engineering": {
+    "title": "বাংলা",
+    "mode": "skip",
+    "seenAt": "2026-05-20T23:03:14.260Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/en/careers/list/?_gl=1%2A1matpz1%2A_ga%2AOTIwMDIxNDUuMTc3NTkzNjkxMg..%2A_ga_EYK44YLJMQ%2AczE3NzkzMTA5MDEkbzMkZzEkdDE3NzkzMTA5MTAkajUxJGwwJGgw&department=Engineering": {
+    "title": "English",
+    "mode": "skip",
+    "seenAt": "2026-05-20T23:03:14.260Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/hi/careers/list/?_gl=1%2A1matpz1%2A_ga%2AOTIwMDIxNDUuMTc3NTkzNjkxMg..%2A_ga_EYK44YLJMQ%2AczE3NzkzMTA5MDEkbzMkZzEkdDE3NzkzMTA5MTAkajUxJGwwJGgw&department=Engineering": {
+    "title": "हिन्दी",
+    "mode": "skip",
+    "seenAt": "2026-05-20T23:03:14.260Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/kn/careers/list/?_gl=1%2A1matpz1%2A_ga%2AOTIwMDIxNDUuMTc3NTkzNjkxMg..%2A_ga_EYK44YLJMQ%2AczE3NzkzMTA5MDEkbzMkZzEkdDE3NzkzMTA5MTAkajUxJGwwJGgw&department=Engineering": {
+    "title": "ಕನ್ನಡ",
+    "mode": "skip",
+    "seenAt": "2026-05-20T23:03:14.260Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/mr/careers/list/?_gl=1%2A1matpz1%2A_ga%2AOTIwMDIxNDUuMTc3NTkzNjkxMg..%2A_ga_EYK44YLJMQ%2AczE3NzkzMTA5MDEkbzMkZzEkdDE3NzkzMTA5MTAkajUxJGwwJGgw&department=Engineering": {
+    "title": "मराठी",
+    "mode": "skip",
+    "seenAt": "2026-05-20T23:03:14.260Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/ta/careers/list/?_gl=1%2A1matpz1%2A_ga%2AOTIwMDIxNDUuMTc3NTkzNjkxMg..%2A_ga_EYK44YLJMQ%2AczE3NzkzMTA5MDEkbzMkZzEkdDE3NzkzMTA5MTAkajUxJGwwJGgw&department=Engineering": {
+    "title": "தமிழ்",
+    "mode": "skip",
+    "seenAt": "2026-05-20T23:03:14.260Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/te/careers/list/?_gl=1%2A1matpz1%2A_ga%2AOTIwMDIxNDUuMTc3NTkzNjkxMg..%2A_ga_EYK44YLJMQ%2AczE3NzkzMTA5MDEkbzMkZzEkdDE3NzkzMTA5MTAkajUxJGwwJGgw&department=Engineering": {
+    "title": "తెలుగు",
+    "mode": "skip",
+    "seenAt": "2026-05-20T23:03:14.260Z",
+    "matched": false
+  },
+  "Apple::https://jobs.apple.com/en-in/details/200663801-1052/devops-engineer?team=SFTWR": {
+    "title": "DevOps Engineer",
+    "mode": "skip",
+    "seenAt": "2026-05-20T23:03:16.382Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/pricing-analyst-at-treebo-hospitality-ventures-4416158813?refId=sCrea5OcVXMPcePFQ6I7EQ%3D%3D&trackingId=CcD1ZMnv%2B1PKRdjbdc920Q%3D%3D": {
+    "title": "Pricing Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T23:09:35.171Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-at-treebo-hospitality-ventures-4416143349?refId=sCrea5OcVXMPcePFQ6I7EQ%3D%3D&trackingId=yY1WM4TE9Nu1ml6dQ5sc3Q%3D%3D": {
+    "title": "Corporate Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T23:09:35.172Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=sCrea5OcVXMPcePFQ6I7EQ%3D%3D&trackingId=76%2Bo%2FvZO9E1LjbtF34zEGQ%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T23:09:35.172Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-chennai-at-treebo-hospitality-ventures-4415756575?refId=sCrea5OcVXMPcePFQ6I7EQ%3D%3D&trackingId=tugG2bt7Jm6i%2F12zn7Smng%3D%3D": {
+    "title": "Manager - National Sales - Chennai",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T23:09:35.172Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-ludhiana-at-treebo-hospitality-ventures-4415612897?refId=sCrea5OcVXMPcePFQ6I7EQ%3D%3D&trackingId=640cYIVt2b%2FigJOYkEfAOw%3D%3D": {
+    "title": "Associate Director - Development - Ludhiana",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T23:09:35.172Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-pan-india-at-treebo-hospitality-ventures-4415494632?refId=sCrea5OcVXMPcePFQ6I7EQ%3D%3D&trackingId=hXfAg4i8EHoEgzY9JpKk7w%3D%3D": {
+    "title": "Corporate Sales Manager ( PAN)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T23:09:35.172Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=sCrea5OcVXMPcePFQ6I7EQ%3D%3D&trackingId=C3JV%2FDoqxcB%2FO276m3cSJA%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T23:09:35.172Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=sCrea5OcVXMPcePFQ6I7EQ%3D%3D&trackingId=kDXEfXofDUZFFz0kdP2mZQ%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T23:09:35.172Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=sCrea5OcVXMPcePFQ6I7EQ%3D%3D&trackingId=QLZps%2BBRfqPrcczdUwi1%2Fw%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T23:09:35.172Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAAzAAAANAAAADIAAAA=-mu5hCGMr/yg=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-20T23:09:41.222Z",
+    "matched": false
   }
 }
