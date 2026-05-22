@@ -72061,5 +72061,272 @@
     "mode": "onsite",
     "seenAt": "2026-05-22T06:06:13.856Z",
     "matched": false
+  },
+  "Paytm::20b33299-5d64-4739-9a6b-d8a745863a39": {
+    "title": "Collection Manager - TL - Lending Collections (EM Recovery)",
+    "mode": "skip",
+    "seenAt": "2026-05-22T08:44:28.166Z",
+    "matched": false
+  },
+  "Paytm::4e8d6637-e14c-4e97-ac36-baa3bc65606e": {
+    "title": "Collection Manager - TL - Lending Collections (EM Recovery)",
+    "mode": "skip",
+    "seenAt": "2026-05-22T08:44:28.166Z",
+    "matched": false
+  },
+  "Paytm::7048ada1-5cd5-42aa-b6c2-e0a5550e7c82": {
+    "title": "Collection Manager - TL - Lending Collections (EM Recovery)",
+    "mode": "skip",
+    "seenAt": "2026-05-22T08:44:28.166Z",
+    "matched": false
+  },
+  "Paytm::74c1f04f-1ecd-44aa-be32-6e627a0c7446": {
+    "title": "Collection Manager - TL - Lending Collections (EM Recovery)",
+    "mode": "skip",
+    "seenAt": "2026-05-22T08:44:28.166Z",
+    "matched": false
+  },
+  "Paytm::b4e17484-7e6c-4808-885c-668947a7aa38": {
+    "title": "Collection Manager - TL - Lending Collections (EM Recovery)",
+    "mode": "skip",
+    "seenAt": "2026-05-22T08:44:28.166Z",
+    "matched": false
+  },
+  "Paytm::c1559188-0460-4397-bd63-be27c7d1afb6": {
+    "title": "Collection Manager - TL - Lending Collections (EM Recovery)",
+    "mode": "skip",
+    "seenAt": "2026-05-22T08:44:28.166Z",
+    "matched": false
+  },
+  "Paytm::ae9e8931-3614-4239-8c18-82ca6770c885": {
+    "title": "Lead DevOps Engineer",
+    "location": "Noida, Uttar Pradesh",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:44:28.167Z",
+    "matched": false
+  },
+  "Paytm::1575e8b9-ce53-4929-a714-9503a2c13667": {
+    "title": "Senior DevOps Engineer",
+    "location": "Noida, Uttar Pradesh",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:44:28.167Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/GCP-Manager/350875": {
+    "title": "GCP Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:45:35.257Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Databricks-Manager/350870": {
+    "title": "Databricks Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:45:35.257Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Databricks-Engineer/350865": {
+    "title": "Databricks Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:45:35.257Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/GCP-Engineer/350862": {
+    "title": "GCP Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:45:35.257Z",
+    "matched": false
+  },
+  "Airbus India::https://www.airbus.com/en/careers/life-at-airbus/airbus-faces/meet-henrik": {
+    "title": "Meet Henrik Meet Henrik, A320 Equipment Installation First Line Manager at Airbus in Hamburg, Germany",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:46:03.149Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/oakey/ground-crewman-aircraft-support-gcas-instructor/185/95406755744": {
+    "title": "Ground Crewman Aircraft Support (GCAS) Instructor",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:46:06.553Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/oakey/ground-crewman-aircraft-support-gcas-instructor/185/95406755728": {
+    "title": "Ground Crewman Aircraft Support (GCAS) Instructor",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:46:06.553Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/oakey/ground-crewman-aircraft-support-gcas-instructor/185/95406755712": {
+    "title": "Ground Crewman Aircraft Support (GCAS) Instructor",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:46:06.553Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/senior-technical-program-manager/seattle-wa/R-102029/": {
+    "title": "Senior Technical Program Manager United States - Washington - Seattle Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:46:17.042Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/mobile-engineer-ii-ios/seattle-wa/R-99623/": {
+    "title": "Mobile Engineer II - iOS United States - Washington - Seattle Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:46:17.042Z",
+    "matched": false
+  },
+  "Bloomberg India::https://bloomberg.avature.net/careers/JobDetail/Software-Engineering-Team-Leader-Sell-Side-Market-Reference-Data-Integration-Pune/19839": {
+    "title": "Software Engineering Team Leader - Sell-Side Market & Reference Data Integration, Pune",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:48:25.584Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23414082/sr-analyst-i-software-engineering-hyderabad-in/": {
+    "title": "Sr Analyst I Software Engineering",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:50:38.489Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23414121/case-manager-melbourne-au/": {
+    "title": "Case Manager",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:50:38.489Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23414028/business-analyst-shanghai-cn/": {
+    "title": "Business Analyst",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:50:38.489Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr341100/senior-security-engineer/": {
+    "title": "Senior Security Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:51:20.513Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr331754/senior-lead-employer-branding-demand-generation/": {
+    "title": "Senior Lead - Employer Branding & Demand Generation",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:51:20.513Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr343574/services-sales-solutions-senior-manager-director-public-sector/": {
+    "title": "Services Sales Solutions Senior Manager/ Director - Public Sector",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:51:20.513Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/pricing-analyst-at-treebo-hospitality-ventures-4416158813?refId=FG0SXtf9kSS7H2FHlyPnjA%3D%3D&trackingId=pw4J4m%2FbJTK%2Bbt5MIebCrg%3D%3D": {
+    "title": "Pricing Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:51:35.919Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-at-treebo-hospitality-ventures-4416143349?refId=FG0SXtf9kSS7H2FHlyPnjA%3D%3D&trackingId=8fvHJ546DfDcbQAlm2P5wg%3D%3D": {
+    "title": "Corporate Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:51:35.919Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=FG0SXtf9kSS7H2FHlyPnjA%3D%3D&trackingId=cKKtaL1bS8IoLPa3VxCTNA%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:51:35.919Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-chennai-at-treebo-hospitality-ventures-4415756575?refId=FG0SXtf9kSS7H2FHlyPnjA%3D%3D&trackingId=wnuabW376z7iPwBsZKGDhg%3D%3D": {
+    "title": "Manager - National Sales - Chennai",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:51:35.919Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-ludhiana-at-treebo-hospitality-ventures-4415612897?refId=FG0SXtf9kSS7H2FHlyPnjA%3D%3D&trackingId=eUuh6QJZVsr5Q%2F5oGENIEg%3D%3D": {
+    "title": "Associate Director - Development - Ludhiana",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:51:35.919Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-pan-india-at-treebo-hospitality-ventures-4415494632?refId=FG0SXtf9kSS7H2FHlyPnjA%3D%3D&trackingId=1Ee%2FlR8LGwHk4FoOlzn%2F2g%3D%3D": {
+    "title": "Corporate Sales Manager ( PAN)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:51:35.919Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=FG0SXtf9kSS7H2FHlyPnjA%3D%3D&trackingId=KFRPH%2FOtwNlo0vrwwtAxQg%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:51:35.919Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=FG0SXtf9kSS7H2FHlyPnjA%3D%3D&trackingId=Qq7jM2XxzAatB1IC7DIEWA%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:51:35.919Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=FG0SXtf9kSS7H2FHlyPnjA%3D%3D&trackingId=eb%2FFrpLOjQfZLOUc6R1x%2FA%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:51:35.919Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAA0AAAAOQAAADgAAAA=-SdIe/vDfCjc=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:51:40.817Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/buyer-26000CSN-en": {
+    "title": "Buyer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:52:58.117Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/cyber-security-senior-analyst-26000B2Q-en": {
+    "title": "Cyber Security Senior Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:52:58.117Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/technical-lead-net-core-260004MD-en": {
+    "title": "Technical Lead (.Net Core)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:52:58.117Z",
+    "matched": false
+  },
+  "GlobalLogic India::https://www.globallogic.com/in/careers/lead-android-developer-kotlin-jetpack-compose-irc295758/": {
+    "title": "United States Lead Android Developer – Kotlin & Jetpack Compose IRC295758",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T08:53:58.406Z",
+    "matched": false
   }
 }
