@@ -71561,5 +71561,213 @@
     "mode": "onsite",
     "seenAt": "2026-05-21T23:52:48.182Z",
     "matched": false
+  },
+  "Uber::https://www.uber.com/in/bn/careers/list/?_gl=1%2Aikoiq7%2A_ga%2ANjI5NjAwNDUuMTc3OTQwMzg0OQ..%2A_ga_EYK44YLJMQ%2AczE3Nzk0MDM4NDkkbzEkZzEkdDE3Nzk0MDM4NzEkajM4JGwwJGgw&department=Engineering": {
+    "title": "বাংলা",
+    "mode": "skip",
+    "seenAt": "2026-05-22T01:56:25.231Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/en/careers/list/?_gl=1%2Aikoiq7%2A_ga%2ANjI5NjAwNDUuMTc3OTQwMzg0OQ..%2A_ga_EYK44YLJMQ%2AczE3Nzk0MDM4NDkkbzEkZzEkdDE3Nzk0MDM4NzEkajM4JGwwJGgw&department=Engineering": {
+    "title": "English",
+    "mode": "skip",
+    "seenAt": "2026-05-22T01:56:25.231Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/hi/careers/list/?_gl=1%2Aikoiq7%2A_ga%2ANjI5NjAwNDUuMTc3OTQwMzg0OQ..%2A_ga_EYK44YLJMQ%2AczE3Nzk0MDM4NDkkbzEkZzEkdDE3Nzk0MDM4NzEkajM4JGwwJGgw&department=Engineering": {
+    "title": "हिन्दी",
+    "mode": "skip",
+    "seenAt": "2026-05-22T01:56:25.231Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/kn/careers/list/?_gl=1%2Aikoiq7%2A_ga%2ANjI5NjAwNDUuMTc3OTQwMzg0OQ..%2A_ga_EYK44YLJMQ%2AczE3Nzk0MDM4NDkkbzEkZzEkdDE3Nzk0MDM4NzEkajM4JGwwJGgw&department=Engineering": {
+    "title": "ಕನ್ನಡ",
+    "mode": "skip",
+    "seenAt": "2026-05-22T01:56:25.231Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/mr/careers/list/?_gl=1%2Aikoiq7%2A_ga%2ANjI5NjAwNDUuMTc3OTQwMzg0OQ..%2A_ga_EYK44YLJMQ%2AczE3Nzk0MDM4NDkkbzEkZzEkdDE3Nzk0MDM4NzEkajM4JGwwJGgw&department=Engineering": {
+    "title": "मराठी",
+    "mode": "skip",
+    "seenAt": "2026-05-22T01:56:25.231Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/ta/careers/list/?_gl=1%2Aikoiq7%2A_ga%2ANjI5NjAwNDUuMTc3OTQwMzg0OQ..%2A_ga_EYK44YLJMQ%2AczE3Nzk0MDM4NDkkbzEkZzEkdDE3Nzk0MDM4NzEkajM4JGwwJGgw&department=Engineering": {
+    "title": "தமிழ்",
+    "mode": "skip",
+    "seenAt": "2026-05-22T01:56:25.231Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/te/careers/list/?_gl=1%2Aikoiq7%2A_ga%2ANjI5NjAwNDUuMTc3OTQwMzg0OQ..%2A_ga_EYK44YLJMQ%2AczE3Nzk0MDM4NDkkbzEkZzEkdDE3Nzk0MDM4NzEkajM4JGwwJGgw&department=Engineering": {
+    "title": "తెలుగు",
+    "mode": "skip",
+    "seenAt": "2026-05-22T01:56:25.231Z",
+    "matched": false
+  },
+  "GitLab::8512758002": {
+    "title": "Customer Success Manager",
+    "location": "Remote, North America",
+    "mode": "remote",
+    "seenAt": "2026-05-22T01:56:36.905Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/bingen/us-domestic-regional-growth-director-remote/185/95397031808": {
+    "title": "US Domestic Regional Growth Director -",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T01:56:45.535Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/washington-d-c/international-business-development-specialist-middle-east-and-north-africa-remote/185/95397031792": {
+    "title": "International Business Development Specialist – Middle East and North Africa -",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T01:56:45.535Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/washington-d-c/business-development-specialist-domestic-us-army-remote/185/95397031776": {
+    "title": "Business Development Specialist – Domestic / US Army –",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T01:56:45.535Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/software-development-engineer-iii-ai/austin-tx/R-101666/": {
+    "title": "Software Development Engineer III - AI United States - Texas - Austin Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T01:56:57.421Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/software-development-engineer-iii-ai/austin-tx/R-102407/": {
+    "title": "Software Development Engineer III - AI United States - Texas - Austin Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T01:56:57.421Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/hotel-partner-solutions-specialist/austin-tx/R-105524/": {
+    "title": "Hotel Partner Solutions Specialist United States - Texas - Austin Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T01:56:57.421Z",
+    "matched": false
+  },
+  "Expedia Group India::https://careers.expediagroup.com/?blackhole=28062d02fb": {
+    "title": "Expedia Group | Careers",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T01:56:57.421Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-payments-strategy-manager-san-jose-california-united-states": {
+    "title": "Senior Payments Strategy Manager",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-05-22T02:00:44.628Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr342840/account-executive-smb-emerging-markets-arabic-speaking/": {
+    "title": "Account Executive - SMB Emerging Markets (Arabic Speaking)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T02:02:13.198Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr342807/account-executive-smb-iberia-portuguese-spanish-or-catalan-speaking/": {
+    "title": "Account Executive - SMB Iberia (Portuguese, Spanish or Catalan Speaking)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T02:02:13.199Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/pricing-analyst-at-treebo-hospitality-ventures-4416158813?refId=ND%2F1ThVc%2Fa20CUIF6s57qg%3D%3D&trackingId=CeoRPGFbutQp3%2BulqbOuIA%3D%3D": {
+    "title": "Pricing Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T02:02:26.737Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-at-treebo-hospitality-ventures-4416143349?refId=ND%2F1ThVc%2Fa20CUIF6s57qg%3D%3D&trackingId=VI7gC8aX5FWONxEXStDu8Q%3D%3D": {
+    "title": "Corporate Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T02:02:26.737Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=ND%2F1ThVc%2Fa20CUIF6s57qg%3D%3D&trackingId=vwxjsr9gM54twRGbDX2IOQ%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T02:02:26.737Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-chennai-at-treebo-hospitality-ventures-4415756575?refId=ND%2F1ThVc%2Fa20CUIF6s57qg%3D%3D&trackingId=QsWKUbHKKeXHsn26ZGu8nQ%3D%3D": {
+    "title": "Manager - National Sales - Chennai",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T02:02:26.737Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-ludhiana-at-treebo-hospitality-ventures-4415612897?refId=ND%2F1ThVc%2Fa20CUIF6s57qg%3D%3D&trackingId=ryFEdRG77fSqsQ4KOgFOCw%3D%3D": {
+    "title": "Associate Director - Development - Ludhiana",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T02:02:26.737Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-pan-india-at-treebo-hospitality-ventures-4415494632?refId=ND%2F1ThVc%2Fa20CUIF6s57qg%3D%3D&trackingId=o8RdNnp4pFSvx6IArLlOvQ%3D%3D": {
+    "title": "Corporate Sales Manager ( PAN)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T02:02:26.737Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=ND%2F1ThVc%2Fa20CUIF6s57qg%3D%3D&trackingId=wmk2knV4c%2FdGK7eKRkK%2FbQ%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T02:02:26.737Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=ND%2F1ThVc%2Fa20CUIF6s57qg%3D%3D&trackingId=m9DslCh90U0hvt8rcEPi%2Fw%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T02:02:26.737Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=ND%2F1ThVc%2Fa20CUIF6s57qg%3D%3D&trackingId=XBv2oPC4seTajWJGj9tFeQ%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T02:02:26.737Z",
+    "matched": false
+  },
+  "Elastic India::7952164": {
+    "title": "Senior Competitive Benchmarking Developer - Product Marketing",
+    "mode": "skip",
+    "seenAt": "2026-05-22T02:04:06.545Z",
+    "matched": false
+  },
+  "Elastic India::7843350": {
+    "title": "Senior Competitive Benchmarking Engineer - Product Marketing",
+    "mode": "skip",
+    "seenAt": "2026-05-22T02:04:06.545Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/chicago/assc-dir-solutions-specialist/49841/95399202656": {
+    "title": "Assc Dir-Solutions Specialist",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T02:05:14.879Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/washington/director-government-strategy-and-engagement-federal-civilian/49841/94478109248": {
+    "title": "Director, Government Strategy & Engagement (Federal Civilian)",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T02:05:14.879Z",
+    "matched": false
   }
 }
