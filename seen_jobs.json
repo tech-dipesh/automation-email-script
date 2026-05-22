@@ -72328,5 +72328,206 @@
     "mode": "onsite",
     "seenAt": "2026-05-22T08:53:58.406Z",
     "matched": false
+  },
+  "Paytm::8d9bb9c3-cd95-4c97-b4b3-f68f2da10946": {
+    "title": "Team Leader-LRM- Chennai",
+    "location": "Chennai, Tamil Nadu",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:35:56.410Z",
+    "matched": false
+  },
+  "Paytm::65e26e22-2e2e-4093-8616-aa939b590e0e": {
+    "title": "VOC - Research Executive",
+    "location": "Mumbai, Maharashtra",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:35:56.410Z",
+    "matched": false
+  },
+  "Paytm::36a28b5e-2535-4714-9431-ae90d66fe171": {
+    "title": "VOC Research Manager - PML",
+    "location": "Mumbai, Maharashtra",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:35:56.410Z",
+    "matched": false
+  },
+  "Apple::https://jobs.apple.com/en-in/details/200664891-0321/service-reliability-engineer-apple-media-platform?team=SFTWR": {
+    "title": "Service Reliability Engineer- Apple Media Platform",
+    "mode": "skip",
+    "seenAt": "2026-05-22T11:37:15.703Z",
+    "matched": false
+  },
+  "Apple::https://jobs.apple.com/en-in/details/200664879-0321/software-engineer-apple-service-engineering-storage-infrastructure-and-reliability?team=SFTWR": {
+    "title": "Software Engineer- Apple Service Engineering, Storage Infrastructure and Reliability",
+    "mode": "skip",
+    "seenAt": "2026-05-22T11:37:15.703Z",
+    "matched": false
+  },
+  "GitLab::8558222002": {
+    "title": "CX Resource & Staffing Manager, EMEA",
+    "location": "Remote, United Kingdom",
+    "mode": "remote",
+    "seenAt": "2026-05-22T11:37:23.534Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/belfast/manager-operational-quality/185/95408089472": {
+    "title": "Manager Operational Quality",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:37:31.248Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/toulouse/customer-support-specialist/185/95407838320": {
+    "title": "Customer Support Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:37:31.248Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/software-development-engineer-iii-advertising-technology/chicago-il/R-100031/": {
+    "title": "Software Development Engineer III, Advertising Technology United States - Illinois - Chicago Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:37:41.887Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/mississauga/project-engineering-management-sr-staff-engineer-17441/44408/95409027760": {
+    "title": "Project Engineering Management, Sr Staff Engineer-17441",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:38:24.550Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/tokyo/r-and-d-engineering-sr-staff-engineer/44408/95409027728": {
+    "title": "R&D Engineering, Sr Staff Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:38:24.550Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/tokyo/sales-account-representative-sr-associate/44408/94561854064": {
+    "title": "Sales Account Representative, Sr Associate",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:38:24.550Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/26017571/software-engineer-iii-gbs-ind-multiple-locations": {
+    "title": "Software Engineer III - GBS IND",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:38:34.099Z",
+    "matched": false
+  },
+  "Flexport India::7953608": {
+    "title": "Assistant Manager, Ocean Operations (Chennai)",
+    "location": "Chennai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:40:57.641Z",
+    "matched": false
+  },
+  "Flexport India::7953585": {
+    "title": "Assistant Manager, Ocean Operations (Gurugram)",
+    "location": "New Delhi, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:40:57.641Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/pricing-analyst-at-treebo-hospitality-ventures-4416158813?refId=B%2BSNmqhifIoYu0iOXoxV9Q%3D%3D&trackingId=klfW47pf%2FBUZxEi8dYb9Cw%3D%3D": {
+    "title": "Pricing Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:43:13.154Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-at-treebo-hospitality-ventures-4416143349?refId=B%2BSNmqhifIoYu0iOXoxV9Q%3D%3D&trackingId=6MqaX4sHFUFtXyeuF8IHgw%3D%3D": {
+    "title": "Corporate Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:43:13.155Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=B%2BSNmqhifIoYu0iOXoxV9Q%3D%3D&trackingId=W%2Fl11LwYd8a2BASTD9OgBQ%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:43:13.155Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-chennai-at-treebo-hospitality-ventures-4415756575?refId=B%2BSNmqhifIoYu0iOXoxV9Q%3D%3D&trackingId=2pWJKubBjl46bqubjAjBMw%3D%3D": {
+    "title": "Manager - National Sales - Chennai",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:43:13.155Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-ludhiana-at-treebo-hospitality-ventures-4415612897?refId=B%2BSNmqhifIoYu0iOXoxV9Q%3D%3D&trackingId=9PjlaKCCbtbdiZLRjE9vgw%3D%3D": {
+    "title": "Associate Director - Development - Ludhiana",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:43:13.155Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-pan-india-at-treebo-hospitality-ventures-4415494632?refId=B%2BSNmqhifIoYu0iOXoxV9Q%3D%3D&trackingId=q5pxWizAUlHHsxOVOEWH%2FA%3D%3D": {
+    "title": "Corporate Sales Manager ( PAN)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:43:13.155Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4413892655?refId=B%2BSNmqhifIoYu0iOXoxV9Q%3D%3D&trackingId=W228u28FuG7aJy%2BzVAG95w%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:43:13.155Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=B%2BSNmqhifIoYu0iOXoxV9Q%3D%3D&trackingId=xBT0xz1ioO1GQPlxsAKDtA%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:43:13.155Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=B%2BSNmqhifIoYu0iOXoxV9Q%3D%3D&trackingId=yj9PHJQxpqH0ZItiRrroLQ%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:43:13.155Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAA1AAAAMQAAADAAAAA=-7yuo3k82eOE=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:43:19.436Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAA1AAAAMAAAADYAAAA=-7ZyAkqLaPo0=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:43:19.436Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAA1AAAAMAAAADIAAAA=-fUBcsRed8pM=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:43:19.436Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/noida/staff-software-engineer/49841/95408557920": {
+    "title": "Staff Software Engineer",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:45:32.283Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/bengaluru/senior-software-engineer/49841/94478110368": {
+    "title": "Senior Software Engineer",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-05-22T11:45:32.283Z",
+    "matched": false
   }
 }
