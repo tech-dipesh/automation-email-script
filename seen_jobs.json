@@ -75294,5 +75294,335 @@
     "mode": "onsite",
     "seenAt": "2026-06-01T02:20:01.360Z",
     "matched": false
+  },
+  "Paytm::cd206891-4ef7-41cd-8b27-da54b5c21d5c": {
+    "title": "Corporate Development-Team Lead",
+    "location": "Noida, Uttar Pradesh",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:16:26.850Z",
+    "matched": false
+  },
+  "Paytm::0f663537-d435-48ed-9919-9511662cb68e": {
+    "title": "Process Excellence - Team Lead - UPI CST",
+    "location": "Noida, Uttar Pradesh",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:16:26.851Z",
+    "matched": false
+  },
+  "Paytm::346c2575-bfe4-4726-8763-ad24c700ff1c": {
+    "title": "VOC Research Executive",
+    "location": "Mumbai, Maharashtra",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:16:26.851Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Chennai-Specialist-Software-Engineering-TN/870365101/": {
+    "title": "Specialist - Software Engineering",
+    "mode": "skip",
+    "seenAt": "2026-06-01T08:17:30.091Z",
+    "matched": false
+  },
+  "Cloudflare::7962339": {
+    "title": "Business Development Representative, GCR (Beijing)",
+    "mode": "skip",
+    "seenAt": "2026-06-01T08:17:50.591Z",
+    "matched": false
+  },
+  "Cloudflare::7962358": {
+    "title": "Business Development Representative, GCR (Beijing)",
+    "mode": "skip",
+    "seenAt": "2026-06-01T08:17:50.591Z",
+    "matched": false
+  },
+  "Canonical::7957239": {
+    "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+    "location": "Home based - Worldwide",
+    "mode": "remote",
+    "seenAt": "2026-06-01T08:17:51.639Z",
+    "matched": false
+  },
+  "EPAM::https://careers.epam.com/en/jobs/architekten": {
+    "title": "Architekten Jobs",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-01T08:17:54.399Z",
+    "matched": false
+  },
+  "EPAM::https://careers.epam.com/en/jobs/cloud-in-georgia": {
+    "title": "Cloud jobs in Georgia",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-01T08:17:54.399Z",
+    "matched": false
+  },
+  "EPAM::https://careers.epam.com/en/jobs/client-partner": {
+    "title": "Client Partner Jobs",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-01T08:17:54.399Z",
+    "matched": false
+  },
+  "EPAM::https://careers.epam.com/en/jobs/aws": {
+    "title": "AWS Jobs",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-01T08:17:54.399Z",
+    "matched": false
+  },
+  "EPAM::https://careers.epam.com/en/jobs/strategist": {
+    "title": "Strategist Jobs",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-01T08:17:54.399Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/brisbane/engineers-cyber-and-secure-networks/185/95717606848": {
+    "title": "Engineers - Cyber and Secure Networks",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:17:59.062Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/brisbane/engineers-cyber-and-secure-networks/185/95717606832": {
+    "title": "Engineers - Cyber and Secure Networks",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:17:59.062Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/brisbane/engineers-cyber-and-secure-networks/185/95717606816": {
+    "title": "Engineers - Cyber and Secure Networks",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:17:59.062Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/principal-product-designer-loyalty/chicago-il/R-106166-2/": {
+    "title": "Principal Product Designer - Loyalty United States - Illinois - Chicago Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:18:09.379Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/principal-product-designer-loyalty/austin-tx/R-106166-1/": {
+    "title": "Principal Product Designer - Loyalty United States - Texas - Austin Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:18:09.379Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/principal-product-designer-loyalty/dallas-tx/R-106166-3/": {
+    "title": "Principal Product Designer - Loyalty United States - Texas - Dallas Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:18:09.379Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/principal-product-designer-loyalty/new-york-ny/R-106166/": {
+    "title": "Principal Product Designer - Loyalty United States - New York Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:18:09.379Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/senior-market-manager-miami-fl/miami-fl/R-106111/": {
+    "title": "Senior Market Manager (Miami, FL) United States - Florida - Miami Commercial",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:18:09.379Z",
+    "matched": false
+  },
+  "Flexport India::7971621": {
+    "title": "Manager, Account Management",
+    "mode": "skip",
+    "seenAt": "2026-06-01T08:21:16.106Z",
+    "matched": false
+  },
+  "Flexport India::7971617": {
+    "title": "Ocean Operations Manager",
+    "mode": "skip",
+    "seenAt": "2026-06-01T08:21:16.106Z",
+    "matched": false
+  },
+  "Flexport India::7971771": {
+    "title": "Sales Manager",
+    "mode": "skip",
+    "seenAt": "2026-06-01T08:21:16.106Z",
+    "matched": false
+  },
+  "MindTickle::https://jobs.lever.co/mindtickle/94688682-f114-4d11-bde2-e9cef4f8c446": {
+    "title": "Product & Engineering Operations ManagerOn-site —Pune, Maharashtra",
+    "location": "Pune, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:21:28.997Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/soc-analyst-cambridge-england-united-kingdom": {
+    "title": "SOC Analyst",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-01T08:21:33.556Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23440704/rr-0300170-manager-service-management-hong-kong-sar-hk/": {
+    "title": "RR-0300170 Manager Service Management",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:22:15.012Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23440710/business-consultant-guangzhou-cn/": {
+    "title": "Business Consultant",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:22:15.014Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr343999/account-executive-revenue-cloud/": {
+    "title": "Account Executive, Revenue Cloud",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:22:55.506Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr340414/director-technical-consulting-salesforce-experience-mandatory/": {
+    "title": "Director, Technical Consulting ( Salesforce Experience Mandatory )",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:22:55.506Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr331486/principal-data-and-ai-architect/": {
+    "title": "Principal Data and AI Architect",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:22:55.506Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr338293/managing-director-retail-industry-advisor/": {
+    "title": "Managing Director, Retail Industry Advisor",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:22:55.507Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr333498/technical-architect/": {
+    "title": "Technical Architect",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:22:55.507Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr344381/salesforce-project-manager/": {
+    "title": "Salesforce Project Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:22:55.507Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/business-analyst-%E2%80%93-customer-experience-at-treebo-hospitality-ventures-4422834229?refId=U01NkxJVkU8661Vxf3sFpQ%3D%3D&trackingId=viUmmlw0kjVH%2BjvkJeAvwg%3D%3D": {
+    "title": "Business Analyst – Customer Experience",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:23:08.846Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-business-development-manager-at-treebo-hospitality-ventures-4422819232?refId=U01NkxJVkU8661Vxf3sFpQ%3D%3D&trackingId=oUI1wrT0lmq%2BZGOXicEtiQ%3D%3D": {
+    "title": "Senior Business Development Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:23:08.846Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=U01NkxJVkU8661Vxf3sFpQ%3D%3D&trackingId=76zL%2B81QJoLqlWyX62MSNQ%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:23:08.846Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/business-development-manager-hotel-acquisition-at-treebo-hospitality-ventures-4417890146?refId=U01NkxJVkU8661Vxf3sFpQ%3D%3D&trackingId=JGg7Xwauy5rdlEsDIKi3%2Fw%3D%3D": {
+    "title": "Business Development Manager ( Hotel Acquisition )",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:23:08.846Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/pricing-analyst-at-treebo-hospitality-ventures-4416158813?refId=U01NkxJVkU8661Vxf3sFpQ%3D%3D&trackingId=GPt6GJ0KuMT70d0UtIcQqg%3D%3D": {
+    "title": "Pricing Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:23:08.846Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=U01NkxJVkU8661Vxf3sFpQ%3D%3D&trackingId=lKfUlQ%2F9wozZpIdcIR7QMA%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:23:08.846Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-chennai-at-treebo-hospitality-ventures-4415756575?refId=U01NkxJVkU8661Vxf3sFpQ%3D%3D&trackingId=pCH%2BaQRW0IROhoTyosg3zA%3D%3D": {
+    "title": "Manager - National Sales - Chennai",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:23:08.846Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=U01NkxJVkU8661Vxf3sFpQ%3D%3D&trackingId=FrN6N%2FiV0STjaj48SNTelg%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:23:08.846Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=U01NkxJVkU8661Vxf3sFpQ%3D%3D&trackingId=2CAtW8y7wRrsZMhXK66Ptg%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:23:08.846Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAA5AAAAMwAAADUAAAA=-TnLz7VGsjsw=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:23:14.480Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAA5AAAAMwAAADMAAAA=-VxzkSKfqn98=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:23:14.480Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAA5AAAAMgAAADkAAAA=-yxBEdPve7Gw=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:23:14.480Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADgAAAA5AAAAMgAAADUAAAA=-WY4Hw0Zg1Ts=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:23:14.480Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/specialist-software-engineer-production-support-260005XX-en": {
+    "title": "Specialist Software Engineer - Production Support",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:24:32.129Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/trade-finance-back-office-26000ALD-en": {
+    "title": "Trade Finance Back Office",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T08:24:32.129Z",
+    "matched": false
   }
 }
