@@ -76550,5 +76550,236 @@
     "mode": "onsite",
     "seenAt": "2026-06-01T19:59:47.286Z",
     "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Procurement-Technology-Lead/354314": {
+    "title": "Procurement Technology Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:28:37.699Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Consultant-Network-Security/354302": {
+    "title": "Consultant - Network Security",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:28:37.700Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Project-Senior-Consultant-Oracle-Cloud-HCM-Reporting/354296": {
+    "title": "Project Senior Consultant, Oracle Cloud HCM Reporting",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:28:37.700Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/M-A-Strategy-Governance-Consultant/354294": {
+    "title": "M&A Strategy & Governance Consultant",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:28:37.700Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Pricing-Technology-Program-Manager-Functional-Transformation/354293": {
+    "title": "Pricing Technology Program Manager, Functional Transformation",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:28:37.700Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Agentic-Software-Engineer-I/354284": {
+    "title": "Agentic Software Engineer I",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:28:37.700Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/wichita/ndi-inspector-ultrasonic/185/94527622848": {
+    "title": "NDI Inspector - Ultrasonic",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:29:15.909Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/director-head-of-industry-media-and-entertainment-santa-monica-california-united-states": {
+    "title": "Director, Head of Industry, Media and Entertainment",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-01T22:33:19.493Z",
+    "matched": false
+  },
+  "Shopify India::https://www.shopify.com/careers/writer-executive-communications_7c05df8b-5ccd-4a07-93d0-f24ac64581ff": {
+    "title": "Writer, Executive Communications- Americas",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-01T22:33:19.731Z",
+    "matched": false
+  },
+  "Shopify India::https://www.shopify.com/careers/lead-finance_a5116d45-536d-4d56-815e-73a10c9fe927": {
+    "title": "Lead, Finance- Americas",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-01T22:33:19.732Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr330837/data-analytics-analystmanager-us-citizen-only/": {
+    "title": "Data Analytics Analyst/Manager (US Citizen Only)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:34:47.214Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr344412/senior-manager-solution-engineering/": {
+    "title": "Senior Manager, Solution Engineering",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:34:47.214Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr344426/talent-attraction-partner/": {
+    "title": "Talent Attraction Partner",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:34:47.214Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr343560/principal-software-engineer-platform-security/": {
+    "title": "Principal Software Engineer, Platform Security",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:34:47.214Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr341025/senior-manager-product-and-technology-communications/": {
+    "title": "Senior Manager, Product and Technology Communications",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:34:47.214Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr330506/cto-agentic-process-automation-intelligence/": {
+    "title": "CTO - Agentic Process Automation & Intelligence",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:34:47.214Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/business-analyst-%E2%80%93-customer-experience-at-treebo-hospitality-ventures-4422834229?refId=Ntptd4pdBcT4%2BClOa8RptA%3D%3D&trackingId=eQFdyZ1hhXHmCM1M8bnZ1w%3D%3D": {
+    "title": "Business Analyst – Customer Experience",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:35:26.453Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-business-development-manager-at-treebo-hospitality-ventures-4422819232?refId=Ntptd4pdBcT4%2BClOa8RptA%3D%3D&trackingId=enY7HkPkpmTqBSO2Sug59w%3D%3D": {
+    "title": "Senior Business Development Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:35:26.453Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=Ntptd4pdBcT4%2BClOa8RptA%3D%3D&trackingId=S2mQRL5HoAZiCkmirUY9iA%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:35:26.453Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/business-development-manager-hotel-acquisition-at-treebo-hospitality-ventures-4417890146?refId=Ntptd4pdBcT4%2BClOa8RptA%3D%3D&trackingId=L3chM%2Btfdz1DNN%2FLK8XKnQ%3D%3D": {
+    "title": "Business Development Manager ( Hotel Acquisition )",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:35:26.453Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/pricing-analyst-at-treebo-hospitality-ventures-4416158813?refId=Ntptd4pdBcT4%2BClOa8RptA%3D%3D&trackingId=r0yWxBBa4Afu4bLdgFo8rw%3D%3D": {
+    "title": "Pricing Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:35:26.453Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=Ntptd4pdBcT4%2BClOa8RptA%3D%3D&trackingId=yKINHM2scg1wIH4u8mdx5w%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:35:26.453Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-chennai-at-treebo-hospitality-ventures-4415756575?refId=Ntptd4pdBcT4%2BClOa8RptA%3D%3D&trackingId=5RpSeIVGJZZXCr8o4E%2By2A%3D%3D": {
+    "title": "Manager - National Sales - Chennai",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:35:26.453Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=Ntptd4pdBcT4%2BClOa8RptA%3D%3D&trackingId=isekv5AOCQl2xFfmALEICw%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:35:26.453Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=Ntptd4pdBcT4%2BClOa8RptA%3D%3D&trackingId=jLvN89Lj%2Beeyfyq8eFlBDA%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:35:26.453Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAwAAAANwAAADAAAAA=-vZs8eCYrI3U=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:35:32.197Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAwAAAANgAAADYAAAA=-Oj8MYLQGbe8=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:35:32.197Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/werkstudent-in-compliance-m-w-d-26000DLX-en": {
+    "title": "Werkstudent/in Compliance (m/w/d)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:36:51.063Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/working-student-m-f-d-financial-accounting-controlling-26000DLT-en": {
+    "title": "Working Student (m/f/d) Financial Accounting & Controlling",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:36:51.063Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/lead-software-engineer-hql-developer-26000B1M-en": {
+    "title": "Lead Software Engineer- HQL Developer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:36:51.063Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/charlotte/avp-compliance-ai-and-technology/49841/95868038240": {
+    "title": "AVP-Compliance AI and Technology",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:37:48.687Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/london/sales-rotation-associate/49841/95392141040": {
+    "title": "Sales Rotation Associate",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:37:48.687Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/sao-paulo/structured-finance-intern/49841/95591221536": {
+    "title": "Structured Finance Intern",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-01T22:37:48.687Z",
+    "matched": false
   }
 }
