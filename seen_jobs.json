@@ -78511,5 +78511,196 @@
     "mode": "onsite",
     "seenAt": "2026-06-02T20:46:34.781Z",
     "matched": true
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Sao-Paulo-Senior-Specialist-Architecture-SP/1400063433/": {
+    "title": "Senior Specialist - Architecture",
+    "mode": "skip",
+    "seenAt": "2026-06-02T22:54:17.762Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Mexico-Senior-Specialist-Architecture-MEX/1400073233/": {
+    "title": "Senior Specialist - Architecture",
+    "mode": "skip",
+    "seenAt": "2026-06-02T22:54:17.762Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Mexico-Associate-Principal-Architecture-MEX/1400067733/": {
+    "title": "Associate Principal - Architecture",
+    "mode": "skip",
+    "seenAt": "2026-06-02T22:54:17.762Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/S%C3%A3o-Paulo-Overseas-Contractor-SP/1400085733/": {
+    "title": "Overseasor",
+    "mode": "skip",
+    "seenAt": "2026-06-02T22:54:17.762Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Overseas-Contractor-SP/1400086733/": {
+    "title": "Overseasor",
+    "mode": "skip",
+    "seenAt": "2026-06-02T22:54:17.762Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Project-Manager-Business-Operations-Secret-Cleared/354458": {
+    "title": "Project - Manager, Business Operations - Secret Cleared",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T22:54:20.320Z",
+    "matched": false
+  },
+  "Docker::https://www.docker.com/careers/engineering/": {
+    "title": "ProdDev",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-02T22:54:43.838Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/principal-software-development-engineer/seattle-wa/R-106472/": {
+    "title": "Principal Software Development Engineer United States - Washington - Seattle Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T22:54:59.365Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/senior-software-development-engineer-ml-platform/seattle-wa/R-105596/": {
+    "title": "Senior Software Development Engineer - ML Platform United States - Washington - Seattle Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T22:54:59.365Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/senior-mobile-engineer-ios/seattle-wa/R-102325/": {
+    "title": "Senior Mobile Engineer-iOS United States - Washington - Seattle Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T22:54:59.365Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/brand-marketing-manager-at-treebo-hospitality-ventures-4423917832?refId=MqT7K75hEzjW9L%2BOrnS43A%3D%3D&trackingId=1KiY%2Bs%2FehQCyZsPUzviYOQ%3D%3D": {
+    "title": "Brand Marketing Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T23:00:09.400Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-operations-manager-at-treebo-hospitality-ventures-4423912469?refId=MqT7K75hEzjW9L%2BOrnS43A%3D%3D&trackingId=LTX4ocbkFYeP2D3UUl5RYA%3D%3D": {
+    "title": "Hotel Operations Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T23:00:09.400Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-specialist-at-treebo-hospitality-ventures-4423894927?refId=MqT7K75hEzjW9L%2BOrnS43A%3D%3D&trackingId=%2Br5kKfsl4YBehW3m2Tvq7w%3D%3D": {
+    "title": "Revenue Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T23:00:09.400Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-business-development-manager-at-treebo-hospitality-ventures-4422819232?refId=MqT7K75hEzjW9L%2BOrnS43A%3D%3D&trackingId=QniYEF2vDDY%2F9Twa%2F7L87A%3D%3D": {
+    "title": "Senior Business Development Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T23:00:09.400Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=MqT7K75hEzjW9L%2BOrnS43A%3D%3D&trackingId=2AiKeqfToBv9GDJnqV4CHQ%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T23:00:09.400Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=MqT7K75hEzjW9L%2BOrnS43A%3D%3D&trackingId=q53BIcKAoCfwzldhccFDQA%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T23:00:09.400Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-chennai-at-treebo-hospitality-ventures-4415756575?refId=MqT7K75hEzjW9L%2BOrnS43A%3D%3D&trackingId=72QFeLF1mSCiBFwnn%2Byx7Q%3D%3D": {
+    "title": "Manager - National Sales - Chennai",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T23:00:09.400Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=MqT7K75hEzjW9L%2BOrnS43A%3D%3D&trackingId=6tcyH2afmnSA6LdbPNj5jw%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T23:00:09.400Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=MqT7K75hEzjW9L%2BOrnS43A%3D%3D&trackingId=%2FsfSejOSVlj%2FRlKJhZfoKQ%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T23:00:09.400Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAxAAAANAAAADIAAAA=-GrloOEirsZc=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T23:00:15.989Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/investment-banking-associate-healthcare-26000DQG-en": {
+    "title": "Investment Banking Associate - Healthcare",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T23:01:44.320Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/software-engineer-java-fsd-26000743-en": {
+    "title": "Software Engineer - Java FSD",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T23:01:44.320Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/trainee-infrastructure-digital-technology-26000DQR-en": {
+    "title": "Trainee - Infrastructure & Digital Technology",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T23:01:45.592Z",
+    "matched": true
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/intern-global-markets-26000DQQ-en": {
+    "title": "Intern-Global Markets",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T23:01:45.592Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/new-york/vp-risk-management/49841/94478110352": {
+    "title": "VP-Risk Management",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T23:02:42.350Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/new-york/enterprise-software-and-ai-governance-analyst/49841/95913565536": {
+    "title": "Enterprise Software & AI Governance Analyst",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T23:02:42.350Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/heredia/finops-reporting-and-data-operations-analyst/49841/95913565472": {
+    "title": "FinOps Reporting & Data Operations Analyst",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T23:02:42.350Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/charlotte/ai-devops-engineer/49841/94478111744": {
+    "title": "AI DevOps Engineer",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-02T23:02:42.350Z",
+    "matched": false
   }
 }
