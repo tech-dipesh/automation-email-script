@@ -79980,5 +79980,407 @@
     "mode": "onsite",
     "seenAt": "2026-06-03T15:32:25.682Z",
     "matched": false
+  },
+  "Postman::7762645003": {
+    "title": "Key Account Director",
+    "mode": "skip",
+    "seenAt": "2026-06-03T19:39:47.498Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Digital-Controllership-Senior-Controllership/354730": {
+    "title": "Digital Controllership Senior Controllership",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:40:19.798Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Technical-Architect/354727": {
+    "title": "Technical Architect",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:40:19.799Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Data-Management-Engineer-II-ETL-IICS-Developer/354706": {
+    "title": "Data Management Engineer II” ETL / IICS Developer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:40:19.799Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Data-Management-Engineer-II-ETL-IICS-Developer/354704": {
+    "title": "Data Management Engineer II” ETL / IICS Developer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:40:19.799Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Oracle-EPM-Senior-Consultant-FCCS/354701": {
+    "title": "Oracle EPM Senior Consultant - FCCS",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:40:19.799Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Office-Services-Manager-Philadelphia/354698": {
+    "title": "Office Services Manager - Philadelphia",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:40:19.799Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Oracle-EPM-Manager-FCCS/354697": {
+    "title": "Oracle EPM Manager - FCCS",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:40:19.800Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Lead-AI-Architect/354682": {
+    "title": "Lead AI Architect",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:40:19.800Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Manager-PMO-Olympics-Paralympics-BMO-US-Sponsorship/354678": {
+    "title": "Manager, PMO Olympics & Paralympics (BMO)-US Sponsorship",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:40:19.800Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Project-Consultant-Asset-Visibility-SME/354657": {
+    "title": "Project Consultant, Asset Visibility SME",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:40:19.800Z",
+    "matched": false
+  },
+  "Figma::6009558004": {
+    "title": "Product Marketing Manager, Audience and Messaging",
+    "mode": "skip",
+    "seenAt": "2026-06-03T19:40:39.421Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/tulsa/robot-operator/185/89370127152": {
+    "title": "Robot Operator",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:40:45.086Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/bengaluru/r-and-d-engineering-staff-engineer/44408/95947919888": {
+    "title": "R&D Engineering, Staff Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:41:40.476Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/bengaluru/devops-engineering-senior-staff/44408/95947919872": {
+    "title": "DevOps Engineering, Senior Staff",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:41:40.476Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/bengaluru/intern/44408/95947919856": {
+    "title": "Intern",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:41:40.476Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/bengaluru/site-reliability-engineering-sr-staff/44408/95947919840": {
+    "title": "Site Reliability Engineering, Sr Staff",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:41:40.476Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/forward-logistics-analyst-austin-texas-united-states": {
+    "title": "Forward Logistics Analyst",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-03T19:44:23.431Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-machine-learning-scientist-conversion-modeling-austin-texas-united-states": {
+    "title": "Senior Machine Learning Scientist, Conversion Modeling",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-03T19:44:23.431Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-machine-learning-scientist-conversion-modeling-san-jose-california-united-states": {
+    "title": "Senior Machine Learning Scientist, Conversion Modeling",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-03T19:44:23.431Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/sales-planner-new-york-united-states": {
+    "title": "Sales Planner",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-03T19:44:23.431Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/sales-planner-chicago-illinois-united-states-7480e19a-d76f-4352-9d59-461f6868195b": {
+    "title": "Sales Planner",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-03T19:44:23.431Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/live-operations-associate-austin-texas-united-states-ad943dc6-4a74-48da-838e-c112f2e48f8b": {
+    "title": "Live Operations Associate",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-03T19:44:23.431Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/live-operations-associate-stamford-connecticut-united-states": {
+    "title": "Live Operations Associate",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-03T19:44:23.431Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/account-manager-london-england-united-kingdom": {
+    "title": "Account Manager",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-03T19:44:23.431Z",
+    "matched": false
+  },
+  "Shopify India::https://www.shopify.com/careers/lead-accounts-payable_63278c80-4e49-4c2a-96c0-70a571e79856": {
+    "title": "Lead, Accounts Payable- Americas",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-03T19:44:23.639Z",
+    "matched": false
+  },
+  "Shopify India::https://www.shopify.com/careers/senior-credit-analyst_96f4383f-a798-4051-8766-ababa422bc96": {
+    "title": "Senior Credit Analyst- Americas",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-03T19:44:23.639Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23451105/cloud-platform-developer/": {
+    "title": "Cloud Platform Developer",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:45:05.793Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr336667/software-engineer-ai-focus/": {
+    "title": "Software Engineer | AI Focus",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:45:48.133Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr342034/software-engineer-i-service-network-slack/": {
+    "title": "Software Engineer I, Service Network - Slack",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:45:48.133Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr340459/cloud-account-executive/": {
+    "title": "Cloud Account Executive",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:45:48.133Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr341592/client-solution-consultant-data-foundation-and-mulesoft/": {
+    "title": "Client Solution Consultant, Data Foundation and MuleSoft",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:45:48.133Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr344749/commercial-account-executive-data-foundation-mulesoft-plus-informatica/": {
+    "title": "Commercial Account Executive - Data Foundation (MuleSoft + Informatica)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:45:48.133Z",
+    "matched": false
+  },
+  "LogicMonitor India::https://www.logicmonitor.com/career/?gh_jid=7976642": {
+    "title": "Sr. Manager, Global Deal Desk Sales Operations Austin, TX",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:45:53.315Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-vizag-at-treebo-hospitality-ventures-4424049747?refId=sBYV8BA0iWFDgigWu0ZJWA%3D%3D&trackingId=v5lII%2F4WNFE8bdaBlAD58Q%3D%3D": {
+    "title": "Associate Director - Development - Vizag",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:46:00.961Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/customer-service-associate-in-bangalore-hybrid-at-treebo-hospitality-ventures-4422631609?refId=sBYV8BA0iWFDgigWu0ZJWA%3D%3D&trackingId=PMbPpXnHycBdqpQ%2Fo4D%2Fkg%3D%3D": {
+    "title": "Customer Service Associate in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:46:00.961Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/brand-marketing-manager-at-treebo-hospitality-ventures-4423917832?refId=sBYV8BA0iWFDgigWu0ZJWA%3D%3D&trackingId=%2FQ46xgwb5J9KOqJLORH4Ng%3D%3D": {
+    "title": "Brand Marketing Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:46:00.961Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-operations-manager-at-treebo-hospitality-ventures-4423912469?refId=sBYV8BA0iWFDgigWu0ZJWA%3D%3D&trackingId=zJzbNTKCcbL%2Fw%2BQuFhjl7g%3D%3D": {
+    "title": "Hotel Operations Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:46:00.961Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-specialist-at-treebo-hospitality-ventures-4423894927?refId=sBYV8BA0iWFDgigWu0ZJWA%3D%3D&trackingId=kaMHO76o7JncPwuzHKO3NQ%3D%3D": {
+    "title": "Revenue Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:46:00.961Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-business-development-manager-at-treebo-hospitality-ventures-4422819232?refId=sBYV8BA0iWFDgigWu0ZJWA%3D%3D&trackingId=0rYmn6XpGMYfdIi45HdFAg%3D%3D": {
+    "title": "Senior Business Development Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:46:00.961Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=sBYV8BA0iWFDgigWu0ZJWA%3D%3D&trackingId=S9DWBGRc9DmCCfrvelhxcQ%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:46:00.961Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=sBYV8BA0iWFDgigWu0ZJWA%3D%3D&trackingId=WjMAVxBI5pbASNhPHhAUXg%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:46:00.961Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-chennai-at-treebo-hospitality-ventures-4415756575?refId=sBYV8BA0iWFDgigWu0ZJWA%3D%3D&trackingId=Z5G0zF9VXWJQzdTKdqLgxA%3D%3D": {
+    "title": "Manager - National Sales - Chennai",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:46:00.961Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAyAAAAMgAAADgAAAA=-xEg2HCooZgE=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:46:11.736Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAyAAAAMgAAADYAAAA=-qqbjmfTtsaI=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:46:11.737Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAyAAAAMgAAADIAAAA=-AKZEYxGwXf8=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:46:11.737Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAyAAAAMQAAADgAAAA=-jTwLKrNSJa0=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:46:11.737Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAyAAAAMQAAADQAAAA=-CCzAaJPspnA=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:46:11.737Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAyAAAAMQAAADIAAAA=-vAej18Es1e8=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:46:11.737Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAyAAAAMAAAADkAAAA=-bowv9PK9l3Q=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:46:11.737Z",
+    "matched": false
+  },
+  "Elastic India::7976540": {
+    "title": "Principal SRE (Networking) - Platform Control Plane",
+    "mode": "skip",
+    "seenAt": "2026-06-03T19:47:11.933Z",
+    "matched": false
+  },
+  "Elastic India::7721569": {
+    "title": "Senior Security Compliance Analyst - Public Sector - Information Security",
+    "mode": "skip",
+    "seenAt": "2026-06-03T19:47:11.933Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/new-york/assc-director-public-sector-partnerships/49841/94562513328": {
+    "title": "Assc Director-Public Sector Partnerships",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:48:16.974Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/new-york/avp-cybersecurity-engineer/49841/95948695952": {
+    "title": "AVP-Cybersecurity Engineer",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:48:16.974Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/vilnius/sr-benefits-analyst/49841/95948695936": {
+    "title": "Sr Benefits Analyst",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:48:16.974Z",
+    "matched": false
+  },
+  "Sarvam AI::https://www.sarvam.ai/careers/jobs/3d479c06-8537-40ee-bcbb-a7d337013da4": {
+    "title": "Head of Growth MarketingOn-Site",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:49:39.249Z",
+    "matched": false
+  },
+  "Sarvam AI::https://www.sarvam.ai/careers/jobs/ae56bf44-44fd-4966-afe0-eeaceb3bfb20": {
+    "title": "Product Marketing ManagerOn-Site",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:49:39.249Z",
+    "matched": false
+  },
+  "Sarvam AI::https://www.sarvam.ai/careers/jobs/9ff0a6ad-9a30-403f-84d0-fb7a0914074b": {
+    "title": "Product Marketing Manager - Sarvam PlatformOn-Site",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-03T19:49:39.249Z",
+    "matched": false
   }
 }
