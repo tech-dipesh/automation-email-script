@@ -80630,5 +80630,168 @@
     "mode": "onsite",
     "seenAt": "2026-06-03T22:27:20.699Z",
     "matched": false
+  },
+  "Cloudflare::7956849": {
+    "title": "Customer Engineer, Malaysia",
+    "mode": "skip",
+    "seenAt": "2026-06-04T00:24:58.990Z",
+    "matched": false
+  },
+  "Cloudflare::7976246": {
+    "title": "Enterprise Customer Engineer, Singapore",
+    "mode": "skip",
+    "seenAt": "2026-06-04T00:24:58.990Z",
+    "matched": false
+  },
+  "Cloudflare::7955374": {
+    "title": "Senior Director, Field Marketing, APAC",
+    "mode": "skip",
+    "seenAt": "2026-06-04T00:24:58.990Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/wichita/spirit-defense-procurement/185/89370117808": {
+    "title": "Spirit Defense - Procurement",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:25:07.117Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/wichita/spirit-defense-manufacturing-engineer/185/90546819312": {
+    "title": "Spirit Defense - Manufacturing Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:25:07.117Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/wichita/spirit-defense-senior-engineering-manager/185/91380563872": {
+    "title": "Spirit Defense - Senior Engineering Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:25:07.117Z",
+    "matched": false
+  },
+  "Expedia Group India::https://careers.expediagroup.com/?blackhole=6695562d2f": {
+    "title": "Expedia Group | Careers",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:25:19.143Z",
+    "matched": false
+  },
+  "Flexport India::7975365": {
+    "title": "Senior Software Engineer, Autonomous Freight Systems",
+    "mode": "skip",
+    "seenAt": "2026-06-04T00:28:30.291Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/22677191/it-security-tooling-specialist-luton/": {
+    "title": "IT Security Tooling Specialist - Luton",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:29:34.749Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr343704/principal-solution-engineer-financial-services/": {
+    "title": "Principal Solution Engineer - Financial Services",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:30:18.292Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr344325/software-engineering-smts/": {
+    "title": "Software Engineering SMTS",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:30:18.292Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-vizag-at-treebo-hospitality-ventures-4424049747?refId=SNmljcNGfbX4UhsJnJZ0%2Fg%3D%3D&trackingId=%2FGAF3lZeoSQuW6cL%2FzqyXA%3D%3D": {
+    "title": "Associate Director - Development - Vizag",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:30:31.844Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/customer-service-associate-in-bangalore-hybrid-at-treebo-hospitality-ventures-4422631609?refId=SNmljcNGfbX4UhsJnJZ0%2Fg%3D%3D&trackingId=FhODKbVIOqU%2FCiF7Dj0ltg%3D%3D": {
+    "title": "Customer Service Associate in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:30:31.844Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/brand-marketing-manager-at-treebo-hospitality-ventures-4423917832?refId=SNmljcNGfbX4UhsJnJZ0%2Fg%3D%3D&trackingId=u42fW77zZVaFRhOotgoR3w%3D%3D": {
+    "title": "Brand Marketing Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:30:31.844Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-operations-manager-at-treebo-hospitality-ventures-4423912469?refId=SNmljcNGfbX4UhsJnJZ0%2Fg%3D%3D&trackingId=4icnv%2B05kLaunNDpStOdRg%3D%3D": {
+    "title": "Hotel Operations Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:30:31.844Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-specialist-at-treebo-hospitality-ventures-4423894927?refId=SNmljcNGfbX4UhsJnJZ0%2Fg%3D%3D&trackingId=90U2tDqai6qCos0gLgMg9A%3D%3D": {
+    "title": "Revenue Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:30:31.844Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-business-development-manager-at-treebo-hospitality-ventures-4422819232?refId=SNmljcNGfbX4UhsJnJZ0%2Fg%3D%3D&trackingId=Du%2FTsbvc%2FnMxtU0h8DZrKw%3D%3D": {
+    "title": "Senior Business Development Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:30:31.844Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=SNmljcNGfbX4UhsJnJZ0%2Fg%3D%3D&trackingId=%2F8wQu8szFm70HPKOa0fbmA%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:30:31.844Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=SNmljcNGfbX4UhsJnJZ0%2Fg%3D%3D&trackingId=t8uMcM5N%2BY220ZsEyofcHw%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:30:31.845Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-chennai-at-treebo-hospitality-ventures-4415756575?refId=SNmljcNGfbX4UhsJnJZ0%2Fg%3D%3D&trackingId=KNs3kQzQuItH5WO4XHEPDg%3D%3D": {
+    "title": "Manager - National Sales - Chennai",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:30:31.845Z",
+    "matched": false
+  },
+  "Elastic India::7960302": {
+    "title": "Federal Civilian Program Manager",
+    "mode": "skip",
+    "seenAt": "2026-06-04T00:31:41.752Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/england/senior-customer-success-management-associate/49841/94849289232": {
+    "title": "Senior Customer Success Management Associate",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:32:58.382Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/england/assistant-director-data-specialist/49841/95382757152": {
+    "title": "Assistant Director - Data Specialist",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:32:58.383Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/england/senior-data-specialist/49841/94963834080": {
+    "title": "Senior Data Specialist",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T00:32:58.383Z",
+    "matched": false
   }
 }
