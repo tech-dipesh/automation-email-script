@@ -81932,5 +81932,337 @@
     "mode": "onsite",
     "seenAt": "2026-06-04T16:24:43.637Z",
     "matched": false
+  },
+  "Pine Labs::https://www.pinelabs.com/docs": {
+    "title": "Developers",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:10:16.636Z",
+    "matched": false
+  },
+  "Postman::7491503003": {
+    "title": "Account Development Representative (Portuguese & Spanish Speaking)",
+    "mode": "skip",
+    "seenAt": "2026-06-04T19:10:53.957Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Oracle-Finance-Senior-Manager/355013": {
+    "title": "Oracle Finance Senior Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:11:26.184Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Associate-Architect-Middleware/355012": {
+    "title": "Associate Architect, Middleware",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:11:26.184Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Genesys-Senior-Consultant-Technical-Transformation/354997": {
+    "title": "Genesys Senior Consultant, Technical Transformation",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:11:26.184Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Associate-Vice-President-Engineered-Managed-Services/354992": {
+    "title": "Associate Vice President, Engineered Managed Services",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:11:26.184Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Epic-Willow-Manager/354957": {
+    "title": "Epic Willow Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:11:26.184Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Project-Consultant-Human-Resource-Management-TS-SCI-w-Poly-Springfield-VA/354954": {
+    "title": "Project - Consultant, Human Resource Management - TS/SCI w/ Poly - Springfield, VA",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:11:26.184Z",
+    "matched": false
+  },
+  "Cloudflare::6998777": {
+    "title": "Senior Design Engineer",
+    "mode": "skip",
+    "seenAt": "2026-06-04T19:11:45.114Z",
+    "matched": false
+  },
+  "Cloudflare::7980647": {
+    "title": "Senior Solutions Engineer, Majors - NYC",
+    "location": "Distributed",
+    "mode": "remote",
+    "seenAt": "2026-06-04T19:11:45.114Z",
+    "matched": false
+  },
+  "Figma::6010992004": {
+    "title": "Manager, Inside Sales (London, United Kingdom)",
+    "mode": "skip",
+    "seenAt": "2026-06-04T19:11:46.888Z",
+    "matched": false
+  },
+  "Figma::6008343004": {
+    "title": "Program Manager, Voice of the Customer",
+    "mode": "skip",
+    "seenAt": "2026-06-04T19:11:46.888Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/lossiemouth/programme-manager-p-8-and-e-7-aircraft-maintenance-services/185/95997380496": {
+    "title": "Programme Manager - P-8 & E-7 Aircraft Maintenance Services",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:11:52.577Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/edwards-air-force-base/aircraft-maintenance-technician/185/95997380448": {
+    "title": "Aircraft Maintenance Technician",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:11:52.577Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/chicago/equity-compensation-administration-specialist/185/95997380432": {
+    "title": "Equity Compensation Administration Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:11:52.577Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/united-states/ethics-and-compliance-analyst/44408/95993837632": {
+    "title": "Ethics & Compliance Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:12:44.627Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/seongnam-si/synopsys-korea-summer-internship-2026/44408/95993837616": {
+    "title": "Synopsys Korea Summer Internship 2026",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:12:44.627Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/montigny-le-bretonneux/r-and-d-engineer-phd-on-safety-of-ai-ml-based-embedded-systems-for-autonomy/44408/95993837600": {
+    "title": "R&D Engineer - PhD on Safety of AI/ML-based Embedded Systems for Autonomy",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:12:44.627Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/bengaluru/sap-successfactors-staff/44408/95856495968": {
+    "title": "SAP SuccessFactors, Staff",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:12:44.627Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-machine-learning-scientist-creative-generation-personalization-san-jose-california-united-states": {
+    "title": "Senior Machine Learning Scientist, Creative Generation & Personalization",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-04T19:15:29.228Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-machine-learning-scientist-creative-generation-personalization-austin-texas-united-states": {
+    "title": "Senior Machine Learning Scientist, Creative Generation & Personalization",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-04T19:15:29.228Z",
+    "matched": false
+  },
+  "Shopify India::https://www.shopify.com/careers/accounts-payable-specialist_161befe8-5b94-4afb-8195-86667e2465ba": {
+    "title": "Accounts Payable Specialist- Canada",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-04T19:15:29.376Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-vizag-at-treebo-hospitality-ventures-4424049747?refId=7rTO5ZfRTcluN%2B59UdtbPQ%3D%3D&trackingId=1cfKaYEqrHycQ4VsxnYb9A%3D%3D": {
+    "title": "Associate Director - Development - Vizag",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:17:10.204Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/customer-service-associate-in-bangalore-hybrid-at-treebo-hospitality-ventures-4422631609?refId=7rTO5ZfRTcluN%2B59UdtbPQ%3D%3D&trackingId=ETC400YRNcKsOQ5KxUXMIw%3D%3D": {
+    "title": "Customer Service Associate in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:17:10.204Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/brand-marketing-manager-at-treebo-hospitality-ventures-4423917832?refId=7rTO5ZfRTcluN%2B59UdtbPQ%3D%3D&trackingId=0Y%2BYq%2Fzo7BpGVyw9%2FeptmA%3D%3D": {
+    "title": "Brand Marketing Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:17:10.204Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/area-general-manager-at-treebo-hospitality-ventures-4423912469?refId=7rTO5ZfRTcluN%2B59UdtbPQ%3D%3D&trackingId=jnIpPKZZUdtBmCug2ZyzkQ%3D%3D": {
+    "title": "Area General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:17:10.204Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-specialist-at-treebo-hospitality-ventures-4423894927?refId=7rTO5ZfRTcluN%2B59UdtbPQ%3D%3D&trackingId=YgvEHFvduQUVjEvBTIrWLQ%3D%3D": {
+    "title": "Revenue Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:17:10.204Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-business-development-manager-at-treebo-hospitality-ventures-4422819232?refId=7rTO5ZfRTcluN%2B59UdtbPQ%3D%3D&trackingId=nChCN4yNqFCAKbyieGnVSQ%3D%3D": {
+    "title": "Senior Business Development Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:17:10.204Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=7rTO5ZfRTcluN%2B59UdtbPQ%3D%3D&trackingId=1aWiBegPgUNxg%2FE6e%2FnyLw%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:17:10.204Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=7rTO5ZfRTcluN%2B59UdtbPQ%3D%3D&trackingId=2IXQoPPtjtC%2Fa343n6uliA%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:17:10.204Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=7rTO5ZfRTcluN%2B59UdtbPQ%3D%3D&trackingId=e%2FRYPGUVEErnIUjjKOi3Jw%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:17:10.204Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAzAAAANQAAADEAAAA=-ovCuWGrBkEk=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:17:16.985Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAzAAAANAAAADkAAAA=-5K4wErQ4oTw=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:17:16.985Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAzAAAANAAAADcAAAA=-wI6Ucpt3RO4=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:17:16.985Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAzAAAANAAAADUAAAA=-sxMDxjA7NUI=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:17:16.985Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAzAAAANAAAADMAAAA=-vfl/hAi2uuA=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:17:16.985Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAzAAAAMwAAADkAAAA=-dABws27La50=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:17:16.985Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAzAAAAMwAAADYAAAA=-CTQ53LDSjZg=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:17:16.985Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAzAAAAMwAAADMAAAA=-E3kIQSWSqzw=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:17:16.985Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/toronto/bilingual-product-support-specialist-tech-spanish/49841/95994606416": {
+    "title": "Bilingual Product Support Specialist - Tech (Spanish)",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:19:27.007Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/london/fp-and-a-manager/49841/95994606400": {
+    "title": "FP&A Manager",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:19:27.007Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/new-york/director-of-data-governance-data-modeling/49841/94478110912": {
+    "title": "Director of Data Governance - Data Modeling",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:19:27.007Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/new-york/ratings-operations-specialist-ii/49841/95994606368": {
+    "title": "Ratings Operations Specialist II",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:19:27.007Z",
+    "matched": false
+  },
+  "Sarvam AI::https://www.sarvam.ai/careers/jobs/a0572d24-d8c6-47c2-b136-0ae115a96a75": {
+    "title": "Architect, On-Device InferenceOn-Site",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:20:50.507Z",
+    "matched": false
+  },
+  "Sarvam AI::https://www.sarvam.ai/careers/jobs/6ad226cd-9400-41b6-9c64-db35b7d24516": {
+    "title": "Performance Engineer, On-Device InferenceOn-Site",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:20:50.507Z",
+    "matched": false
+  },
+  "Sarvam AI::https://www.sarvam.ai/careers/jobs/4129247f-07d0-4fea-b72e-f86adabc55ad": {
+    "title": "Senior Performance Engineer, Discrete GPUOn-Site",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:20:50.507Z",
+    "matched": false
+  },
+  "Sarvam AI::https://www.sarvam.ai/careers/jobs/44ba25a3-d262-429e-ad5b-c8711565f6e3": {
+    "title": "Senior Performance Engineer, Intel StackOn-Site",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:20:50.507Z",
+    "matched": false
+  },
+  "Sarvam AI::https://www.sarvam.ai/careers/jobs/bb0ce8d1-5653-42b8-8f8c-0ff25fb0cfe6": {
+    "title": "Senior Performance Engineer, Mobile NPU (Qualcomm + Apple)On-Site",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T19:20:50.507Z",
+    "matched": false
   }
 }
