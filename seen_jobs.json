@@ -80793,5 +80793,236 @@
     "mode": "onsite",
     "seenAt": "2026-06-04T00:32:58.383Z",
     "matched": false
+  },
+  "Postman::7762102003": {
+    "title": "Senior Engineer - Fabric Gateway",
+    "location": "Bengaluru, Karnataka, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:30:21.260Z",
+    "matched": false
+  },
+  "Postman::7762145003": {
+    "title": "Software Engineer, Fabric Gateway ",
+    "location": "Bengaluru, Karnataka, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:30:21.260Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/bn/careers/list/?department=Engineering&requestToken=a036a6af000000000000000000000000000000000000000000000000000000000000000000000000": {
+    "title": "বাংলা",
+    "mode": "skip",
+    "seenAt": "2026-06-04T05:32:15.125Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/en/careers/list/?department=Engineering&requestToken=a036a6af000000000000000000000000000000000000000000000000000000000000000000000000": {
+    "title": "English",
+    "mode": "skip",
+    "seenAt": "2026-06-04T05:32:15.125Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/hi/careers/list/?department=Engineering&requestToken=a036a6af000000000000000000000000000000000000000000000000000000000000000000000000": {
+    "title": "हिन्दी",
+    "mode": "skip",
+    "seenAt": "2026-06-04T05:32:15.125Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/kn/careers/list/?department=Engineering&requestToken=a036a6af000000000000000000000000000000000000000000000000000000000000000000000000": {
+    "title": "ಕನ್ನಡ",
+    "mode": "skip",
+    "seenAt": "2026-06-04T05:32:15.125Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/mr/careers/list/?department=Engineering&requestToken=a036a6af000000000000000000000000000000000000000000000000000000000000000000000000": {
+    "title": "मराठी",
+    "mode": "skip",
+    "seenAt": "2026-06-04T05:32:15.125Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/ta/careers/list/?department=Engineering&requestToken=a036a6af000000000000000000000000000000000000000000000000000000000000000000000000": {
+    "title": "தமிழ்",
+    "mode": "skip",
+    "seenAt": "2026-06-04T05:32:15.125Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/te/careers/list/?department=Engineering&requestToken=a036a6af000000000000000000000000000000000000000000000000000000000000000000000000": {
+    "title": "తెలుగు",
+    "mode": "skip",
+    "seenAt": "2026-06-04T05:32:15.125Z",
+    "matched": false
+  },
+  "Cloudflare::7955378": {
+    "title": "Customer Engineer, India (Based in Mumbai)",
+    "location": "Remote India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:32:21.136Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/el-segundo/subcontracts-administrator-millennium-space-systems/185/95968716304": {
+    "title": "Subs Administrator - Millennium Space Systems",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:32:30.052Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/herndon/senior-level-industrial-security-specialist/185/95968716064": {
+    "title": "Senior Level Industrial Security Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:32:30.052Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/tukwila/mp-and-p-engineer-nde-measurement-systems-associate-level/185/95968700240": {
+    "title": "MP&P Engineer-NDE/Measurement systems (Associate level)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:32:30.052Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/software-development-engineer-ii-full-stack-engineering/san-jose-ca/R-106503/": {
+    "title": "Software Development Engineer II – Full Stack Engineering United States - California - San Jose Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:32:40.340Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/sr-treasury-manager-foreign-currency/seattle-wa/R-106661/": {
+    "title": "Sr. Treasury Manager, Foreign Currency United States - Washington - Seattle Finance",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:32:40.340Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/bengaluru/lead-development-coordinator-ldr/44408/95970269008": {
+    "title": "Lead Development, Coordinator (LDR)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:33:42.600Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/pune/solution-architect-senior-staff-engineer/44408/95970268976": {
+    "title": "Solution Architect - Senior Staff Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:33:42.600Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/exton/summer-2026-dme-intern/44408/95970268896": {
+    "title": "Summer 2026 DME Intern",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:33:42.600Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-manager-subscriptions-operations-santa-monica-california-united-states": {
+    "title": "Senior Manager, Subscriptions Operations",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-04T05:36:53.912Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23453632/servicenow-technical-consultant-quezon-city-ph/": {
+    "title": "ServiceNow Technical Consultant",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:37:35.894Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23453636/technical-consultant-quezon-city-ph/": {
+    "title": "Technical Consultant",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:37:35.894Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23453204/senior-techbar-analyst-melbourne-au/": {
+    "title": "Senior TechBar Analyst",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:37:35.894Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-vizag-at-treebo-hospitality-ventures-4424049747?refId=bmTUM3vhDJLzJyKFoZIJDg%3D%3D&trackingId=wl1yjXBumaT%2Fu6MYyGoZPg%3D%3D": {
+    "title": "Associate Director - Development - Vizag",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:38:52.395Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/customer-service-associate-in-bangalore-hybrid-at-treebo-hospitality-ventures-4422631609?refId=bmTUM3vhDJLzJyKFoZIJDg%3D%3D&trackingId=RkZtUMGxt7CPDIXr4QYPlg%3D%3D": {
+    "title": "Customer Service Associate in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:38:52.395Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/brand-marketing-manager-at-treebo-hospitality-ventures-4423917832?refId=bmTUM3vhDJLzJyKFoZIJDg%3D%3D&trackingId=WDOut5mtfkS3RILeYgizlA%3D%3D": {
+    "title": "Brand Marketing Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:38:52.395Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/area-general-manager-at-treebo-hospitality-ventures-4423912469?refId=bmTUM3vhDJLzJyKFoZIJDg%3D%3D&trackingId=0ZnzeUFDUU2aFOM88UPynA%3D%3D": {
+    "title": "Area General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:38:52.395Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-specialist-at-treebo-hospitality-ventures-4423894927?refId=bmTUM3vhDJLzJyKFoZIJDg%3D%3D&trackingId=AhYX9hy33OxFbFBBRYEXtQ%3D%3D": {
+    "title": "Revenue Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:38:52.395Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-business-development-manager-at-treebo-hospitality-ventures-4422819232?refId=bmTUM3vhDJLzJyKFoZIJDg%3D%3D&trackingId=NFnzpJhHKnc6rbXCbxvqvA%3D%3D": {
+    "title": "Senior Business Development Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:38:52.395Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=bmTUM3vhDJLzJyKFoZIJDg%3D%3D&trackingId=sGFFu7w6EX6TwwxBYZXdRw%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:38:52.395Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=bmTUM3vhDJLzJyKFoZIJDg%3D%3D&trackingId=VzwaefF5olQapzPyTKU00g%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:38:52.395Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-national-sales-chennai-at-treebo-hospitality-ventures-4415756575?refId=bmTUM3vhDJLzJyKFoZIJDg%3D%3D&trackingId=2lDLf5anLT5w1whkB7%2BqBg%3D%3D": {
+    "title": "Manager - National Sales - Chennai",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:38:52.395Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/beijing/associate-senior-associate-relationship-management/49841/95972709712": {
+    "title": "Associate / Senior Associate - Relationship Management",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:41:22.399Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/heredia/customer-success-mgmt-assoc/49841/95972709680": {
+    "title": "Customer Success Mgmt Assoc",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:41:22.399Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/heredia/asst-dir-customer-success-mgmt/49841/95972709664": {
+    "title": "Asst Dir-Customer Success Mgmt",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T05:41:22.399Z",
+    "matched": false
   }
 }
