@@ -82264,5 +82264,222 @@
     "mode": "onsite",
     "seenAt": "2026-06-04T19:20:50.507Z",
     "matched": false
+  },
+  "Postman::7761626003": {
+    "title": "Customer Success Engineer",
+    "mode": "skip",
+    "seenAt": "2026-06-04T21:20:50.873Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/S%C3%A3o-Paulo-Overseas-Contractor-SP/1401004733/": {
+    "title": "Overseasor",
+    "mode": "skip",
+    "seenAt": "2026-06-04T21:21:27.974Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/S%C3%A3o-Paulo-Overseas-Contractor-SP/1401005033/": {
+    "title": "Overseasor",
+    "mode": "skip",
+    "seenAt": "2026-06-04T21:21:27.974Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/S%C3%A3o-Paulo-Overseas-Contractor-SP/1401004533/": {
+    "title": "Overseasor",
+    "mode": "skip",
+    "seenAt": "2026-06-04T21:21:27.974Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/S%C3%A3o-Paulo-Overseas-Contractor-SP/1400086733/": {
+    "title": "Overseasor",
+    "mode": "skip",
+    "seenAt": "2026-06-04T21:21:27.974Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Mexico-Associate-Principal-Program-&-Project-Management-MEX/1399465833/": {
+    "title": "Associate Principal - Program & Project Management",
+    "mode": "skip",
+    "seenAt": "2026-06-04T21:21:27.974Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Databricks-Data-Engineering-Manager/355034": {
+    "title": "Databricks Data Engineering Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:21:30.352Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Supply-Chain-Functional-Transportation-Sr-Consultant/355026": {
+    "title": "Supply Chain Functional Transportation Sr Consultant",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:21:30.353Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Security-Badging-Technician/355017": {
+    "title": "Senior Security/Badging Technician",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:21:30.353Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Sr-Data-Scientist/355015": {
+    "title": "Sr. Data Scientist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:21:30.353Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Consultant-Regulatory-Change-Investment-Management/355005": {
+    "title": "Senior Consultant – Regulatory Change – Investment Management",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:21:30.354Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Consultant-Patient-Services-Salesforce-Associate-Architect/354976": {
+    "title": "Consultant, Patient Services Salesforce Associate Architect",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:21:30.354Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Consultant-Industry-Solutions-Investment-Management-SimCorp/354962": {
+    "title": "Senior Consultant, Industry Solutions, Investment Management - SimCorp",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:21:30.354Z",
+    "matched": false
+  },
+  "Canonical::7982278": {
+    "title": "Channel Partner Sales Executive",
+    "location": "Home based - Worldwide",
+    "mode": "remote",
+    "seenAt": "2026-06-04T21:21:58.713Z",
+    "matched": false
+  },
+  "Flexport India::7983441": {
+    "title": "On Site Human Resources Manager",
+    "mode": "skip",
+    "seenAt": "2026-06-04T21:25:44.138Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23348450/rr-0352499-microsoft-sr-technical-consultant-india-hyderabad-in/": {
+    "title": "RR-0352499_Microsoft Sr Technical Consultant_",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:26:56.545Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23269501/director-agentic-soc-xdr-product-owner/": {
+    "title": "Director, Agentic SOC & XDR Product Owner",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:26:56.545Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23405009/cloud-devops-engineer-24-7-sofia-bg/": {
+    "title": "Cloud DevOps Engineer 24/7",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:26:56.545Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr291423/account-executive-sales-performance-management-commercialenterprise/": {
+    "title": "Account Executive, Sales Performance Management - Commercial/Enterprise",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:27:39.044Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr342506/renewals-manager/": {
+    "title": "Renewals Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:27:39.044Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr344261/senior-manager-software-engineering-agentforce/": {
+    "title": "Senior Manager, Software Engineering - Agentforce",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:27:39.044Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-vizag-at-treebo-hospitality-ventures-4424049747?refId=I3MKi6l6OtMWZBhMvMxCkA%3D%3D&trackingId=zdGazosZ%2BlLRvma%2BsWMaGA%3D%3D": {
+    "title": "Associate Director - Development - Vizag",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:28:00.231Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/customer-service-associate-in-bangalore-hybrid-at-treebo-hospitality-ventures-4422631609?refId=I3MKi6l6OtMWZBhMvMxCkA%3D%3D&trackingId=p%2BfPWSLR6u7zvgyhOk2jog%3D%3D": {
+    "title": "Customer Service Associate in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:28:00.231Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/brand-marketing-manager-at-treebo-hospitality-ventures-4423917832?refId=I3MKi6l6OtMWZBhMvMxCkA%3D%3D&trackingId=9aKZj3jY6wPHfvXPE2cKzA%3D%3D": {
+    "title": "Brand Marketing Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:28:00.231Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/area-general-manager-at-treebo-hospitality-ventures-4423912469?refId=I3MKi6l6OtMWZBhMvMxCkA%3D%3D&trackingId=aqLEaZKT3D2f0qjyNoDG0w%3D%3D": {
+    "title": "Area General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:28:00.231Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-specialist-at-treebo-hospitality-ventures-4423894927?refId=I3MKi6l6OtMWZBhMvMxCkA%3D%3D&trackingId=mp%2FlC36tEJncxZtbVgnWgA%3D%3D": {
+    "title": "Revenue Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:28:00.231Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-business-development-manager-at-treebo-hospitality-ventures-4422819232?refId=I3MKi6l6OtMWZBhMvMxCkA%3D%3D&trackingId=P922%2FpcqjY5Xa6CCcC5xSQ%3D%3D": {
+    "title": "Senior Business Development Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:28:00.231Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=I3MKi6l6OtMWZBhMvMxCkA%3D%3D&trackingId=gpaKOib803lsWtOEEj6s1w%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:28:00.231Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=I3MKi6l6OtMWZBhMvMxCkA%3D%3D&trackingId=GRJMf5EXHxjPyOu%2FxUrN%2BQ%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:28:00.231Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=I3MKi6l6OtMWZBhMvMxCkA%3D%3D&trackingId=%2BGQ%2Fhq2LFKkgdXmOoqEEJA%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:28:00.231Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAzAAAANQAAADkAAAA=-o6Fu9+5Y2LE=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:28:15.861Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAzAAAANQAAADUAAAA=-khVeGLV1Z/8=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-04T21:28:15.861Z",
+    "matched": false
   }
 }
