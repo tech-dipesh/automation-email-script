@@ -83539,5 +83539,268 @@
     "mode": "onsite",
     "seenAt": "2026-06-05T12:16:57.399Z",
     "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Product-Architect/355107": {
+    "title": "Senior Product Architect",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:46:20.176Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Manager-SAP-EAM-PM/355044": {
+    "title": "Manager - SAP EAM/PM",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:46:20.177Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Specialist-Manager-Firm-Financial-Systems/355025": {
+    "title": "Specialist Manager, Firm Financial Systems",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:46:20.177Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/bn/careers/list/?_gl=1%2Azqw15u%2A_ga%2ANTQ4MDY0MzI3LjE3NzU2MjA0Nzk.%2A_ga_EYK44YLJMQ%2AczE3ODA2NjAyMzMkbzIkZzEkdDE3ODA2NjAyNDYkajQ3JGwwJGgw&department=Engineering": {
+    "title": "বাংলা",
+    "mode": "skip",
+    "seenAt": "2026-06-05T15:46:34.292Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/en/careers/list/?_gl=1%2Azqw15u%2A_ga%2ANTQ4MDY0MzI3LjE3NzU2MjA0Nzk.%2A_ga_EYK44YLJMQ%2AczE3ODA2NjAyMzMkbzIkZzEkdDE3ODA2NjAyNDYkajQ3JGwwJGgw&department=Engineering": {
+    "title": "English",
+    "mode": "skip",
+    "seenAt": "2026-06-05T15:46:34.292Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/hi/careers/list/?_gl=1%2Azqw15u%2A_ga%2ANTQ4MDY0MzI3LjE3NzU2MjA0Nzk.%2A_ga_EYK44YLJMQ%2AczE3ODA2NjAyMzMkbzIkZzEkdDE3ODA2NjAyNDYkajQ3JGwwJGgw&department=Engineering": {
+    "title": "हिन्दी",
+    "mode": "skip",
+    "seenAt": "2026-06-05T15:46:34.292Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/kn/careers/list/?_gl=1%2Azqw15u%2A_ga%2ANTQ4MDY0MzI3LjE3NzU2MjA0Nzk.%2A_ga_EYK44YLJMQ%2AczE3ODA2NjAyMzMkbzIkZzEkdDE3ODA2NjAyNDYkajQ3JGwwJGgw&department=Engineering": {
+    "title": "ಕನ್ನಡ",
+    "mode": "skip",
+    "seenAt": "2026-06-05T15:46:34.292Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/mr/careers/list/?_gl=1%2Azqw15u%2A_ga%2ANTQ4MDY0MzI3LjE3NzU2MjA0Nzk.%2A_ga_EYK44YLJMQ%2AczE3ODA2NjAyMzMkbzIkZzEkdDE3ODA2NjAyNDYkajQ3JGwwJGgw&department=Engineering": {
+    "title": "मराठी",
+    "mode": "skip",
+    "seenAt": "2026-06-05T15:46:34.292Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/ta/careers/list/?_gl=1%2Azqw15u%2A_ga%2ANTQ4MDY0MzI3LjE3NzU2MjA0Nzk.%2A_ga_EYK44YLJMQ%2AczE3ODA2NjAyMzMkbzIkZzEkdDE3ODA2NjAyNDYkajQ3JGwwJGgw&department=Engineering": {
+    "title": "தமிழ்",
+    "mode": "skip",
+    "seenAt": "2026-06-05T15:46:34.292Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/te/careers/list/?_gl=1%2Azqw15u%2A_ga%2ANTQ4MDY0MzI3LjE3NzU2MjA0Nzk.%2A_ga_EYK44YLJMQ%2AczE3ODA2NjAyMzMkbzIkZzEkdDE3ODA2NjAyNDYkajQ3JGwwJGgw&department=Engineering": {
+    "title": "తెలుగు",
+    "mode": "skip",
+    "seenAt": "2026-06-05T15:46:34.292Z",
+    "matched": false
+  },
+  "Canonical::5152303": {
+    "title": "Entry-level communications specialist ",
+    "mode": "skip",
+    "seenAt": "2026-06-05T15:46:47.221Z",
+    "matched": false
+  },
+  "Canonical::7981854": {
+    "title": "Graduate Sales Development Representative - Canada (Remote)",
+    "mode": "skip",
+    "seenAt": "2026-06-05T15:46:47.221Z",
+    "matched": false
+  },
+  "Figma::6014530004": {
+    "title": "Designer Advocate",
+    "mode": "skip",
+    "seenAt": "2026-06-05T15:46:47.753Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-machine-learning-engineer-cambridge-england-united-kingdom-c7f09efa-11a5-4bf8-935f-196423a74fc9": {
+    "title": "Senior Machine Learning Engineer",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-05T15:50:52.272Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-full-stack-engineer-typescript-react-node-manchester-england-united-kingdom": {
+    "title": "Senior Full Stack Engineer, Typescript/React/Node",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-05T15:50:52.272Z",
+    "matched": false
+  },
+  "Shopify India::https://www.shopify.com/careers/accounts-payable-specialist-12-months-contract_161befe8-5b94-4afb-8195-86667e2465ba": {
+    "title": "Accounts Payable Specialist (12 months)- Canada",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-05T15:50:52.455Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23466517/senior-broking-business-analyst/": {
+    "title": "Senior Broking Business Analyst",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:51:35.481Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr338914/success-guide-informatica/": {
+    "title": "Success Guide (Informatica)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:17.917Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr344178/solution-coe-strategy-operations-senior-director/": {
+    "title": "Solution COE - Strategy & Operations Senior Director",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:17.917Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr345053/manager-instructor/": {
+    "title": "Manager Instructor",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:17.917Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr343149/senior-onboarding-specialist/": {
+    "title": "Senior Onboarding Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:17.917Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr339009/salesforce-full-stack-developer-mts/": {
+    "title": "Salesforce Full Stack Developer (MTS)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:17.917Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr321581/france-country-controller-senior-director/": {
+    "title": "France Country Controller Senior Director",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:17.917Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/pricing-analyst-at-treebo-hospitality-ventures-4424567536?refId=n4XNp5mRA8ukQGuYtDuMjw%3D%3D&trackingId=Fp5q2v5Ve9LbKI2wstIk8g%3D%3D": {
+    "title": "Pricing Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:30.548Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-vizag-at-treebo-hospitality-ventures-4424049747?refId=n4XNp5mRA8ukQGuYtDuMjw%3D%3D&trackingId=ve4BB4Ba8HcV2j3pmM5jUA%3D%3D": {
+    "title": "Associate Director - Development - Vizag",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:30.548Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/customer-service-associate-in-bangalore-hybrid-at-treebo-hospitality-ventures-4422631609?refId=n4XNp5mRA8ukQGuYtDuMjw%3D%3D&trackingId=XtFTPmvWpaP4CdRY27xZdQ%3D%3D": {
+    "title": "Customer Service Associate in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:30.548Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/brand-marketing-manager-at-treebo-hospitality-ventures-4423917832?refId=n4XNp5mRA8ukQGuYtDuMjw%3D%3D&trackingId=0sI1IMxnZmefjr%2BEuqmqvg%3D%3D": {
+    "title": "Brand Marketing Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:30.548Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/area-general-manager-at-treebo-hospitality-ventures-4423912469?refId=n4XNp5mRA8ukQGuYtDuMjw%3D%3D&trackingId=sBray4JViLGgjlbgTAUXtQ%3D%3D": {
+    "title": "Area General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:30.548Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-business-development-manager-at-treebo-hospitality-ventures-4422819232?refId=n4XNp5mRA8ukQGuYtDuMjw%3D%3D&trackingId=F%2Fdqbj%2FMeo8FxrX%2BwOyJLQ%3D%3D": {
+    "title": "Senior Business Development Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:30.548Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=n4XNp5mRA8ukQGuYtDuMjw%3D%3D&trackingId=QuUSSrULweHhYwrnuwzU9A%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:30.548Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=n4XNp5mRA8ukQGuYtDuMjw%3D%3D&trackingId=sEYMJ2b%2B4aY4SuCC7X%2FXmA%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:30.548Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=n4XNp5mRA8ukQGuYtDuMjw%3D%3D&trackingId=WCTCGInCsm4099YWazKgHQ%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:30.549Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA0AAAAMAAAADAAAAA=-jApDv7A2g9E=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:35.956Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAzAAAAOQAAADgAAAA=-ref0HVvg+EY=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:35.956Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAzAAAAOQAAADIAAAA=-EyWysf4asxc=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:35.956Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAzAAAAOAAAADkAAAA=-4wFVK3gEc50=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:52:35.956Z",
+    "matched": false
+  },
+  "NTT Data India::https://careers.services.global.ntt/global/en/it-contract-jobs": {
+    "title": "ITjobs",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:53:50.282Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/london/associate-director-data-engineering/49841/96031134832": {
+    "title": "Associate Director - Data Engineering",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:54:49.384Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/london/dir-product-consultant/49841/96031134784": {
+    "title": "Dir-Product Consultant",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T15:54:49.384Z",
+    "matched": false
   }
 }
