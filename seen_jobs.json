@@ -83250,5 +83250,294 @@
     "mode": "onsite",
     "seenAt": "2026-06-05T09:09:24.829Z",
     "matched": false
+  },
+  "Arcesium::https://job-boards.greenhouse.io/arcesiumllc/jobs/4325908007": {
+    "title": "Principal EngineerTechnology; Gurugram;",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:07:09.278Z",
+    "matched": false
+  },
+  "Accenture India::https://accenture.wd103.myworkdayjobs.com/AccentureCareers/userHome": {
+    "title": "Access Application",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:07:39.874Z",
+    "matched": false
+  },
+  "Cloudflare::7957142": {
+    "title": "Named Account Executive, Public Sector & Enterprise",
+    "mode": "skip",
+    "seenAt": "2026-06-05T12:08:33.738Z",
+    "matched": false
+  },
+  "Cloudflare::7783835": {
+    "title": "Named Account Executive, Thailand",
+    "mode": "skip",
+    "seenAt": "2026-06-05T12:08:33.738Z",
+    "matched": false
+  },
+  "Cloudflare::7956926": {
+    "title": "Territory Account Executive, Philippines",
+    "mode": "skip",
+    "seenAt": "2026-06-05T12:08:33.738Z",
+    "matched": false
+  },
+  "Figma::6014235004": {
+    "title": "Recruiter (Berlin, Germany)",
+    "mode": "skip",
+    "seenAt": "2026-06-05T12:08:36.839Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/belfast/international-trade-compliance-manager/185/95293458944": {
+    "title": "International Trade Compliance Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:08:43.647Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/shanghai/senior-technical-pilot-787-777/185/96021836176": {
+    "title": "Senior Technical Pilot - 787 / 777",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:08:43.647Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/berkeley/nondestructive-test-ndt-technician-ut-and-rt/185/94564697216": {
+    "title": "Nondestructive Test (NDT) Technician - UT & RT",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:08:43.647Z",
+    "matched": false
+  },
+  "Expedia Group India::https://careers.expediagroup.com/?blackhole=462de32823": {
+    "title": "Expedia Group | Careers",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:08:55.623Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/noida/analog-and-mixed-signal-design-apprenticeship/44408/96022999056": {
+    "title": "Analog and Mixed Signal Design Apprenticeship",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:09:40.249Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/bengaluru/software-engineering-staff-engineer/44408/96022999008": {
+    "title": "Software Engineering, Staff Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:09:40.249Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/seongnam-si/sales-account-management-principal/44408/96022998960": {
+    "title": "Sales Account Management, Principal",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:09:40.249Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/26019351/assistant-manager-mumbai-india": {
+    "title": "Assistant Manager",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:09:53.003Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/26019552/team-member-gurugram-india": {
+    "title": "Team Member",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:09:53.003Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/software-engineer-machine-learning-bengaluru-karnataka-india": {
+    "title": "Software Engineer - Machine Learning",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-05T12:12:46.159Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-software-engineer-fullstack-bengaluru-karnataka-india-5685dba9-1d54-462d-b54c-3749af3f80df": {
+    "title": "Senior Software Engineer - FullStack",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-05T12:12:46.159Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-machine-learning-engineer-san-jose-california-united-states-f002e3fe-2666-4855-b39a-b98bd85a84df": {
+    "title": "Senior Machine Learning Engineer",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-05T12:12:46.159Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-manager-software-engineering-data-bengaluru-karnataka-india": {
+    "title": "Senior Manager , Software Engineering - Data",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-05T12:12:46.159Z",
+    "matched": false
+  },
+  "Upwork::7722057003": {
+    "title": "Lead Machine Learning Engineer / Applied Scientist",
+    "mode": "skip",
+    "seenAt": "2026-06-05T12:12:55.918Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23465377/servicenow-technical-lead-noida-in/": {
+    "title": "ServiceNow Technical Lead",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:13:33.869Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23465284/analyst-i-business-process-transactions-rr-0375428-noida-in/": {
+    "title": "Analyst I Business Process Transactions/RR-0375428",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:13:33.869Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23435402/associate-manager-software-engineering-tan-binh-vn/": {
+    "title": "Associate Manager Software Engineering",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:13:33.869Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/pricing-analyst-at-treebo-hospitality-ventures-4424567536?refId=Xv7%2FAPxT%2BufBbDCOMt12AA%3D%3D&trackingId=lY4%2Fbzx1QAWvmA6mmK8HIQ%3D%3D": {
+    "title": "Pricing Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:14:33.802Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-vizag-at-treebo-hospitality-ventures-4424049747?refId=Xv7%2FAPxT%2BufBbDCOMt12AA%3D%3D&trackingId=qAcWoUNEoiTgTxjrasinqA%3D%3D": {
+    "title": "Associate Director - Development - Vizag",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:14:33.802Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/customer-service-associate-in-bangalore-hybrid-at-treebo-hospitality-ventures-4422631609?refId=Xv7%2FAPxT%2BufBbDCOMt12AA%3D%3D&trackingId=pgtFtSmYIJpy8ixK4o1sKA%3D%3D": {
+    "title": "Customer Service Associate in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:14:33.802Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/brand-marketing-manager-at-treebo-hospitality-ventures-4423917832?refId=Xv7%2FAPxT%2BufBbDCOMt12AA%3D%3D&trackingId=c4J3NlIUc%2B6pPUBQLUITEQ%3D%3D": {
+    "title": "Brand Marketing Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:14:33.802Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/area-general-manager-at-treebo-hospitality-ventures-4423912469?refId=Xv7%2FAPxT%2BufBbDCOMt12AA%3D%3D&trackingId=Q2Bg7213Q5etopxZoZvDxQ%3D%3D": {
+    "title": "Area General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:14:33.802Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-business-development-manager-at-treebo-hospitality-ventures-4422819232?refId=Xv7%2FAPxT%2BufBbDCOMt12AA%3D%3D&trackingId=HY6%2FemawHV%2FDg42uNk1seg%3D%3D": {
+    "title": "Senior Business Development Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:14:33.802Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=Xv7%2FAPxT%2BufBbDCOMt12AA%3D%3D&trackingId=L0tL%2FcevjjJO7lz6y7fbKw%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:14:33.802Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=Xv7%2FAPxT%2BufBbDCOMt12AA%3D%3D&trackingId=AnKWkoLM%2BxYjJtT514Uqbw%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:14:33.802Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=Xv7%2FAPxT%2BufBbDCOMt12AA%3D%3D&trackingId=wBG5doGk4fzQWpaR5NKwOw%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:14:33.802Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAzAAAAOAAAADUAAAA=-/we7lkSW7vI=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:14:42.119Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAAzAAAAOAAAADAAAAA=-kRtA8pJ96sk=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:14:42.119Z",
+    "matched": false
+  },
+  "PayU India::https://payu.in/PayU/job/Bengaluru-Lead-Fraud-Risk-Analyst/3721080/": {
+    "title": "Lead Fraud Risk Analyst",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:14:49.602Z",
+    "matched": false
+  },
+  "PayU India::https://payu.in/PayU/job/Bengaluru-P4-Key-Account-Manager-Outbound-Sales/53566480/": {
+    "title": "P4 Key Account Manager - Outbound Sales",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:14:49.602Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/developpeur-full-stack-risque-operationnel-algo-trading-h-f-26000DZ7-en": {
+    "title": "DÉVELOPPEUR FULL STACK - RISQUE OPÉRATIONNEL ALGO TRADING (H/F)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:15:59.194Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/intern-compliance-26000DZD-en": {
+    "title": "INTERN: Compliance",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:15:59.194Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/trainee-enterprise-risk-management-26000DZ6-en": {
+    "title": "TRAINEE: Enterprise Risk Management",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:15:59.194Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/business-data-analyst-26000DYR-en": {
+    "title": "Business Data Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:15:59.194Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/lead-software-engineer-oic-2600093S-en": {
+    "title": "Lead Software Engineer - OIC",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:15:59.194Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/bengaluru/manager-ratings-and-research-support-gcc/49841/96022605504": {
+    "title": "Manager-Ratings and Research Support GCC",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-05T12:16:57.399Z",
+    "matched": false
   }
 }
