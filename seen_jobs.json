@@ -85119,5 +85119,110 @@
     "mode": "onsite",
     "seenAt": "2026-06-06T08:25:44.699Z",
     "matched": false
+  },
+  "Uber::https://www.uber.com/in/bn/careers/list/?department=Engineering&userId": {
+    "title": "বাংলা",
+    "mode": "skip",
+    "seenAt": "2026-06-06T10:50:13.727Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/en/careers/list/?department=Engineering&userId": {
+    "title": "English",
+    "mode": "skip",
+    "seenAt": "2026-06-06T10:50:13.727Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/hi/careers/list/?department=Engineering&userId": {
+    "title": "हिन्दी",
+    "mode": "skip",
+    "seenAt": "2026-06-06T10:50:13.727Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/kn/careers/list/?department=Engineering&userId": {
+    "title": "ಕನ್ನಡ",
+    "mode": "skip",
+    "seenAt": "2026-06-06T10:50:13.727Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/mr/careers/list/?department=Engineering&userId": {
+    "title": "मराठी",
+    "mode": "skip",
+    "seenAt": "2026-06-06T10:50:13.727Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/ta/careers/list/?department=Engineering&userId": {
+    "title": "தமிழ்",
+    "mode": "skip",
+    "seenAt": "2026-06-06T10:50:13.727Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/te/careers/list/?department=Engineering&userId": {
+    "title": "తెలుగు",
+    "mode": "skip",
+    "seenAt": "2026-06-06T10:50:13.727Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-corporate-sales-manager-at-treebo-hospitality-ventures-4424652538?refId=rJdyF90eYoCQatqD5UKLYQ%3D%3D&trackingId=KzZvqnOobNPh5YB0nmD8BA%3D%3D": {
+    "title": "Senior Corporate Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-06T10:55:50.870Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/pricing-analyst-at-treebo-hospitality-ventures-4424567536?refId=rJdyF90eYoCQatqD5UKLYQ%3D%3D&trackingId=W0Z%2Fmm3Npv0gDYoSZ4tJ1w%3D%3D": {
+    "title": "Pricing Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-06T10:55:50.871Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-vizag-at-treebo-hospitality-ventures-4424049747?refId=rJdyF90eYoCQatqD5UKLYQ%3D%3D&trackingId=gQw9jmFpwrnyGckv6rYc%2BA%3D%3D": {
+    "title": "Associate Director - Development - Vizag",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-06T10:55:50.871Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/customer-service-associate-in-bangalore-hybrid-at-treebo-hospitality-ventures-4422631609?refId=rJdyF90eYoCQatqD5UKLYQ%3D%3D&trackingId=703IwFHzeAUH1zLUft4C7w%3D%3D": {
+    "title": "Customer Service Associate in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-06T10:55:50.871Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/area-general-manager-at-treebo-hospitality-ventures-4423912469?refId=rJdyF90eYoCQatqD5UKLYQ%3D%3D&trackingId=PoRTXlXyLdk6Xn5hWN%2F3nA%3D%3D": {
+    "title": "Area General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-06T10:55:50.871Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-business-development-manager-at-treebo-hospitality-ventures-4422819232?refId=rJdyF90eYoCQatqD5UKLYQ%3D%3D&trackingId=71iIKG0FIDb8QWXEZnwNEw%3D%3D": {
+    "title": "Senior Business Development Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-06T10:55:50.871Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=rJdyF90eYoCQatqD5UKLYQ%3D%3D&trackingId=ptUufpm8OhRJhM8HLSgjHg%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-06T10:55:50.871Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=rJdyF90eYoCQatqD5UKLYQ%3D%3D&trackingId=SYr%2FCf5oKWNUx%2FXLhY0zog%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-06T10:55:50.871Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-internship-in-bangalore-hybrid-at-treebo-hospitality-ventures-4411840314?refId=rJdyF90eYoCQatqD5UKLYQ%3D%3D&trackingId=5egl7OFWhRd7Xoq0ABg%2Bnw%3D%3D": {
+    "title": "Revenue Internship in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-06T10:55:50.871Z",
+    "matched": false
   }
 }
