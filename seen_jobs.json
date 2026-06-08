@@ -87881,5 +87881,200 @@
     "mode": "onsite",
     "seenAt": "2026-06-08T17:51:37.855Z",
     "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Data-Scientist-Government-Public-Services/355332": {
+    "title": "Senior Data Scientist - Government & Public Services",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T19:58:05.885Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Product-Engineering-Product-Manager/355323": {
+    "title": "Product Engineering: Product Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T19:58:05.886Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Security-Engineer-III-Cyber-Threat-Hunter/355314": {
+    "title": "Security Engineer III, Cyber Threat Hunter",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T19:58:05.886Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Deployment-Operations-Manager/355309": {
+    "title": "Deployment & Operations Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T19:58:05.886Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Technical-Product-Analyst/355305": {
+    "title": "Technical Product Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T19:58:05.886Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Security-Engineer-II-Splunk-Security-Content-Visualization-Expert-Secret-Clearance/355302": {
+    "title": "Lead Security Engineer II, Splunk Security Content Visualization Expert (Secret Clearance)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T19:58:05.887Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Deployment-Operations-Manager/355296": {
+    "title": "Deployment & Operations Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T19:58:05.887Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/UKG-PRO-HCM-Senior-Consultant/355295": {
+    "title": "UKG PRO HCM Senior Consultant",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T19:58:05.887Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/bn/careers/list/?_gl=1%2A2jupt3%2A_ga%2AMTU5NTc3MDk0OS4xNzc3OTU3MDYy%2A_ga_EYK44YLJMQ%2AczE3ODA5NDc0NjAkbzQkZzEkdDE3ODA5NDc0NzQkajQ2JGwwJGgw&department=Engineering": {
+    "title": "বাংলা",
+    "mode": "skip",
+    "seenAt": "2026-06-08T19:59:04.168Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/en/careers/list/?_gl=1%2A2jupt3%2A_ga%2AMTU5NTc3MDk0OS4xNzc3OTU3MDYy%2A_ga_EYK44YLJMQ%2AczE3ODA5NDc0NjAkbzQkZzEkdDE3ODA5NDc0NzQkajQ2JGwwJGgw&department=Engineering": {
+    "title": "English",
+    "mode": "skip",
+    "seenAt": "2026-06-08T19:59:04.168Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/hi/careers/list/?_gl=1%2A2jupt3%2A_ga%2AMTU5NTc3MDk0OS4xNzc3OTU3MDYy%2A_ga_EYK44YLJMQ%2AczE3ODA5NDc0NjAkbzQkZzEkdDE3ODA5NDc0NzQkajQ2JGwwJGgw&department=Engineering": {
+    "title": "हिन्दी",
+    "mode": "skip",
+    "seenAt": "2026-06-08T19:59:04.168Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/kn/careers/list/?_gl=1%2A2jupt3%2A_ga%2AMTU5NTc3MDk0OS4xNzc3OTU3MDYy%2A_ga_EYK44YLJMQ%2AczE3ODA5NDc0NjAkbzQkZzEkdDE3ODA5NDc0NzQkajQ2JGwwJGgw&department=Engineering": {
+    "title": "ಕನ್ನಡ",
+    "mode": "skip",
+    "seenAt": "2026-06-08T19:59:04.168Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/mr/careers/list/?_gl=1%2A2jupt3%2A_ga%2AMTU5NTc3MDk0OS4xNzc3OTU3MDYy%2A_ga_EYK44YLJMQ%2AczE3ODA5NDc0NjAkbzQkZzEkdDE3ODA5NDc0NzQkajQ2JGwwJGgw&department=Engineering": {
+    "title": "मराठी",
+    "mode": "skip",
+    "seenAt": "2026-06-08T19:59:04.168Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/ta/careers/list/?_gl=1%2A2jupt3%2A_ga%2AMTU5NTc3MDk0OS4xNzc3OTU3MDYy%2A_ga_EYK44YLJMQ%2AczE3ODA5NDc0NjAkbzQkZzEkdDE3ODA5NDc0NzQkajQ2JGwwJGgw&department=Engineering": {
+    "title": "தமிழ்",
+    "mode": "skip",
+    "seenAt": "2026-06-08T19:59:04.168Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/te/careers/list/?_gl=1%2A2jupt3%2A_ga%2AMTU5NTc3MDk0OS4xNzc3OTU3MDYy%2A_ga_EYK44YLJMQ%2AczE3ODA5NDc0NjAkbzQkZzEkdDE3ODA5NDc0NzQkajQ2JGwwJGgw&department=Engineering": {
+    "title": "తెలుగు",
+    "mode": "skip",
+    "seenAt": "2026-06-08T19:59:04.168Z",
+    "matched": false
+  },
+  "GitLab::8574978002": {
+    "title": "Principal HRIS Analyst, People Technology - Workday",
+    "mode": "skip",
+    "seenAt": "2026-06-08T19:59:12.908Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-machine-learning-engineer-austin-texas-united-states-fa5789b6-7502-42ee-ba02-3fe52b51e194": {
+    "title": "Senior Machine Learning Engineer",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-08T20:03:11.222Z",
+    "matched": false
+  },
+  "Shopify India::https://www.shopify.com/careers/senior-project-manager-real-estate-18-month-contract_6738f2e2-3da3-4dd5-a6b2-ccbe2ecd3863": {
+    "title": "Senior Project Manager, Real Estate (18-month)Toronto",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-08T20:03:11.356Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23472202/business-analyst-tokyo-jp/": {
+    "title": "Business Analyst",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T20:03:56.942Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/area-general-manager-at-treebo-hospitality-ventures-4423912469?refId=IO%2B%2FkidrzUILzREjYrn3sA%3D%3D&trackingId=NL2MFGb1itoC6gOmZk%2BjTA%3D%3D": {
+    "title": "Area General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T20:05:36.369Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-specialist-at-treebo-hospitality-ventures-4425093451?refId=IO%2B%2FkidrzUILzREjYrn3sA%3D%3D&trackingId=Ao04r722jFRL6fueE%2BdSjg%3D%3D": {
+    "title": "Revenue Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T20:05:36.369Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/pricing-analyst-at-treebo-hospitality-ventures-4424567536?refId=IO%2B%2FkidrzUILzREjYrn3sA%3D%3D&trackingId=OI8tJMtBTvnShjOOBOLexw%3D%3D": {
+    "title": "Pricing Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T20:05:36.369Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-vizag-at-treebo-hospitality-ventures-4424049747?refId=IO%2B%2FkidrzUILzREjYrn3sA%3D%3D&trackingId=oxapMidz3BiGzpMrERPZ2Q%3D%3D": {
+    "title": "Associate Director - Development - Vizag",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T20:05:36.369Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/customer-service-associate-in-bangalore-hybrid-at-treebo-hospitality-ventures-4422631609?refId=IO%2B%2FkidrzUILzREjYrn3sA%3D%3D&trackingId=86ZaEMTDCY8tTS%2FHDvBqyA%3D%3D": {
+    "title": "Customer Service Associate in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T20:05:36.369Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-business-development-manager-at-treebo-hospitality-ventures-4422819232?refId=IO%2B%2FkidrzUILzREjYrn3sA%3D%3D&trackingId=z55xRVN4YQ6omvAssoVm2g%3D%3D": {
+    "title": "Senior Business Development Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T20:05:36.369Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=IO%2B%2FkidrzUILzREjYrn3sA%3D%3D&trackingId=Z%2BqFagEUTuIg4aEkecKMQg%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T20:05:36.369Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=IO%2B%2FkidrzUILzREjYrn3sA%3D%3D&trackingId=sj5i8VBzER9h8Xl7Ajzwew%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T20:05:36.369Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=IO%2B%2FkidrzUILzREjYrn3sA%3D%3D&trackingId=0S2191h%2B%2FrvOGmc2yXmGWw%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T20:05:36.369Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA1AAAANwAAADgAAAA=-mCdXdaoV4cM=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T20:05:41.933Z",
+    "matched": false
   }
 }
