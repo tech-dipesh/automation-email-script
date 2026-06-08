@@ -86991,5 +86991,324 @@
     "mode": "onsite",
     "seenAt": "2026-06-08T05:29:35.216Z",
     "matched": false
+  },
+  "Cloudflare::7978887": {
+    "title": "Sr Procurement Functional Specialist",
+    "mode": "skip",
+    "seenAt": "2026-06-08T10:11:37.794Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/bengaluru/experienced-software-developer-java/185/95532857984": {
+    "title": "Experienced Software Developer - Java",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:11:45.736Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/bengaluru/experienced-software-engineer/185/95275698176": {
+    "title": "Experienced Software Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:11:45.736Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/tokyo/applications-engineering-sr-staff-engineer/44408/94275399712": {
+    "title": "Applications Engineering, Sr Staff Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:12:38.988Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/tokyo/program-management-technical/44408/94315806256": {
+    "title": "Program Management (Technical)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:12:38.988Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/hyderabad/financial-planning-and-analysis-staff/44408/94212498016": {
+    "title": "Financial Planning & Analysis, Staff",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:12:38.988Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/tokyo/sales-account-management-staff/44408/93375604592": {
+    "title": "Sales Account Management, Staff",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:12:38.988Z",
+    "matched": false
+  },
+  "Flexport India::7985221": {
+    "title": "Senior Manager, FP&A",
+    "mode": "skip",
+    "seenAt": "2026-06-08T10:15:00.525Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-software-engineer-machine-learning-ml-ops-bengaluru-karnataka-india": {
+    "title": "Senior Software Engineer, Machine Learning (ML Ops)",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-08T10:15:18.144Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-software-engineer-streaming-apps-bengaluru-karnataka-india-9e37ef7f-ade1-4375-877d-8a19db48fa42": {
+    "title": "Senior Software Engineer - Streaming Apps",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-08T10:15:18.144Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23472116/senior-java-net-c-software-engineer-japanese-tan-binh-vn/": {
+    "title": "Senior Java/.NET/C Software Engineer (Japanese)",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:00.390Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23472103/rr-0299202-analyst-ii-software-engineering-mumbai-in/": {
+    "title": "RR-0299202 Analyst II Software Engineering",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:00.390Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23257147/junior-java-developer-tan-binh-vn/": {
+    "title": "Junior Java Developer",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:00.390Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr345257/platform-account-executive/": {
+    "title": "Platform Account Executive",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:43.529Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr345395/marketing-cloud-account-executive/": {
+    "title": "Marketing Cloud Account Executive",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:43.529Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr324106/seniorlead-account-solution-engineer-norway/": {
+    "title": "Senior/Lead - Account Solution Engineer - Norway",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:43.529Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr336470/regional-sales-director/": {
+    "title": "Regional Sales Director",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:43.529Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr345413/mtssmtslmts-software-engineer/": {
+    "title": "MTS/SMTS/LMTS/ Software Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:43.529Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr344206/alliances-partner-account-manager-osp-%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%83%88-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%A8%E3%82%B0%E3%82%BC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96/": {
+    "title": "Alliances - Partner Account Manager /OSP スペシャリスト アカウントエグゼクティブ",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:43.530Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr345336/contract-specialist/": {
+    "title": "Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:43.530Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/area-general-manager-at-treebo-hospitality-ventures-4423912469?refId=wgjG2QUGcTuvoyXjjelftg%3D%3D&trackingId=nNGHkFX61OkuRCoySUvntA%3D%3D": {
+    "title": "Area General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:55.725Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-specialist-at-treebo-hospitality-ventures-4425093451?refId=wgjG2QUGcTuvoyXjjelftg%3D%3D&trackingId=Nle0vUPcUY0rO3n8rPm3XA%3D%3D": {
+    "title": "Revenue Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:55.725Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/pricing-analyst-at-treebo-hospitality-ventures-4424567536?refId=wgjG2QUGcTuvoyXjjelftg%3D%3D&trackingId=nIKj%2BKTti0%2F0rA7zHnoDlg%3D%3D": {
+    "title": "Pricing Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:55.725Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-vizag-at-treebo-hospitality-ventures-4424049747?refId=wgjG2QUGcTuvoyXjjelftg%3D%3D&trackingId=aLLiddv%2BOx2JloE2twgfPQ%3D%3D": {
+    "title": "Associate Director - Development - Vizag",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:55.725Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/customer-service-associate-in-bangalore-hybrid-at-treebo-hospitality-ventures-4422631609?refId=wgjG2QUGcTuvoyXjjelftg%3D%3D&trackingId=GgF82ksHRw3eSKfJCkwiOw%3D%3D": {
+    "title": "Customer Service Associate in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:55.725Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-business-development-manager-at-treebo-hospitality-ventures-4422819232?refId=wgjG2QUGcTuvoyXjjelftg%3D%3D&trackingId=zyefcaEMFS7AU%2BebcJeQeA%3D%3D": {
+    "title": "Senior Business Development Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:55.725Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=wgjG2QUGcTuvoyXjjelftg%3D%3D&trackingId=rUpZLXUvhDTCHReDESuf7A%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:55.725Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=wgjG2QUGcTuvoyXjjelftg%3D%3D&trackingId=EneIKxMUv0O300Sig9dogg%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:55.725Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=wgjG2QUGcTuvoyXjjelftg%3D%3D&trackingId=4GH02k2GrzktsGbig2pTMg%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:16:55.725Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA1AAAAMgAAADUAAAA=-O6nHjqkUW54=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:17:01.291Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA1AAAAMgAAADEAAAA=-/o07Yd30xaM=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:17:01.291Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA1AAAAMQAAADcAAAA=-U0t7+CCT6PM=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:17:01.291Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA1AAAAMQAAADMAAAA=-DIeGorzJCes=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:17:01.291Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA1AAAAMAAAADkAAAA=-+9EQ/O8PtKY=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:17:01.291Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA1AAAAMAAAADUAAAA=-erHS0XK0JKI=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:17:01.291Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA1AAAAMAAAADMAAAA=-bHlkrY5LaAc=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:17:01.291Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA0AAAAOQAAADkAAAA=-eK9+Wk8hCkA=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:17:01.291Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA0AAAAOQAAADUAAAA=-PAgtzcUomWU=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:17:01.291Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA0AAAAOQAAADEAAAA=-zGcN54CwG8Q=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:17:01.291Z",
+    "matched": false
+  },
+  "Elastic India::7817945": {
+    "title": "Senior Solution Architect, Mumbai",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:18:05.513Z",
+    "matched": false
+  },
+  "Elastic India::7988325": {
+    "title": "Tax Manager (EMEA & APJ) ",
+    "mode": "skip",
+    "seenAt": "2026-06-08T10:18:05.513Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/bengaluru/senior-financial-data-analyst/49841/95976917904": {
+    "title": "Senior Financial Data Analyst",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:19:10.265Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/bengaluru/software-engineer-ai-engineer/49841/96156999168": {
+    "title": "Software Engineer - AI Engineer",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:19:10.265Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/brussels/associate-qa-automation-engineer-databricks/49841/94478110768": {
+    "title": "Associate QA Automation Engineer (Databricks)",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:19:10.265Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/tokyo/associate-director-relationship-manager/49841/94478110176": {
+    "title": "Associate Director- Relationship Manager",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:19:10.265Z",
+    "matched": false
+  },
+  "Sarvam AI::https://www.sarvam.ai/careers/jobs/8b83a923-78ac-485d-a1b4-304ea526160c": {
+    "title": "CISOOn-Site",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-08T10:20:31.501Z",
+    "matched": false
   }
 }
