@@ -89675,5 +89675,310 @@
     "mode": "onsite",
     "seenAt": "2026-06-09T12:08:34.474Z",
     "matched": false
+  },
+  "Arcesium::https://job-boards.greenhouse.io/arcesiumllc/jobs/4326971007": {
+    "title": "Principal Engineer - Solutions ArchitectTechnology; Gurugram;",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:39:46.348Z",
+    "matched": false
+  },
+  "Arcesium::https://job-boards.greenhouse.io/arcesiumllc/jobs/4325356007": {
+    "title": "Senior Principal EngineerTechnology; Gurugram;",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:39:46.348Z",
+    "matched": false
+  },
+  "Arcesium::https://job-boards.greenhouse.io/arcesiumllc/jobs/4993157007": {
+    "title": "Senior Software Engineer - FrontendTechnology; Gurugram;",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:39:46.348Z",
+    "matched": false
+  },
+  "Arcesium::https://job-boards.greenhouse.io/arcesiumllc/jobs/5159675007": {
+    "title": "Solutions Architect - Front Office (Pre-Sales)Client and Partner DevelopmentStockholm, Sweden",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:39:46.348Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Senior-Consultant-ServiceNow-Developer/355459": {
+    "title": "Delivery Senior Consultant, ServiceNow Developer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:41:15.914Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Knowledge-Management-Specialist-TS-Clearance/355458": {
+    "title": "Knowledge Management Specialist (TS Clearance)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:41:15.914Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Consultant-ServiceNow-Developer/355457": {
+    "title": "Delivery Consultant, ServiceNow Developer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:41:15.914Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Life-Actuary-Senior-Consultant/355449": {
+    "title": "Life Actuary Senior Consultant",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:41:15.914Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Consultant-IT-Strategy-Growth-Transformation/355395": {
+    "title": "Senior Consultant, IT Strategy Growth & Transformation",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:41:15.914Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/SAP-BODS-Data-Conversion-Senior-Consultant/355371": {
+    "title": "SAP BODS/Data Conversion Senior Consultant",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:41:15.914Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/SAP-BODS-Data-Conversion-Consultant/355368": {
+    "title": "SAP BODS/Data Conversion Consultant",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:41:15.914Z",
+    "matched": false
+  },
+  "Cloudflare::7990300": {
+    "title": "Senior Employee Relations Partner",
+    "mode": "skip",
+    "seenAt": "2026-06-09T14:42:25.323Z",
+    "matched": false
+  },
+  "GitLab::8583758002": {
+    "title": "Enterprise Account Executive - CIS (Russian Speaker)",
+    "location": "Remote, Germany",
+    "mode": "remote",
+    "seenAt": "2026-06-09T14:42:25.552Z",
+    "matched": false
+  },
+  "GitLab::8583759002": {
+    "title": "Enterprise Account Executive - CIS (Russian Speaker)",
+    "location": "Remote, Ireland",
+    "mode": "remote",
+    "seenAt": "2026-06-09T14:42:25.552Z",
+    "matched": false
+  },
+  "GitLab::8583761002": {
+    "title": "Enterprise Account Executive - CIS (Russian Speaker)",
+    "location": "Remote, Netherlands",
+    "mode": "remote",
+    "seenAt": "2026-06-09T14:42:25.552Z",
+    "matched": false
+  },
+  "GitLab::8583753002": {
+    "title": "Senior Commercial Account Executive - CIS (Russian Speaker)",
+    "location": "Remote, Netherlands",
+    "mode": "remote",
+    "seenAt": "2026-06-09T14:42:25.552Z",
+    "matched": false
+  },
+  "GitLab::8551468002": {
+    "title": "Senior Commercial Account Executive - CIS (Russian Speaker)",
+    "location": "Remote, Germany",
+    "mode": "remote",
+    "seenAt": "2026-06-09T14:42:25.552Z",
+    "matched": false
+  },
+  "GitLab::8583752002": {
+    "title": "Senior Commercial Account Executive - CIS (Russian Speaker)",
+    "location": "Remote, Ireland",
+    "mode": "remote",
+    "seenAt": "2026-06-09T14:42:25.552Z",
+    "matched": false
+  },
+  "GitLab::8488427002": {
+    "title": "Senior Solutions Architect, Microsoft SME",
+    "location": "Remote, North America",
+    "mode": "remote",
+    "seenAt": "2026-06-09T14:42:25.552Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/wichita/advanced-metals-and-fabrication-research-engineer/185/93807694032": {
+    "title": "Advanced Metals and Fabrication Research Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:42:36.940Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/bengaluru/associate-user-experience-ux-designers/185/96205847760": {
+    "title": "Associate User Experience (UX) Designers",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:42:36.940Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/lossiemouth/logistics-support-analysis-engineer/185/96205846720": {
+    "title": "Logistics Support Analysis Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:42:36.940Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/senior-strategist-enablement-platforms/austin-tx/R-106268-1/": {
+    "title": "Senior Strategist, Enablement Platforms United States - Texas - Austin Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:42:48.933Z",
+    "matched": false
+  },
+  "UpGrad::https://www.upgrad.com/blog/agentic-ai-learning-path/": {
+    "title": "Agentic AI Learning Path: A Complete Guide for Developers and AI Professionals",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:43:39.443Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/engineeing-manager-machine-learning-bengaluru-karnataka-india": {
+    "title": "Engineeing Manager, Machine Learning",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-09T14:46:34.016Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/22666220/sr-tech-analyst-i-portia2-chennai-in/": {
+    "title": "Sr Tech Analyst I -Portia2",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:47:22.141Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/22982891/ict-consultant-categorie-protette-rome-it/": {
+    "title": "ICT consultant - Categorie Protette",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:47:22.141Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/site-reliability-engineer-at-treebo-hospitality-ventures-4425584083?refId=XdRIedbPCFvqciUXHQQdZw%3D%3D&trackingId=z1foiBAVvsew9mTZd1RWmA%3D%3D": {
+    "title": "Site Reliability Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:48:44.566Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/area-general-manager-at-treebo-hospitality-ventures-4423912469?refId=XdRIedbPCFvqciUXHQQdZw%3D%3D&trackingId=7UF8EUIMpZBv%2BhegffM%2FFA%3D%3D": {
+    "title": "Area General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:48:44.566Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-specialist-at-treebo-hospitality-ventures-4425093451?refId=XdRIedbPCFvqciUXHQQdZw%3D%3D&trackingId=fqn3q%2BrgC%2FOYMNhVX4EfhA%3D%3D": {
+    "title": "Revenue Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:48:44.566Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/pricing-analyst-at-treebo-hospitality-ventures-4424567536?refId=XdRIedbPCFvqciUXHQQdZw%3D%3D&trackingId=ErZQpO%2FI649oWGkTObf5cA%3D%3D": {
+    "title": "Pricing Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:48:44.566Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-vizag-at-treebo-hospitality-ventures-4424049747?refId=XdRIedbPCFvqciUXHQQdZw%3D%3D&trackingId=%2BverAOCJycMi2f4%2F65NN1Q%3D%3D": {
+    "title": "Associate Director - Development - Vizag",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:48:44.566Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/customer-service-associate-in-bangalore-hybrid-at-treebo-hospitality-ventures-4422631609?refId=XdRIedbPCFvqciUXHQQdZw%3D%3D&trackingId=oHN1tagk55itcj2DVsAMbQ%3D%3D": {
+    "title": "Customer Service Associate in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:48:44.566Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=XdRIedbPCFvqciUXHQQdZw%3D%3D&trackingId=JSPjnscjZzCr9q9zrfGsFA%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:48:44.566Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=XdRIedbPCFvqciUXHQQdZw%3D%3D&trackingId=7%2BVNh6sUynl%2FoPNmOs32Bw%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:48:44.567Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=XdRIedbPCFvqciUXHQQdZw%3D%3D&trackingId=7HJhsDqZ%2B2v3GgcgEWj7zg%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:48:44.567Z",
+    "matched": false
+  },
+  "Elastic India::7992591": {
+    "title": "Principal Product Manager Infrastructure, Observability",
+    "mode": "skip",
+    "seenAt": "2026-06-09T14:50:20.392Z",
+    "matched": false
+  },
+  "Elastic India::7992592": {
+    "title": "Principal Product Manager Infrastructure, Observability",
+    "mode": "skip",
+    "seenAt": "2026-06-09T14:50:20.392Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/administrator-operatiuni-curente-agentia-george-enescu-26000CSB-en": {
+    "title": "Administrator Operatiuni Curente-Agentia George Enescu",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:50:40.400Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/project-finance-energy-and-infrastructure-analyst-m-f-d-26000CYJ-en": {
+    "title": "Project Finance - Energy and Infrastructure -Analyst – M/F/D",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:50:40.401Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/trainee-strategic-capital-advisory-maritime-26000E8I-en": {
+    "title": "Trainee - Strategic & Capital Advisory (Maritime)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:50:40.401Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/payments-back-office-agent-26000E7P-en": {
+    "title": "Payments Back Office Agent",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:50:40.401Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/paris/svp-investor-sales-and-marketing/49841/94478110080": {
+    "title": "SVP - Investor Sales & Marketing",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:51:38.648Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/charlotte/vp-mgr-software-engineering/49841/96207872288": {
+    "title": "VP Mgr-Software Engineering",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T14:51:38.648Z",
+    "matched": false
   }
 }
