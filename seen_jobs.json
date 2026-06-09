@@ -88920,5 +88920,262 @@
     "mode": "onsite",
     "seenAt": "2026-06-09T02:00:56.001Z",
     "matched": false
+  },
+  "Paytm::6c78690a-84e6-46bf-9014-13b6f8ce6ccc": {
+    "title": "Growth Management - Senior Manager",
+    "location": "Noida, Uttar Pradesh",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T05:56:45.332Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/bn/careers/list/?_gl=1%2A1ofvrk6%2A_ga%2AMTY1MzU1NDc5LjE3Nzk5NjQ0MzM.%2A_ga_EYK44YLJMQ%2AczE3ODA5MTgwMTYkbzIkZzEkdDE3ODA5MTgwMjYkajUwJGwwJGgw&department=Engineering": {
+    "title": "বাংলা",
+    "mode": "skip",
+    "seenAt": "2026-06-09T05:58:11.299Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/en/careers/list/?_gl=1%2A1ofvrk6%2A_ga%2AMTY1MzU1NDc5LjE3Nzk5NjQ0MzM.%2A_ga_EYK44YLJMQ%2AczE3ODA5MTgwMTYkbzIkZzEkdDE3ODA5MTgwMjYkajUwJGwwJGgw&department=Engineering": {
+    "title": "English",
+    "mode": "skip",
+    "seenAt": "2026-06-09T05:58:11.299Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/hi/careers/list/?_gl=1%2A1ofvrk6%2A_ga%2AMTY1MzU1NDc5LjE3Nzk5NjQ0MzM.%2A_ga_EYK44YLJMQ%2AczE3ODA5MTgwMTYkbzIkZzEkdDE3ODA5MTgwMjYkajUwJGwwJGgw&department=Engineering": {
+    "title": "हिन्दी",
+    "mode": "skip",
+    "seenAt": "2026-06-09T05:58:11.299Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/kn/careers/list/?_gl=1%2A1ofvrk6%2A_ga%2AMTY1MzU1NDc5LjE3Nzk5NjQ0MzM.%2A_ga_EYK44YLJMQ%2AczE3ODA5MTgwMTYkbzIkZzEkdDE3ODA5MTgwMjYkajUwJGwwJGgw&department=Engineering": {
+    "title": "ಕನ್ನಡ",
+    "mode": "skip",
+    "seenAt": "2026-06-09T05:58:11.299Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/mr/careers/list/?_gl=1%2A1ofvrk6%2A_ga%2AMTY1MzU1NDc5LjE3Nzk5NjQ0MzM.%2A_ga_EYK44YLJMQ%2AczE3ODA5MTgwMTYkbzIkZzEkdDE3ODA5MTgwMjYkajUwJGwwJGgw&department=Engineering": {
+    "title": "मराठी",
+    "mode": "skip",
+    "seenAt": "2026-06-09T05:58:11.299Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/ta/careers/list/?_gl=1%2A1ofvrk6%2A_ga%2AMTY1MzU1NDc5LjE3Nzk5NjQ0MzM.%2A_ga_EYK44YLJMQ%2AczE3ODA5MTgwMTYkbzIkZzEkdDE3ODA5MTgwMjYkajUwJGwwJGgw&department=Engineering": {
+    "title": "தமிழ்",
+    "mode": "skip",
+    "seenAt": "2026-06-09T05:58:11.299Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/te/careers/list/?_gl=1%2A1ofvrk6%2A_ga%2AMTY1MzU1NDc5LjE3Nzk5NjQ0MzM.%2A_ga_EYK44YLJMQ%2AczE3ODA5MTgwMTYkbzIkZzEkdDE3ODA5MTgwMjYkajUwJGwwJGgw&department=Engineering": {
+    "title": "తెలుగు",
+    "mode": "skip",
+    "seenAt": "2026-06-09T05:58:11.299Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/auburn/multiple-axis-n-c-routing-machine-operator-75307/185/96195918288": {
+    "title": "Multiple Axis N/C Routing Machine Operator - 75307",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T05:58:33.067Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/puyallup/hand-finisher-11702/185/95098668720": {
+    "title": "Hand Finisher-11702",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T05:58:33.067Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/tokyo/sales-operations-coordinator/44408/96193430336": {
+    "title": "Sales Operations, Coordinator",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T05:59:29.129Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/markham/mixed-signal-analog-design-engineer-17491/44408/96193430320": {
+    "title": "Mixed Signal Analog Design Engineer - 17491",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T05:59:29.129Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/boxborough/senior-staff-rtl-design-engineer-16908/44408/93816738832": {
+    "title": "Senior Staff RTL Design Engineer- 16908",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T05:59:29.129Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/mississauga/senior-verification-manager-serdes-phy/44408/96193430288": {
+    "title": "Senior Verification Manager, SERDES PHY",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T05:59:29.129Z",
+    "matched": false
+  },
+  "Bloomberg India::https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Fixed-Income-Derivatives-Emerging-Markets-Pune/20151": {
+    "title": "Senior Software Engineer — Fixed Income & Derivatives, Emerging Markets (Pune)",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:00:57.613Z",
+    "matched": false
+  },
+  "Flexport India::7988600": {
+    "title": "Intern, Control Tower & Service Delivery",
+    "mode": "skip",
+    "seenAt": "2026-06-09T06:02:02.824Z",
+    "matched": false
+  },
+  "Flexport India::7988576": {
+    "title": "Senior Associate, Control Tower & Service Delivery",
+    "mode": "skip",
+    "seenAt": "2026-06-09T06:02:02.824Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23419143/project-manager-applications-wellington-nz/": {
+    "title": "Project Manager - Applications",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:03:29.399Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23348490/cloud-engineering-analyst-taguig-city-ph/": {
+    "title": "Cloud Engineering Analyst",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:03:29.399Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23477063/servicenow-consultant-quezon-city-ph/": {
+    "title": "ServiceNow Consultant",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:03:29.399Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr343960/global-customer-marketing-account-owner-lead/": {
+    "title": "Global Customer Marketing Account Owner Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:04:12.311Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr345577/senior-director-global-migration-delivery/": {
+    "title": "Senior Director, Global Migration Delivery",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:04:12.311Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr343150/integrated-experiences-keynote-production-manager/": {
+    "title": "Integrated Experiences Keynote Production Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:04:12.311Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr345039/enablement-program-trainer-mulesoft/": {
+    "title": "Enablement Program Trainer (Mulesoft)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:04:12.311Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr345549/vp-capital-markets-investments/": {
+    "title": "VP, Capital Markets & Investments",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:04:12.311Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr343082/data-360-success-architect-portuguese-speaking/": {
+    "title": "Data 360 Success Architect (Portuguese Speaking)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:04:12.311Z",
+    "matched": false
+  },
+  "Leap Finance::https://leapfinance.freshteam.com/jobs/woeCQwIphTJX/user-research-intern": {
+    "title": "User Research Intern",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:04:19.268Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/site-reliability-engineer-at-treebo-hospitality-ventures-4425584083?refId=tLc0xJL2g%2F3XClDBxM2Ihg%3D%3D&trackingId=ODw%2BGdLzzjPdo%2FEWU79s8A%3D%3D": {
+    "title": "Site Reliability Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:04:28.028Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/area-general-manager-at-treebo-hospitality-ventures-4423912469?refId=tLc0xJL2g%2F3XClDBxM2Ihg%3D%3D&trackingId=FJ2YY57kmW12LFAcTENSzA%3D%3D": {
+    "title": "Area General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:04:28.028Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-specialist-at-treebo-hospitality-ventures-4425093451?refId=tLc0xJL2g%2F3XClDBxM2Ihg%3D%3D&trackingId=aBp5IFJzm%2F1QCssJ%2B5IOjQ%3D%3D": {
+    "title": "Revenue Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:04:28.028Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/pricing-analyst-at-treebo-hospitality-ventures-4424567536?refId=tLc0xJL2g%2F3XClDBxM2Ihg%3D%3D&trackingId=XoxL1GIaHW5dzQ8YrCZrXw%3D%3D": {
+    "title": "Pricing Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:04:28.028Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-vizag-at-treebo-hospitality-ventures-4424049747?refId=tLc0xJL2g%2F3XClDBxM2Ihg%3D%3D&trackingId=byyVKZRqK2reSiKhbcGLhQ%3D%3D": {
+    "title": "Associate Director - Development - Vizag",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:04:28.028Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/customer-service-associate-in-bangalore-hybrid-at-treebo-hospitality-ventures-4422631609?refId=tLc0xJL2g%2F3XClDBxM2Ihg%3D%3D&trackingId=cNuzVLGmZNEynV9iNqm8mw%3D%3D": {
+    "title": "Customer Service Associate in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:04:28.028Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=tLc0xJL2g%2F3XClDBxM2Ihg%3D%3D&trackingId=FL9djvqtB%2B%2BncAoi%2FlALUg%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:04:28.028Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=tLc0xJL2g%2F3XClDBxM2Ihg%3D%3D&trackingId=DEKkFZLpYQCEh4ZzMr6u1w%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:04:28.028Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=tLc0xJL2g%2F3XClDBxM2Ihg%3D%3D&trackingId=vQ7YdrKmVeGk63v7gww%2BnQ%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:04:28.028Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA2AAAAMAAAADQAAAA=-rJ5qUYtr290=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:04:34.423Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA2AAAAMAAAADAAAAA=-cwfbNHV3h30=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T06:04:34.423Z",
+    "matched": false
   }
 }
