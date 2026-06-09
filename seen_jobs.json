@@ -89980,5 +89980,273 @@
     "mode": "onsite",
     "seenAt": "2026-06-09T14:51:38.648Z",
     "matched": false
+  },
+  "Postman::7767101003": {
+    "title": "Senior Software Engineer - Fern",
+    "mode": "skip",
+    "seenAt": "2026-06-09T17:16:16.675Z",
+    "matched": false
+  },
+  "Postman::7767126003": {
+    "title": "Staff Software Engineer - Fern",
+    "mode": "skip",
+    "seenAt": "2026-06-09T17:16:16.675Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Product-Manager-Accelsior-Suite/355512": {
+    "title": "Product Manager – Accelsior Suite",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:16:50.929Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Full-Stack-Engineer-Encore-Program/355492": {
+    "title": "Senior Full Stack Engineer, Encore Program",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:16:50.930Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Consultant-Accelsior-Suite/355491": {
+    "title": "Consultant – Accelsior Suite",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:16:50.930Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/API-Developer-with-MuleSoft-Traceable/355488": {
+    "title": "API Developer with MuleSoft & Traceable",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:16:50.930Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/AI-Governance-and-Testing-Support/355480": {
+    "title": "AI Governance and Testing Support",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:16:50.930Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/UX-Product-Designer-Encore-Program/355470": {
+    "title": "UX Product Designer - Encore Program",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:16:50.931Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Manager-Strategy-Growth-and-Transformation/355468": {
+    "title": "Manager, Strategy, Growth, and Transformation",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:16:50.931Z",
+    "matched": false
+  },
+  "Cloudflare::7649981": {
+    "title": "Network Reliability Engineer",
+    "mode": "skip",
+    "seenAt": "2026-06-09T17:17:14.342Z",
+    "matched": false
+  },
+  "Cloudflare::7991568": {
+    "title": "Senior Named Account Executive",
+    "mode": "skip",
+    "seenAt": "2026-06-09T17:17:14.342Z",
+    "matched": false
+  },
+  "Cloudflare::7991283": {
+    "title": "Senior Named Account Executive, Houston",
+    "location": "Distributed",
+    "mode": "remote",
+    "seenAt": "2026-06-09T17:17:14.342Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/22665696/ai-gen-ai-solution-architect-milano-it/": {
+    "title": "AI/Gen AI Solution Architect",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:22:14.171Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr345688/manager-financial-planning-analysis-sales-roi/": {
+    "title": "Manager, Financial Planning & Analysis - Sales ROI",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:01.858Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr342517/senior-technical-program-manager/": {
+    "title": "Senior Technical Program Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:01.858Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr345559/lead-solution-engineer-consumer-goods/": {
+    "title": "Lead Solution Engineer - Consumer Goods",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:01.858Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr342953/senior-onboarding-specialist/": {
+    "title": "Senior Onboarding Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:01.858Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr341578/enterprise-analytics-account-executive-tableau-amsterdam/": {
+    "title": "Enterprise Analytics Account Executive - Tableau - Amsterdam",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:01.858Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr344176/practice-domain-overlay-director/": {
+    "title": "Practice & Domain Overlay Director",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:01.858Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr344201/senior-managerdirector-business-value-services-strategic-advisor-london/": {
+    "title": "Senior Manager/Director , Business Value Services - Strategic Advisor - London",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:01.858Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr340339/executive-assistant/": {
+    "title": "Executive Assistant",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:01.858Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr344175/practice-domain-overlay-senior-manager/": {
+    "title": "Practice & Domain Overlay Senior Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:01.858Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr342018/credit-collections-analyst/": {
+    "title": "Credit & Collections Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:01.858Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr343501/manager-software-asset-management/": {
+    "title": "Manager, Software Asset Management",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:01.858Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr338248/software-engineering-director/": {
+    "title": "Software Engineering - Director",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:01.858Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/site-reliability-engineer-at-treebo-hospitality-ventures-4425584083?refId=VH%2F3uIRQ3GFKLVMPpy11tA%3D%3D&trackingId=ofT7NU5ROw9VD%2B1vdeecLg%3D%3D": {
+    "title": "Site Reliability Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:14.562Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/area-general-manager-at-treebo-hospitality-ventures-4423912469?refId=VH%2F3uIRQ3GFKLVMPpy11tA%3D%3D&trackingId=21zrGqFXWPQ%2FzIoxCOXAaw%3D%3D": {
+    "title": "Area General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:14.562Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-specialist-at-treebo-hospitality-ventures-4425093451?refId=VH%2F3uIRQ3GFKLVMPpy11tA%3D%3D&trackingId=YMT5BzNQS%2BCL2s0Z9sXxdw%3D%3D": {
+    "title": "Revenue Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:14.562Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/pricing-analyst-at-treebo-hospitality-ventures-4424567536?refId=VH%2F3uIRQ3GFKLVMPpy11tA%3D%3D&trackingId=O2LpxDski%2FXWDXmlHpNYAQ%3D%3D": {
+    "title": "Pricing Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:14.563Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-vizag-at-treebo-hospitality-ventures-4424049747?refId=VH%2F3uIRQ3GFKLVMPpy11tA%3D%3D&trackingId=Db7N4UV5m7U3Hh1PkI3zJg%3D%3D": {
+    "title": "Associate Director - Development - Vizag",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:14.563Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/customer-service-associate-in-bangalore-hybrid-at-treebo-hospitality-ventures-4422631609?refId=VH%2F3uIRQ3GFKLVMPpy11tA%3D%3D&trackingId=amiAvRRehyke%2BHl8GTzsGA%3D%3D": {
+    "title": "Customer Service Associate in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:14.563Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=VH%2F3uIRQ3GFKLVMPpy11tA%3D%3D&trackingId=mmKKaDbDM0izE6kLdGS1FA%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:14.563Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=VH%2F3uIRQ3GFKLVMPpy11tA%3D%3D&trackingId=T49LDyq0iiQjaAzaYeSbSA%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:14.563Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=VH%2F3uIRQ3GFKLVMPpy11tA%3D%3D&trackingId=tTqJn6TQXW6fvL9%2Fs4e6bw%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:14.563Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA2AAAAMwAAADMAAAA=-UfSB9pWckOA=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:23:20.655Z",
+    "matched": false
+  },
+  "Elastic India::7976572": {
+    "title": "Senior SRE  - Platform (MKI)",
+    "mode": "skip",
+    "seenAt": "2026-06-09T17:24:33.245Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/manager-clientela-si-operatiuni-agentia-blaj-alba-zona-6-regiunea-centru-26000E94-en": {
+    "title": "Manager Clientela si Operatiuni -Agentia Blaj-ALBA/Zona 6/Regiunea Centru",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:24:43.793Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/ofiter-relatii-clienti-junior-internalizare-260007SQ-en": {
+    "title": "Ofiter Relatii Clienti Junior- internalizare",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:24:43.793Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/spezialist-m-w-d-geldwaschepravention-26000E8Y-en": {
+    "title": "Spezialist (m/w/d) Geldwäscheprävention",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-09T17:24:43.793Z",
+    "matched": false
   }
 }
