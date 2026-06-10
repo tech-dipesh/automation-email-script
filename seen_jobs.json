@@ -91169,5 +91169,339 @@
     "mode": "onsite",
     "seenAt": "2026-06-10T06:27:09.019Z",
     "matched": false
+  },
+  "Paytm::178369a0-39ff-44f9-beee-dad18b7d0cac": {
+    "title": "Collection Manager - TL - Lending Collections (EM Recovery)",
+    "mode": "skip",
+    "seenAt": "2026-06-10T10:45:32.316Z",
+    "matched": false
+  },
+  "Paytm::2f933a3a-f426-4f2d-8980-3d301c78a54b": {
+    "title": "Collection Manager - TL - Lending Collections (EM Recovery)",
+    "mode": "skip",
+    "seenAt": "2026-06-10T10:45:32.316Z",
+    "matched": false
+  },
+  "Paytm::971ab791-dd61-4c11-ae82-724590655641": {
+    "title": "Collection Manager - TL - Lending Collections (EM Recovery)",
+    "mode": "skip",
+    "seenAt": "2026-06-10T10:45:32.316Z",
+    "matched": false
+  },
+  "Paytm::bbd1bed1-470e-41dc-ab36-ec4885bacd10": {
+    "title": "Collection Manager - TL - Lending Collections (EM Recovery)",
+    "mode": "skip",
+    "seenAt": "2026-06-10T10:45:32.316Z",
+    "matched": false
+  },
+  "Paytm::e8a3e727-d10e-4408-bc56-8f3c64bc4efb": {
+    "title": "FMCG Brand Alliances",
+    "location": "Bangalore, Karnataka",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:45:32.317Z",
+    "matched": false
+  },
+  "Paytm::2a24f2cc-424e-44eb-97d2-49c3978cefb2": {
+    "title": "KAM - Deputy Manager - Paytm Travel (bus)",
+    "location": "Hyderabad, Telangana",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:45:32.317Z",
+    "matched": false
+  },
+  "Arcesium::https://job-boards.greenhouse.io/arcesiumllc/jobs/5159583007": {
+    "title": "Product Lead - FDS Product; Gurugram;",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:45:38.480Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Oracle-Field-Service-Functional-Senior-Consultant/355634": {
+    "title": "Oracle Field Service Functional Senior Consultant",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:47:05.397Z",
+    "matched": false
+  },
+  "Cloudflare::7995125": {
+    "title": "Senior Named Account Executive, CIS Region",
+    "mode": "skip",
+    "seenAt": "2026-06-10T10:48:09.213Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/seoul/field-service-representative-associate-experienced-or-lead/185/96242438128": {
+    "title": "Field Service Representative (Associate, Experienced or Lead)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:48:17.080Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/bengaluru/associate-business-support-specialist/185/95951442128": {
+    "title": "Associate Business Support Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:48:17.080Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/huntsville/system-test-engineer-lead-sapphire/185/95646359968": {
+    "title": "System Test Engineer Lead - Sapphire",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:48:17.080Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/software-development-engineer-ii-full-stack-front-end-focus/seattle-wa/R-106781/": {
+    "title": "Software Development Engineer II - Full-Stack - Front-End Focus United States - Washington - Seattle Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:48:26.998Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/product-manager-ii-data-platform/seattle-wa/R-105682/": {
+    "title": "Product Manager II, Data Platform United States - Washington - Seattle Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:48:26.998Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/data-scientist-ii-marketing-automation-performance-analytics/seattle-wa/R-105733/": {
+    "title": "Data Scientist II - Marketing Automation Performance Analytics United States - Washington - Seattle Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:48:26.998Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/senior-manager-ai-communications-amp-innovation/seattle-wa/R-105892/": {
+    "title": "Senior Manager, AI Communications & Innovation United States - Washington - Seattle Communications",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:48:26.998Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/payment-performance-manager/seattle-wa/R-104738/": {
+    "title": "Payment Performance Manager United States - Washington - Seattle Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:48:26.998Z",
+    "matched": false
+  },
+  "Expedia Group India::https://lifeatexpediagroup.com/job/principal-product-manager-business-to-agent/seattle-wa/R-106242/": {
+    "title": "Principal Product Manager - Business to Agent United States - Washington - Seattle Technology",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:48:26.998Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/shanghai/market-insights-staff/44408/96243628352": {
+    "title": "Market Insights, Staff",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:49:08.095Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/bengaluru/anaplan-model-builder/44408/96243628336": {
+    "title": "Anaplan Model Builder",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:49:08.095Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/bengaluru/anaplan-architect/44408/96243628320": {
+    "title": "Anaplan Architect",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:49:08.095Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/waterloo/ls-dyna-software-verification-engineer/44408/96187283968": {
+    "title": "LS-DYNA Software Verification Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:49:08.095Z",
+    "matched": false
+  },
+  "Flexport India::7994960": {
+    "title": "Software Engineer I",
+    "mode": "skip",
+    "seenAt": "2026-06-10T10:51:38.420Z",
+    "matched": false
+  },
+  "Flexport India::7994947": {
+    "title": "Software Engineer II",
+    "mode": "skip",
+    "seenAt": "2026-06-10T10:51:38.420Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/payroll-specialist-india-and-apac-region-bengaluru-karnataka-india": {
+    "title": "Payroll Specialist -and APAC Region",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-10T10:51:58.388Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-software-engineer-smart-tv-hsinchu-taiwan-624683c3-a7e6-4efd-ae9c-ac95e835e8fb": {
+    "title": "Senior Software Engineer, Smart TV",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-10T10:51:58.388Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/22875277/-eas-microsoft-power-platform-----tokyo-jp/": {
+    "title": "【EAS】Microsoft Power Platform プロジェクトマネージャー/プロジェクトリーダー、導入コンサルタント",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:52:42.789Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23482581/analyst-ii-business-process-transactions-bangalore-in/": {
+    "title": "Analyst II Business Process Transactions",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:52:42.789Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23482479/wma-business-analyst-at-client-site-in-springfield-ma/": {
+    "title": "wmA Business Analyst- At Client Site in Springfield- MA",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:52:42.789Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/hotel-general-manager-at-treebo-hospitality-ventures-4426031322?refId=hzhFQanIZL8%2FpnVkYjLPAQ%3D%3D&trackingId=ovtfrX3edu7UyrPiMR1PSA%3D%3D": {
+    "title": "Hotel General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:54:00.365Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/area-general-manager-at-treebo-hospitality-ventures-4423912469?refId=hzhFQanIZL8%2FpnVkYjLPAQ%3D%3D&trackingId=r34PD4YHhARWVlZq7nh1KQ%3D%3D": {
+    "title": "Area General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:54:00.365Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/revenue-specialist-at-treebo-hospitality-ventures-4425093451?refId=hzhFQanIZL8%2FpnVkYjLPAQ%3D%3D&trackingId=APrmH1antLGF2EZ6WJfSmw%3D%3D": {
+    "title": "Revenue Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:54:00.365Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/pricing-analyst-at-treebo-hospitality-ventures-4424567536?refId=hzhFQanIZL8%2FpnVkYjLPAQ%3D%3D&trackingId=OTKey6bqyT3B1tKZh2%2FEbA%3D%3D": {
+    "title": "Pricing Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:54:00.365Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-vizag-at-treebo-hospitality-ventures-4424049747?refId=hzhFQanIZL8%2FpnVkYjLPAQ%3D%3D&trackingId=aM5Cx%2F1HOqjtBNHWhLM7ww%3D%3D": {
+    "title": "Associate Director - Development - Vizag",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:54:00.365Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/customer-service-associate-in-bangalore-hybrid-at-treebo-hospitality-ventures-4422631609?refId=hzhFQanIZL8%2FpnVkYjLPAQ%3D%3D&trackingId=sZuQ9QN2%2F4SvoBwv6Gkpjg%3D%3D": {
+    "title": "Customer Service Associate in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:54:00.365Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=hzhFQanIZL8%2FpnVkYjLPAQ%3D%3D&trackingId=XLOm2PjPIQHlgzvpivZ8GA%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:54:00.365Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=hzhFQanIZL8%2FpnVkYjLPAQ%3D%3D&trackingId=b3WPWBsim3FaeEmUZ8vxCQ%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:54:00.365Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=hzhFQanIZL8%2FpnVkYjLPAQ%3D%3D&trackingId=dJdPrAR7e5J6PXt3AGaPJw%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:54:00.365Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA2AAAANgAAADgAAAA=-YzhB7ZjBsU8=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:54:12.447Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA2AAAANgAAADQAAAA=-UtzXfPP3jnE=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:54:12.447Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA2AAAANgAAADAAAAA=-tg05taJCtFs=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:54:12.447Z",
+    "matched": false
+  },
+  "PayU India::https://payu.in/PayU/job/Gurgaon-P4-Key-Account-Manager-Partnerships/53582680/": {
+    "title": "P4 Key Account Manager - Partnerships",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:54:18.928Z",
+    "matched": false
+  },
+  "Elastic India::7995139": {
+    "title": "Principal Product Manager, AI agents - Search",
+    "mode": "skip",
+    "seenAt": "2026-06-10T10:55:26.372Z",
+    "matched": false
+  },
+  "Elastic India::7995138": {
+    "title": "Principal Product Manager, AI agents - Search",
+    "mode": "skip",
+    "seenAt": "2026-06-10T10:55:26.372Z",
+    "matched": false
+  },
+  "Elastic India::7985963": {
+    "title": "Sr. Manager, Legal India",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:55:26.372Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/vie-derivates-sales-analyst-26000E40-en": {
+    "title": "V.I.E. Derivates Sales Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:55:35.045Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/coverage-support-analyst-26000B96-en": {
+    "title": "Coverage Support Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:55:35.045Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/lohchap/senior-compliance-associate/49841/96243182496": {
+    "title": "Senior Compliance Associate",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:56:32.109Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/tokyo/associate-director-relationship-manager/49841/96243182480": {
+    "title": "Associate Director- Relationship Manager",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-10T10:56:32.109Z",
+    "matched": false
   }
 }
