@@ -94285,5 +94285,280 @@
     "mode": "onsite",
     "seenAt": "2026-06-11T20:15:46.681Z",
     "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Sr-Cloud-Engineer/356124": {
+    "title": "Sr. Cloud Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:45:22.112Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Google-Gemini-Senior-Consultant-Technical-Transformation/356122": {
+    "title": "Google Gemini Senior Consultant, Technical Transformation",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:45:22.113Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Infrastructure-and-End-User-Technology-Operate-support-Voice/356119": {
+    "title": "Infrastructure and End User Technology Operate support - Voice",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:45:22.113Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Infrastructure-and-End-User-Technology-Operate-support-Non-Voice/356113": {
+    "title": "Infrastructure and End User Technology Operate support - Non Voice",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:45:22.113Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Core-Infrastructure-Support-Network-Administrator/356107": {
+    "title": "Core Infrastructure Support – Network Administrator",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:45:22.114Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Cloud-Administrator-Multi-Cloud-VMware-AIX-Linux-Automation/356106": {
+    "title": "Cloud Administrator - Multi-Cloud, VMware, AIX/Linux, Automation",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:45:22.114Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Sr-Scrum-Master-Delivery-Management-Engineer-III/356104": {
+    "title": "Sr. Scrum Master - Delivery Management Engineer III",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:45:22.114Z",
+    "matched": false
+  },
+  "Deloitte India::https://apply.deloitte.com/en_US/careers/JobDetail/Manager-Oracle-Tax-Technology-Global-Trade/356067": {
+    "title": "Manager, Oracle Tax Technology - Global Trade",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:45:22.114Z",
+    "matched": false
+  },
+  "Canonical::8001736": {
+    "title": "Channel Partner Sales Executive, UKI",
+    "mode": "skip",
+    "seenAt": "2026-06-11T22:45:42.265Z",
+    "matched": false
+  },
+  "Figma::6013303004": {
+    "title": "Data Scientist, Marketing",
+    "mode": "skip",
+    "seenAt": "2026-06-11T22:45:42.684Z",
+    "matched": false
+  },
+  "Figma::6018024004": {
+    "title": "Director, Mid-Market Sales",
+    "mode": "skip",
+    "seenAt": "2026-06-11T22:45:42.684Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/wichita/senior-supply-chain-manager-global-field-operations/185/92889181344": {
+    "title": "Senior Supply Chain Manager - Global Field Operations",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:45:49.370Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/wichita/spirit-defense-entry-level-material-review-engineer/185/94974853872": {
+    "title": "Spirit Defense - Entry-Level Material Review Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:45:49.370Z",
+    "matched": false
+  },
+  "Target India::https://corporate.target.com/careers/career-privacy-notice/careers-terms-and-conditions": {
+    "title": "Careers Terms & Conditions",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:46:46.815Z",
+    "matched": false
+  },
+  "Target India::https://corporate.target.com/careers/career-privacy-notice/california-privacy-notice": {
+    "title": "California Privacy Notice",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:46:46.815Z",
+    "matched": false
+  },
+  "Target India::https://corporate.target.com/careers/career-privacy-notice/mutual-arbitration-agreement": {
+    "title": "Mutual Arbitration Agreement",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:46:46.815Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/director-business-development-commerce-payments-partnerships-mexico-city-mexico": {
+    "title": "Director, Business Development — Commerce & Payments Partnerships",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-11T22:49:25.887Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/senior-customer-intelligence-analyst-new-york-united-states": {
+    "title": "Senior Customer Intelligence Analyst",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-11T22:49:25.887Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr344298/lead-member-of-technical-staff/": {
+    "title": "Lead Member of Technical Staff",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:50:44.757Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr336486/employee-success-people-consultant-manager/": {
+    "title": "Employee Success People Consultant Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:50:44.757Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr345585/software-engineering-pmts/": {
+    "title": "Software Engineering PMTS",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:50:44.757Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr344919/sr-success-architect-marketing-cloud/": {
+    "title": "Sr. Success Architect - Marketing Cloud",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:50:44.757Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr342971/enablement-manager/": {
+    "title": "Enablement Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:50:44.757Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr344724/senior-technical-sales-engineer-cloud-devops/": {
+    "title": "Senior Technical Sales Engineer (Cloud & DevOps)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:50:44.757Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr345586/software-engineering-lmts/": {
+    "title": "Software Engineering LMTS",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:50:44.757Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr345714/informatica-account-executive-public-sector-federal-civilian/": {
+    "title": "Informatica Account Executive, Public Sector (Federal Civilian)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:50:44.757Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-hospitality-sales-at-treebo-hospitality-ventures-4423608982?refId=xB5Nzjdj37FCssd6GWIFoA%3D%3D&trackingId=RfhkgyVQA0JyUKU0HuR1bQ%3D%3D": {
+    "title": "Associate Director ( Hospitality Sales )",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:50:56.603Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/b2b-sales-manager-at-treebo-hospitality-ventures-4423622112?refId=xB5Nzjdj37FCssd6GWIFoA%3D%3D&trackingId=GNZ5fHbkzN1b3NYkVv9ZVw%3D%3D": {
+    "title": "B2B Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:50:56.603Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/area-general-manager-at-treebo-hospitality-ventures-4423912469?refId=xB5Nzjdj37FCssd6GWIFoA%3D%3D&trackingId=zJ1%2FyRpiy9GLjKITS5iK5w%3D%3D": {
+    "title": "Area General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:50:56.603Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/pricing-analyst-at-treebo-hospitality-ventures-4424567536?refId=xB5Nzjdj37FCssd6GWIFoA%3D%3D&trackingId=pCN4bZ%2BRzIb4n9P7lOsIuQ%3D%3D": {
+    "title": "Pricing Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:50:56.603Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-vizag-at-treebo-hospitality-ventures-4424049747?refId=xB5Nzjdj37FCssd6GWIFoA%3D%3D&trackingId=eSfnrsd7QC76a%2BDw6xYV5A%3D%3D": {
+    "title": "Associate Director - Development - Vizag",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:50:56.603Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/customer-service-associate-in-bangalore-hybrid-at-treebo-hospitality-ventures-4422631609?refId=xB5Nzjdj37FCssd6GWIFoA%3D%3D&trackingId=znoXGf53xE8YQd14f7B3sw%3D%3D": {
+    "title": "Customer Service Associate in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:50:56.603Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=xB5Nzjdj37FCssd6GWIFoA%3D%3D&trackingId=xLluxZ5v6HkRZY7JvdK06Q%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:50:56.603Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=xB5Nzjdj37FCssd6GWIFoA%3D%3D&trackingId=S%2BwBhNjnqOMc1FD32ran1A%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:50:56.603Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=xB5Nzjdj37FCssd6GWIFoA%3D%3D&trackingId=SkwzSy%2B0nqwra8D4iJIZBw%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:50:56.603Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA4AAAANgAAADAAAAA=-FKefek2ZRr0=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:51:07.613Z",
+    "matched": false
+  },
+  "Elastic India::7996784": {
+    "title": "Sr. Manager, Regional Sales - General Business (Commercial)",
+    "mode": "skip",
+    "seenAt": "2026-06-11T22:52:16.985Z",
+    "matched": false
+  },
+  "Elastic India::8001888": {
+    "title": "Sr. Manager, Regional Sales - General Business (Commercial)",
+    "mode": "skip",
+    "seenAt": "2026-06-11T22:52:16.985Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/heredia/team-lead-data-operations/49841/96314236304": {
+    "title": "Team Lead-Data Operations",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:53:20.995Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/london/assistant-director-marketing-banking/49841/96314236240": {
+    "title": "Assistant Director - Marketing (Banking)",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-11T22:53:20.995Z",
+    "matched": false
   }
 }
