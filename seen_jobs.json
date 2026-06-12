@@ -95206,5 +95206,358 @@
     "mode": "onsite",
     "seenAt": "2026-06-12T10:01:44.846Z",
     "matched": false
+  },
+  "Paytm::92343d15-f6a3-4f02-a7c4-4030621b99e5": {
+    "title": "Merchant Partnership",
+    "location": "Noida, Uttar Pradesh",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:46:04.611Z",
+    "matched": false
+  },
+  "Paytm::089ef31f-ac82-4162-a5fc-a7857cf2d371": {
+    "title": "Senior QA Engineer",
+    "location": "Noida, Uttar Pradesh",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:46:04.611Z",
+    "matched": false
+  },
+  "Paytm::2ae1f365-46d1-46da-acac-a0e9e892dee6": {
+    "title": "Senior Software Engineer- Backend(Gold)",
+    "location": "Noida, Uttar Pradesh",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:46:04.611Z",
+    "matched": false
+  },
+  "Paytm::f57625b4-c512-446e-84bd-b2d3fe9f5dc3": {
+    "title": "Technical Lead -Backend (Gold)",
+    "location": "Noida, Uttar Pradesh",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:46:04.611Z",
+    "matched": false
+  },
+  "LTIMindtree::https://careers.ltimindtree.com/job/Specialist-Data-Engineering/1403721633/": {
+    "title": "Specialist - Data Engineering",
+    "mode": "skip",
+    "seenAt": "2026-06-12T12:47:08.447Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/bn/careers/list/?_gl=1%2A5ghjn1%2A_ga%2ANDQ2OTA4ODcxLjE3Nzc4MDk2MzY.%2A_ga_EYK44YLJMQ%2AczE3ODEyMzg3NDYkbzUkZzAkdDE3ODEyMzg3NDYkajYwJGwwJGgw&department=Engineering": {
+    "title": "Bangla, বাংলা",
+    "mode": "skip",
+    "seenAt": "2026-06-12T12:47:20.557Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/en/careers/list/?_gl=1%2A5ghjn1%2A_ga%2ANDQ2OTA4ODcxLjE3Nzc4MDk2MzY.%2A_ga_EYK44YLJMQ%2AczE3ODEyMzg3NDYkbzUkZzAkdDE3ODEyMzg3NDYkajYwJGwwJGgw&department=Engineering": {
+    "title": "English, English",
+    "mode": "skip",
+    "seenAt": "2026-06-12T12:47:20.557Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/hi/careers/list/?_gl=1%2A5ghjn1%2A_ga%2ANDQ2OTA4ODcxLjE3Nzc4MDk2MzY.%2A_ga_EYK44YLJMQ%2AczE3ODEyMzg3NDYkbzUkZzAkdDE3ODEyMzg3NDYkajYwJGwwJGgw&department=Engineering": {
+    "title": "Hindi, हिन्दी",
+    "mode": "skip",
+    "seenAt": "2026-06-12T12:47:20.557Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/kn/careers/list/?_gl=1%2A5ghjn1%2A_ga%2ANDQ2OTA4ODcxLjE3Nzc4MDk2MzY.%2A_ga_EYK44YLJMQ%2AczE3ODEyMzg3NDYkbzUkZzAkdDE3ODEyMzg3NDYkajYwJGwwJGgw&department=Engineering": {
+    "title": "Kannada, ಕನ್ನಡ",
+    "mode": "skip",
+    "seenAt": "2026-06-12T12:47:20.557Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/mr/careers/list/?_gl=1%2A5ghjn1%2A_ga%2ANDQ2OTA4ODcxLjE3Nzc4MDk2MzY.%2A_ga_EYK44YLJMQ%2AczE3ODEyMzg3NDYkbzUkZzAkdDE3ODEyMzg3NDYkajYwJGwwJGgw&department=Engineering": {
+    "title": "Marathi, मराठी",
+    "mode": "skip",
+    "seenAt": "2026-06-12T12:47:20.557Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/ta/careers/list/?_gl=1%2A5ghjn1%2A_ga%2ANDQ2OTA4ODcxLjE3Nzc4MDk2MzY.%2A_ga_EYK44YLJMQ%2AczE3ODEyMzg3NDYkbzUkZzAkdDE3ODEyMzg3NDYkajYwJGwwJGgw&department=Engineering": {
+    "title": "Tamil, தமிழ்",
+    "mode": "skip",
+    "seenAt": "2026-06-12T12:47:20.557Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/te/careers/list/?_gl=1%2A5ghjn1%2A_ga%2ANDQ2OTA4ODcxLjE3Nzc4MDk2MzY.%2A_ga_EYK44YLJMQ%2AczE3ODEyMzg3NDYkbzUkZzAkdDE3ODEyMzg3NDYkajYwJGwwJGgw&department=Engineering": {
+    "title": "Telugu, తెలుగు",
+    "mode": "skip",
+    "seenAt": "2026-06-12T12:47:20.557Z",
+    "matched": false
+  },
+  "Uber::https://www.uber.com/in/ur/careers/list/?_gl=1%2A5ghjn1%2A_ga%2ANDQ2OTA4ODcxLjE3Nzc4MDk2MzY.%2A_ga_EYK44YLJMQ%2AczE3ODEyMzg3NDYkbzUkZzAkdDE3ODEyMzg3NDYkajYwJGwwJGgw&department=Engineering": {
+    "title": "Urdu, اردو",
+    "mode": "skip",
+    "seenAt": "2026-06-12T12:47:20.557Z",
+    "matched": false
+  },
+  "Expedia Group India::https://careers.expediagroup.com/?blackhole=39529ef298": {
+    "title": "Expedia Group | Careers",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:47:47.590Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/bengaluru/senior-staff-verification-engineer-high-speed-interface-ip/44408/96331684848": {
+    "title": "Senior Staff Verification Engineer, High-Speed Interface IP",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:48:30.208Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/raanana/senior-application-engineer/44408/96331684832": {
+    "title": "Senior Application Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:48:30.208Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/bengaluru/digital-logic-design-apprenticeship/44408/96331684816": {
+    "title": "Digital Logic Design Apprenticeship",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:48:30.208Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/26016709/senior-manager-chennai-india": {
+    "title": "Senior Manager",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:48:40.332Z",
+    "matched": false
+  },
+  "Bank of America India::https://careers.bankofamerica.com/en-us/job-detail/26006705/senior-operations-manager-multiple-locations": {
+    "title": "Senior Operations Manager",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:48:40.332Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/22769193/insurance-technician/": {
+    "title": "Insurance Technician",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:51:57.321Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23210187/personnel-security-coordinator-canberra-au/": {
+    "title": "Personnel Security Coordinator",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:51:57.321Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr321572/director-finance-data-strategy-stewardship/": {
+    "title": "Director, Finance Data Strategy & Stewardship",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:52:36.590Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr345446/weekend-senior-manager-escalations/": {
+    "title": "Weekend Senior Manager, Escalations",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:52:36.590Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr345889/ksa-regional-sales-director-informatica/": {
+    "title": "KSA Regional Sales Director - Informatica",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:52:36.590Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr346158/cloud-account-executive-tableau/": {
+    "title": "Cloud Account Executive - Tableau",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:52:36.590Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr340535/named-account-executive/": {
+    "title": "Named Account Executive",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:52:36.590Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr345628/commercial-account-executive-manufacturing/": {
+    "title": "Commercial Account Executive - Manufacturing",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:52:36.590Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr345315/named-account-executive/": {
+    "title": "Named Account Executive",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:52:36.590Z",
+    "matched": false
+  },
+  "Informatica India::https://informatica.gr8people.com/en/jobs/jr346144/senior-analystanalyst-sales-strategy-operations/": {
+    "title": "Senior Analyst/Analyst - Sales Strategy & Operations",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:52:36.590Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-at-treebo-hospitality-ventures-4426914373?refId=V%2Fhp1vH9mOp2OIrn8ArDTQ%3D%3D&trackingId=oUR9KCZ5Eu5lgAq8M%2F2F%2Bg%3D%3D": {
+    "title": "Corporate Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:52:48.437Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/business-analyst-%E2%80%93-customer-experience-at-treebo-hospitality-ventures-4426915281?refId=V%2Fhp1vH9mOp2OIrn8ArDTQ%3D%3D&trackingId=Hxzwn3M9iKbMTAse8iIlvA%3D%3D": {
+    "title": "Business Analyst – Customer Experience",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:52:48.438Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-hospitality-sales-at-treebo-hospitality-ventures-4423608982?refId=V%2Fhp1vH9mOp2OIrn8ArDTQ%3D%3D&trackingId=1RoBWiDyOSvNvttvrs1j4Q%3D%3D": {
+    "title": "Associate Director ( Hospitality Sales )",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:52:48.438Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/sales-manager-at-treebo-hospitality-ventures-4423622112?refId=V%2Fhp1vH9mOp2OIrn8ArDTQ%3D%3D&trackingId=8Iu3yM81SvKMTbjl9lSXcA%3D%3D": {
+    "title": "Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:52:48.438Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-development-vizag-at-treebo-hospitality-ventures-4424049747?refId=V%2Fhp1vH9mOp2OIrn8ArDTQ%3D%3D&trackingId=wgJaAcqxe1cr%2FKP91azEzg%3D%3D": {
+    "title": "Associate Director - Development - Vizag",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:52:48.438Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/customer-service-associate-in-bangalore-hybrid-at-treebo-hospitality-ventures-4422631609?refId=V%2Fhp1vH9mOp2OIrn8ArDTQ%3D%3D&trackingId=3ygB5%2FjXMLsbFHQ0Rbge5g%3D%3D": {
+    "title": "Customer Service Associate in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:52:48.438Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=V%2Fhp1vH9mOp2OIrn8ArDTQ%3D%3D&trackingId=VxWagFPD6lDK%2BdKt4Mzu7g%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:52:48.438Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/territory-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=V%2Fhp1vH9mOp2OIrn8ArDTQ%3D%3D&trackingId=Tny9z4TpwTENVfbQ3POvFQ%3D%3D": {
+    "title": "Territory Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:52:48.438Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=V%2Fhp1vH9mOp2OIrn8ArDTQ%3D%3D&trackingId=hj5bbTxl41bWdF5NC1%2FOdQ%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:52:48.438Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OAAAADkAAAA4AAAAOAAAADIAAAA=-zw75C80TOfQ=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:52:54.185Z",
+    "matched": false
+  },
+  "Elastic India::8002559": {
+    "title": "Principal Software Engineer I - Distributed Systems - Elasticsearch",
+    "mode": "skip",
+    "seenAt": "2026-06-12T12:54:00.956Z",
+    "matched": false
+  },
+  "Elastic India::8002558": {
+    "title": "Principal Software Engineer I - Distributed Systems - Elasticsearch",
+    "mode": "skip",
+    "seenAt": "2026-06-12T12:54:00.956Z",
+    "matched": false
+  },
+  "Elastic India::8002555": {
+    "title": "Principal Software Engineer I - Distributed Systems - Elasticsearch",
+    "mode": "skip",
+    "seenAt": "2026-06-12T12:54:00.956Z",
+    "matched": false
+  },
+  "Elastic India::8002561": {
+    "title": "Principal Software Engineer I - Distributed Systems - Elasticsearch",
+    "mode": "skip",
+    "seenAt": "2026-06-12T12:54:00.956Z",
+    "matched": false
+  },
+  "Elastic India::8002563": {
+    "title": "Principal Software Engineer I - Distributed Systems - Elasticsearch",
+    "mode": "skip",
+    "seenAt": "2026-06-12T12:54:00.956Z",
+    "matched": false
+  },
+  "Elastic India::8002562": {
+    "title": "Principal Software Engineer I - Distributed Systems - Elasticsearch",
+    "mode": "skip",
+    "seenAt": "2026-06-12T12:54:00.956Z",
+    "matched": false
+  },
+  "Elastic India::8002556": {
+    "title": "Principal Software Engineer I - Distributed Systems - Elasticsearch",
+    "mode": "skip",
+    "seenAt": "2026-06-12T12:54:00.956Z",
+    "matched": false
+  },
+  "Elastic India::8002560": {
+    "title": "Principal Software Engineer I - Distributed Systems - Elasticsearch",
+    "mode": "skip",
+    "seenAt": "2026-06-12T12:54:00.956Z",
+    "matched": false
+  },
+  "Elastic India::7995039": {
+    "title": "Senior Solutions Architect - Security Specialist",
+    "mode": "skip",
+    "seenAt": "2026-06-12T12:54:00.956Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/data-engineer-26000EJO-en": {
+    "title": "Data Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:54:10.112Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/analyst-associate-dcsdistribution-credit-solutions-sales-26000D9S-en": {
+    "title": "Analyst/Associate, DCS(Distribution & Credit Solutions) Sales",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:54:10.112Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/graduate-analyst-financing-advisory-societe-generale-india-mumbai-26000EJE-en": {
+    "title": "Graduate Analyst – Financing & Advisory , Societe Generale()",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:54:10.112Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/specialist-software-engineer-java-full-stack-25000OLP-en": {
+    "title": "Specialist Software Engineer - Java Full Stack",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:54:10.112Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/analyst-26000857-en": {
+    "title": "Analyst",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-12T12:54:10.112Z",
+    "matched": false
   }
 }
