@@ -100322,5 +100322,276 @@
     "mode": "onsite",
     "seenAt": "2026-06-16T08:49:13.675Z",
     "matched": false
+  },
+  "Paytm::ba8dc291-3f64-4fe2-9612-5183fbae1365": {
+    "title": "AM/DM_HRBP",
+    "location": "Noida, Uttar Pradesh",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:20:29.239Z",
+    "matched": false
+  },
+  "Paytm::75a10954-2a50-44d2-95c2-984847f0700d": {
+    "title": "Regional Head - CPaaS Agentic AI Enterprise Sales - North Region",
+    "location": "Noida, Uttar Pradesh",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:20:29.240Z",
+    "matched": false
+  },
+  "Paytm::f5418674-42a9-48a1-908f-617ac6875171": {
+    "title": "Regional Head - CPaaS Agentic AI Enterprise Sales - West Region",
+    "location": "Mumbai, Maharashtra",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:20:29.240Z",
+    "matched": false
+  },
+  "GitLab::8589178002": {
+    "title": "Senior Solutions Architect - SF Bay area",
+    "mode": "skip",
+    "seenAt": "2026-06-16T13:23:09.949Z",
+    "matched": false
+  },
+  "Netlify::https://job-boards.greenhouse.io/netlify/jobs/8585518002": {
+    "title": "Social Media Manager",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-16T13:23:12.558Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/wichita/ndi-inspector-ultrasonic-testing/185/95897416480": {
+    "title": "NDI Inspector - Ultrasonic Testing",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:23:21.925Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/bristol/estimating-and-pricing-specialist/185/96508398240": {
+    "title": "Estimating and Pricing Specialist",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:23:21.925Z",
+    "matched": false
+  },
+  "Boeing India::https://jobs.boeing.com/job/kyiv-city/team-lead-maintenance-engineering/185/96508398224": {
+    "title": "Team Lead – Maintenance Engineering",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:23:21.925Z",
+    "matched": false
+  },
+  "Expedia Group India::https://careers.expediagroup.com/?blackhole=ff09b697e5": {
+    "title": "Expedia Group | Careers",
+    "location": "Gurgaon, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:23:32.285Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/bengaluru/applications-engineering-engineer/44408/96503072320": {
+    "title": "Applications Engineering, Engineer",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:24:24.461Z",
+    "matched": false
+  },
+  "Synopsys India::https://www.synopsys.com/job/bengaluru/analog-design-architect/44408/91292167808": {
+    "title": "Analog Design, Architect",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:24:24.461Z",
+    "matched": false
+  },
+  "Roku India::https://www.weareroku.com/jobs/sr-partner-engineer-san-jose-california-united-states": {
+    "title": "Sr. Partner Engineer",
+    "location": "",
+    "mode": "remote",
+    "seenAt": "2026-06-16T13:27:26.634Z",
+    "matched": false
+  },
+  "DXC Technology India::https://careers.dxc.com/job/23502655/gsd-remote-desktop-engineer-with-german-sofia-bg/": {
+    "title": "GSDDesktop Engineer with German",
+    "location": "Noida, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:28:14.151Z",
+    "matched": false
+  },
+  "LogicMonitor India::https://www.logicmonitor.com/career/?gh_jid=8007579": {
+    "title": "Business Development Representative – French speaking Business Development London, UK",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:29:27.988Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/area-general-manager-at-treebo-hospitality-ventures-4426820988?refId=kFKMbvuZREDNmiaVXJkxTQ%3D%3D&trackingId=C%2Fi%2FAWECesb2GYZOIn2ggA%3D%3D": {
+    "title": "Area General Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:29:36.064Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-at-treebo-hospitality-ventures-4415786115?refId=kFKMbvuZREDNmiaVXJkxTQ%3D%3D&trackingId=jQvybDbv4Gn1Odpoabc8yA%3D%3D": {
+    "title": "Corporate Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:29:36.064Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/corporate-sales-manager-at-treebo-hospitality-ventures-4426914373?refId=kFKMbvuZREDNmiaVXJkxTQ%3D%3D&trackingId=iOErowX9BiaWWhw57IsPdQ%3D%3D": {
+    "title": "Corporate Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:29:36.064Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/associate-director-hospitality-sales-at-treebo-hospitality-ventures-4423608982?refId=kFKMbvuZREDNmiaVXJkxTQ%3D%3D&trackingId=OYdSfFc6pgysBxxr%2FQAgog%3D%3D": {
+    "title": "Associate Director ( Hospitality Sales )",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:29:36.064Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/sales-manager-at-treebo-hospitality-ventures-4423622112?refId=kFKMbvuZREDNmiaVXJkxTQ%3D%3D&trackingId=zU9eLOrfcIrjYbW2Q2L8Rg%3D%3D": {
+    "title": "Sales Manager",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:29:36.064Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/customer-service-associate-in-bangalore-hybrid-at-treebo-hospitality-ventures-4422631609?refId=kFKMbvuZREDNmiaVXJkxTQ%3D%3D&trackingId=yD%2FMqELlibg0YiO5otrUtg%3D%3D": {
+    "title": "Customer Service Associate in(Hybrid)",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:29:36.064Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-goa-at-treebo-hospitality-ventures-4422830152?refId=kFKMbvuZREDNmiaVXJkxTQ%3D%3D&trackingId=zM00KHUMHEFocR8yz4FFAg%3D%3D": {
+    "title": "Manager - Operations - Goa",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:29:36.064Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/manager-operations-chandigarh-at-treebo-hospitality-ventures-4392400075?refId=kFKMbvuZREDNmiaVXJkxTQ%3D%3D&trackingId=QnU0ZJDh951tYc0jenZhuA%3D%3D": {
+    "title": "Manager - Operations - Chandigarh",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:29:36.064Z",
+    "matched": false
+  },
+  "Treebo Hotels::https://in.linkedin.com/jobs/view/senior-director-lead-at-treebo-hospitality-ventures-4388904353?refId=kFKMbvuZREDNmiaVXJkxTQ%3D%3D&trackingId=dHzocXxcR%2BdzGOzTkwhh9A%3D%3D": {
+    "title": "Senior Director & Lead",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:29:36.064Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OQAAADAAAAAxAAAAMAAAADUAAAA=-T5l/c6jKbTA=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:30:05.923Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OQAAADAAAAAxAAAAMAAAADEAAAA=-FDomeWGime4=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:30:05.924Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OQAAADAAAAAwAAAAOQAAADcAAAA=-dvYnA7nvhig=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:30:05.924Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OQAAADAAAAAwAAAAOQAAADMAAAA=-NN08NljZtGA=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:30:05.924Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OQAAADAAAAAwAAAAOAAAADgAAAA=-799CZpHyjzA=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:30:05.924Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OQAAADAAAAAwAAAAOAAAADQAAAA=-Tat8KO7IUf8=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:30:05.924Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OQAAADAAAAAwAAAAOAAAADEAAAA=-Nv4W3XCfSLs=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:30:05.924Z",
+    "matched": false
+  },
+  "Tech Mahindra::https://careers.techmahindra.com/JobDetails.aspx?JobCode=OQAAADAAAAAwAAAANwAAADYAAAA=-CZu04Rxi0jg=&&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=": {
+    "title": "/Shortlist",
+    "location": "Hyderabad, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:30:05.924Z",
+    "matched": false
+  },
+  "Elastic India::8009085": {
+    "title": "Sr. Manager, ABM (Team Lead)",
+    "mode": "skip",
+    "seenAt": "2026-06-16T13:31:16.879Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/senior-cash-management-sales-260008PQ-en": {
+    "title": "Senior Cash Management Sales",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:31:28.866Z",
+    "matched": false
+  },
+  "Societe Generale India::https://careers.societegenerale.com/en/job-offers/lead-software-engineer-fullstack-26000BX5-en": {
+    "title": "Lead Software Engineer - FullStack",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:31:28.866Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/bengaluru/vp-analytics-and-modeling/49841/96502604800": {
+    "title": "VP-Analytics & Modeling",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:32:26.141Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/coimbatore/senior-data-specialist/49841/96502604784": {
+    "title": "Senior Data Specialist",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:32:26.141Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/gurugram/sr-cybersecurity-engineer-network-automation/49841/94725132352": {
+    "title": "Sr Cybersecurity Engineer- Network Automation",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:32:26.141Z",
+    "matched": false
+  },
+  "Moody's India::https://careers.moodys.com/en/job/bengaluru/financial-engineer/49841/94478110432": {
+    "title": "Financial Engineer",
+    "location": "Mumbai, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:32:26.141Z",
+    "matched": false
+  },
+  "Sarvam AI::https://www.sarvam.ai/careers/jobs/8dfa8130-cfb3-4c31-8658-54260d217f86": {
+    "title": "IT LeadOn-Site",
+    "location": "Bangalore, India",
+    "mode": "onsite",
+    "seenAt": "2026-06-16T13:33:54.267Z",
+    "matched": false
   }
 }
