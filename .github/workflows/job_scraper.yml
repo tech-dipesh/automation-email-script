@@ -1,0 +1,110 @@
+name: 🚀 India Job Scraper — Every 12 Hours
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+    - cron: "0 12 * * *"
+
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run — scrape but do NOT send email"
+        required: false
+        default: "false"
+        type: choice
+        options: ["false", "true"]
+      company:
+        description: "Scrape only this company (blank = all)"
+        required: false
+        default: ""
+      reset:
+        description: "Reset seen_jobs.json before running"
+        required: false
+        default: "false"
+        type: choice
+        options: ["false", "true"]
+
+env:
+  PYTHONUNBUFFERED: "1"
+
+jobs:
+  scrape:
+    name: Scrape & Email Alert
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Playwright Chromium
+        run: playwright install --with-deps chromium
+
+      - name: Write .env
+        run: |
+          cat > .env << 'ENVEOF'
+          GMAIL_USER=${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD=${{ secrets.GMAIL_APP_PASSWORD }}
+          ALERT_EMAIL=${{ secrets.ALERT_EMAIL }}
+          GROQ_API_KEY=${{ secrets.GROQ_API_KEY }}
+          GOOGLE_CSE_API_KEY=${{ secrets.GOOGLE_CSE_API_KEY }}
+          GOOGLE_CSE_ID=${{ secrets.GOOGLE_CSE_ID }}
+          COMPANIES_FILE=companies.json
+          SEEN_JOBS_FILE=seen_jobs.json
+          LOG_LEVEL=INFO
+          ENVEOF
+
+      - name: Reset seen_jobs.json
+        if: ${{ github.event.inputs.reset == 'true' }}
+        run: python main.py --reset
+
+      - name: Run scraper
+        run: |
+          ARGS=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          if [ -n "${{ github.event.inputs.company }}" ]; then
+            ARGS="$ARGS --company '${{ github.event.inputs.company }}'"
+          fi
+          python main.py $ARGS
+
+      - name: Commit seen_jobs.json and companies.json
+        if: always()
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add seen_jobs.json companies.json 2>/dev/null || true
+          git add scraper.log   2>/dev/null || true
+
+          if git diff --staged --quiet; then
+            echo "Nothing changed — no commit needed."
+          else
+            git commit -m "chore: update seen_jobs / companies [$(date '+%d %b %Y %H:%M UTC')] [skip ci]"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload run artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraper-run-${{ github.run_number }}-${{ github.run_attempt }}
+          path: |
+            seen_jobs.json
+            scraper.log
+          retention-days: 14
