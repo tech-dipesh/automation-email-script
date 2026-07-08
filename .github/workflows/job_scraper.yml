@@ -32,7 +32,8 @@ jobs:
     name: Scrape & Email Alert
     runs-on: ubuntu-latest
     timeout-minutes: 300
-
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4

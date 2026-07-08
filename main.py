@@ -18,12 +18,12 @@ from notify.sender import send_alert
 
 log = get_logger("scraper", config.LOG_LEVEL)
 
-
 def load_companies(path):
-    with open(path, "r", encoding="utf-8") as f:
+    with open(path) as f:
         data = json.load(f)
-    return data.get("companies", data if isinstance(data, list) else []), data
-
+    if isinstance(data, list):
+        return data, data
+    return data.get("companies", []), data
 
 def save_companies(data, companies, path):
     data["companies"] = companies
