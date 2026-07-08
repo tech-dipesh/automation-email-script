@@ -104,7 +104,7 @@ def run(dry_run=False, target_company=None):
             return
 
     log.info(f"Companies to scrape : {len(companies)}")
-    log.info(f"Already tracked     : {store['total_seen']} jobs")
+    log.info(f"Already tracked     : {store.get('total_seen', 0)} jobs")
 
     new_jobs = []
     dropped_companies = []
