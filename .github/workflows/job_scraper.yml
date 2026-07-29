@@ -94,8 +94,9 @@ jobs:
           if git diff --staged --quiet; then
             echo "Nothing changed — no commit needed."
           else
-            git commit -m "chore: update seen_jobs / companies [$(date '+%d %b %Y %H:%M UTC')] [skip ci]"
-            git push
+          git commit -m "chore: update seen_jobs / companies [$(date '+%d %b %Y %H:%M UTC')] [skip ci]"
+          git pull origin main --no-edit -X theirs
+          git push
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
