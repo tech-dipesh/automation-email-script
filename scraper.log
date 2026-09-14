@@ -138290,3 +138290,1035 @@
 2026-09-14 02:43:53  INFO     CSE queries used today: 0/90
 2026-09-14 02:43:53  INFO     ================================================================
 2026-09-14 02:43:53  INFO     No new jobs — email skipped.
+2026-09-14 17:18:50  INFO     ================================================================
+2026-09-14 17:18:50  INFO     India Job Scraper — Python v1 — 2026-09-14T17:18:50.629552
+2026-09-14 17:18:50  INFO     ================================================================
+2026-09-14 17:18:50  INFO     Companies to scrape : 511
+2026-09-14 17:18:50  INFO     Already tracked     : 0 jobs
+2026-09-14 17:18:50  INFO     [   1/511]
+2026-09-14 17:18:50  ERROR      💥  Razorpay: 'careers_url'
+2026-09-14 17:18:52  INFO     [   2/511]
+2026-09-14 17:18:52  ERROR      💥  CRED: 'careers_url'
+2026-09-14 17:18:54  INFO     [   3/511]
+2026-09-14 17:18:54  ERROR      💥  PhonePe: 'careers_url'
+2026-09-14 17:18:56  INFO     [   4/511]
+2026-09-14 17:18:56  ERROR      💥  Swiggy: 'careers_url'
+2026-09-14 17:18:59  INFO     [   5/511]
+2026-09-14 17:18:59  ERROR      💥  Meesho: 'careers_url'
+2026-09-14 17:19:00  INFO     [   6/511]
+2026-09-14 17:19:00  ERROR      💥  Groww: 'careers_url'
+2026-09-14 17:19:03  INFO     [   7/511]
+2026-09-14 17:19:03  ERROR      💥  Zerodha: 'careers_url'
+2026-09-14 17:19:05  INFO     [   8/511]
+2026-09-14 17:19:05  ERROR      💥  Slice: 'careers_url'
+2026-09-14 17:19:07  INFO     [   9/511]
+2026-09-14 17:19:07  ERROR      💥  Juspay: 'careers_url'
+2026-09-14 17:19:09  INFO     [  10/511]
+2026-09-14 17:19:09  ERROR      💥  Myntra: 'careers_url'
+2026-09-14 17:19:11  INFO     [  11/511]
+2026-09-14 17:19:11  ERROR      💥  Smallcase: 'careers_url'
+2026-09-14 17:19:12  INFO     [  12/511]
+2026-09-14 17:19:12  ERROR      💥  ShareChat: 'careers_url'
+2026-09-14 17:19:13  INFO     [  13/511]
+2026-09-14 17:19:13  ERROR      💥  InMobi: 'careers_url'
+2026-09-14 17:19:15  INFO     [  14/511]
+2026-09-14 17:19:15  ERROR      💥  Skit.ai: 'careers_url'
+2026-09-14 17:19:16  INFO     [  15/511]
+2026-09-14 17:19:16  ERROR      💥  Flipkart: 'careers_url'
+2026-09-14 17:19:19  INFO     [  16/511]
+2026-09-14 17:19:19  ERROR      💥  Ola: 'careers_url'
+2026-09-14 17:19:22  INFO     [  17/511]
+2026-09-14 17:19:22  ERROR      💥  Udaan: 'careers_url'
+2026-09-14 17:19:25  INFO     [  18/511]
+2026-09-14 17:19:25  ERROR      💥  Lenskart: 'careers_url'
+2026-09-14 17:19:27  INFO     [  19/511]
+2026-09-14 17:19:27  ERROR      💥  Gojek: 'careers_url'
+2026-09-14 17:19:28  INFO     [  20/511]
+2026-09-14 17:19:28  ERROR      💥  Hasura: 'careers_url'
+2026-09-14 17:19:30  INFO     [  21/511]
+2026-09-14 17:19:30  ERROR      💥  BigBasket: 'careers_url'
+2026-09-14 17:19:32  INFO     [  22/511]
+2026-09-14 17:19:32  ERROR      💥  Unacademy: 'careers_url'
+2026-09-14 17:19:33  INFO     [  23/511]
+2026-09-14 17:19:33  ERROR      💥  Vedantu: 'careers_url'
+2026-09-14 17:19:36  INFO     [  24/511]
+2026-09-14 17:19:36  ERROR      💥  Pine Labs: 'careers_url'
+2026-09-14 17:19:39  INFO     [  25/511]
+2026-09-14 17:19:39  ERROR      💥  Zoho: 'careers_url'
+2026-09-14 17:19:40  INFO     [  26/511]
+2026-09-14 17:19:40  ERROR      💥  Paytm: 'careers_url'
+2026-09-14 17:19:42  INFO     [  27/511]
+2026-09-14 17:19:42  ERROR      💥  Zepto: 'careers_url'
+2026-09-14 17:19:44  INFO     [  28/511]
+2026-09-14 17:19:44  ERROR      💥  Jupiter Money: 'careers_url'
+2026-09-14 17:19:45  INFO     [  29/511]
+2026-09-14 17:19:45  ERROR      💥  Media.net: 'careers_url'
+2026-09-14 17:19:47  INFO     [  30/511]
+2026-09-14 17:19:47  ERROR      💥  Tower Research: 'careers_url'
+2026-09-14 17:19:48  INFO     [  31/511]
+2026-09-14 17:19:48  ERROR      💥  DE Shaw India: 'careers_url'
+2026-09-14 17:19:50  INFO     [  32/511]
+2026-09-14 17:19:50  ERROR      💥  Arcesium: 'careers_url'
+2026-09-14 17:19:52  INFO     [  33/511]
+2026-09-14 17:19:52  ERROR      💥  Mphasis: 'careers_url'
+2026-09-14 17:19:54  INFO     [  34/511]
+2026-09-14 17:19:54  ERROR      💥  Dunzo: 'careers_url'
+2026-09-14 17:19:56  INFO     [  35/511]
+2026-09-14 17:19:56  ERROR      💥  Apna: 'careers_url'
+2026-09-14 17:19:58  INFO     [  36/511]
+2026-09-14 17:19:58  ERROR      💥  Glance: 'careers_url'
+2026-09-14 17:20:00  INFO     [  37/511]
+2026-09-14 17:20:00  ERROR      💥  Koo App: 'careers_url'
+2026-09-14 17:20:02  INFO     [  38/511]
+2026-09-14 17:20:02  ERROR      💥  Pocket FM: 'careers_url'
+2026-09-14 17:20:04  INFO     [  39/511]
+2026-09-14 17:20:04  ERROR      💥  Rakuten India: 'careers_url'
+2026-09-14 17:20:07  INFO     [  40/511]
+2026-09-14 17:20:07  ERROR      💥  Itilite: 'careers_url'
+2026-09-14 17:20:08  INFO     [  41/511]
+2026-09-14 17:20:08  ERROR      💥  Verse Innovation: 'careers_url'
+2026-09-14 17:20:11  INFO     [  42/511]
+2026-09-14 17:20:11  ERROR      💥  Freshworks: 'careers_url'
+2026-09-14 17:20:12  INFO     [  43/511]
+2026-09-14 17:20:12  ERROR      💥  Chargebee: 'careers_url'
+2026-09-14 17:20:14  INFO     [  44/511]
+2026-09-14 17:20:14  ERROR      💥  Postman: 'careers_url'
+2026-09-14 17:20:16  INFO     [  45/511]
+2026-09-14 17:20:16  ERROR      💥  BrowserStack: 'careers_url'
+2026-09-14 17:20:17  INFO     [  46/511]
+2026-09-14 17:20:17  ERROR      💥  Harness: 'careers_url'
+2026-09-14 17:20:19  INFO     [  47/511]
+2026-09-14 17:20:19  ERROR      💥  CleverTap: 'careers_url'
+2026-09-14 17:20:20  INFO     [  48/511]
+2026-09-14 17:20:20  ERROR      💥  Accenture India: 'careers_url'
+2026-09-14 17:20:23  INFO     [  49/511]
+2026-09-14 17:20:23  ERROR      💥  IBM India: 'careers_url'
+2026-09-14 17:20:25  INFO     [  50/511]
+2026-09-14 17:20:25  ERROR      💥  Infosys: 'careers_url'
+2026-09-14 17:20:26  INFO     [  51/511]
+2026-09-14 17:20:26  ERROR      💥  Wipro: 'careers_url'
+2026-09-14 17:20:29  INFO     [  52/511]
+2026-09-14 17:20:29  ERROR      💥  TCS: 'careers_url'
+2026-09-14 17:20:30  INFO     [  53/511]
+2026-09-14 17:20:30  ERROR      💥  HCL Technologies: 'careers_url'
+2026-09-14 17:20:34  INFO     [  54/511]
+2026-09-14 17:20:34  ERROR      💥  LTIMindtree: 'careers_url'
+2026-09-14 17:20:36  INFO     [  55/511]
+2026-09-14 17:20:36  ERROR      💥  Capgemini India: 'careers_url'
+2026-09-14 17:20:39  INFO     [  56/511]
+2026-09-14 17:20:39  ERROR      💥  Deloitte India: 'careers_url'
+2026-09-14 17:20:42  INFO     [  57/511]
+2026-09-14 17:20:42  ERROR      💥  EY India: 'careers_url'
+2026-09-14 17:20:43  INFO     [  58/511]
+2026-09-14 17:20:43  ERROR      💥  Google: 'careers_url'
+2026-09-14 17:20:46  INFO     [  59/511]
+2026-09-14 17:20:46  ERROR      💥  Microsoft: 'careers_url'
+2026-09-14 17:20:48  INFO     [  60/511]
+2026-09-14 17:20:48  ERROR      💥  Amazon: 'careers_url'
+2026-09-14 17:20:50  INFO     [  61/511]
+2026-09-14 17:20:50  ERROR      💥  Atlassian: 'careers_url'
+2026-09-14 17:20:52  INFO     [  62/511]
+2026-09-14 17:20:52  ERROR      💥  Oracle: 'careers_url'
+2026-09-14 17:20:54  INFO     [  63/511]
+2026-09-14 17:20:54  ERROR      💥  SAP Labs India: 'careers_url'
+2026-09-14 17:20:55  INFO     [  64/511]
+2026-09-14 17:20:55  ERROR      💥  Adobe: 'careers_url'
+2026-09-14 17:20:57  INFO     [  65/511]
+2026-09-14 17:20:57  ERROR      💥  Samsung India: 'careers_url'
+2026-09-14 17:20:59  INFO     [  66/511]
+2026-09-14 17:20:59  ERROR      💥  Qualcomm India: 'careers_url'
+2026-09-14 17:21:01  INFO     [  67/511]
+2026-09-14 17:21:01  ERROR      💥  Cisco: 'careers_url'
+2026-09-14 17:21:04  INFO     [  68/511]
+2026-09-14 17:21:04  ERROR      💥  Intuit: 'careers_url'
+2026-09-14 17:21:06  INFO     [  69/511]
+2026-09-14 17:21:06  ERROR      💥  Goldman Sachs: 'careers_url'
+2026-09-14 17:21:08  INFO     [  70/511]
+2026-09-14 17:21:08  ERROR      💥  JPMorgan: 'careers_url'
+2026-09-14 17:21:11  INFO     [  71/511]
+2026-09-14 17:21:11  ERROR      💥  Walmart Global Tech: 'careers_url'
+2026-09-14 17:21:14  INFO     [  72/511]
+2026-09-14 17:21:14  ERROR      💥  Uber: 'careers_url'
+2026-09-14 17:21:17  INFO     [  73/511]
+2026-09-14 17:21:17  ERROR      💥  Salesforce: 'careers_url'
+2026-09-14 17:21:19  INFO     [  74/511]
+2026-09-14 17:21:19  ERROR      💥  ServiceNow: 'careers_url'
+2026-09-14 17:21:21  INFO     [  75/511]
+2026-09-14 17:21:21  ERROR      💥  Nvidia India: 'careers_url'
+2026-09-14 17:21:23  INFO     [  76/511]
+2026-09-14 17:21:23  ERROR      💥  Apple: 'careers_url'
+2026-09-14 17:21:25  INFO     [  77/511]
+2026-09-14 17:21:25  ERROR      💥  Stripe: 'careers_url'
+2026-09-14 17:21:27  INFO     [  78/511]
+2026-09-14 17:21:27  ERROR      💥  LinkedIn: 'careers_url'
+2026-09-14 17:21:29  INFO     [  79/511]
+2026-09-14 17:21:29  ERROR      💥  PayPal: 'careers_url'
+2026-09-14 17:21:30  INFO     [  80/511]
+2026-09-14 17:21:30  ERROR      💥  Visa: 'careers_url'
+2026-09-14 17:21:33  INFO     [  81/511]
+2026-09-14 17:21:33  ERROR      💥  American Express: 'careers_url'
+2026-09-14 17:21:34  INFO     [  82/511]
+2026-09-14 17:21:34  ERROR      💥  Intel India: 'careers_url'
+2026-09-14 17:21:37  INFO     [  83/511]
+2026-09-14 17:21:37  ERROR      💥  Databricks: 'careers_url'
+2026-09-14 17:21:39  INFO     [  84/511]
+2026-09-14 17:21:39  ERROR      💥  Snowflake: 'careers_url'
+2026-09-14 17:21:40  INFO     [  85/511]
+2026-09-14 17:21:40  ERROR      💥  CrowdStrike: 'careers_url'
+2026-09-14 17:21:42  INFO     [  86/511]
+2026-09-14 17:21:42  ERROR      💥  Sprinklr: 'careers_url'
+2026-09-14 17:21:44  INFO     [  87/511]
+2026-09-14 17:21:44  ERROR      💥  MoEngage: 'careers_url'
+2026-09-14 17:21:47  INFO     [  88/511]
+2026-09-14 17:21:47  ERROR      💥  Observe.AI: 'careers_url'
+2026-09-14 17:21:48  INFO     [  89/511]
+2026-09-14 17:21:48  ERROR      💥  Rubrik: 'careers_url'
+2026-09-14 17:21:49  INFO     [  90/511]
+2026-09-14 17:21:49  ERROR      💥  Palo Alto Networks: 'careers_url'
+2026-09-14 17:21:52  INFO     [  91/511]
+2026-09-14 17:21:52  ERROR      💥  Nutanix: 'careers_url'
+2026-09-14 17:21:54  INFO     [  92/511]
+2026-09-14 17:21:54  ERROR      💥  Agoda: 'careers_url'
+2026-09-14 17:21:56  INFO     [  93/511]
+2026-09-14 17:21:56  ERROR      💥  Cohesity: 'careers_url'
+2026-09-14 17:21:59  INFO     [  94/511]
+2026-09-14 17:21:59  ERROR      💥  YugabyteDB: 'careers_url'
+2026-09-14 17:22:00  INFO     [  95/511]
+2026-09-14 17:22:00  ERROR      💥  Pure Storage: 'careers_url'
+2026-09-14 17:22:02  INFO     [  96/511]
+2026-09-14 17:22:02  ERROR      💥  VMware: 'careers_url'
+2026-09-14 17:22:04  INFO     [  97/511]
+2026-09-14 17:22:04  ERROR      💥  Twilio: 'careers_url'
+2026-09-14 17:22:06  INFO     [  98/511]
+2026-09-14 17:22:06  ERROR      💥  Cloudflare: 'careers_url'
+2026-09-14 17:22:07  INFO     [  99/511]
+2026-09-14 17:22:07  ERROR      💥  GitLab: 'careers_url'
+2026-09-14 17:22:10  INFO     [ 100/511]
+2026-09-14 17:22:10  ERROR      💥  Replit: 'careers_url'
+2026-09-14 17:22:12  INFO     [ 101/511]
+2026-09-14 17:22:12  ERROR      💥  Linear: 'careers_url'
+2026-09-14 17:22:14  INFO     [ 102/511]
+2026-09-14 17:22:14  ERROR      💥  Aspire: 'careers_url'
+2026-09-14 17:22:16  INFO     [ 103/511]
+2026-09-14 17:22:16  ERROR      💥  Canonical: 'careers_url'
+2026-09-14 17:22:17  INFO     [ 104/511]
+2026-09-14 17:22:17  ERROR      💥  Automattic: 'careers_url'
+2026-09-14 17:22:19  INFO     [ 105/511]
+2026-09-14 17:22:19  ERROR      💥  Miro: 'careers_url'
+2026-09-14 17:22:21  INFO     [ 106/511]
+2026-09-14 17:22:21  ERROR      💥  1Password: 'careers_url'
+2026-09-14 17:22:24  INFO     [ 107/511]
+2026-09-14 17:22:24  ERROR      💥  Zapier: 'careers_url'
+2026-09-14 17:22:26  INFO     [ 108/511]
+2026-09-14 17:22:26  ERROR      💥  Figma: 'careers_url'
+2026-09-14 17:22:29  INFO     [ 109/511]
+2026-09-14 17:22:29  ERROR      💥  Notion: 'careers_url'
+2026-09-14 17:22:31  INFO     [ 110/511]
+2026-09-14 17:22:31  ERROR      💥  Xapo Bank: 'careers_url'
+2026-09-14 17:22:32  INFO     [ 111/511]
+2026-09-14 17:22:32  ERROR      💥  Vercel: 'careers_url'
+2026-09-14 17:22:35  INFO     [ 112/511]
+2026-09-14 17:22:35  ERROR      💥  Netlify: 'careers_url'
+2026-09-14 17:22:38  INFO     [ 113/511]
+2026-09-14 17:22:38  ERROR      💥  Airbnb: 'careers_url'
+2026-09-14 17:22:40  INFO     [ 114/511]
+2026-09-14 17:22:40  ERROR      💥  Dropbox: 'careers_url'
+2026-09-14 17:22:43  INFO     [ 115/511]
+2026-09-14 17:22:43  ERROR      💥  Toptal: 'careers_url'
+2026-09-14 17:22:44  INFO     [ 116/511]
+2026-09-14 17:22:44  ERROR      💥  Turing: 'careers_url'
+2026-09-14 17:22:46  INFO     [ 117/511]
+2026-09-14 17:22:46  ERROR      💥  EPAM: 'careers_url'
+2026-09-14 17:22:48  INFO     [ 118/511]
+2026-09-14 17:22:48  ERROR      💥  Thoughtworks: 'careers_url'
+2026-09-14 17:22:52  INFO     [ 119/511]
+2026-09-14 17:22:52  ERROR      💥  Docker: 'careers_url'
+2026-09-14 17:22:54  INFO     [ 120/511]
+2026-09-14 17:22:54  ERROR      💥  Faire: 'careers_url'
+2026-09-14 17:22:57  INFO     [ 121/511]
+2026-09-14 17:22:57  ERROR      💥  1mg: 'careers_url'
+2026-09-14 17:22:59  INFO     [ 122/511]
+2026-09-14 17:22:59  ERROR      💥  Airbus India: 'careers_url'
+2026-09-14 17:23:01  INFO     [ 123/511]
+2026-09-14 17:23:01  ERROR      💥  Airtel: 'careers_url'
+2026-09-14 17:23:02  INFO     [ 124/511]
+2026-09-14 17:23:02  ERROR      💥  Ajio: 'careers_url'
+2026-09-14 17:23:04  INFO     [ 125/511]
+2026-09-14 17:23:04  ERROR      💥  Amadeus Labs: 'careers_url'
+2026-09-14 17:23:05  INFO     [ 126/511]
+2026-09-14 17:23:05  ERROR      💥  BharatPe: 'careers_url'
+2026-09-14 17:23:07  INFO     [ 127/511]
+2026-09-14 17:23:07  ERROR      💥  BMC Software India: 'careers_url'
+2026-09-14 17:23:09  INFO     [ 128/511]
+2026-09-14 17:23:09  ERROR      💥  Boeing India: 'careers_url'
+2026-09-14 17:23:11  INFO     [ 129/511]
+2026-09-14 17:23:11  ERROR      💥  Cadence India: 'careers_url'
+2026-09-14 17:23:13  INFO     [ 130/511]
+2026-09-14 17:23:13  ERROR      💥  Citrix India: 'careers_url'
+2026-09-14 17:23:16  INFO     [ 131/511]
+2026-09-14 17:23:16  ERROR      💥  Codenation Innovation Labs: 'careers_url'
+2026-09-14 17:23:19  INFO     [ 132/511]
+2026-09-14 17:23:19  ERROR      💥  CoinDCX: 'careers_url'
+2026-09-14 17:23:22  INFO     [ 133/511]
+2026-09-14 17:23:22  ERROR      💥  CoinSwitch Kuber: 'careers_url'
+2026-09-14 17:23:25  INFO     [ 134/511]
+2026-09-14 17:23:25  ERROR      💥  Cult.fit: 'careers_url'
+2026-09-14 17:23:26  INFO     [ 135/511]
+2026-09-14 17:23:26  ERROR      💥  Delhivery: 'careers_url'
+2026-09-14 17:23:29  INFO     [ 136/511]
+2026-09-14 17:23:29  ERROR      💥  Dell India: 'careers_url'
+2026-09-14 17:23:32  INFO     [ 137/511]
+2026-09-14 17:23:32  ERROR      💥  Deutsche Bank India: 'careers_url'
+2026-09-14 17:23:33  INFO     [ 138/511]
+2026-09-14 17:23:33  ERROR      💥  Directi: 'careers_url'
+2026-09-14 17:23:35  INFO     [ 139/511]
+2026-09-14 17:23:35  ERROR      💥  Discovery Inc India: 'careers_url'
+2026-09-14 17:23:38  INFO     [ 140/511]
+2026-09-14 17:23:38  ERROR      💥  Dream11: 'careers_url'
+2026-09-14 17:23:40  INFO     [ 141/511]
+2026-09-14 17:23:40  ERROR      💥  Druva: 'careers_url'
+2026-09-14 17:23:41  INFO     [ 142/511]
+2026-09-14 17:23:41  ERROR      💥  Expedia Group India: 'careers_url'
+2026-09-14 17:23:44  INFO     [ 143/511]
+2026-09-14 17:23:44  ERROR      💥  Meta India: 'careers_url'
+2026-09-14 17:23:45  INFO     [ 144/511]
+2026-09-14 17:23:45  ERROR      💥  Fractal Analytics: 'careers_url'
+2026-09-14 17:23:48  INFO     [ 145/511]
+2026-09-14 17:23:48  ERROR      💥  Fidelity Investments India: 'careers_url'
+2026-09-14 17:23:49  INFO     [ 146/511]
+2026-09-14 17:23:49  ERROR      💥  FreeCharge: 'careers_url'
+2026-09-14 17:23:52  INFO     [ 147/511]
+2026-09-14 17:23:52  ERROR      💥  Grab: 'careers_url'
+2026-09-14 17:23:53  INFO     [ 148/511]
+2026-09-14 17:23:53  ERROR      💥  Blinkit: 'careers_url'
+2026-09-14 17:23:56  INFO     [ 149/511]
+2026-09-14 17:23:56  ERROR      💥  HealthifyMe: 'careers_url'
+2026-09-14 17:23:57  INFO     [ 150/511]
+2026-09-14 17:23:57  ERROR      💥  Disney+ Hotstar: 'careers_url'
+2026-09-14 17:23:58  INFO     [ 151/511]
+2026-09-14 17:23:58  ERROR      💥  HP India: 'careers_url'
+2026-09-14 17:24:00  INFO     [ 152/511]
+2026-09-14 17:24:00  ERROR      💥  Jio: 'careers_url'
+2026-09-14 17:24:03  INFO     [ 153/511]
+2026-09-14 17:24:03  ERROR      💥  Khatabook: 'careers_url'
+2026-09-14 17:24:05  INFO     [ 154/511]
+2026-09-14 17:24:05  ERROR      💥  Licious: 'careers_url'
+2026-09-14 17:24:08  INFO     [ 155/511]
+2026-09-14 17:24:08  ERROR      💥  Mastercard India: 'careers_url'
+2026-09-14 17:24:10  INFO     [ 156/511]
+2026-09-14 17:24:10  ERROR      💥  Morgan Stanley India: 'careers_url'
+2026-09-14 17:24:13  INFO     [ 157/511]
+2026-09-14 17:24:13  ERROR      💥  MPL: 'careers_url'
+2026-09-14 17:24:15  INFO     [ 158/511]
+2026-09-14 17:24:15  ERROR      💥  Nagarro: 'careers_url'
+2026-09-14 17:24:17  INFO     [ 159/511]
+2026-09-14 17:24:17  ERROR      💥  National Instruments India: 'careers_url'
+2026-09-14 17:24:20  INFO     [ 160/511]
+2026-09-14 17:24:20  ERROR      💥  Navi: 'careers_url'
+2026-09-14 17:24:22  INFO     [ 161/511]
+2026-09-14 17:24:22  ERROR      💥  Nokia India: 'careers_url'
+2026-09-14 17:24:25  INFO     [ 162/511]
+2026-09-14 17:24:25  ERROR      💥  nurture.farm: 'careers_url'
+2026-09-14 17:24:27  INFO     [ 163/511]
+2026-09-14 17:24:27  ERROR      💥  Park+: 'careers_url'
+2026-09-14 17:24:28  INFO     [ 164/511]
+2026-09-14 17:24:28  ERROR      💥  Persistent Systems: 'careers_url'
+2026-09-14 17:24:31  INFO     [ 165/511]
+2026-09-14 17:24:31  ERROR      💥  PharmEasy: 'careers_url'
+2026-09-14 17:24:32  INFO     [ 166/511]
+2026-09-14 17:24:32  ERROR      💥  JioSaavn: 'careers_url'
+2026-09-14 17:24:35  INFO     [ 167/511]
+2026-09-14 17:24:35  ERROR      💥  Sabre Corporation India: 'careers_url'
+2026-09-14 17:24:36  INFO     [ 168/511]
+2026-09-14 17:24:36  ERROR      💥  Shaadi.com: 'careers_url'
+2026-09-14 17:24:38  INFO     [ 169/511]
+2026-09-14 17:24:38  ERROR      💥  Shell India: 'careers_url'
+2026-09-14 17:24:39  INFO     [ 170/511]
+2026-09-14 17:24:39  ERROR      💥  Synopsys India: 'careers_url'
+2026-09-14 17:24:41  INFO     [ 171/511]
+2026-09-14 17:24:41  ERROR      💥  Target India: 'careers_url'
+2026-09-14 17:24:43  INFO     [ 172/511]
+2026-09-14 17:24:43  ERROR      💥  Tekion Corp India: 'careers_url'
+2026-09-14 17:24:46  INFO     [ 173/511]
+2026-09-14 17:24:46  ERROR      💥  Texas Instruments India: 'careers_url'
+2026-09-14 17:24:48  INFO     [ 174/511]
+2026-09-14 17:24:48  ERROR      💥  Turvo India: 'careers_url'
+2026-09-14 17:24:51  INFO     [ 175/511]
+2026-09-14 17:24:51  ERROR      💥  UpGrad: 'careers_url'
+2026-09-14 17:24:53  INFO     [ 176/511]
+2026-09-14 17:24:53  ERROR      💥  Upstox: 'careers_url'
+2026-09-14 17:24:54  INFO     [ 177/511]
+2026-09-14 17:24:54  ERROR      💥  Urban Company: 'careers_url'
+2026-09-14 17:24:56  INFO     [ 178/511]
+2026-09-14 17:24:56  ERROR      💥  Wells Fargo India: 'careers_url'
+2026-09-14 17:24:58  INFO     [ 179/511]
+2026-09-14 17:24:58  ERROR      💥  Western Digital India: 'careers_url'
+2026-09-14 17:25:01  INFO     [ 180/511]
+2026-09-14 17:25:01  ERROR      💥  WorldQuant India: 'careers_url'
+2026-09-14 17:25:02  INFO     [ 181/511]
+2026-09-14 17:25:02  ERROR      💥  yellow.ai: 'careers_url'
+2026-09-14 17:25:05  INFO     [ 182/511]
+2026-09-14 17:25:05  ERROR      💥  Zeta India: 'careers_url'
+2026-09-14 17:25:06  INFO     [ 183/511]
+2026-09-14 17:25:06  ERROR      💥  Zomato: 'careers_url'
+2026-09-14 17:25:09  INFO     [ 184/511]
+2026-09-14 17:25:09  ERROR      💥  Spinny: 'careers_url'
+2026-09-14 17:25:11  INFO     [ 185/511]
+2026-09-14 17:25:11  ERROR      💥  CarDekho: 'careers_url'
+2026-09-14 17:25:13  INFO     [ 186/511]
+2026-09-14 17:25:13  ERROR      💥  BCG India: 'careers_url'
+2026-09-14 17:25:16  INFO     [ 187/511]
+2026-09-14 17:25:16  ERROR      💥  Bank of America India: 'careers_url'
+2026-09-14 17:25:18  INFO     [ 188/511]
+2026-09-14 17:25:18  ERROR      💥  Chegg India: 'careers_url'
+2026-09-14 17:25:21  INFO     [ 189/511]
+2026-09-14 17:25:21  ERROR      💥  Coinbase India: 'careers_url'
+2026-09-14 17:25:22  INFO     [ 190/511]
+2026-09-14 17:25:22  ERROR      💥  Cvent India: 'careers_url'
+2026-09-14 17:25:24  INFO     [ 191/511]
+2026-09-14 17:25:24  ERROR      💥  Goibibo: 'careers_url'
+2026-09-14 17:25:26  INFO     [ 192/511]
+2026-09-14 17:25:26  ERROR      💥  GreyOrange: 'careers_url'
+2026-09-14 17:25:28  INFO     [ 193/511]
+2026-09-14 17:25:28  ERROR      💥  Fynd: 'careers_url'
+2026-09-14 17:25:31  INFO     [ 194/511]
+2026-09-14 17:25:31  ERROR      💥  Housing.com: 'careers_url'
+2026-09-14 17:25:34  INFO     [ 195/511]
+2026-09-14 17:25:34  ERROR      💥  Hike: 'careers_url'
+2026-09-14 17:25:36  INFO     [ 196/511]
+2026-09-14 17:25:36  ERROR      💥  Innovaccer: 'careers_url'
+2026-09-14 17:25:39  INFO     [ 197/511]
+2026-09-14 17:25:39  ERROR      💥  MakeMyTrip: 'careers_url'
+2026-09-14 17:25:41  INFO     [ 198/511]
+2026-09-14 17:25:41  ERROR      💥  OLX India: 'careers_url'
+2026-09-14 17:25:43  INFO     [ 199/511]
+2026-09-14 17:25:43  ERROR      💥  OYO: 'careers_url'
+2026-09-14 17:25:45  INFO     [ 200/511]
+2026-09-14 17:25:45  ERROR      💥  PwC India: 'careers_url'
+2026-09-14 17:25:46  INFO     [ 201/511]
+2026-09-14 17:25:46  ERROR      💥  Optum India: 'careers_url'
+2026-09-14 17:25:49  INFO     [ 202/511]
+2026-09-14 17:25:49  ERROR      💥  Publicis Sapient: 'careers_url'
+2026-09-14 17:25:51  INFO     [ 203/511]
+2026-09-14 17:25:51  ERROR      💥  Quadeye: 'careers_url'
+2026-09-14 17:25:53  INFO     [ 204/511]
+2026-09-14 17:25:53  ERROR      💥  Ixigo: 'careers_url'
+2026-09-14 17:25:54  INFO     [ 205/511]
+2026-09-14 17:25:54  ERROR      💥  KPMG India: 'careers_url'
+2026-09-14 17:25:56  INFO     [ 206/511]
+2026-09-14 17:25:56  ERROR      💥  Cars24: 'careers_url'
+2026-09-14 17:25:59  INFO     [ 207/511]
+2026-09-14 17:25:59  ERROR      💥  Yatra: 'careers_url'
+2026-09-14 17:26:01  INFO     [ 208/511]
+2026-09-14 17:26:01  ERROR      💥  SBI Card: 'careers_url'
+2026-09-14 17:26:03  INFO     [ 209/511]
+2026-09-14 17:26:03  ERROR      💥  Times Internet: 'careers_url'
+2026-09-14 17:26:05  INFO     [ 210/511]
+2026-09-14 17:26:05  ERROR      💥  Snapdeal: 'careers_url'
+2026-09-14 17:26:07  INFO     [ 211/511]
+2026-09-14 17:26:07  ERROR      💥  WinZo: 'careers_url'
+2026-09-14 17:26:10  INFO     [ 212/511]
+2026-09-14 17:26:10  ERROR      💥  Simpl: 'careers_url'
+2026-09-14 17:26:12  INFO     [ 213/511]
+2026-09-14 17:26:12  ERROR      💥  McKinsey India: 'careers_url'
+2026-09-14 17:26:14  INFO     [ 214/511]
+2026-09-14 17:26:14  ERROR      💥  Sumo Logic India: 'careers_url'
+2026-09-14 17:26:16  INFO     [ 215/511]
+2026-09-14 17:26:16  ERROR      💥  Acko: 'careers_url'
+2026-09-14 17:26:17  INFO     [ 216/511]
+2026-09-14 17:26:17  ERROR      💥  AngelOne: 'careers_url'
+2026-09-14 17:26:18  INFO     [ 217/511]
+2026-09-14 17:26:18  ERROR      💥  Arista Networks India: 'careers_url'
+2026-09-14 17:26:21  INFO     [ 218/511]
+2026-09-14 17:26:21  ERROR      💥  Atlan: 'careers_url'
+2026-09-14 17:26:24  INFO     [ 219/511]
+2026-09-14 17:26:24  ERROR      💥  Avalara India: 'careers_url'
+2026-09-14 17:26:26  INFO     [ 220/511]
+2026-09-14 17:26:26  ERROR      💥  Axis Bank: 'careers_url'
+2026-09-14 17:26:29  INFO     [ 221/511]
+2026-09-14 17:26:29  ERROR      💥  Barclays India: 'careers_url'
+2026-09-14 17:26:30  INFO     [ 222/511]
+2026-09-14 17:26:30  ERROR      💥  BNY Mellon India: 'careers_url'
+2026-09-14 17:26:32  INFO     [ 223/511]
+2026-09-14 17:26:32  ERROR      💥  Block Inc India: 'careers_url'
+2026-09-14 17:26:35  INFO     [ 224/511]
+2026-09-14 17:26:35  ERROR      💥  Bloomberg India: 'careers_url'
+2026-09-14 17:26:38  INFO     [ 225/511]
+2026-09-14 17:26:38  ERROR      💥  Booking.com India: 'careers_url'
+2026-09-14 17:26:40  INFO     [ 226/511]
+2026-09-14 17:26:40  ERROR      💥  Box India: 'careers_url'
+2026-09-14 17:26:41  INFO     [ 227/511]
+2026-09-14 17:26:41  ERROR      💥  ByteDance India: 'careers_url'
+2026-09-14 17:26:43  INFO     [ 228/511]
+2026-09-14 17:26:43  ERROR      💥  Capital One India: 'careers_url'
+2026-09-14 17:26:46  INFO     [ 229/511]
+2026-09-14 17:26:46  ERROR      💥  Commvault India: 'careers_url'
+2026-09-14 17:26:47  INFO     [ 230/511]
+2026-09-14 17:26:47  ERROR      💥  DailyHunt: 'careers_url'
+2026-09-14 17:26:49  INFO     [ 231/511]
+2026-09-14 17:26:49  ERROR      💥  DBS Bank India: 'careers_url'
+2026-09-14 17:26:50  INFO     [ 232/511]
+2026-09-14 17:26:50  ERROR      💥  DealShare: 'careers_url'
+2026-09-14 17:26:52  INFO     [ 233/511]
+2026-09-14 17:26:52  ERROR      💥  DigitalOcean: 'careers_url'
+2026-09-14 17:26:54  INFO     [ 234/511]
+2026-09-14 17:26:54  ERROR      💥  Discord India: 'careers_url'
+2026-09-14 17:26:56  INFO     [ 235/511]
+2026-09-14 17:26:56  ERROR      💥  Dukaan: 'careers_url'
+2026-09-14 17:26:57  INFO     [ 236/511]
+2026-09-14 17:26:57  ERROR      💥  EA Games India: 'careers_url'
+2026-09-14 17:27:00  INFO     [ 237/511]
+2026-09-14 17:27:00  ERROR      💥  eBay India: 'careers_url'
+2026-09-14 17:27:02  INFO     [ 238/511]
+2026-09-14 17:27:02  ERROR      💥  Enfusion India: 'careers_url'
+2026-09-14 17:27:05  INFO     [ 239/511]
+2026-09-14 17:27:05  ERROR      💥  Epic Games India: 'careers_url'
+2026-09-14 17:27:08  INFO     [ 240/511]
+2026-09-14 17:27:08  ERROR      💥  Equinix India: 'careers_url'
+2026-09-14 17:27:10  INFO     [ 241/511]
+2026-09-14 17:27:10  ERROR      💥  EXL Healthcare: 'careers_url'
+2026-09-14 17:27:12  INFO     [ 242/511]
+2026-09-14 17:27:12  ERROR      💥  F5 Networks India: 'careers_url'
+2026-09-14 17:27:13  INFO     [ 243/511]
+2026-09-14 17:27:13  ERROR      💥  FactSet India: 'careers_url'
+2026-09-14 17:27:14  INFO     [ 244/511]
+2026-09-14 17:27:14  ERROR      💥  FamPay: 'careers_url'
+2026-09-14 17:27:17  INFO     [ 245/511]
+2026-09-14 17:27:17  ERROR      💥  Fiserv India: 'careers_url'
+2026-09-14 17:27:18  INFO     [ 246/511]
+2026-09-14 17:27:18  ERROR      💥  Flexport India: 'careers_url'
+2026-09-14 17:27:20  INFO     [ 247/511]
+2026-09-14 17:27:20  ERROR      💥  Frappe Technologies: 'careers_url'
+2026-09-14 17:27:22  INFO     [ 248/511]
+2026-09-14 17:27:22  ERROR      💥  GitHub India: 'careers_url'
+2026-09-14 17:27:24  INFO     [ 249/511]
+2026-09-14 17:27:24  ERROR      💥  GoDaddy India: 'careers_url'
+2026-09-14 17:27:26  INFO     [ 250/511]
+2026-09-14 17:27:26  ERROR      💥  Go Digit: 'careers_url'
+2026-09-14 17:27:29  INFO     [ 251/511]
+2026-09-14 17:27:29  ERROR      💥  Grafana Labs: 'careers_url'
+2026-09-14 17:27:31  INFO     [ 252/511]
+2026-09-14 17:27:31  ERROR      💥  Genpact: 'careers_url'
+2026-09-14 17:27:34  INFO     [ 253/511]
+2026-09-14 17:27:34  ERROR      💥  HackerEarth: 'careers_url'
+2026-09-14 17:27:36  INFO     [ 254/511]
+2026-09-14 17:27:36  ERROR      💥  HackerRank: 'careers_url'
+2026-09-14 17:27:39  INFO     [ 255/511]
+2026-09-14 17:27:39  ERROR      💥  Hashedin by Deloitte: 'careers_url'
+2026-09-14 17:27:41  INFO     [ 256/511]
+2026-09-14 17:27:41  ERROR      💥  HDFC Bank: 'careers_url'
+2026-09-14 17:27:44  INFO     [ 257/511]
+2026-09-14 17:27:44  ERROR      💥  HubSpot India: 'careers_url'
+2026-09-14 17:27:46  INFO     [ 258/511]
+2026-09-14 17:27:46  ERROR      💥  Hugging Face: 'careers_url'
+2026-09-14 17:27:48  INFO     [ 259/511]
+2026-09-14 17:27:48  ERROR      💥  IHS Markit India: 'careers_url'
+2026-09-14 17:27:50  INFO     [ 260/511]
+2026-09-14 17:27:50  ERROR      💥  IndiaMART: 'careers_url'
+2026-09-14 17:27:52  INFO     [ 261/511]
+2026-09-14 17:27:52  ERROR      💥  Juniper Networks India: 'careers_url'
+2026-09-14 17:27:54  INFO     [ 262/511]
+2026-09-14 17:27:54  ERROR      💥  Jumbotail: 'careers_url'
+2026-09-14 17:27:56  INFO     [ 263/511]
+2026-09-14 17:27:56  ERROR      💥  KLA Corporation India: 'careers_url'
+2026-09-14 17:27:58  INFO     [ 264/511]
+2026-09-14 17:27:58  ERROR      💥  Kotak Mahindra Bank: 'careers_url'
+2026-09-14 17:27:59  INFO     [ 265/511]
+2026-09-14 17:27:59  ERROR      💥  LambdaTest: 'careers_url'
+2026-09-14 17:28:02  INFO     [ 266/511]
+2026-09-14 17:28:02  ERROR      💥  Lam Research India: 'careers_url'
+2026-09-14 17:28:05  INFO     [ 267/511]
+2026-09-14 17:28:05  ERROR      💥  Micron India: 'careers_url'
+2026-09-14 17:28:07  INFO     [ 268/511]
+2026-09-14 17:28:07  ERROR      💥  MindTickle: 'careers_url'
+2026-09-14 17:28:10  INFO     [ 269/511]
+2026-09-14 17:28:10  ERROR      💥  MobiKwik: 'careers_url'
+2026-09-14 17:28:12  INFO     [ 270/511]
+2026-09-14 17:28:12  ERROR      💥  NetApp India: 'careers_url'
+2026-09-14 17:28:15  INFO     [ 271/511]
+2026-09-14 17:28:15  ERROR      💥  Netflix India: 'careers_url'
+2026-09-14 17:28:18  INFO     [ 272/511]
+2026-09-14 17:28:18  ERROR      💥  Ninjacart: 'careers_url'
+2026-09-14 17:28:20  INFO     [ 273/511]
+2026-09-14 17:28:20  ERROR      💥  Nykaa: 'careers_url'
+2026-09-14 17:28:21  INFO     [ 274/511]
+2026-09-14 17:28:21  ERROR      💥  OneCard: 'careers_url'
+2026-09-14 17:28:23  INFO     [ 275/511]
+2026-09-14 17:28:23  ERROR      💥  OpenAI India: 'careers_url'
+2026-09-14 17:28:24  INFO     [ 276/511]
+2026-09-14 17:28:24  ERROR      💥  OpenText India: 'careers_url'
+2026-09-14 17:28:26  INFO     [ 277/511]
+2026-09-14 17:28:26  ERROR      💥  PeopleStrong: 'careers_url'
+2026-09-14 17:28:28  INFO     [ 278/511]
+2026-09-14 17:28:28  ERROR      💥  PubMatic India: 'careers_url'
+2026-09-14 17:28:30  INFO     [ 279/511]
+2026-09-14 17:28:30  ERROR      💥  Quora India: 'careers_url'
+2026-09-14 17:28:32  INFO     [ 280/511]
+2026-09-14 17:28:32  ERROR      💥  Rippling India: 'careers_url'
+2026-09-14 17:28:35  INFO     [ 281/511]
+2026-09-14 17:28:35  ERROR      💥  Roku India: 'careers_url'
+2026-09-14 17:28:37  INFO     [ 282/511]
+2026-09-14 17:28:37  ERROR      💥  Shopify India: 'careers_url'
+2026-09-14 17:28:39  INFO     [ 283/511]
+2026-09-14 17:28:39  ERROR      💥  Sigmoid: 'careers_url'
+2026-09-14 17:28:41  INFO     [ 284/511]
+2026-09-14 17:28:41  ERROR      💥  Siemens India: 'careers_url'
+2026-09-14 17:28:44  INFO     [ 285/511]
+2026-09-14 17:28:44  ERROR      💥  Skyroot Aerospace: 'careers_url'
+2026-09-14 17:28:46  INFO     [ 286/511]
+2026-09-14 17:28:46  ERROR      💥  Squadstack: 'careers_url'
+2026-09-14 17:28:48  INFO     [ 287/511]
+2026-09-14 17:28:48  ERROR      💥  Teradata India: 'careers_url'
+2026-09-14 17:28:51  INFO     [ 288/511]
+2026-09-14 17:28:51  ERROR      💥  Tesla India: 'careers_url'
+2026-09-14 17:28:53  INFO     [ 289/511]
+2026-09-14 17:28:53  ERROR      💥  ThoughtSpot India: 'careers_url'
+2026-09-14 17:28:55  INFO     [ 290/511]
+2026-09-14 17:28:55  ERROR      💥  X (Twitter) India: 'careers_url'
+2026-09-14 17:28:57  INFO     [ 291/511]
+2026-09-14 17:28:57  ERROR      💥  Ubisoft India: 'careers_url'
+2026-09-14 17:28:59  INFO     [ 292/511]
+2026-09-14 17:28:59  ERROR      💥  Unisys India: 'careers_url'
+2026-09-14 17:29:01  INFO     [ 293/511]
+2026-09-14 17:29:01  ERROR      💥  Upwork: 'careers_url'
+2026-09-14 17:29:03  INFO     [ 294/511]
+2026-09-14 17:29:03  ERROR      💥  Viasat India: 'careers_url'
+2026-09-14 17:29:05  INFO     [ 295/511]
+2026-09-14 17:29:05  ERROR      💥  Warner Bros Discovery India: 'careers_url'
+2026-09-14 17:29:07  INFO     [ 296/511]
+2026-09-14 17:29:07  ERROR      💥  Whatfix: 'careers_url'
+2026-09-14 17:29:09  INFO     [ 297/511]
+2026-09-14 17:29:09  ERROR      💥  Xiaomi India: 'careers_url'
+2026-09-14 17:29:10  INFO     [ 298/511]
+2026-09-14 17:29:10  ERROR      💥  Yahoo India: 'careers_url'
+2026-09-14 17:29:11  INFO     [ 299/511]
+2026-09-14 17:29:11  ERROR      💥  Yulu Bikes: 'careers_url'
+2026-09-14 17:29:13  INFO     [ 300/511]
+2026-09-14 17:29:13  ERROR      💥  ZS Associates India: 'careers_url'
+2026-09-14 17:29:15  INFO     [ 301/511]
+2026-09-14 17:29:15  ERROR      💥  Zivame: 'careers_url'
+2026-09-14 17:29:16  INFO     [ 302/511]
+2026-09-14 17:29:16  ERROR      💥  ZoomCar: 'careers_url'
+2026-09-14 17:29:19  INFO     [ 303/511]
+2026-09-14 17:29:19  ERROR      💥  AMD India: 'careers_url'
+2026-09-14 17:29:21  INFO     [ 304/511]
+2026-09-14 17:29:21  ERROR      💥  Applied Materials India: 'careers_url'
+2026-09-14 17:29:23  INFO     [ 305/511]
+2026-09-14 17:29:23  ERROR      💥  Cognizant: 'careers_url'
+2026-09-14 17:29:25  INFO     [ 306/511]
+2026-09-14 17:29:25  ERROR      💥  Analog Devices India: 'careers_url'
+2026-09-14 17:29:27  INFO     [ 307/511]
+2026-09-14 17:29:27  ERROR      💥  Bosch India: 'careers_url'
+2026-09-14 17:29:30  INFO     [ 308/511]
+2026-09-14 17:29:30  ERROR      💥  Ericsson India: 'careers_url'
+2026-09-14 17:29:32  INFO     [ 309/511]
+2026-09-14 17:29:32  ERROR      💥  ABB India: 'careers_url'
+2026-09-14 17:29:35  INFO     [ 310/511]
+2026-09-14 17:29:35  ERROR      💥  Schneider Electric India: 'careers_url'
+2026-09-14 17:29:37  INFO     [ 311/511]
+2026-09-14 17:29:37  ERROR      💥  Honeywell India: 'careers_url'
+2026-09-14 17:29:39  INFO     [ 312/511]
+2026-09-14 17:29:39  ERROR      💥  NTT Group India: 'careers_url'
+2026-09-14 17:29:42  INFO     [ 313/511]
+2026-09-14 17:29:42  ERROR      💥  DXC Technology India: 'careers_url'
+2026-09-14 17:29:43  INFO     [ 314/511]
+2026-09-14 17:29:43  ERROR      💥  Hitachi India: 'careers_url'
+2026-09-14 17:29:45  INFO     [ 315/511]
+2026-09-14 17:29:45  ERROR      💥  Activision Blizzard: 'careers_url'
+2026-09-14 17:29:47  INFO     [ 316/511]
+2026-09-14 17:29:47  ERROR      💥  Agnikul Cosmos: 'careers_url'
+2026-09-14 17:29:49  INFO     [ 317/511]
+2026-09-14 17:29:49  ERROR      💥  Ansys India: 'careers_url'
+2026-09-14 17:29:52  INFO     [ 318/511]
+2026-09-14 17:29:52  ERROR      💥  AppDynamics India: 'careers_url'
+2026-09-14 17:29:54  INFO     [ 319/511]
+2026-09-14 17:29:54  ERROR      💥  Avaya India: 'careers_url'
+2026-09-14 17:29:57  INFO     [ 320/511]
+2026-09-14 17:29:57  ERROR      💥  BankBazaar: 'careers_url'
+2026-09-14 17:29:59  INFO     [ 321/511]
+2026-09-14 17:29:59  ERROR      💥  Bluestacks: 'careers_url'
+2026-09-14 17:30:01  INFO     [ 322/511]
+2026-09-14 17:30:01  ERROR      💥  Capillary Technologies: 'careers_url'
+2026-09-14 17:30:03  INFO     [ 323/511]
+2026-09-14 17:30:03  ERROR      💥  CarWale: 'careers_url'
+2026-09-14 17:30:05  INFO     [ 324/511]
+2026-09-14 17:30:05  ERROR      💥  Cashfree: 'careers_url'
+2026-09-14 17:30:06  INFO     [ 325/511]
+2026-09-14 17:30:06  ERROR      💥  Citibank India: 'careers_url'
+2026-09-14 17:30:09  INFO     [ 326/511]
+2026-09-14 17:30:09  ERROR      💥  Digit Insurance: 'careers_url'
+2026-09-14 17:30:11  INFO     [ 327/511]
+2026-09-14 17:30:11  ERROR      💥  Dynatrace India: 'careers_url'
+2026-09-14 17:30:13  INFO     [ 328/511]
+2026-09-14 17:30:13  ERROR      💥  Furlenco: 'careers_url'
+2026-09-14 17:30:14  INFO     [ 329/511]
+2026-09-14 17:30:14  ERROR      💥  Fyle: 'careers_url'
+2026-09-14 17:30:17  INFO     [ 330/511]
+2026-09-14 17:30:17  ERROR      💥  Garuda Aerospace: 'careers_url'
+2026-09-14 17:30:18  INFO     [ 331/511]
+2026-09-14 17:30:18  ERROR      💥  GeeksForGeeks: 'careers_url'
+2026-09-14 17:30:21  INFO     [ 332/511]
+2026-09-14 17:30:21  ERROR      💥  GE Healthcare India: 'careers_url'
+2026-09-14 17:30:23  INFO     [ 333/511]
+2026-09-14 17:30:23  ERROR      💥  Groupon India: 'careers_url'
+2026-09-14 17:30:26  INFO     [ 334/511]
+2026-09-14 17:30:26  ERROR      💥  Hashnode: 'careers_url'
+2026-09-14 17:30:27  INFO     [ 335/511]
+2026-09-14 17:30:27  ERROR      💥  IdeaForge: 'careers_url'
+2026-09-14 17:30:30  INFO     [ 336/511]
+2026-09-14 17:30:30  ERROR      💥  Infor India: 'careers_url'
+2026-09-14 17:30:32  INFO     [ 337/511]
+2026-09-14 17:30:32  ERROR      💥  Informatica India: 'careers_url'
+2026-09-14 17:30:35  INFO     [ 338/511]
+2026-09-14 17:30:35  ERROR      💥  iQuanti: 'careers_url'
+2026-09-14 17:30:38  INFO     [ 339/511]
+2026-09-14 17:30:38  ERROR      💥  Jar: 'careers_url'
+2026-09-14 17:30:39  INFO     [ 340/511]
+2026-09-14 17:30:39  ERROR      💥  JM Financial: 'careers_url'
+2026-09-14 17:30:42  INFO     [ 341/511]
+2026-09-14 17:30:42  ERROR      💥  Kantar India: 'careers_url'
+2026-09-14 17:30:44  INFO     [ 342/511]
+2026-09-14 17:30:44  ERROR      💥  Leap Finance: 'careers_url'
+2026-09-14 17:30:46  INFO     [ 343/511]
+2026-09-14 17:30:46  ERROR      💥  Level AI: 'careers_url'
+2026-09-14 17:30:48  INFO     [ 344/511]
+2026-09-14 17:30:48  ERROR      💥  LogicMonitor India: 'careers_url'
+2026-09-14 17:30:50  INFO     [ 345/511]
+2026-09-14 17:30:50  ERROR      💥  Magicpin: 'careers_url'
+2026-09-14 17:30:52  INFO     [ 346/511]
+2026-09-14 17:30:52  ERROR      💥  MathWorks India: 'careers_url'
+2026-09-14 17:30:54  INFO     [ 347/511]
+2026-09-14 17:30:54  ERROR      💥  MAQ Software: 'careers_url'
+2026-09-14 17:30:55  INFO     [ 348/511]
+2026-09-14 17:30:55  ERROR      💥  Ocrolus India: 'careers_url'
+2026-09-14 17:30:58  INFO     [ 349/511]
+2026-09-14 17:30:58  ERROR      💥  OnePlus India: 'careers_url'
+2026-09-14 17:31:00  INFO     [ 350/511]
+2026-09-14 17:31:00  ERROR      💥  Polygon Technology: 'careers_url'
+2026-09-14 17:31:01  INFO     [ 351/511]
+2026-09-14 17:31:01  ERROR      💥  Practo: 'careers_url'
+2026-09-14 17:31:04  INFO     [ 352/511]
+2026-09-14 17:31:04  ERROR      💥  Providence Healthcare India: 'careers_url'
+2026-09-14 17:31:07  INFO     [ 353/511]
+2026-09-14 17:31:07  ERROR      💥  Rivigo: 'careers_url'
+2026-09-14 17:31:09  INFO     [ 354/511]
+2026-09-14 17:31:09  ERROR      💥  SalaryBox: 'careers_url'
+2026-09-14 17:31:12  INFO     [ 355/511]
+2026-09-14 17:31:12  ERROR      💥  Shiprocket: 'careers_url'
+2026-09-14 17:31:14  INFO     [ 356/511]
+2026-09-14 17:31:14  ERROR      💥  Shipsy: 'careers_url'
+2026-09-14 17:31:17  INFO     [ 357/511]
+2026-09-14 17:31:17  ERROR      💥  Siemens Healthineers India: 'careers_url'
+2026-09-14 17:31:20  INFO     [ 358/511]
+2026-09-14 17:31:20  ERROR      💥  Sureify India: 'careers_url'
+2026-09-14 17:31:21  INFO     [ 359/511]
+2026-09-14 17:31:21  ERROR      💥  Treebo Hotels: 'careers_url'
+2026-09-14 17:31:22  INFO     [ 360/511]
+2026-09-14 17:31:22  ERROR      💥  Unicommerce: 'careers_url'
+2026-09-14 17:31:24  INFO     [ 361/511]
+2026-09-14 17:31:24  ERROR      💥  Vogo: 'careers_url'
+2026-09-14 17:31:26  INFO     [ 362/511]
+2026-09-14 17:31:26  ERROR      💥  247.ai: 'careers_url'
+2026-09-14 17:31:29  INFO     [ 363/511]
+2026-09-14 17:31:29  ERROR      💥  3i Infotech: 'careers_url'
+2026-09-14 17:31:31  INFO     [ 364/511]
+2026-09-14 17:31:31  ERROR      💥  Tech Mahindra: 'careers_url'
+2026-09-14 17:31:33  INFO     [ 365/511]
+2026-09-14 17:31:33  ERROR      💥  Hexaware Technologies: 'careers_url'
+2026-09-14 17:31:34  INFO     [ 366/511]
+2026-09-14 17:31:34  ERROR      💥  KPIT Technologies: 'careers_url'
+2026-09-14 17:31:35  INFO     [ 367/511]
+2026-09-14 17:31:35  ERROR      💥  Sasken Technologies: 'careers_url'
+2026-09-14 17:31:36  INFO     [ 368/511]
+2026-09-14 17:31:36  ERROR      💥  Ather Energy: 'careers_url'
+2026-09-14 17:31:39  INFO     [ 369/511]
+2026-09-14 17:31:39  ERROR      💥  Rapido: 'careers_url'
+2026-09-14 17:31:41  INFO     [ 370/511]
+2026-09-14 17:31:41  ERROR      💥  boAt Lifestyle: 'careers_url'
+2026-09-14 17:31:44  INFO     [ 371/511]
+2026-09-14 17:31:44  ERROR      💥  PayU India: 'careers_url'
+2026-09-14 17:31:46  INFO     [ 372/511]
+2026-09-14 17:31:46  ERROR      💥  BillDesk: 'careers_url'
+2026-09-14 17:31:47  INFO     [ 373/511]
+2026-09-14 17:31:47  ERROR      💥  Policybazaar: 'careers_url'
+2026-09-14 17:31:49  INFO     [ 374/511]
+2026-09-14 17:31:49  ERROR      💥  Darwinbox: 'careers_url'
+2026-09-14 17:31:51  INFO     [ 375/511]
+2026-09-14 17:31:51  ERROR      💥  Datadog India: 'careers_url'
+2026-09-14 17:31:52  INFO     [ 376/511]
+2026-09-14 17:31:52  ERROR      💥  New Relic India: 'careers_url'
+2026-09-14 17:31:55  INFO     [ 377/511]
+2026-09-14 17:31:55  ERROR      💥  PagerDuty India: 'careers_url'
+2026-09-14 17:31:57  INFO     [ 378/511]
+2026-09-14 17:31:57  ERROR      💥  HashiCorp India: 'careers_url'
+2026-09-14 17:31:58  INFO     [ 379/511]
+2026-09-14 17:31:58  ERROR      💥  JFrog India: 'careers_url'
+2026-09-14 17:32:01  INFO     [ 380/511]
+2026-09-14 17:32:01  ERROR      💥  Mu Sigma: 'careers_url'
+2026-09-14 17:32:03  INFO     [ 381/511]
+2026-09-14 17:32:03  ERROR      💥  LatentView Analytics: 'careers_url'
+2026-09-14 17:32:05  INFO     [ 382/511]
+2026-09-14 17:32:05  ERROR      💥  Tredence: 'careers_url'
+2026-09-14 17:32:08  INFO     [ 383/511]
+2026-09-14 17:32:08  ERROR      💥  Fi Money: 'careers_url'
+2026-09-14 17:32:09  INFO     [ 384/511]
+2026-09-14 17:32:09  ERROR      💥  INDmoney: 'careers_url'
+2026-09-14 17:32:11  INFO     [ 385/511]
+2026-09-14 17:32:11  ERROR      💥  Paisabazaar: 'careers_url'
+2026-09-14 17:32:14  INFO     [ 386/511]
+2026-09-14 17:32:14  ERROR      💥  NoBroker: 'careers_url'
+2026-09-14 17:32:16  INFO     [ 387/511]
+2026-09-14 17:32:16  ERROR      💥  InfoEdge (Naukri): 'careers_url'
+2026-09-14 17:32:18  INFO     [ 388/511]
+2026-09-14 17:32:18  ERROR      💥  MagicBricks: 'careers_url'
+2026-09-14 17:32:20  INFO     [ 389/511]
+2026-09-14 17:32:20  ERROR      💥  Pepperfry: 'careers_url'
+2026-09-14 17:32:21  INFO     [ 390/511]
+2026-09-14 17:32:21  ERROR      💥  Livspace: 'careers_url'
+2026-09-14 17:32:23  INFO     [ 391/511]
+2026-09-14 17:32:23  ERROR      💥  WakeFit: 'careers_url'
+2026-09-14 17:32:25  INFO     [ 392/511]
+2026-09-14 17:32:25  ERROR      💥  Bajaj Finserv: 'careers_url'
+2026-09-14 17:32:28  INFO     [ 393/511]
+2026-09-14 17:32:28  ERROR      💥  ICICI Bank: 'careers_url'
+2026-09-14 17:32:31  INFO     [ 394/511]
+2026-09-14 17:32:31  ERROR      💥  Ola Electric: 'careers_url'
+2026-09-14 17:32:33  INFO     [ 395/511]
+2026-09-14 17:32:33  ERROR      💥  Tata Elxsi: 'careers_url'
+2026-09-14 17:32:34  INFO     [ 396/511]
+2026-09-14 17:32:34  ERROR      💥  Tata Technologies: 'careers_url'
+2026-09-14 17:32:37  INFO     [ 397/511]
+2026-09-14 17:32:37  ERROR      💥  L&T Technology Services: 'careers_url'
+2026-09-14 17:32:40  INFO     [ 398/511]
+2026-09-14 17:32:40  ERROR      💥  Quest Global: 'careers_url'
+2026-09-14 17:32:42  INFO     [ 399/511]
+2026-09-14 17:32:42  ERROR      💥  HARMAN International India: 'careers_url'
+2026-09-14 17:32:44  INFO     [ 400/511]
+2026-09-14 17:32:44  ERROR      💥  Emerson India: 'careers_url'
+2026-09-14 17:32:45  INFO     [ 401/511]
+2026-09-14 17:32:45  ERROR      💥  Fujitsu India: 'careers_url'
+2026-09-14 17:32:47  INFO     [ 402/511]
+2026-09-14 17:32:47  ERROR      💥  IndiGo: 'careers_url'
+2026-09-14 17:32:48  INFO     [ 403/511]
+2026-09-14 17:32:48  ERROR      💥  Cleartrip: 'careers_url'
+2026-09-14 17:32:49  INFO     [ 404/511]
+2026-09-14 17:32:49  ERROR      💥  HSBC India: 'careers_url'
+2026-09-14 17:32:52  INFO     [ 405/511]
+2026-09-14 17:32:52  ERROR      💥  Standard Chartered India: 'careers_url'
+2026-09-14 17:32:55  INFO     [ 406/511]
+2026-09-14 17:32:55  ERROR      💥  UBS India: 'careers_url'
+2026-09-14 17:32:56  INFO     [ 407/511]
+2026-09-14 17:32:56  ERROR      💥  Nomura India: 'careers_url'
+2026-09-14 17:32:59  INFO     [ 408/511]
+2026-09-14 17:32:59  ERROR      💥  Amdocs India: 'careers_url'
+2026-09-14 17:33:01  INFO     [ 409/511]
+2026-09-14 17:33:01  ERROR      💥  Accolite Software: 'careers_url'
+2026-09-14 17:33:03  INFO     [ 410/511]
+2026-09-14 17:33:03  ERROR      💥  Zendesk India: 'careers_url'
+2026-09-14 17:33:06  INFO     [ 411/511]
+2026-09-14 17:33:06  ERROR      💥  Splunk India: 'careers_url'
+2026-09-14 17:33:07  INFO     [ 412/511]
+2026-09-14 17:33:07  ERROR      💥  Elastic India: 'careers_url'
+2026-09-14 17:33:08  INFO     [ 413/511]
+2026-09-14 17:33:08  ERROR      💥  Veeva Systems India: 'careers_url'
+2026-09-14 17:33:11  INFO     [ 414/511]
+2026-09-14 17:33:11  ERROR      💥  BYJU'S: 'careers_url'
+2026-09-14 17:33:13  INFO     [ 415/511]
+2026-09-14 17:33:13  ERROR      💥  Physics Wallah: 'careers_url'
+2026-09-14 17:33:15  INFO     [ 416/511]
+2026-09-14 17:33:15  ERROR      💥  Nazara Games: 'careers_url'
+2026-09-14 17:33:17  INFO     [ 417/511]
+2026-09-14 17:33:17  ERROR      💥  Games24x7: 'careers_url'
+2026-09-14 17:33:19  INFO     [ 418/511]
+2026-09-14 17:33:19  ERROR      💥  Junglee Games: 'careers_url'
+2026-09-14 17:33:20  INFO     [ 419/511]
+2026-09-14 17:33:20  ERROR      💥  Shadowfax: 'careers_url'
+2026-09-14 17:33:21  INFO     [ 420/511]
+2026-09-14 17:33:21  ERROR      💥  Porter: 'careers_url'
+2026-09-14 17:33:24  INFO     [ 421/511]
+2026-09-14 17:33:24  ERROR      💥  Loadshare Networks: 'careers_url'
+2026-09-14 17:33:25  INFO     [ 422/511]
+2026-09-14 17:33:25  ERROR      💥  BlackBuck: 'careers_url'
+2026-09-14 17:33:26  INFO     [ 423/511]
+2026-09-14 17:33:26  ERROR      💥  Namma Yatri: 'careers_url'
+2026-09-14 17:33:29  INFO     [ 424/511]
+2026-09-14 17:33:29  ERROR      💥  NTT Data India: 'careers_url'
+2026-09-14 17:33:31  INFO     [ 425/511]
+2026-09-14 17:33:31  ERROR      💥  Societe Generale India: 'careers_url'
+2026-09-14 17:33:32  INFO     [ 426/511]
+2026-09-14 17:33:32  ERROR      💥  NIIT Technologies: 'careers_url'
+2026-09-14 17:33:35  INFO     [ 427/511]
+2026-09-14 17:33:35  ERROR      💥  FIS India: 'careers_url'
+2026-09-14 17:33:37  INFO     [ 428/511]
+2026-09-14 17:33:37  ERROR      💥  Broadridge India: 'careers_url'
+2026-09-14 17:33:39  INFO     [ 429/511]
+2026-09-14 17:33:39  ERROR      💥  BikeWale: 'careers_url'
+2026-09-14 17:33:42  INFO     [ 430/511]
+2026-09-14 17:33:42  ERROR      💥  Droom: 'careers_url'
+2026-09-14 17:33:43  INFO     [ 431/511]
+2026-09-14 17:33:43  ERROR      💥  Keka HR: 'careers_url'
+2026-09-14 17:33:45  INFO     [ 432/511]
+2026-09-14 17:33:45  ERROR      💥  Embibe: 'careers_url'
+2026-09-14 17:33:48  INFO     [ 433/511]
+2026-09-14 17:33:48  ERROR      💥  Doubtnut: 'careers_url'
+2026-09-14 17:33:51  INFO     [ 434/511]
+2026-09-14 17:33:51  ERROR      💥  Verizon India: 'careers_url'
+2026-09-14 17:33:53  INFO     [ 435/511]
+2026-09-14 17:33:53  ERROR      💥  Caterpillar India: 'careers_url'
+2026-09-14 17:33:56  INFO     [ 436/511]
+2026-09-14 17:33:56  ERROR      💥  Syntel India: 'careers_url'
+2026-09-14 17:33:59  INFO     [ 437/511]
+2026-09-14 17:33:59  ERROR      💥  S&P Global India: 'careers_url'
+2026-09-14 17:34:01  INFO     [ 438/511]
+2026-09-14 17:34:01  ERROR      💥  Moody's India: 'careers_url'
+2026-09-14 17:34:04  INFO     [ 439/511]
+2026-09-14 17:34:04  ERROR      💥  NICE Systems India: 'careers_url'
+2026-09-14 17:34:05  INFO     [ 440/511]
+2026-09-14 17:34:05  ERROR      💥  Akamai India: 'careers_url'
+2026-09-14 17:34:08  INFO     [ 441/511]
+2026-09-14 17:34:08  ERROR      💥  Zscaler India: 'careers_url'
+2026-09-14 17:34:09  INFO     [ 442/511]
+2026-09-14 17:34:09  ERROR      💥  Fortinet India: 'careers_url'
+2026-09-14 17:34:12  INFO     [ 443/511]
+2026-09-14 17:34:12  ERROR      💥  SentinelOne India: 'careers_url'
+2026-09-14 17:34:13  INFO     [ 444/511]
+2026-09-14 17:34:13  ERROR      💥  Rapid7 India: 'careers_url'
+2026-09-14 17:34:15  INFO     [ 445/511]
+2026-09-14 17:34:15  ERROR      💥  CloudBees India: 'careers_url'
+2026-09-14 17:34:16  INFO     [ 446/511]
+2026-09-14 17:34:16  ERROR      💥  Sourcegraph: 'careers_url'
+2026-09-14 17:34:18  INFO     [ 447/511]
+2026-09-14 17:34:18  ERROR      💥  MountBlue Technologies: 'careers_url'
+2026-09-14 17:34:21  INFO     [ 448/511]
+2026-09-14 17:34:21  ERROR      💥  GlobalLogic India: 'careers_url'
+2026-09-14 17:34:23  INFO     [ 449/511]
+2026-09-14 17:34:23  ERROR      💥  CRISIL: 'careers_url'
+2026-09-14 17:34:26  INFO     [ 450/511]
+2026-09-14 17:34:26  ERROR      💥  Ciena India: 'careers_url'
+2026-09-14 17:34:27  INFO     [ 451/511]
+2026-09-14 17:34:27  ERROR      💥  Vonage India: 'careers_url'
+2026-09-14 17:34:29  INFO     [ 452/511]
+2026-09-14 17:34:29  ERROR      💥  Trimble India: 'careers_url'
+2026-09-14 17:34:31  INFO     [ 453/511]
+2026-09-14 17:34:31  ERROR      💥  Pitney Bowes India: 'careers_url'
+2026-09-14 17:34:32  INFO     [ 454/511]
+2026-09-14 17:34:32  ERROR      💥  Altimetrik India: 'careers_url'
+2026-09-14 17:34:33  INFO     [ 455/511]
+2026-09-14 17:34:33  ERROR      💥  Tata 1mg: 'careers_url'
+2026-09-14 17:34:36  INFO     [ 456/511]
+2026-09-14 17:34:36  ERROR      💥  Netmeds: 'careers_url'
+2026-09-14 17:34:37  INFO     [ 457/511]
+2026-09-14 17:34:37  ERROR      💥  Medlife: 'careers_url'
+2026-09-14 17:34:39  INFO     [ 458/511]
+2026-09-14 17:34:39  ERROR      💥  Pristyn Care: 'careers_url'
+2026-09-14 17:34:41  INFO     [ 459/511]
+2026-09-14 17:34:41  ERROR      💥  Plum: 'careers_url'
+2026-09-14 17:34:43  INFO     [ 460/511]
+2026-09-14 17:34:43  ERROR      💥  OfBusiness: 'careers_url'
+2026-09-14 17:34:45  INFO     [ 461/511]
+2026-09-14 17:34:45  ERROR      💥  Vedas Intelligence: 'careers_url'
+2026-09-14 17:34:48  INFO     [ 462/511]
+2026-09-14 17:34:48  ERROR      💥  Publicis.Sapient: 'careers_url'
+2026-09-14 17:34:51  INFO     [ 463/511]
+2026-09-14 17:34:51  ERROR      💥  Numberz: 'careers_url'
+2026-09-14 17:34:53  INFO     [ 464/511]
+2026-09-14 17:34:53  ERROR      💥  Shopee India: 'careers_url'
+2026-09-14 17:34:56  INFO     [ 465/511]
+2026-09-14 17:34:56  ERROR      💥  Valuefy: 'careers_url'
+2026-09-14 17:34:59  INFO     [ 466/511]
+2026-09-14 17:34:59  ERROR      💥  Wooqer: 'careers_url'
+2026-09-14 17:35:00  INFO     [ 467/511]
+2026-09-14 17:35:00  ERROR      💥  Topcoder: 'careers_url'
+2026-09-14 17:35:02  INFO     [ 468/511]
+2026-09-14 17:35:02  ERROR      💥  Cleartax: 'careers_url'
+2026-09-14 17:35:04  INFO     [ 469/511]
+2026-09-14 17:35:04  ERROR      💥  Razorthink: 'careers_url'
+2026-09-14 17:35:06  INFO     [ 470/511]
+2026-09-14 17:35:06  ERROR      💥  Mindtree: 'careers_url'
+2026-09-14 17:35:08  INFO     [ 471/511]
+2026-09-14 17:35:08  ERROR      💥  Netcracker India: 'careers_url'
+2026-09-14 17:35:11  INFO     [ 472/511]
+2026-09-14 17:35:11  ERROR      💥  Sophos India: 'careers_url'
+2026-09-14 17:35:13  INFO     [ 473/511]
+2026-09-14 17:35:13  ERROR      💥  Limeroad: 'careers_url'
+2026-09-14 17:35:16  INFO     [ 474/511]
+2026-09-14 17:35:16  ERROR      💥  Keka: 'careers_url'
+2026-09-14 17:35:17  INFO     [ 475/511]
+2026-09-14 17:35:17  ERROR      💥  Capgemini Engineering: 'careers_url'
+2026-09-14 17:35:19  INFO     [ 476/511]
+2026-09-14 17:35:19  ERROR      💥  Zopper: 'careers_url'
+2026-09-14 17:35:22  INFO     [ 477/511]
+2026-09-14 17:35:22  ERROR      💥  Lohum: 'careers_url'
+2026-09-14 17:35:24  INFO     [ 478/511]
+2026-09-14 17:35:24  ERROR      💥  Marqeta India: 'careers_url'
+2026-09-14 17:35:26  INFO     [ 479/511]
+2026-09-14 17:35:26  ERROR      💥  Veritas Technologies India: 'careers_url'
+2026-09-14 17:35:29  INFO     [ 480/511]
+2026-09-14 17:35:29  ERROR      💥  Ellipsis Earth: 'careers_url'
+2026-09-14 17:35:32  INFO     [ 481/511]
+2026-09-14 17:35:32  ERROR      💥  Squarepoint Capital: 'careers_url'
+2026-09-14 17:35:34  INFO     [ 482/511]
+2026-09-14 17:35:34  ERROR      💥  Altair India: 'careers_url'
+2026-09-14 17:35:36  INFO     [ 483/511]
+2026-09-14 17:35:36  ERROR      💥  Kellton Tech: 'careers_url'
+2026-09-14 17:35:38  INFO     [ 484/511]
+2026-09-14 17:35:38  ERROR      💥  Persistent Cloud: 'careers_url'
+2026-09-14 17:35:40  INFO     [ 485/511]
+2026-09-14 17:35:40  ERROR      💥  BrowserStack Enterprise: 'careers_url'
+2026-09-14 17:35:43  INFO     [ 486/511]
+2026-09-14 17:35:43  ERROR      💥  Exotel: 'careers_url'
+2026-09-14 17:35:46  INFO     [ 487/511]
+2026-09-14 17:35:46  ERROR      💥  Geonode: 'careers_url'
+2026-09-14 17:35:49  INFO     [ 488/511]
+2026-09-14 17:35:49  ERROR      💥  Appsmith: 'careers_url'
+2026-09-14 17:35:52  INFO     [ 489/511]
+2026-09-14 17:35:52  ERROR      💥  Sprinto: 'careers_url'
+2026-09-14 17:35:53  INFO     [ 490/511]
+2026-09-14 17:35:53  ERROR      💥  Zuddl: 'careers_url'
+2026-09-14 17:35:55  INFO     [ 491/511]
+2026-09-14 17:35:55  ERROR      💥  Facilio: 'careers_url'
+2026-09-14 17:35:57  INFO     [ 492/511]
+2026-09-14 17:35:57  ERROR      💥  Locus: 'careers_url'
+2026-09-14 17:35:59  INFO     [ 493/511]
+2026-09-14 17:35:59  ERROR      💥  Ola Krutrim: 'careers_url'
+2026-09-14 17:36:01  INFO     [ 494/511]
+2026-09-14 17:36:01  ERROR      💥  Sarvam AI: 'careers_url'
+2026-09-14 17:36:02  INFO     [ 495/511]
+2026-09-14 17:36:02  ERROR      💥  Myndfull: 'careers_url'
+2026-09-14 17:36:04  INFO     [ 496/511]
+2026-09-14 17:36:04  ERROR      💥  Scaler Academy: 'careers_url'
+2026-09-14 17:36:07  INFO     [ 497/511]
+2026-09-14 17:36:07  ERROR      💥  InterviewBit: 'careers_url'
+2026-09-14 17:36:10  INFO     [ 498/511]
+2026-09-14 17:36:10  ERROR      💥  Wingify: 'careers_url'
+2026-09-14 17:36:11  INFO     [ 499/511]
+2026-09-14 17:36:11  ERROR      💥  Inshorts: 'careers_url'
+2026-09-14 17:36:14  INFO     [ 500/511]
+2026-09-14 17:36:14  ERROR      💥  SharePoint India: 'careers_url'
+2026-09-14 17:36:15  INFO     [ 501/511]
+2026-09-14 17:36:15  ERROR      💥  Sociomantic Labs: 'careers_url'
+2026-09-14 17:36:17  INFO     [ 502/511]
+2026-09-14 17:36:17  ERROR      💥  Perfios: 'careers_url'
+2026-09-14 17:36:20  INFO     [ 503/511]
+2026-09-14 17:36:20  ERROR      💥  Setu: 'careers_url'
+2026-09-14 17:36:21  INFO     [ 504/511]
+2026-09-14 17:36:21  ERROR      💥  Jodo: 'careers_url'
+2026-09-14 17:36:23  INFO     [ 505/511]
+2026-09-14 17:36:23  ERROR      💥  Tata Neu: 'careers_url'
+2026-09-14 17:36:26  INFO     [ 506/511]
+2026-09-14 17:36:26  ERROR      💥  WedMeGood: 'careers_url'
+2026-09-14 17:36:28  INFO     [ 507/511]
+2026-09-14 17:36:28  ERROR      💥  Cogoport: 'careers_url'
+2026-09-14 17:36:30  INFO     [ 508/511]
+2026-09-14 17:36:30  ERROR      💥  Signzy: 'careers_url'
+2026-09-14 17:36:32  INFO     [ 509/511]
+2026-09-14 17:36:32  ERROR      💥  Spenmo: 'careers_url'
+2026-09-14 17:36:34  INFO     [ 510/511]
+2026-09-14 17:36:34  ERROR      💥  Hyperface: 'careers_url'
+2026-09-14 17:36:35  INFO     [ 511/511]
+2026-09-14 17:36:35  ERROR      💥  Epsilon India: 'careers_url'
+2026-09-14 17:36:35  INFO     ----------------------------------------------------------------
+2026-09-14 17:36:35  INFO     Done in 17.8 min | New: 0 | Errors: 511 | Dropped companies: 0
+2026-09-14 17:36:35  INFO     CSE queries used today: 0/90
+2026-09-14 17:36:35  INFO     ================================================================
+2026-09-14 17:36:35  INFO     No new jobs — email skipped.
